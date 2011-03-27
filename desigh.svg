@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1200"
+   height="1000"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.0 r9654"
+   sodipodi:docname="desigh.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3918">
+      <stop
+         style="stop-color:#1b81b4;stop-opacity:1;"
+         offset="0"
+         id="stop3920" />
+      <stop
+         style="stop-color:#78c5eb;stop-opacity:1;"
+         offset="1"
+         id="stop3922" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3134">
+      <stop
+         style="stop-color:#dadada;stop-opacity:1;"
+         offset="0"
+         id="stop3136" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop3138" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3015">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3017" />
+      <stop
+         style="stop-color:#2f2f2f;stop-opacity:1;"
+         offset="1"
+         id="stop3019" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3015"
+       id="linearGradient3021"
+       x1="575.78699"
+       y1="67.636765"
+       x2="576.552"
+       y2="143.21257"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3134"
+       id="linearGradient3140"
+       x1="700"
+       y1="-9.9999962"
+       x2="694.28571"
+       y2="137.14285"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-8.0050731,176.39083)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3918"
+       id="linearGradient3924"
+       x1="303.42697"
+       y1="170.11302"
+       x2="303.21091"
+       y2="123.81009"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.4238505,0,0,0.61871842,-60.946098,110.91638)" />
+    <filter
+       inkscape:collect="always"
+       id="filter4082">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="10.511233"
+         id="feGaussianBlur4084" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="781.47028"
+     inkscape:cy="801.3566"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="665"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       orientation="0,1"
+       position="-309.10668,1256.6298"
+       id="guide4101" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-52.362183)">
+    <rect
+       style="fill:url(#linearGradient3140);fill-opacity:1;stroke:none"
+       id="rect3132"
+       width="1221.4286"
+       height="444.28571"
+       x="4.8520589"
+       y="144.96227"
+       inkscape:export-filename="/var/www/dellsystem/background.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#888888;fill-opacity:1;stroke:none;filter:url(#filter4082)"
+       id="rect3926-5"
+       width="841.42859"
+       height="317.14285"
+       x="112.60564"
+       y="148.29817" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect3926"
+       width="841.42859"
+       height="317.14285"
+       x="112.85715"
+       y="146.93362" />
+    <rect
+       style="opacity:0.79918032999999999;fill:url(#linearGradient3021);fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect3013"
+       width="1195.7142"
+       height="95.714287"
+       x="6.8119562e-08"
+       y="52.362183"
+       inkscape:export-filename="/var/www/dellsystem/header.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2985-1"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#35a8e1;fill-opacity:1;stroke:none;font-family:Museo Sans;-inkscape-font-specification:Museo Sans"
+       transform="translate(112.30023,57.648554)"><flowRegion
+         id="flowRegion2987-7"><rect
+           id="rect2989-7"
+           width="1211.4286"
+           height="222.85715"
+           x="11.428572"
+           y="20"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#35a8e1;fill-opacity:1;font-family:Museo Sans;-inkscape-font-specification:Museo Sans" /></flowRegion><flowPara
+         id="flowPara2991-1"><flowSpan
+   style="fill:#ffffff;fill-opacity:1"
+   id="flowSpan4099">dellsystem</flowSpan>@github</flowPara></flowRoot>    <rect
+       style="fill:url(#linearGradient3924);fill-opacity:1;stroke:none"
+       id="rect3914"
+       width="500"
+       height="40"
+       x="124.59538"
+       y="180.88483" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3023"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Museo Sans;-inkscape-font-specification:Museo Sans"
+       transform="translate(66.939803,26.362183)"><flowRegion
+         id="flowRegion3025"><rect
+           id="rect3027"
+           width="661.42859"
+           height="81.428574"
+           x="72.85714"
+           y="160"
+           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Museo Sans;-inkscape-font-specification:Museo Sans" /></flowRegion><flowPara
+         id="flowPara3029">home</flowPara></flowRoot>    <flowRoot
+       transform="translate(1218.516,142.08794)"
+       xml:space="preserve"
+       id="flowRoot3023-3"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"><flowRegion
+         id="flowRegion3025-6"><rect
+           id="rect3027-7"
+           width="661.42859"
+           height="311.42859"
+           x="72.85714"
+           y="160"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans" /></flowRegion><flowPara
+         id="flowPara3068">about page:</flowPara><flowPara
+         id="flowPara4046" /><flowPara
+         id="flowPara4048">facebook</flowPara><flowPara
+         id="flowPara4050">gmail</flowPara><flowPara
+         id="flowPara4054">IRC nick</flowPara><flowPara
+         id="flowPara4058">last.fm</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3070"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:none;font-family:Museo Sans;-inkscape-font-specification:Museo Sans"
+       transform="translate(-84.852814,33.169285)"><flowRegion
+         id="flowRegion3072"><rect
+           id="rect3074"
+           width="401.42856"
+           height="57.142857"
+           x="725.71429"
+           y="50"
+           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#cccccc;font-family:Museo Sans;-inkscape-font-specification:Museo Sans" /></flowRegion><flowPara
+         id="flowPara3076">HOME</flowPara></flowRoot>    <flowRoot
+       transform="translate(17.03134,30.406695)"
+       xml:space="preserve"
+       id="flowRoot3070-2"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:none;font-family:Museo Sans;-inkscape-font-specification:Museo Sans"><flowRegion
+         id="flowRegion3072-8"><rect
+           id="rect3074-2"
+           width="401.42856"
+           height="57.142857"
+           x="725.71429"
+           y="50"
+           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#cccccc;font-family:Museo Sans;-inkscape-font-specification:Museo Sans" /></flowRegion><flowPara
+         id="flowPara3076-7">ABOUT</flowPara></flowRoot>    <flowRoot
+       transform="translate(123.31467,37.896181)"
+       xml:space="preserve"
+       id="flowRoot3070-2-6"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:none;font-family:Museo Sans;-inkscape-font-specification:Museo Sans"><flowRegion
+         id="flowRegion3072-8-0"><rect
+           id="rect3074-2-9"
+           width="401.42856"
+           height="57.142857"
+           x="725.71429"
+           y="50"
+           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#cccccc;font-family:Museo Sans;-inkscape-font-specification:Museo Sans" /></flowRegion><flowPara
+         id="flowPara3076-7-0">GITHUB</flowPara></flowRoot>    <flowRoot
+       transform="translate(55.87019,80.978983)"
+       xml:space="preserve"
+       id="flowRoot3023-3-5"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"><flowRegion
+         id="flowRegion3025-6-9"><rect
+           id="rect3027-7-2"
+           width="661.42859"
+           height="311.42859"
+           x="72.85714"
+           y="160"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans" /></flowRegion><flowPara
+         id="flowPara3068-8">welcome to my github page. there is almost nothing here right now. that is all.</flowPara><flowPara
+         id="flowPara3893" /><flowPara
+         id="flowPara3895">links to related things:</flowPara><flowPara
+         id="flowPara3897">www.wikinotes.ca</flowPara><flowPara
+         id="flowPara3899">http://www.ssuns.org</flowPara><flowPara
+         id="flowPara3901">github diva page</flowPara><flowPara
+         id="flowPara3903">phpBB profile</flowPara><flowPara
+         id="flowPara3905">socs account</flowPara></flowRoot>    <flowRoot
+       transform="translate(384.4242,330.332)"
+       xml:space="preserve"
+       id="flowRoot3023-3-6"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"><flowRegion
+         id="flowRegion3025-6-2"><rect
+           id="rect3027-7-6"
+           width="661.42859"
+           height="311.42859"
+           x="72.85714"
+           y="160"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#4d4d4d;font-family:Sans;-inkscape-font-specification:Sans" /></flowRegion><flowPara
+         id="flowPara3068-86">2011. nothing to see here</flowPara></flowRoot>  </g>
+</svg>
