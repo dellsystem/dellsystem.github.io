@@ -1,8 +1,36 @@
-<html>
-<head>
-	<title>dellsystem</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+	<title>dellsystem@github :: {{ page.title }}</title>
+	<link href="style.css" media="screen" rel="stylesheet" type="text/css" />
 </head>
 
 <body>
+	<div id="header">
+		<div class="wrap">
+		<span class="title">dellsystem</span><span class="title-blue">@github</span>
+		<ul id="menu">
+			<li><a href="index">Home</a></li>
+			<li><a href="about">About</a></li>
+			<li><a href="http://www.github.com/dellsystem">Github</a></li>
+		</ul>
+		</div>
+	</div>
+	<div id="body">
+		<div id="content-body">
+			<div id="real-content">
+				<br />
+				<div id="content-title">{{ page.title }}</div>
+				{{ content }}
+			</div>
+		</div>
+		<div id="content-footer">
+		</div>
+		<div id="footer">nothing to see here, move along
+		</div>
+	</div>
 </body>
 </html>
