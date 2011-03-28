@@ -67,6 +67,8 @@ body {
 #real-content {
 	margin: 0 auto;
 	width: 920px;
+	font-size: 0.9em;
+	line-height: 1.2em;
 }
 
 #content-footer {
@@ -74,11 +76,6 @@ body {
 	margin: 0 auto;
 	background: url(content-footer.png) no-repeat;
 	height: 35px;
-}
-
-p {
-	font-size: 0.9em;
-	line-height: 1.2em;
 }
 
 #footer {
