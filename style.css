@@ -95,3 +95,21 @@ p {
 	line-height: 40px;
 	padding-left: 10px;
 }
+
+/* used for most title things (other than the actual title) */
+h2 {
+	font-size: 1.2em;
+	font-weight: bold;
+	border-bottom: #000000 solid 1px;
+}
+
+/* For prettier links */
+#real-content a {
+	color: #575757;
+	text-decoration: none;
+}
+
+#real-content a:hover {
+	color: #000000;
+	border-bottom: #000000 solid 1px;
+}
