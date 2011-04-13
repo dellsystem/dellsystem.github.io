@@ -1,12 +1,24 @@
 /* A font by Jos Buivenga (exljbris) -> http://www.exljbris.com */
 /* For nicer fonts.*/
 @font-face {
-    font-family: 'Museo Sans';
-    src: url('museosans_500-webfont.eot');
-    src: url('museosans_500-webfont.eot?iefix') format('eot'),
-         url('museosans_500-webfont.woff') format('woff'),
-         url('museosans_500-webfont.ttf') format('truetype'),
-         url('museosans_500-webfont.svg#webfontoSShQmJK') format('svg');
+    font-family: 'museo';
+    src: url('fonts/museosans_500-webfont.eot');
+    src: url('fonts/museosans_500-webfont.eot?iefix') format('eot'),
+         url('fonts/museosans_500-webfont.woff') format('woff'),
+         url('fonts/museosans_500-webfont.ttf') format('truetype'),
+         url('fonts/museosans_500-webfont.svg#webfontoSShQmJK') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Quicksand - find it here http://www.typophile.com/node/50437#comment-346232 <3 */
+@font-face {
+	font-family: 'quicksand';
+    src: url('fonts/Quicksand_Book-webfont.eot');
+    src: url('fonts/Quicksand_Book-webfont.eot?#iefix') format('eot'),
+         url('fonts/Quicksand_Book-webfont.woff') format('woff'),
+         url('fonts/Quicksand_Book-webfont.ttf') format('truetype'),
+         url('fonts/Quicksand_Book-webfont.svg#webfontQNKLE8Me') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -22,7 +34,7 @@ body {
 	width: 100%;
 	height: 96px;
 	padding-top: 35px;
-	font-family: 'Museo Sans'; /* for everything in the header, only */
+	font-family: 'museo'; /* for everything in the header, only */
 }
 
 .title, .title-blue {
@@ -31,14 +43,18 @@ body {
 }
 
 .title {
-	color: #FFFFFF;
+	color: #DFDFDF;
 }
 .title:hover {
-    /* fuck it do stuff later */ 
+	color: #FFFFFF;
 }
 
 .title-blue {
 	color: #35A8E1;
+}
+
+.title-blue:hover {
+	color: #73B3E1;
 }
 
 /* for the 960 pixels layout */
@@ -79,21 +95,22 @@ body {
 	margin: 0 auto;
 	width: 920px;
 	min-height: 300px;
-    font-size: 0.9em;
+    font-size: 1.0em;
     background-color: #FFF;
     -moz-box-shadow: 0 0 20px #B8B8B8;
     -webkit-box-shadow: 0 0 20px #B8B8B8;
     box-shadow: 0 0 20px #B8B8B8;
     line-height: 1.2em;
     padding: 20px 20px 0px 20px;
-    font-family: 'Museo Sans';
+    font-family: 'quicksand';
 }
 
 #footer {
     padding-top: 15px;
 	text-align: center;
 	color: #393939;
-	font-size: 0.8em;
+	font-size: 0.9em;
+	font-family: 'quicksand';
 }
 
 #content-title {
@@ -103,7 +120,7 @@ body {
 	font-size: 1.5em;
 	line-height: 40px;
 	padding-left: 10px;
-    font-family: 'Museo Sans';
+    font-family: 'museo';
     text-transform: uppercase;
 }
 
@@ -114,7 +131,7 @@ h2 {
 	border-bottom: #333333 dotted 1px;
     text-transform: lowercase;
     padding-bottom: 0.2em;
-    font-family: 'Museo Sans';
+    font-family: 'museo';
 }
 
 /* For prettier links */
