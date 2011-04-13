@@ -27,10 +27,14 @@ body {
 
 .title, .title-blue {
 	font-size: 2.5em;
+    text-decoration: none;
 }
 
 .title {
 	color: #FFFFFF;
+}
+.title:hover {
+    /* fuck it do stuff later */ 
 }
 
 .title-blue {
@@ -73,26 +77,20 @@ body {
 
 #content-body {
 	margin: 0 auto;
-	width: 1018px;
-	min-height: 300px;
-	background: url(content-body.png) repeat-y;
-}
-
-#real-content {
-	margin: 0 auto;
 	width: 920px;
-	font-size: 0.9em;
-	line-height: 1.2em;
-}
-
-#content-footer {
-	width: 1018px;
-	margin: 0 auto;
-	background: url(content-footer.png) no-repeat;
-	height: 35px;
+	min-height: 300px;
+    font-size: 0.9em;
+    background-color: #FFF;
+    -moz-box-shadow: 0 0 20px #B8B8B8;
+    -webkit-box-shadow: 0 0 20px #B8B8B8;
+    box-shadow: 0 0 20px #B8B8B8;
+    line-height: 1.2em;
+    padding: 20px 20px 0px 20px;
+    font-family: 'Museo Sans';
 }
 
 #footer {
+    padding-top: 15px;
 	text-align: center;
 	color: #393939;
 	font-size: 0.8em;
@@ -105,22 +103,27 @@ body {
 	font-size: 1.5em;
 	line-height: 40px;
 	padding-left: 10px;
+    font-family: 'Museo Sans';
+    text-transform: uppercase;
 }
 
 /* used for most title things (other than the actual title) */
 h2 {
-	font-size: 1.2em;
+	font-size: 1.5em;
 	font-weight: bold;
-	border-bottom: #000000 solid 1px;
+	border-bottom: #333333 dotted 1px;
+    text-transform: lowercase;
+    padding-bottom: 0.2em;
+    font-family: 'Museo Sans';
 }
 
 /* For prettier links */
-#real-content a {
+#content-body a {
 	color: #575757;
 	text-decoration: none;
 }
 
-#real-content a:hover {
+#content-body a:hover {
 	color: #000000;
 	border-bottom: #000000 solid 1px;
 }
