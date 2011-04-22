@@ -53,6 +53,7 @@ img {
 #body {
 	margin-top: -130px; /* counteract the padding-top: 50px and the header image height */
 	padding-bottom: 10px;
+    color: #000000;
 }
 
 /* work on the sticky footer issue later if necessary */
@@ -89,13 +90,12 @@ h2 {
 
 /* For prettier links in the body text */
 #body a {
-	color: #575757;
+	color: #E42217;
 	text-decoration: none;
 }
 
 #body a:hover {
-	color: #000000;
-	border-bottom: #000000 solid 1px;
+	border-bottom: #E42217 solid 1px;
 }
 
 /* for left-floating images */
