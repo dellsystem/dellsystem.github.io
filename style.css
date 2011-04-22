@@ -30,7 +30,7 @@ img {
 
 #menu li {
 	float: left;
-	padding-left: 15px;
+	padding-left: 15px;'OFL Sorts Mill Goudy TT'
 }
 
 #menu a {
@@ -51,12 +51,11 @@ img {
 
 /* for the regular content */
 #body {
-	height: 129px;
-	position: relative;
-	top: -130px; /* counteract the padding-top: 50px and the header image height */
+	margin-top: -130px; /* counteract the padding-top: 50px and the header image height */
+	padding-bottom: 10px;
 }
 
-
+/* work on the sticky footer issue later if necessary */
 #footer {
 	padding-top: 10px;
 	text-align: center;
@@ -73,34 +72,47 @@ img {
 	font-weight: bold;
 }
 
-#content-title {
-	height: 40px;
-	width: 910px;
-	background: url(content-title.png) repeat-x;
-	font-size: 1.5em;
-	line-height: 40px;
-	padding-left: 10px;
-    font-family: 'museo';
-    text-transform: uppercase;
+#footer a:hover {
+	border-bottom: #FFFFFF solid 1px;
 }
 
-/* used for most title things (other than the actual title) */
+/* used for most title things */
 h2 {
-	font-size: 1.5em;
-	font-weight: bold;
+	padding-top: 5px;
+	font-size: 1.7em;
+	font-weight: normal;
 	border-bottom: #333333 dotted 1px;
     text-transform: lowercase;
     padding-bottom: 0.2em;
-    font-family: 
+    font-family: 'OFL Sorts Mill Goudy TT';
 }
 
-/* For prettier links */
-#content-body a {
+/* For prettier links in the body text */
+#body a {
 	color: #575757;
 	text-decoration: none;
 }
 
-#content-body a:hover {
+#body a:hover {
 	color: #000000;
 	border-bottom: #000000 solid 1px;
+}
+
+/* for left-floating images */
+.leftfloat {
+	float: left;
+	padding-right: 10px;
+	padding-top: 5px;
+}
+
+/* for the index page, the 3-column project grid */
+#projects-grid {
+	border: 0;
+	width: 960px;
+	font-style: italic;
+}
+
+#projects-grid td {
+	vertical-align: top;
+	padding-bottom: 10px;
 }
