@@ -11,11 +11,11 @@ projects
 
 <table id="projects-grid">
 <colgroup>
-<col span="1" style="width: 200px;">
-<col span="1" style="width: 180px">
-<col span="1" style="width: 200px;">
-<col span="1" style="width: 180px;">
-<col span="1" style="width: 200px;">
+<col span="1" style="width: 200px;" />
+<col span="1" style="width: 180px" />
+<col span="1" style="width: 200px;" />
+<col span="1" style="width: 180px;" />
+<col span="1" style="width: 200px;" />
 </colgroup>
 <tr>
 <td><a href="phpbb"><img src="images/phpbb-snapshot.png" /></a><br />I've been a moderator with phpBB since October 2007, and am currently working on several modifications. Click to find out more.</td>
