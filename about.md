@@ -8,14 +8,15 @@ bio
 
 *	currently living in montreal and studying at mcgill university
 *	major: biology and computer science
-*	real name: not dellsystem (not actually sponsored by Dell, although Dell did take the domain I wanted)
+*	real name: not dellsystem (not actually sponsored by Dell, although Dell did take the domain I originally wanted)
 
 contact info
 ------------
 
-*	facebook: [ilostwaldo](http://www.facebook.com/ilostwaldo)
+*	**note**: for phpBB-related issues (support, MOD installation or creation requests, etc), please contact me through my phpBB account, or email dellsystem at phpbb.com if you don't have one. for everything else, there's mastercard. by which i mean, feel free to email me (see below).
 *	gmail: `ilostwaldo`
 *	freenode nick: `dellsystem`
+*	facebook: [ilostwaldo](http://www.facebook.com/ilostwaldo)
 *	(not every `dellsystem` on the Internet is me, but most `ilostwaldo`s are)
 
 interests

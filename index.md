@@ -17,7 +17,7 @@ projects
 				<col span="1" style="width: 200px;">
 			</colgroup>
 				<tr>
-					<td><a href="phpbb"><img src="images/phpbb-snapshot.png" /></a><br />I've been a moderator with phpBB since October 2007, and am currently working on several modifications. Click to find out more about.</td>
+					<td><a href="phpbb"><img src="images/phpbb-snapshot.png" /></a><br />I've been a moderator with phpBB since October 2007, and am currently working on several modifications. Click to find out more.</td>
 					<td></td>
 					<td><a href="wikinotes"><img src="images/wikinotes-snapshot.png" /></a><br />An unofficial open source wiki-based resource for the courses at McGill University. Side projects include converting to wikicode from other formats and vice versa. Click to find out more.</td>
 					<td></td>
