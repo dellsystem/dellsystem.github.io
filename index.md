@@ -8,6 +8,7 @@ This is my home on the Internet. On the left is my current Gravatar. Below you c
 
 projects
 --------
+
 <table id="projects-grid">
 	<colgroup>
 		<col span="1" style="width: 200px;">
