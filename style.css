@@ -1,7 +1,56 @@
+/* font-face because google isn't working as well */
+@font-face {
+    font-family: 'crimson';
+    src: url('crimson.eot');
+    src: url('crimson.eot?#iefix') format('embedded-opentype'),
+         url('crimson.woff') format('woff'),
+         url('crimson.ttf') format('truetype'),
+         url('crimson.svg#CrimsonRoman') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* The italic version */
+@font-face {
+    font-family: 'crimson';
+    src: url('crimson-italic.eot');
+    src: url('crimson-italic.eot?#iefix') format('embedded-opentype'),
+         url('crimson-italic.woff') format('woff'),
+         url('crimson-italic.ttf') format('truetype'),
+         url('crimson-italic.svg#CrimsonItalic') format('svg');
+    font-weight: normal;
+    font-style: italic, oblique;
+}
+
+/* The bold version */
+
+@font-face {
+    font-family: 'crimson';
+    src: url('crimson-bold.eot');
+    src: url('crimson-bold.eot?#iefix') format('embedded-opentype'),
+         url('crimson-bold.woff') format('woff'),
+         url('crimson-bold.ttf') format('truetype'),
+         url('crimson-bold.svg#CrimsonSemiBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+/* OFL Sorts Mill Goudy, for the headers */
+@font-face {
+    font-family: 'goudy';
+    src: url('goudy.eot');
+    src: url('goudy.eot?#iefix') format('embedded-opentype'),
+         url('goudy.woff') format('woff'),
+         url('goudy.ttf') format('truetype'),
+         url('goudy.svg#OFLSortsMillGoudyRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
 body {
 	margin: 0;
 	padding: 0;
-	font-family: 'Crimson Text', serif;
+	font-family: 'crimson', serif;
 }
 
 img {
@@ -30,7 +79,7 @@ img {
 
 #menu li {
 	float: left;
-	padding-left: 15px;'OFL Sorts Mill Goudy TT'
+	padding-left: 15px;
 }
 
 #menu a {
@@ -85,7 +134,7 @@ h2 {
 	border-bottom: #333333 dotted 1px;
     text-transform: lowercase;
     padding-bottom: 0.2em;
-    font-family: 'OFL Sorts Mill Goudy TT';
+    font-family: 'goudy';
 }
 
 /* For prettier links in the body text */
