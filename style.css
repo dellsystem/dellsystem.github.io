@@ -128,6 +128,7 @@ img {
 
 /* used for most title things */
 h2 {
+    clear: both;
 	padding-top: 5px;
 	font-size: 1.7em;
 	font-weight: normal;
