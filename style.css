@@ -19,7 +19,7 @@
          url('fonts/crimson-italic.ttf') format('truetype'),
          url('fonts/crimson-italic.svg#CrimsonItalic') format('svg');
     font-weight: normal;
-    font-style: italic, oblique;
+    font-style: italic;
 }
 
 /* The bold version */
