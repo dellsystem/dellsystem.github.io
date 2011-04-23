@@ -13,7 +13,7 @@ bio
 contact info
 ------------
 
-*	**note**: for phpBB-related issues (support, MOD installation or creation requests, etc), please contact me through my phpBB account, or email dellsystem at phpbb.com if you don't have one. for everything else, there's mastercard. by which i mean, feel free to email me (see below).
+*	**note**: for [phpBB](phpbb)-related issues (support, MOD installation or creation requests, etc), please contact me through my phpBB account, or email dellsystem@phpbb.com if you don't have one. for everything else, there's mastercard. by which i mean, feel free to email me (see below).
 *	gmail: `ilostwaldo`
 *	freenode nick: `dellsystem`
 *	facebook: [ilostwaldo](http://www.facebook.com/ilostwaldo)
