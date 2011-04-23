@@ -1,11 +1,11 @@
 /* font-face because google isn't working as well */
 @font-face {
     font-family: 'crimson';
-    src: url('crimson.eot');
-    src: url('crimson.eot?#iefix') format('embedded-opentype'),
-         url('crimson.woff') format('woff'),
-         url('crimson.ttf') format('truetype'),
-         url('crimson.svg#CrimsonRoman') format('svg');
+    src: url('fonts/crimson.eot');
+    src: url('fonts/crimson.eot?#iefix') format('embedded-opentype'),
+         url('fonts/crimson.woff') format('woff'),
+         url('fonts/crimson.ttf') format('truetype'),
+         url('fonts/crimson.svg#CrimsonRoman') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -13,11 +13,11 @@
 /* The italic version */
 @font-face {
     font-family: 'crimson';
-    src: url('crimson-italic.eot');
-    src: url('crimson-italic.eot?#iefix') format('embedded-opentype'),
-         url('crimson-italic.woff') format('woff'),
-         url('crimson-italic.ttf') format('truetype'),
-         url('crimson-italic.svg#CrimsonItalic') format('svg');
+    src: url('fonts/crimson-italic.eot');
+    src: url('fonts/crimson-italic.eot?#iefix') format('embedded-opentype'),
+         url('fonts/crimson-italic.woff') format('woff'),
+         url('fonts/crimson-italic.ttf') format('truetype'),
+         url('fonts/crimson-italic.svg#CrimsonItalic') format('svg');
     font-weight: normal;
     font-style: italic, oblique;
 }
@@ -26,11 +26,11 @@
 
 @font-face {
     font-family: 'crimson';
-    src: url('crimson-bold.eot');
-    src: url('crimson-bold.eot?#iefix') format('embedded-opentype'),
-         url('crimson-bold.woff') format('woff'),
-         url('crimson-bold.ttf') format('truetype'),
-         url('crimson-bold.svg#CrimsonSemiBold') format('svg');
+    src: url('fonts/crimson-bold.eot');
+    src: url('fonts/crimson-bold.eot?#iefix') format('embedded-opentype'),
+         url('fonts/crimson-bold.woff') format('woff'),
+         url('fonts/crimson-bold.ttf') format('truetype'),
+         url('fonts/crimson-bold.svg#CrimsonSemiBold') format('svg');
     font-weight: bold;
     font-style: normal;
 }
@@ -38,11 +38,11 @@
 /* OFL Sorts Mill Goudy, for the headers */
 @font-face {
     font-family: 'goudy';
-    src: url('goudy.eot');
-    src: url('goudy.eot?#iefix') format('embedded-opentype'),
-         url('goudy.woff') format('woff'),
-         url('goudy.ttf') format('truetype'),
-         url('goudy.svg#OFLSortsMillGoudyRegular') format('svg');
+    src: url('fonts/goudy.eot');
+    src: url('fonts/goudy.eot?#iefix') format('embedded-opentype'),
+         url('fonts/goudy.woff') format('woff'),
+         url('fonts/goudy.ttf') format('truetype'),
+         url('fonts/goudy.svg#OFLSortsMillGoudyRegular') format('svg');
     font-weight: normal;
     font-style: normal;
 }
