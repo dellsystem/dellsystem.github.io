@@ -10,6 +10,6 @@ there is nothing here, not even this line
 
 <ul class="posts">
     {% for post in site.posts %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }})</li>
+        <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }}) Categories: {{ post.categories}}</li>
     {% endfor %}
 </ul>
