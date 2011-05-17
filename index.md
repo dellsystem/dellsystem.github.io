@@ -25,7 +25,7 @@ projects
 <td><a href="https://www.github.com/DDMAL/diva.js" class="nolink"><img src="images/diva-snapshot.png" /></a><br />An open source document viewer for high-resolution scanned documents, particularly music. Spring of 2011 to present, for McGill's Department of Music Technology.</td>
 </tr>
 <tr>
-<td><a href="http://www.ssuns.org"><img src="images/ssuns-snapshot.png" /></a><br />As the USG-IT for this Model UN conference at McGill, I redesigned the site and built a content management system around phpBB. The source of the site is <a href="https://www.github.com/dellsyste/ssuns-2011">available at github</a>; pull requests are welcomed.</td>
+<td><a href="http://www.ssuns.org"><img src="images/ssuns-snapshot.png" /></a><br />As the USG-IT for this Model UN conference at McGill, I redesigned the site and built a content management system around phpBB. The source of the site is <a href="https://www.github.com/dellsystem/ssuns-2011">available at github</a>; pull requests are welcomed.</td>
 <td></td>
 <td></td>
 <td></td>
