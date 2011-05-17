@@ -23,7 +23,6 @@
 }
 
 /* The bold version */
-
 @font-face {
     font-family: 'crimson';
     src: url('fonts/crimson-bold.eot');
@@ -35,37 +34,39 @@
     font-style: normal;
 }
 
-/* OFL Sorts Mill Goudy, for the headers */
+/* Raleway as a backup */
 @font-face {
-    font-family: 'goudy';
-    src: url('fonts/goudy.eot');
-    src: url('fonts/goudy.eot?#iefix') format('embedded-opentype'),
-         url('fonts/goudy.woff') format('woff'),
-         url('fonts/goudy.ttf') format('truetype'),
-         url('fonts/goudy.svg#OFLSortsMillGoudyRegular') format('svg');
-    font-weight: normal;
+    font-family: 'raleway';
+    src: url('fonts/raleway.eot');
+    src: url('fonts/raleway.eot?#iefix') format('embedded-opentype'),
+         url('fonts/raleway.woff') format('woff'),
+         url('fonts/raleway.ttf') format('truetype'),
+         url('fonts/ralewaysvg#Raleway') format('svg');
+    font-weight: bold;
     font-style: normal;
 }
 
-body {
+* {
 	margin: 0;
 	padding: 0;
-	font-family: 'crimson', serif;
 }
 
-img {
-	border: 0;
+html {
+	height: 100%;
+}
+
+body {
+	height: 100%;
+	background: url(images/header.png) repeat-x;
 }
 
 #header {
-	background: url(images/header.png) repeat-x;
-	width: 100%;
-	height: 270px;
+	height: 120px;
 	padding-top: 50px;
 }
 
-/* for the 960 pixels layout */
-.wrap {
+#wrap {
+	min-height: 100%;
 	width: 960px;
 	margin: 0 auto;
 }
@@ -75,6 +76,9 @@ img {
 	float: right;
 	text-transform: lowercase;
 	font-size: 1.8em;
+	position: relative;
+	top: 20px;
+	font-family: 'Crimson Text', 'crimson';
 }
 
 #menu li {
@@ -98,23 +102,88 @@ img {
 	right: 0px;
 }
 
-/* for the regular content */
-#body {
-	margin-top: -130px; /* counteract the padding-top: 50px and the header image height */
-	padding-bottom: 10px;
-    color: #000000;
+#main {
+	overflow: auto;
+	padding-bottom: 70px;  /* must be same height as the footer */
+	font-family: 'Crimson Text', 'crimson';
 }
 
-/* work on the sticky footer issue later if necessary */
-#footer {
+/* Things used for content
+====================================== */
+
+/* h2 used for most title things */
+h1, h2 {
+    clear: both;
+	padding-top: 5px;
+	font-weight: normal;
+	border-bottom: #333333 dotted 1px;
+    text-transform: lowercase;
+    padding-bottom: 0.2em;
+    font-family: 'gs_edit_l', 'Gill Sans', 'Raleway', 'rale';
+}
+
+/* For post titles */
+h1 {
+	font-size: 2.7em;
+}
+
+/* For most other titles */
+h2 {
+	font-size: 2.0em;
+}
+
+/* for left-floating images */
+.leftfloat {
+	float: left;
+	padding-right: 10px;
+	padding-top: 5px;
+}
+
+#main a {
+	color: #E42217;
+	text-decoration: none;
+}
+
+#main a:hover {
+	border-bottom: #E42217 solid 1px;
+}
+
+#main .nolink:hover {
+	border-bottom: 0px;
+}
+
+#main ul {
 	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 20px;
+}
+
+#main li {
+	padding-top: 2px;
+	padding-bottom: 2px;
+	line-height: 1.2em;
+}
+
+.meta {
+	padding-top: 5px;
+	padding-bottom: 3px;
+}
+
+/* Footer etc 
+=================================*/
+
+#footer {
+	font-family: 'Crimson Text', 'crimson';
+	position: relative;
+	margin-top: -70px; /* negative value of footer height */
+	height: 70px;
+	clear: both;
 	text-align: center;
 	color: #FFFFFF;
 	font-size: 1.1em;
 	background-color: #3D3D3D;
 	width: 100%;
-	height: 50px;
-}
+} 
 
 #footer a {
 	text-decoration: none;
@@ -126,40 +195,18 @@ img {
 	border-bottom: #FFFFFF solid 1px;
 }
 
-/* used for most title things */
-h2 {
-    clear: both;
-	padding-top: 5px;
-	font-size: 1.7em;
-	font-weight: normal;
-	border-bottom: #333333 dotted 1px;
-    text-transform: lowercase;
-    padding-bottom: 0.2em;
-    font-family: 'goudy';
-}
-
-/* For prettier links in the body text */
-#body a {
-	color: #E42217;
-	text-decoration: none;
-}
-
-#body a:hover {
-	border-bottom: #E42217 solid 1px;
-}
-
-/* for left-floating images */
-.leftfloat {
+/*Opera Fix*/
+body:before {
+	content: "";
+	height: 100%;
 	float: left;
-	padding-right: 10px;
-	padding-top: 5px;
+	width: 0;
+	margin-top: -32767px;/
 }
 
 /* for the index page, the 3-column project grid */
 #projects-grid {
 	border: 0;
-	width: 960px;
-	font-style: italic;
 }
 
 #projects-grid td {

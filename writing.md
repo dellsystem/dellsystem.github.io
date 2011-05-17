@@ -6,7 +6,7 @@ layout: default
 writing
 -------
 
-there is nothing here, not even this line
+<p class="meta">there is nothing here, not even this line</p>
 
 <ul class="posts">
     {% for post in site.posts %}

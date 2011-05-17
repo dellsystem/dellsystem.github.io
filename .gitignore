@@ -3,3 +3,5 @@
 new_design.png
 design.png
 .nfs*
+_site/*
+.gitignore
