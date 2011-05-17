@@ -5,7 +5,7 @@
     src: url('fonts/raleway.eot?#iefix') format('embedded-opentype'),
          url('fonts/raleway.woff') format('woff'),
          url('fonts/raleway.ttf') format('truetype'),
-         url('fonts/ralewaysvg#Raleway') format('svg');
+         url('fonts/raleway.svg#RalewayThin') format('svg');
     font-weight: bold;
     font-style: normal;
 }
@@ -24,6 +24,10 @@ body {
 	background: url(images/header.png) repeat-x;
 	font-family: 'Georgia', 'Liberation Serif', serif; /* Serif font stack for body copy, overriden by sans-serif for headers */
 	font-size: 15px;
+}
+
+img {
+	border: 0;
 }
 
 #header {
@@ -83,7 +87,7 @@ h1, h2 {
 	border-bottom: #333333 dotted 1px;
     text-transform: lowercase;
     padding-bottom: 0.2em;
-    font-family: 'gs_edit_l', 'Gill Sans', 'Raleway', 'rale';
+    font-family: 'Gill Sans', 'Raleway';
 }
 
 /* For post titles */
@@ -129,8 +133,8 @@ h2 {
 }
 
 .meta {
-	padding-top: 5px;
-	padding-bottom: 3px;
+	padding-top: 7px;
+	padding-bottom: 5px;
 }
 
 /* Footer etc 
