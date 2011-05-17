@@ -73,7 +73,7 @@ img {
 
 #main {
 	overflow: auto;
-	padding-bottom: 70px;  /* must be same height as the footer */
+	padding-bottom: 90px;
 }
 
 /* Things used for content
@@ -98,6 +98,13 @@ h1 {
 /* For most other titles */
 h2 {
 	font-size: 2.0em;
+}
+
+h3 {
+	font-size: 1.7em;
+	padding-top: 10px;
+	padding-bottom: 5px;
+	clear: both;
 }
 
 /* for left-floating images */
@@ -132,9 +139,13 @@ h2 {
 	line-height: 1.2em;
 }
 
+#main h2 + p, #main h1 + p {
+	padding-top: 10px;
+}
+
 .meta {
-	padding-top: 7px;
-	padding-bottom: 5px;
+	padding-top: 10px;
+	padding-bottom: 10px;
 }
 
 /* Footer etc 
