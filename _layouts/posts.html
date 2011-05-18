@@ -21,11 +21,11 @@ $('[id^=category-]').click(function() {
 	// Use filter because there may be other li elements on the page, such as the menu
 	$('li').filter('[class~=category-' + thisCategory + ']').fadeTo('fast', 1).css('font-weight', 'bold');
 	// Now fade all the other categories
-	$('li').filter('[class^=category-]').not('[class~=category-' + thisCategory + ']').fadeTo('slow', 0.5);
+	$('li').filter('[class^=category-]').not('[class~=category-' + thisCategory + ']').fadeTo('slow', 0.5).css('font-weight', 'normal');
 });
 
 // Make all the others 100% opacity
 $('#show-all').click(function() {
-	$('li').filter('[class^=category-]').fadeTo('fast', 1);
+	$('li').filter('[class^=category-]').fadeTo('fast', 1).css('font-weight', 'normal');
 });
 </script>
