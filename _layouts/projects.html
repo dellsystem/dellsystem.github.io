@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+{{ content }}
+
+{% if page.projects %}
+<h2>projects</h2>
+
+<br />
+<table id="projects-grid">
+<colgroup>
+<col span="1" style="width: 200px;" />
+<col span="1" style="width: 180px" />
+<col span="1" style="width: 200px;" />
+<col span="1" style="width: 180px;" />
+<col span="1" style="width: 200px;" />
+</colgroup>
+<tr>
+{% for project in page.projects %}
+<td><a href="{{ project.url }}"><img src="images/{{ project.name }}-snapshot.png" /></a><br />{{ project.description }}</td>
+{% if forloop.index == 3 %}</tr><tr>{% else %}<td></td>{% endif %}
+{% endfor %}
+
+</tr>
+</table>
+
+{% endif %}
