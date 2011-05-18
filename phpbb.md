@@ -11,19 +11,19 @@ If you have phpBB-related support enquiries, please post them to the relevant fo
 MODifications
 -------------
 
-### [Custom Pages](phpBB-custom-pages) ###
+### [Custom Pages](phpbb-custom-pages) ###
 
-A content management system sort of MOD for phpBB.
+A content management system sort of MOD for phpBB. Page doesn't exist yet, will create someday.
 
 [View development topic](http://www.phpbb.com "Not available yet") :: [Demo board](http://phpbb.dellsystem.me/cp/)
 
-### [Dynamic Avatar](phpBB-dynamic-avatar) ###
+### [Dynamic Avatar](phpbb-dynamic-avatar) ###
 
 This MOD provides the ability to edit your avatar, using bodily features and clothes that can be purchased or acquired. In the vein of 2.0x MODs like Live Avatar and Nulavatar, and the dynamic avatar capabilities of the 3.0x MOD Camorea Suite. Useful for RPG forums.
 
 [View development topic](http://www.phpbb.com/community/viewtopic.php?f=70&t=1823845) :: [Demo board](http://phpbb.dellsystem.me/dynamo/)
 
-### [Where's Waldo](phpBB-waldo) ###
+### [Where's Waldo](phpbb-waldo) ###
 
 A small image of Waldo [US] / Wally [UK] may appear somewhere on every page as you browse the board. Inspired by Xore's 2.x MOD CamelMOD. 
 
