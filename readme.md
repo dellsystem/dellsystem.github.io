@@ -5,12 +5,7 @@ Things to do
 *   fonts ... meh
 *   create page for custom pages MOD
 
-Things to write
----------------
+About
+-----
 
-*   modularity
-*   label propagation
-*   virtual rendering
-*   MOD-writing
-*   git etc
-*   iPad native-like app + jQuery
+Source for [www.dellsystem.me](http://www.dellsystem.me). 
