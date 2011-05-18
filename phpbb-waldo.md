@@ -6,8 +6,8 @@ repo-name: phpBB-waldo
 demo-url: http://phpbb.dellsystem.me/waldo/
 status: ALPHA
 versions:
-- {number: 0.01, url: http://www.google.com, notes: First release (unstable)}
-- {number: 0.02, notes: Test (unstable)}
+- {number: 0.01, url: http://www.google.com, status: ALPHA, notes: First release}
+- {number: 0.02, status: MODDB, notes: Test version}
 screenshots:
 - http://www.phpbb.com/community/download/file.php?id=133624
 - http://www.phpbb.com/community/download/file.php?id=133622
