@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+{{ content }}
+
+<ul class="posts">
+    {% for post in site.posts %}
+        <li class="category-{{ post.category }}"><a href="{{ post.url }}">{{ post.title }}</a> :: ({{ post.date | date_to_string }}) Category: {{ post.category }}</li>
+    {% endfor %}
+</ul>
+
+<p>Categories: {% for category in site.categories %}<strong><a class="fake-link" id="category-{{ category[0] }}">{{ category[0] }}</a></strong>{% if forloop.last %}{% else %}, {% endif %}{% endfor %} :: <strong><a class="fake-link" id="show-all">show all</a></strong></p>
+
+<script>
+// For simulating category-pages
+$('[id^=category-]').click(function() {
+	var thisCategory = $(this).text();
+	console.log('show me the posts for ' + thisCategory);
+	// First make sure this one is at full opacity
+	// Use filter because there may be other li elements on the page, such as the menu
+	$('li').filter('[class=category-' + thisCategory + ']').fadeTo('fast', 1);
+	// Now fade all the other categories
+	$('li').filter('[class^=category-]').not('[class=category-' + thisCategory + ']').fadeTo('slow', 0.5);
+});
+
+// Make all the others 100% opacity
+$('#show-all').click(function() {
+	$('li').filter('[class^=category-]').fadeTo('fast', 1);
+});
+</script>

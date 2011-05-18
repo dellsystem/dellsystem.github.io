@@ -145,11 +145,6 @@ h3 {
 	padding-top: 10px;
 }
 
-.meta {
-	padding-top: 10px;
-	padding-bottom: 10px;
-}
-
 .download-image {
 	width: 100px;
 	height: 100px;
@@ -158,6 +153,11 @@ h3 {
 
 .thumb {
 	width: 100px;
+}
+
+/* For things that pretend to be links but really aren't ... show them some love anyway */
+.fake-link {
+	cursor: pointer;
 }
 
 /* Footer etc 
