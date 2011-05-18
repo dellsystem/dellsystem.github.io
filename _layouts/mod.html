@@ -1,0 +1,44 @@
+---
+layout: default
+---
+
+<a href="/phpbb">&laquo; Back to phpBB page</a>
+
+<h1>phpBB MODs - {{ page.title }}</h1>
+
+<h3>Description and features</h3>
+
+{{ content }}
+
+<h3>Screenshots and demo</h3>
+
+{% for screenshot in page.screenshots %}
+<a href="{{ screenshot }}"><img src="{{ screenshot }}" class="thumb" /></a>
+{% endfor %}
+<br />
+<p>Demo board: <a href="{{ page.demo-url }}">{{ page.demo-url }}</a>
+
+<h3>Installation</h3>
+
+To install this MOD, download the package (see below), extract it, and launch the MODX file using your web browser. Follow the instructions in the MODX file. See the <a href="http://www.phpbb.com/kb/article/how-to-install-a-modx-modification/">Knowledge Base article on how to install a MODX modification</a> for more.
+
+<h3>Download and status</h3>
+
+<!-- possible statuses: DEV, ALPHA, BETA, RC, MODDB and ABD -->
+<img src="/images/status-{{ page.status }}.png" alt="Status: {{ page.status }}" title="Status: {{ page.status}}" /><a href="https://www.github.com/dellsystem/{{ page.repo-name }}/zipball/master"><img src="/images/zip.png" alt="zip" title="Download the MOD in zip format" class="download-image" /></a><a href="https://www.github.com/dellsystem/{{ page.repo-name}}/tarball/master"><img src="/images/tar.png" alt="png" title="Download the MOD in tarball format" class="download-image" /></a>
+
+{% if page.versions %}
+<br />
+<ul>
+	{% for version in page.versions reversed %}
+	<!-- uses the URL if there is one, else, assumes there's a github tag -->
+	<li><a href="{% if version.url %}{{ version.url }}{% else %}https://www.github.com/dellsystem/{{ page.repo-name }}/{{ version.number }}{% endif %}">Version {{ version.number}} [{{ page.status }}]</a> - {{ version.notes }}</li>
+	{% endfor %}
+</ul>
+{% endif %}
+<!-- oh my god liquid is so beautiful -->
+
+<h3>Development and support</h3>
+
+<p>The development topic for this MOD is found at <a href="{{ page.topic-url }}">{{ page.topic-url }}</a>. Please direct any support enquiries related to this MOD to that topic.</p>
+<p>You can follow the development of this MOD on github, at <a href="https://github.com/dellsystem/{{ page.repo-name}}">dellsystem/{{ page.repo-name }}</a>. Go ahead and add an issue to the issue tracker. If you see anything that needs fixing, feel free to fork the repo and fix it - pull requests are greatly appreciated :)</p>

@@ -107,6 +107,11 @@ h3 {
 	clear: both;
 }
 
+#main p {
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
 /* for left-floating images */
 .leftfloat {
 	float: left;
@@ -121,10 +126,7 @@ h3 {
 
 #main a:hover {
 	border-bottom: #E42217 solid 1px;
-}
-
-#main .nolink:hover {
-	border-bottom: 0px;
+	text-decoration: none;
 }
 
 #main ul {
@@ -146,6 +148,16 @@ h3 {
 .meta {
 	padding-top: 10px;
 	padding-bottom: 10px;
+}
+
+.download-image {
+	width: 100px;
+	height: 100px;
+	float: right;
+}
+
+.thumb {
+	width: 100px;
 }
 
 /* Footer etc 

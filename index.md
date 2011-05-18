@@ -18,11 +18,11 @@ projects
 <col span="1" style="width: 200px;" />
 </colgroup>
 <tr>
-<td><a href="phpbb" class="nolink"><img src="images/phpbb-snapshot.png" /></a><br />I've been a moderator with phpBB since October 2007, and am currently working on several modifications.</td>
+<td><a href="phpbb"><img src="images/phpbb-snapshot.png" /></a><br />I've been a moderator with phpBB since October 2007, and am currently working on several modifications.</td>
 <td></td>
-<td><a href="wikinotes" class="nolink"><img src="images/wikinotes-snapshot.png" /></a><br />An unofficial open source wiki-based resource for the courses at McGill University. Side projects include converting to wikicode from other formats and vice versa.</td>
+<td><a href="wikinotes"><img src="images/wikinotes-snapshot.png" /></a><br />An unofficial open source wiki-based resource for the courses at McGill University. Side projects include converting to wikicode from other formats and vice versa.</td>
 <td></td>
-<td><a href="https://www.github.com/DDMAL/diva.js" class="nolink"><img src="images/diva-snapshot.png" /></a><br />An open source document viewer for high-resolution scanned documents, particularly music. Spring of 2011 to present, for McGill's Department of Music Technology.</td>
+<td><a href="https://www.github.com/DDMAL/diva.js"><img src="images/diva-snapshot.png" /></a><br />An open source document viewer for high-resolution scanned documents, particularly music. Spring of 2011 to present, for McGill's Department of Music Technology.</td>
 </tr>
 <tr>
 <td><a href="http://www.ssuns.org"><img src="images/ssuns-snapshot.png" /></a><br />As the USG-IT for this Model UN conference at McGill, I redesigned the site and built a content management system around phpBB. The source of the site is <a href="https://www.github.com/dellsystem/ssuns-2011">available at github</a>; pull requests are welcomed.</td>
