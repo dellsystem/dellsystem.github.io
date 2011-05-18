@@ -1,14 +1,14 @@
+/* For syntax-highlighted code in particular */
+
 .highlight {
 	background-color: #111111;
 	color: #FFFFFF;
 	padding: 10px;
-	font-size: 0.8em;
 	-moz-border-radius: 5px;
 	-webkit-border-radius: 5px;
 	border-radius: 5px;
 	width: 940px;
 	overflow: auto;
-	font-family: 'Consolas', 'Monaco', monospace;
 }
 /* Below - vibrant, from https://github.com/alexrothenberg/alexrothenberg.github.com/blob/master/stylesheets/vibrant_ink.css */
 .highlight .c { color: #9933CC; font-style: italic } /* Comment */

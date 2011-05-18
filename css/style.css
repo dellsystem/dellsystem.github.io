@@ -1,11 +1,11 @@
 /* Raleway as a backup */
 @font-face {
     font-family: 'raleway';
-    src: url('fonts/raleway.eot');
-    src: url('fonts/raleway.eot?#iefix') format('embedded-opentype'),
-         url('fonts/raleway.woff') format('woff'),
-         url('fonts/raleway.ttf') format('truetype'),
-         url('fonts/raleway.svg#RalewayThin') format('svg');
+    src: url('/fonts/raleway.eot');
+    src: url('/fonts/raleway.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/raleway.woff') format('woff'),
+         url('/fonts/raleway.ttf') format('truetype'),
+         url('/fonts/raleway.svg#RalewayThin') format('svg');
     font-weight: bold;
     font-style: normal;
 }
@@ -21,7 +21,7 @@ html {
 
 body {
 	height: 100%;
-	background: url(images/header.png) repeat-x;
+	background: url(/images/header.png) repeat-x;
 	font-family: 'Georgia', 'Liberation Serif', serif; /* Serif font stack for body copy, overriden by sans-serif for headers */
 	font-size: 15px;
 }
@@ -162,6 +162,20 @@ h3 {
 	cursor: pointer;
 }
 
+/* For code in general, syntax-highlighted code done in syntax.css */
+code {
+	font-family: 'Consolas', 'Monaco', monospace;
+	font-size: 0.8em;
+}
+
+/* below: no highlighting, but on its own line */
+p > code {
+	color: #222222;
+	font-weight: bold;
+	background-color: #F0F0F0;
+	padding: 5px;
+	-webkit-border-radius: 5px;
+}
 /* Footer etc 
 =================================*/
 
