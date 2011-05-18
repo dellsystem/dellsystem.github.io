@@ -6,7 +6,7 @@ layout: default
 
 <ul class="posts">
     {% for post in site.posts %}
-        <li class="{% for category in post.categories %}category-{{ category }}{% if forloop.last %}{% else %} {% endif %}{% endfor %}"><a href="{{ post.url }}">{{ post.title }}</a> :: ({{ post.date | date_to_string }}) Categories: {% for category in post.categories %}{{ category }}{% if forloop.last %}{% else %}, {% endif %}{% endfor %}</li>
+        <li class="{% for category in post.categories %}category-{{ category }}{% if forloop.last %}{% else %} {% endif %}{% endfor %}"><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }}) :: Categories: {% for category in post.categories %}{{ category }}{% if forloop.last %}{% else %}, {% endif %}{% endfor %}</li>
     {% endfor %}
 </ul>
 
@@ -16,7 +16,7 @@ layout: default
 // For simulating category-pages
 $('[id^=category-]').click(function() {
 	var thisCategory = $(this).text();
-	console.log('show me the posts for ' + thisCategory);
+	//console.log('show me the posts for ' + thisCategory);
 	// First make sure this one is at full opacity
 	// Use filter because there may be other li elements on the page, such as the menu
 	$('li').filter('[class~=category-' + thisCategory + ']').fadeTo('fast', 1).css('font-weight', 'bold');
