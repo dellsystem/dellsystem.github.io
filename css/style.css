@@ -1,6 +1,6 @@
 /* Raleway as a backup */
 @font-face {
-    font-family: 'raleway';
+    font-family: 'Raleway';
     src: url('/fonts/raleway.eot');
     src: url('/fonts/raleway.eot?#iefix') format('embedded-opentype'),
          url('/fonts/raleway.woff') format('woff'),
@@ -87,7 +87,7 @@ h1, h2 {
 	border-bottom: #333333 dotted 1px;
     text-transform: lowercase;
     padding-bottom: 0.2em;
-    font-family: 'Gill Sans', 'Raleway';
+    font-family: 'Gill Sans Light', 'Raleway';
 }
 
 /* For post titles */
