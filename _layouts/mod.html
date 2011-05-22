@@ -29,7 +29,16 @@ To install this MOD, download the package (see below), extract it, and launch th
 <h3>Download and status</h3>
 
 <!-- possible statuses: DEV, ALPHA, BETA, RC, MODDB and ABD -->
-<img src="/images/status-{{ page.status }}.png" alt="Status: {{ page.status }}" title="Status: {{ page.status}}" /><a href="https://www.github.com/dellsystem/{{ page.repo-name }}/zipball/master"><img src="/images/zip.png" alt="zip" title="Download the MOD in zip format" class="download-image" /></a><a href="https://www.github.com/dellsystem/{{ page.repo-name}}/tarball/master"><img src="/images/tar.png" alt="png" title="Download the MOD in tarball format" class="download-image" /></a>
+<!-- figure out the status using the versions - if there are no versions available, it's dev -->
+{% if page.versions %}
+	{% for version in page.versions %}
+		<!-- a bit redundant to loop through them all but the other way isn't working -->
+		{% assign status = version.status %}
+	{% endfor %}
+{% else %}
+	{% assign status = 'DEV' %}
+{% endif %}
+<img src="/images/status-{{ status }}.png" alt="Status: {{ status }}" title="Status: {{ status}}" /><a href="https://www.github.com/dellsystem/{{ page.repo-name }}/zipball/master"><img src="/images/zip.png" alt="zip" title="Download the MOD in zip format" class="download-image" /></a><a href="https://www.github.com/dellsystem/{{ page.repo-name}}/tarball/master"><img src="/images/tar.png" alt="png" title="Download the MOD in tarball format" class="download-image" /></a>
 
 {% if page.versions %}
 <br />
