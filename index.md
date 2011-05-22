@@ -8,5 +8,4 @@ projects:
 - {name: ssuns, url: "http://www.ssuns.org", description: 'As the USG-IT for this Model UN conference at McGill, I redesigned the site and built a content management system around phpBB. The source of the site is <a href="https://www.github.com/dellsystem/ssuns-2011">available at github</a>; pull requests are welcomed.'}
 ---
 
-<img src="http://gravatar.com/avatar/0826c9e6449c9a08230ac6d40a3cde4d" class="leftfloat" />
 This is my home on the Internet so please don't set it on fire or anything. On the left is my current Gravatar. Below are descriptions of some of my past and current projects. If you want to learn more about me, click <a href="about.html">about</a>. If you want to read things I've written for various purposes, you can find my writing under the aptly-named <a href="writing.html">writing</a> section. Cheers.
