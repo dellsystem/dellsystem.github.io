@@ -10,6 +10,8 @@ layout: default
 
 {{ content }}
 
+<p>{% if page.requests-open %}<strong>Open to feature requests!</strong> Post in the <a href="{{ page.topic-url }}">development topic</a> or add an issue to the <a href="https://www.github.com/dellsystem/{{ page.repo-name }}/issues">issue tracker</a>.{% else %}No longer accepting feature requests, sorry!{% endif %}</p>
+
 <h3>Screenshots and demo</h3>
 
 {% if page.screenshots %}
