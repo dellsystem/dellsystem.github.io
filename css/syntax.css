@@ -16,9 +16,9 @@
 .highlight .javascript .k { color: #CCCC66; font-weight: bold } /* Keyword */
 .highlight .o { color: #FFFFFF; font-weight: bold } /* Operator */
 .highlight .cm { color: #772CB7; background: #070707; font-style: italic } /* Comment.Multiline */
-.highlight .cp { color: #9933CC; font-weight: bold } /* Comment.Preproc */
-.highlight .c1 { color: #9933CC; font-style: italic } /* Comment.Single */
-.highlight .cs { color: #9933CC; font-weight: bold; font-style: italic } /* Comment.Special */
+.highlight .cp { color: #3A6EF2; font-weight: bold } /* Comment.Preproc */
+.highlight .c1 { color: #3A6EF2; font-style: italic } /* Comment.Single */
+.highlight .cs { color: #3A6EF2; font-weight: bold; font-style: italic } /* Comment.Special */
 .highlight .gd { color: #000000; background-color: #ffdddd } /* Generic.Deleted */
 .highlight .gd .x { color: #000000; background-color: #ffaaaa } /* Generic.Deleted.Specific */
 .highlight .ge { font-style: italic } /* Generic.Emph */
