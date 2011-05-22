@@ -45,7 +45,7 @@ To install this MOD, download the package (see below), extract it, and launch th
 <ul>
 	{% for version in page.versions reversed %}
 	<!-- uses the URL if there is one, else, assumes there's a github tag -->
-	<li><a href="{% if version.url %}{{ version.url }}{% else %}https://www.github.com/dellsystem/{{ page.repo-name }}/{{ version.number }}{% endif %}">Version {{ version.number}} [{{ version.status }}]</a> - {{ version.notes }} ({% if version.status == 'MODDB' %}<strong>stable</strong>{% else %}unstable{% endif %})</li>
+	<li><a href="{% if version.url %}{{ version.url }}{% else %}https://www.github.com/dellsystem/{{ page.repo-name }}/zipball/v{{ version.number }}{% endif %}">Version {{ version.number}} [{{ version.status }}]</a> - {{ version.notes }} ({% if version.status == 'MODDB' %}<strong>stable</strong>{% else %}unstable{% endif %})</li>
 	{% endfor %}
 </ul>
 {% endif %}
