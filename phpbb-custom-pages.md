@@ -3,7 +3,7 @@ title: Custom Pages
 layout: mod
 topic-url: http://www.phpbb.com
 repo-name: phpBB-custom-pages
-demo-url: http://phpbb.dellsystem.me/cp/
+demo-url: http://www.ssuns.org/
 requests-open: true
 ---
 
