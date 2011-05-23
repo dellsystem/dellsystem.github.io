@@ -8,9 +8,9 @@ versions:
 - {number: 0.0.1, status: ALPHA, notes: First release}
 - {number: 0.0.2, status: ALPHA, notes: "Fixing up code to better adhere to standards, some new config settings"}
 screenshots:
-- http://www.phpbb.com/community/download/file.php?id=133624
-- http://www.phpbb.com/community/download/file.php?id=133622
-- http://www.phpbb.com/community/download/file.php?id=133622
+- https://github.com/dellsystem/phpBB-waldo/raw/0.1.0-dev/contrib/screenshot-index.png
+- https://github.com/dellsystem/phpBB-waldo/raw/0.1.0-dev/contrib/screenshot-profile.png
+- https://github.com/dellsystem/phpBB-waldo/raw/0.1.0-dev/contrib/screenshot-ucp.png
 requests-open: true
 ---
 
@@ -29,3 +29,4 @@ A small image of Waldo \[US\] / Wally \[UK\] may appear somewhere on every page 
 *	The ability to select specific pages only where Waldo will appear (in conjunction with random feature)
 *	A better way of defining the area in which Waldo can appear
 *	ACP permissions
+*	Enable/disable for guests
