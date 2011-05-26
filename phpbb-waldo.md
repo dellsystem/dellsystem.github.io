@@ -8,6 +8,7 @@ versions:
 - {number: 0.0.1, status: ALPHA, notes: First release}
 - {number: 0.0.2, status: ALPHA, notes: "Fixing up code to better adhere to standards, some new config settings"}
 - {number: 0.0.3, status: ALPHA, notes: "Some small bug fixes (maintenance release)"}
+- {number: 0.0.4, status: ALPHA, notes: "More bugfixes from last release, fixed UTF problem in mouseover text"}
 screenshots:
 - https://github.com/dellsystem/phpBB-waldo/raw/0.1.0-dev/contrib/screenshot-index.png
 - https://github.com/dellsystem/phpBB-waldo/raw/0.1.0-dev/contrib/screenshot-profile.png
