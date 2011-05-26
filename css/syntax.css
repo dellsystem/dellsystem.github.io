@@ -1,16 +1,20 @@
 /* For syntax-highlighted code in particular */
 
 .highlight {
-	background-color: #111111;
+	background-color: #1B1B1B;
 	color: #FFFFFF;
 	padding: 10px;
-	-moz-border-radius: 5px;
-	-webkit-border-radius: 5px;
-	border-radius: 5px;
+	-moz-border-radius: 7px;
+	-webkit-border-radius: 7px;
+	border-radius: 7px;
 	width: 940px;
+    -webkit-box-shadow: inset 0 0 40px rgba(0, 0, 0, 0.3);
+    -moz-box-shadow: inset 0 0 40px rgba(0, 0, 0, 0.3);
+    box-shadow: inset 0 0 40px rgba(0, 0, 0, 0.3);
 }
 /* Below - vibrant (modified), from https://github.com/alexrothenberg/alexrothenberg.github.com/blob/master/stylesheets/vibrant_ink.css */
-.highlight .c { color: #3A6EF2; font-style: italic } /* Comment */
+/* Otherwise it highlights for C (the language) lol) */
+.highlight code .c { color: #3A6EF2; font-style: italic } /* Comment */
 .highlight .err { color: #a61717; background-color: #e3d2d2 } /* Error */
 .highlight .k { color: #FF6600; font-weight: bold } /* Keyword */
 .highlight .javascript .k { color: #CCCC66; font-weight: bold } /* Keyword */
