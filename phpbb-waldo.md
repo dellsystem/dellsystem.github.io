@@ -9,6 +9,7 @@ versions:
 - {number: 0.0.2, status: ALPHA, notes: "Fixing up code to better adhere to standards, some new config settings"}
 - {number: 0.0.3, status: ALPHA, notes: "Some small bug fixes (maintenance release)"}
 - {number: 0.0.4, status: ALPHA, notes: "More bugfixes from last release, fixed UTF problem in mouseover text"}
+- {number: 0.0.5, status: ALPHA, notes: "Another maintenance release - removed reference to unnecessary variable"}
 screenshots:
 - https://github.com/dellsystem/phpBB-waldo/raw/0.1.0-dev/contrib/screenshot-index.png
 - https://github.com/dellsystem/phpBB-waldo/raw/0.1.0-dev/contrib/screenshot-profile.png
@@ -28,7 +29,8 @@ A small image of Waldo \[US\] / Wally \[UK\] may appear somewhere on every page 
 
 **Planned features:**
 
-*	The ability to select specific pages only where Waldo will appear (in conjunction with random feature)
+*	The ability to select specific pages only where Waldo will appear (in conjunction with the random feature)
 *	A better way of defining the area in which Waldo can appear
 *	ACP permissions
-*	Enable/disable for guests
+*	Enable/disable for guests (or groups)
+*	Users can be choose between having points awarded upon seeing Waldo and have them awarded upon clicking him and being directed to a specific page (with user-configurable text)
