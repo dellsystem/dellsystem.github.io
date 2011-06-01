@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<a href="/writing">&laquo; Back to writing</a>
+
+{{ content }}
+
+<ul class="posts">
+    {% for post in site.posts %}
+    	{% if post.code %}
+        <li class="{% for category in post.categories %}category-{{ category }}{% if forloop.last %}{% else %} {% endif %}{% endfor %}"><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }}) :: Categories: {{ post.categories | array_to_sentence_string }}</li>
+        {% endif %}
+    {% endfor %}
+</ul>

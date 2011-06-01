@@ -5,3 +5,5 @@ design.png
 .nfs*
 _site/*
 .gitignore
+*.pyc
+*.class
