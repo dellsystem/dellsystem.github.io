@@ -1,15 +1,3 @@
-/* Raleway as a backup */
-@font-face {
-    font-family: 'Raleway';
-    src: url('/fonts/raleway.eot');
-    src: url('/fonts/raleway.eot?#iefix') format('embedded-opentype'),
-         url('/fonts/raleway.woff') format('woff'),
-         url('/fonts/raleway.ttf') format('truetype'),
-         url('/fonts/raleway.svg#RalewayThin') format('svg');
-    font-weight: bold;
-    font-style: normal;
-}
-
 * {
 	margin: 0;
 	padding: 0;
@@ -22,8 +10,15 @@ html {
 body {
 	height: 100%;
 	background: url(/images/header.png) repeat-x;
-	font-family: 'Georgia', 'Liberation Serif', serif; /* Serif font stack for body copy, overriden by sans-serif for headers */
-	font-size: 15px;
+	/* Sans-serif stack for the body copy, serif for the headers */
+	font-family: 'Gill Sans', 'Sawasdee', 'Verdana';
+	font-size: 13px;
+}
+
+/* Serif font stack for all header-like things */
+
+h1, h2, h3, h4, h5, h6, #title {
+	font-family: 'Georgia', 'Bitstream Charter', serif;
 }
 
 img {
@@ -31,8 +26,9 @@ img {
 }
 
 #header {
-	height: 120px;
+	height: 90px;
 	padding-top: 50px;
+	border-bottom: #777 solid 5px;
 }
 
 #wrap {
@@ -41,9 +37,12 @@ img {
 	margin: 0 auto;
 }
 
-#logo {
-	position: relative;
-	left: 50px;
+#title {
+	text-decoration: none;
+	font-size: 4.0em;
+	color: #000;
+	font-weight: normal;
+	padding-left: 170px;
 }
 
 #menu {
@@ -52,7 +51,7 @@ img {
 	text-transform: lowercase;
 	font-size: 1.6em;
 	position: relative;
-	top: 30px;
+	top: 23px;
 }
 
 #menu li {
@@ -61,12 +60,12 @@ img {
 }
 
 #menu a {
-	color: #D1D1D1;
+	color: #444;
 	text-decoration: none;
 }
 
 #menu a:hover {
-	color: #FFFFFF;
+	color: #000;
 }
 
 /* the fork me on github ribbon on the right */
@@ -92,7 +91,6 @@ h1, h2 {
 	border-bottom: #333333 dotted 1px;
     text-transform: lowercase;
     padding-bottom: 0.2em;
-    font-family: 'Gill Sans Light', 'Raleway';
 }
 
 /* For post titles */
@@ -191,7 +189,7 @@ p > code {
 	clear: both;
 	text-align: center;
 	color: #FFFFFF;
-	font-size: 1.1em;
+	font-size: 1.2em;
 	background-color: #3D3D3D;
 	width: 100%;
 } 
