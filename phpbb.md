@@ -1,10 +1,7 @@
 ---
-title: home
+title: phpBB MODs and support
 layout: default
 ---
-
-phpBB MODs and support
-======================
 
 If you have phpBB-related support enquiries, please post them to the relevant forum at [phpBB.com](http://www.phpbb.com); although I do on occasion offer private support, I prefer to provide it publicly so others may benefit from it as well. Support requests related to my MODs should go in their respective topics (see below). If you wish to contact me for anything else phpBB-related, feel free to drop me a [private message](http://www.phpbb.com/community/ucp.php?i=pm&mode=compose&u=178433) on the forums or email dellsystem@phpbb.com.
 

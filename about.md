@@ -3,8 +3,6 @@ title: about
 layout: default
 ---
 
-about
------
 <img src="http://gravatar.com/avatar/0826c9e6449c9a08230ac6d40a3cde4d" class="leftfloat" />
 *	currently living in montreal and studying at mcgill university
 *	major: biology and computer science
