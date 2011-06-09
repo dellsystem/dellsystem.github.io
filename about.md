@@ -5,7 +5,7 @@ layout: default
 
 <img src="http://gravatar.com/avatar/0826c9e6449c9a08230ac6d40a3cde4d" class="leftfloat" />
 
-I'm a first year student studying biology and computer science at McGill University. I'm interested in web development and design, particularly when it involves FOSS, phpBB, jQuery, Django, Liquid, Markdown, Inkscape, pretty icons or any combination of the above. I'm also interested in non-web things like [network](/posts/modularity) and graph theory, AI algorithms and really cool command-line scripts. Feel free to [email me](#contact_info) if ... well, if you want to email me.
+I'm a first year student studying biology and computer science at McGill University. I'm interested in web development and design, particularly when it involves FOSS, phpBB, jQuery, Django, Liquid, Markdown, Inkscape, pretty icons or any combination of the above. I'm also interested in non-web things like network and graph theory, AI algorithms and really cool command-line scripts. Feel free to [email me](#contact_info) if ... well, if you want to email me.
 
 contact info
 ------------
