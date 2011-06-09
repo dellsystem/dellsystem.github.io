@@ -32,10 +32,3 @@ An unofficial open source wiki-based resource for the courses at McGill Universi
 <a href="http://www.ssuns.org"><img src="images/projects/ssuns.png" alt="SSUNS" class="leftfloat" /></a>
 
 As the USG-IT for this Model UN conference at McGill, I redesigned the site and built a content management system around phpBB. The source of the site is [available on github](https://www.github.com/dellsystem/ssuns-2011); pull requests are welcomed.
-
-[Zen](http://zen.ruthsresearch.org)
-------
-
-<a href="http://www.ssuns.org"><img src="images/projects/zen.png" alt="Zen network library" class="leftfloat" /></a>
-
-Blah blah
