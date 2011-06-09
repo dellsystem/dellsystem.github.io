@@ -1,12 +1,14 @@
 ---
 layout: default
 ---
+<div class="post">
+<img src="/images{{ page.url }}.png" alt="{{ page.title }}" class="leftfloat" />
 
 <p><a href="/archives">&laquo; Back to archives</a> :: <em>{{ page.date | date_to_string }}</em> :: Categories: {% for category in page.categories %}<strong>{{ category }}</strong>{% if forloop.last %}{% else %}, {% endif %}{% endfor %}</p>
 
 {{ content }}
 
-<br />
+</div>
 <h2>Related posts</h2>
 
 <ul>
