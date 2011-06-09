@@ -4,17 +4,16 @@ layout: default
 ---
 
 <img src="http://gravatar.com/avatar/0826c9e6449c9a08230ac6d40a3cde4d" class="leftfloat" />
-*	currently living in montreal and studying at mcgill university
-*	major: biology and computer science
-*	real name: not dellsystem (not actually sponsored by Dell, although Dell did take the domain I originally wanted)
+
+I'm a first year student studying biology and computer science at McGill University. I'm interested in web development and design, particularly when it involves FOSS, phpBB, jQuery, Django, Liquid, Markdown, Inkscape, pretty icons or any combination of the above. I'm also interested in non-web things like [network](/posts/modularity) and graph theory, AI algorithms and really cool command-line scripts. Feel free to [email me](#contact_info) if ... well, if you want to email me.
 
 contact info
 ------------
 
-*	**note**: for [phpBB](phpbb)-related issues (support, MOD installation or creation requests, etc), please contact me through my phpBB account, or email dellsystem@phpbb.com if you don't have one. for everything else, feel free to email me at my gmail account.
 *	gmail: ilostwaldo
 *	freenode nick: dellsystem
 *	facebook: [ilostwaldo](http://www.facebook.com/ilostwaldo)
+*	phpBB: dellsystem (or email dellsystem at the phpbb.com domain)
 
 interests
 ---------
@@ -23,15 +22,17 @@ interests
 *	doing cool sciency things in labs
 *	[listening to music][last.fm]
 *	[solving puzzles](http://www.projecteuler.net)
-*	[pretty](http://www.mathjax.org "one of the most beautiful things in the world, I swear") [things](http://www.weareagoodcompany.com/ "just gorgeous")
+*	[pretty](http://www.mathjax.org) [things](http://www.vladstudio.com/)
+*	conventions, clean code, and consonance
 
 miscellaneous
 -------------
 
-*	currently running: ubuntu 10.10 + gnome
+*	currently running: ubuntu 11.04 + gnome
 *	favourite pokemon: mudkip, as you may have heard
 *	favourite text editor: `vim` for the command line, `gedit` otherwise; IDEs tend to crash in my presence
-*	favourite open source software: [inkscape](http://www.inkscape.org), [phpBB](http://www.phpbb.com), [git](http://www.git-scm.com), [kwordquiz](http://edu.kde.org/kwordquiz/)
+*	favourite open source software: [inkscape](http://www.inkscape.org), [phpBB](http://www.phpbb.com), [git](http://www.git-scm.com), [kwordquiz](http://edu.kde.org/kwordquiz/), notecase
+*	favourite fonts: Gill Sans and Georgia as you can probably tell
 *	programming languages: python, PHP, java, javascript, some C, very little bash
 
 other stuff
