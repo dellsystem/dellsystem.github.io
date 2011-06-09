@@ -9,7 +9,6 @@ html {
 
 body {
 	height: 100%;
-	background: url(/images/header.png) repeat-x;
 	/* Sans-serif stack for the body copy, serif for the headers */
 	font-family: 'Gill Sans', 'Sawasdee', 'Verdana';
 	font-size: 13px;
@@ -23,6 +22,12 @@ h1, h2, h3, h4, h5, h6, #title {
 
 img {
 	border: 0;
+}
+
+hr {
+	background-color: #AAA;
+	height: 5px;
+	border: 0px;
 }
 
 #header {
@@ -42,7 +47,8 @@ img {
 	font-size: 4.0em;
 	color: #000;
 	font-weight: normal;
-	padding-left: 170px;
+	position: relative;
+	left: 170px;
 }
 
 #menu {
@@ -117,6 +123,11 @@ h3 {
 	padding-bottom: 5px;
 }
 
+/* For posts ... that necessary bit of padding */
+.post {
+	padding-top: 7px;
+}
+
 /* for left-floating images */
 .leftfloat {
 	float: left;
@@ -124,12 +135,19 @@ h3 {
 	padding-top: 5px;
 }
 
+/* For things like "read more" */
+.rightfloat {
+	float: right;
+	margin-top: -2.4em;
+}
+
 #main a {
 	color: #E42217;
 	text-decoration: none;
 }
 
-#main a:hover {
+/* So that images, headers don't get underlines */
+#main p a:hover, #main li a:hover {
 	border-bottom: #E42217 solid 1px;
 	text-decoration: none;
 }

@@ -2,4 +2,4 @@ safe:       true
 auto:       true
 server:     true
 pygments:   true
-permalink:  /writing/:title
+permalink:  /posts/:title
