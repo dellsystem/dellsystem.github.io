@@ -2,15 +2,13 @@
 layout: default
 ---
 
-{{ content }}
+<p>Categories: {% for category in site.categories %}<strong><a class="fake-link" id="category-{{ category[0] }}">{{ category[0] }}</a></strong>{% if forloop.last %}{% else %}, {% endif %}{% endfor %} :: <strong><a class="fake-link" id="show-all">show all</a></strong></p>
 
 <ul class="posts">
     {% for post in site.posts %}
         <li class="{% for category in post.categories %}category-{{ category }}{% if forloop.last %}{% else %} {% endif %}{% endfor %}"><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }}) :: Categories: {{ post.categories | array_to_sentence_string }}</li>
     {% endfor %}
 </ul>
-
-<p>Categories: {% for category in site.categories %}<strong><a class="fake-link" id="category-{{ category[0] }}">{{ category[0] }}</a></strong>{% if forloop.last %}{% else %}, {% endif %}{% endfor %} :: <strong><a class="fake-link" id="show-all">show all</a></strong></p>
 
 <script>
 // For simulating category-pages

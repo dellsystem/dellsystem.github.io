@@ -12,6 +12,9 @@ body {
 	/* Sans-serif stack for the body copy, serif for the headers */
 	font-family: 'Gill Sans', 'Sawasdee', 'Verdana';
 	font-size: 13px;
+	background-image: url('/images/header.png');
+	background-repeat: no-repeat;
+	background-position: top center;
 }
 
 /* Serif font stack for all header-like things */
@@ -48,7 +51,7 @@ hr {
 	color: #000;
 	font-weight: normal;
 	position: relative;
-	left: 170px;
+	left: 190px;
 }
 
 #menu {
@@ -113,7 +116,7 @@ h3 {
 	font-size: 1.8em;
 	padding-top: 5px;
 	padding-bottom: 5px;
-	font-weight: 700;
+	font-weight: 600;
 	color: #191919;
 	clear: both;
 }
@@ -185,8 +188,8 @@ h3 {
 
 /* For code in general, syntax-highlighted code done in syntax.css */
 code {
-	font-family: 'Consolas', 'Monaco', monospace;
-	font-size: 0.8em;
+	font-family: 'Consolas', 'Monaco', 'Tlwg Typo', monospace;
+	font-size: 1.0em;
 }
 
 /* below: no highlighting, but on its own line */

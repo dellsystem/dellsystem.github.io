@@ -13,7 +13,7 @@ contact info
 *	gmail: ilostwaldo
 *	freenode nick: dellsystem
 *	facebook: [ilostwaldo](http://www.facebook.com/ilostwaldo)
-*	phpBB: dellsystem (or email dellsystem at the phpbb.com domain)
+*	phpBB: [dellsystem](http://www.phpbb.com/community/ucp.php?i=pm&mode=compose&u=178433) (or email dellsystem at the phpbb.com domain)
 
 interests
 ---------

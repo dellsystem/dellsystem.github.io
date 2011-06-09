@@ -1,7 +1,7 @@
 ---
-title: writing
+title: archives
 layout: posts
 jquery: true
 ---
 
-there is nothing here, not even this line
+this will never show up
