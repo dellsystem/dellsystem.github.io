@@ -31,7 +31,7 @@ miscellaneous
 *	currently running: ubuntu 11.04 + gnome
 *	favourite pokemon: mudkip, as you may have heard
 *	favourite text editor: `vim` for the command line, `gedit` otherwise; IDEs tend to crash in my presence
-*	favourite open source software: [inkscape](http://www.inkscape.org), [phpBB](http://www.phpbb.com), [git](http://www.git-scm.com), [kwordquiz](http://edu.kde.org/kwordquiz/), notecase
+*	favourite open source software: [inkscape](http://www.inkscape.org), [phpBB](http://www.phpbb.com), [git](http://www.git-scm.com), [kwordquiz](http://edu.kde.org/kwordquiz/), [notecase](http://notecase.sourceforge.net)
 *	favourite fonts: Gill Sans and Georgia as you can probably tell
 *	programming languages: python, PHP, java, javascript, some C, very little bash
 
