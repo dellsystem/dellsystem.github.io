@@ -188,7 +188,7 @@ h3 {
 
 /* For code in general, syntax-highlighted code done in syntax.css */
 code {
-	font-family: 'Consolas', 'Monaco', 'Tlwg Typo', monospace;
+	font-family: 'Consolas', 'Monaco', 'Monospace', monospace;
 	font-size: 1.0em;
 }
 

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Modularity in a network
-category: networks
+title: "Community detection in a network: modularity"
+categories:
+- algorithms
 ---
 
 ...
