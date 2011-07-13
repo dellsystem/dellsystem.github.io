@@ -1,5 +1,5 @@
 ---
-title: Where's Waldo
+title: phpBB Where's Waldo MOD
 layout: mod
 topic-url: http://www.phpbb.com/community/viewtopic.php?f=70&t=2092309
 repo-name: phpBB-waldo

@@ -1,5 +1,5 @@
 ---
-title: Dynamic Avatar (Dynamo)
+title: phpBB Dynamic Avatar MOD (Dynamo)
 layout: mod
 topic-url: http://www.phpbb.com/community/viewtopic.php?f=70&t=1823845
 repo-name: phpBB-dynamic-avatar

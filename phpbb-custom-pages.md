@@ -1,5 +1,5 @@
 ---
-title: Custom Pages
+title: phpBB Custom Pages MOD
 layout: mod
 topic-url: http://www.phpbb.com
 repo-name: phpBB-custom-pages
