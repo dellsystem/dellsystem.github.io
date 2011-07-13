@@ -12,9 +12,9 @@ versions:
 - {number: 0.0.5, status: ALPHA, notes: "Another maintenance release - removed reference to unnecessary variable"}
 abandoned: false
 screenshots:
-- https://github.com/dellsystem/phpBB-waldo/raw/0.1.0-dev/contrib/screenshot-index.png
-- https://github.com/dellsystem/phpBB-waldo/raw/0.1.0-dev/contrib/screenshot-profile.png
-- https://github.com/dellsystem/phpBB-waldo/raw/0.1.0-dev/contrib/screenshot-ucp.png
+- https://github.com/dellsystem/phpBB-waldo/raw/master/contrib/screenshot-index.png
+- https://github.com/dellsystem/phpBB-waldo/raw/master/contrib/screenshot-profile.png
+- https://github.com/dellsystem/phpBB-waldo/raw/master/contrib/screenshot-ucp.png
 requests-open: true
 ---
 
