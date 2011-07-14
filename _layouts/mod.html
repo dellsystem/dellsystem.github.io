@@ -66,7 +66,7 @@ layout: default
 {% endif %}
 
 <div id="mod-status" class="colour-{{ colour }}">
-	<h3>status: {% if page.abandoned %}ABD{% else %}{{ status }}{% endif %}</h3>
+	<a href="https://github.com/dellsystem/{{ page.repo-name}}"><h3>status: {% if page.abandoned %}ABD{% else %}{{ status }}{% endif %}</h3></a>
 	<div class="serif">Latest version: {{ latest-version }}</div>
 	<p>{{ status-description }}{% if status == 'MODDB' %} You can download it directly using the links on the right, or <a href="{{ moddb-url }}">through the MODDB</a>.{% else %} {% if status == 'DEV' %}If you want to check out the progress, download the latest snapshot using the links on the right or below.{% else %}Download it using the links to the right or below.{% endif %} <strong>Do not use on a live board!</strong>{% endif %}</p>
 </div><a href="https://www.github.com/dellsystem/{{ page.repo-name }}/zipball/master"><img src="/images/zip.png" alt="zip" title="Download the MOD in zip format" class="download-image" /></a><a href="https://www.github.com/dellsystem/{{ page.repo-name }}/tarball/master"><img src="/images/tar.png" alt="png" title="Download the MOD in tarball format" class="download-image" /></a>
