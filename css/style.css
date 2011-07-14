@@ -312,3 +312,15 @@ body:before {
 	background: -webkit-gradient(linear, left top, left bottom, from(#777), to(#CCC));
 	background: -moz-linear-gradient(top, #777, #CCC);
 }
+
+.sudoku {
+	border: 2px solid #111;
+}
+
+.sudoku td {
+	width: 35px;
+	height: 35px;
+	border: 1px solid #CCC;
+	text-align: center;
+	vertical-align: middle;
+}
