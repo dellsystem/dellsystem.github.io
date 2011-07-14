@@ -6,7 +6,8 @@ Things to do
 *	Change categories? add an encryption one maybe
 *	Work on posts (code, images, content etc)
 *	Add other projects (and fix layout to include the serif title element thing)
-*	titular elements (h1, h2 etc) don't have to be all lowercase
+*   art & design stuff
+*   consider using less (css-wise) for styling
 
 About
 -----
