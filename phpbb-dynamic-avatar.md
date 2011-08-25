@@ -4,6 +4,8 @@ layout: mod
 topic-url: http://www.phpbb.com/community/viewtopic.php?f=70&t=1823845
 repo-name: phpBB-dynamic-avatar
 demo-url: http://phpbb.dellsystem.me/dynamo/
+versions:
+- {number: 0.0.1, status: ALPHA, notes: "First ALPHA release (extremely unstable)"}
 screenshots:
 - https://github.com/dellsystem/phpBB-dynamic-avatar/raw/master/contrib/acp-edit-layer.png
 - https://github.com/dellsystem/phpBB-dynamic-avatar/raw/master/contrib/acp-items.png
