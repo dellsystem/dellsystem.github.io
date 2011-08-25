@@ -16,10 +16,9 @@ layout: default
 {% for screenshot in page.screenshots %}
 <a href="{{ screenshot }}"><img src="{{ screenshot }}" class="thumb" /></a>
 {% endfor %}
-<br />
 {% endif %}
 <div id="demo-link" class="rounded-corners blue">
-	<p><a href="{{ page.demo_url }}">Test it on out on the demo board &raquo;</a> (username <strong>ash</strong>, password <strong>ketchum</strong>)</p>
+	<p><a href="{{ page.demo-url }}">Test it on out on the demo board &raquo;</a><br />Username: <strong>ash</strong>, password: <strong>ketchum</strong></p>
 </div>
 
 <h3>Installation</h3>
