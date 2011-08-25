@@ -27,12 +27,8 @@ A small image of Waldo \[US\] / Wally \[UK\] may appear somewhere on every page 
 *   You can set it so that clicking on the image of Waldo will lead you to another page (either within your domain or off-site)
 *	Mouseover text and the URL to the image of Waldo are both adjustable through the ACP
 *	Waldo can appear anywhere in the visible part of the window
+{% features closed phpBB-waldo %}
 
 **Planned features:**
 
-*	The ability to select specific pages only where Waldo will appear (in conjunction with the random feature)\
-*	ACP permissions
-*	Enable/disable for guests (or groups)
-*	Users can be choose between having points awarded upon seeing Waldo and have them awarded upon clicking him and being directed to a specific page (with user-configurable text)
-*	Ability to upload the new Waldo image via the ACP
-*	Ability to set a cap on the maximum amount of points a user can earn in a specific time period
+{% features open phpBB-waldo %}
