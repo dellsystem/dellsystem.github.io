@@ -22,7 +22,7 @@ This MOD provides the ability to edit your avatar, using bodily features and clo
 
 ### [Where's Waldo](phpbb-waldo) ###
 
-A small image of Waldo [US] / Wally [UK] may appear somewhere on every page as you browse the board. Inspired by Xore's 2.x MOD CamelMOD. 
+A small image of Waldo (US) / Wally (UK) may appear somewhere on every page as you browse the board. Inspired by Xore's 2.x MOD CamelMOD.
 
 [View development topic](http://www.phpbb.com/community/viewtopic.php?f=70&t=2092309) :: [Demo board](http://phpbb.dellsystem.me/waldo/)
 
