@@ -2,10 +2,10 @@
 layout: post
 title: "Sudoku code: another encryption scheme"
 categories:
-- algorithms
 - useless
+- encryption
 code: true
-published: true
+published: false
 ---
 
 Another useless encryption scheme devised by yours truly. While my last one ([pi code](/posts/pi-code/)) was primarily a substitution cipher, this one most significantly involves a transposition cipher, with a simple substitution cipher used as an additional layer. The main idea here is the use of certain numbers in a particular sudoku grid, resulting in a grid cipher. The strength (if any) in this method lies in its unexpected nature; it certainly takes quite a leap of the imagination to correctly deduce the method from the ciphertext. Of course, once the method has been discovered, deciphering merely involves solving a sudoku grid and then figuring out the substitution cipher used, meaning that the key is easy to determine and so this method kind of just looks at Kerckhoffs's Principle and then keeps walking. But that's okay, that's why this is filed under **useless**.
@@ -242,6 +242,7 @@ Now, depending on the length of the plaintext, we can choose somewhere between o
 		<td> </td>
 		<td>3</td>
 		<td>8</td>
+		<td></td>
 	</tr>
 	<tr> 
 		<td>3</td>
@@ -613,3 +614,10 @@ And there you go. not indecipherable but certainly very misleading. To decipher,
 Challenge:
 
 ### Implementation in various programming languages ###
+
+### Summary ###
+
+Alternatives:
+*	Instead of encrypting the sudoku puzzle itself, use a standard one. for example, if you and your imaginary recipient both have access to the new york times, which we will pretend has a daily sudoku puzzle if it doesn't already, then just use that. and to indicate the numbers, put in the numbers somewhere. for better obscurity, make the first number the number of numbers and put in other random numbers. or, the number of characters in front of the first number. etc. this means that the key itself (or at least the prelude to the key) does not have to be distributed along with the message, making it somewhat more secure. The implementation is similar:
+
+NOTE: ADD A SUDOKU SOLVER
