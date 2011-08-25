@@ -18,7 +18,9 @@ layout: default
 {% endfor %}
 <br />
 {% endif %}
-<p>Demo board: <a href="{{ page.demo-url }}">{{ page.demo-url }}</a>
+<div id="demo-link" class="rounded-corners blue">
+	<p><a href="{{ page.demo_url }}">Test it on out on the demo board &raquo;</a> (username <strong>ash</strong>, password <strong>ketchum</strong>)</p>
+</div>
 
 <h3>Installation</h3>
 
@@ -65,7 +67,7 @@ layout: default
 	{% assign status-description = "Uhoh - this MOD has been abandoned! That means you can still download it, but I won't be developing it any further or providing support for it." %} 
 {% endif %}
 
-<div id="mod-status" class="colour-{{ colour }}">
+<div id="mod-status" class="{{ colour }}-gradient rounded-corners">
 	<a href="https://github.com/dellsystem/{{ page.repo-name}}"><h3>status: {% if page.abandoned %}ABD{% else %}{{ status }}{% endif %}</h3></a>
 	<div class="serif">Latest version: {{ latest-version }}</div>
 	<p>{{ status-description }}{% if status == 'MODDB' %} You can download it directly using the links on the right, or <a href="{{ moddb-url }}">through the MODDB</a>.{% else %} {% if status == 'DEV' %}If you want to check out the progress, download the latest snapshot using the links on the right or below.{% else %}Download it using the links to the right or below.{% endif %} <strong>Do not use on a live board!</strong>{% endif %}</p>

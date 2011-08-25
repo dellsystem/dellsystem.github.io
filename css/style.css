@@ -244,14 +244,28 @@ body:before {
 	padding-bottom: 10px;
 }
 
+.rounded-corners {
+	border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-mozilla-border-radius: 10px;
+}
+
+#demo-link {
+	height: 30px;
+	padding: 10px;
+	color: #FFF;
+}
+
+#demo-link a {
+	font-weight: bold;
+	color: #FFF !important;
+}
+
 #mod-status {
 	width: 739px;
 	height: 80px;
 	padding: 10px;
 	display: inline-block;
-	border-radius: 10px;
-	-webkit-border-radius: 10px;
-	-mozilla-border-radius: 10px;
 }
 
 #mod-status h3 {
@@ -276,40 +290,44 @@ body:before {
 	background-position: right;
 }
 
-.colour-red {
+.red-gradient {
 	background: #FF3636;
 	background: -webkit-gradient(linear, left top, left bottom, from(#FF3636), to(#FF6868));
 	background: -moz-linear-gradient(top, #FF3636, #FF6868);
 }
 
-.colour-orange {
+.orange-gradient {
 	background: #FF9853;
 	background: -webkit-gradient(linear, left top, left bottom, from(#FF9853), to(#FFB37F));
 	background: -moz-linear-gradient(top, #FF9853, #FFB37F);
 }
 
-.colour-yellow {
+.yellow-gradient {
 	background: #FFD528;
 	background: -webkit-gradient(linear, left top, left bottom, from(#FFD528), to(#FFEA96));
 	background: -moz-linear-gradient(top, #FFD528, #FFEA96);
 }
 
-.colour-green {
+.green-gradient {
 	background: #83C955;
 	background: -webkit-gradient(linear, left top, left bottom, from(#83C955), to(#A9C994));
 	background: -moz-linear-gradient(top, #83C955, #A9C994);
 }
 
-.colour-blue {
+.blue-gradient {
 	background: #2679F5;
 	background: -webkit-gradient(linear, left top, left bottom, from(#2679F5), to(#77ACF5));
 	background: -moz-linear-gradient(top, #2679F5, #77ACF5);
 }
 
-.colour-grey {
+.grey-gradient {
 	background: #999;
 	background: -webkit-gradient(linear, left top, left bottom, from(#777), to(#CCC));
 	background: -moz-linear-gradient(top, #777, #CCC);
+}
+
+.blue {
+	background: #017AB6;
 }
 
 .sudoku {
