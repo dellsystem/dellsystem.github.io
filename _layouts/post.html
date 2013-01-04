@@ -2,9 +2,9 @@
 layout: default
 ---
 <div class="post">
-<img src="/images{{ page.url }}.png" alt="{{ page.title }}" class="leftfloat" />
+<img src="/img{% if page.image %}/posts/{{ page.image }}{% else %}{{ page.url }}{% endif %}.png" alt="{{ page.title }}" class="leftfloat" />
 
-<p><a href="/archives">&laquo; Back to archives</a> :: <em>{{ page.date | date_to_string }}</em> :: Categories: {% for category in page.categories %}<strong>{{ category }}</strong>{% if forloop.last %}{% else %}, {% endif %}{% endfor %}</p>
+<p><a href="/archives">&laquo; Back to archives</a> :: <em>{{ page.date | date_to_string }}</em> :: Categories: {% for category in page.categories %}<strong><a href="/archives#{{ category|replace:' ','-' }}">{{ category }}</a></strong>{% if forloop.last %}{% else %}, {% endif %}{% endfor %}</p>
 
 {{ content }}
 

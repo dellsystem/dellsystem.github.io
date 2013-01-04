@@ -5,31 +5,44 @@
   <head>
     <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 	<title>dellsystem.me :: {{ page.title }}</title>
-	<link href="/css/style.css" media="screen" rel="stylesheet" type="text/css" />
+    <link href="http://fonts.googleapis.com/css?family=Crimson+Text" rel="stylesheet" type="text/css">
+	<link rel="stylesheet" type="text/css" href="/css/styles.css" />
 	{% if page.math %}<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>{% endif %}
 	{% if page.jquery %}<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>{% endif %}
 	{% if page.code %}<link href="/css/syntax.css" media="screen" rel="stylesheet" type="text/css" />{% endif %}
+	{% if page.css %}<link href="/css/posts/{{ page.css }}.css" rel="stylesheet" type="text/css" />{% endif %}
+    <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-34314150-1']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    </script>
 </head>
 
 <body>
-	<div id="wrap">
-		<div id="header">
-			<a href="http://www.dellsystem.me" id="title">dellsystem</a>
+	<div id="header">
+		<div class="wrap">
+			<a href="http://www.dellsystem.me" id="title"><img src="http://gravatar.com/avatar/0826c9e6449c9a08230ac6d40a3cde4d?s=100" alt="Gravatar" title="Gravatar" /> dellsystem.me</a>
 			<ul id="menu">
 				<li><a href="/index">Home</a></li>
 				<li><a href="/about">About</a></li>
 				<li><a href="/projects">Projects</a></li>
 				<li><a href="/archives">Archives</a></li>
 			</ul>
-			<a href="https://www.github.com/dellsystem"><img src="/images/forkme.png" title="teehee" alt="Fork me on Github" id="ribbon" /></a>
+			<a href="https://www.github.com/dellsystem"><img src="/img/forkme.png" title="Fork me on Github" alt="Github ribbon" id="ribbon" /></a>
 		</div>
-		<div id="main">
-			<h1>{{ page.title }}</h1>
-			{{ content }}
-		</div><!-- ends the main -->
-	</div><!-- ends the wrap -->
+	</div>
+	<div id="content">
+		<h1>{{ page.title }}</h1>
+		{{ content }}
+	</div>
 	<div id="footer">
-		<br />website source available at <a href="https://www.github.com/dellsystem/dellsystem.me">github</a>
+			powered by jekyll. website source available on <a href="https://www.github.com/dellsystem/dellsystem.me" title="hasn't been updated in a while though sorry">github</a>
 	</div>
 </body>
 </html>

@@ -1,5 +1,4 @@
-safe:       true
-auto:       true
-server:     true
+safe:       false
 pygments:   true
 permalink:  /posts/:title
+markdown: 	rdiscount

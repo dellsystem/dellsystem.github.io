@@ -1,0 +1,32 @@
+---
+layout: nil
+---
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+  <title>dellsystem.me</title>
+  <link href="http://dellsystem.me/"/>
+  <link type="application/atom+xml" rel="self" href="http://dellsystem.me/atom.xml"/>
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <id>http://dellsystem.me/</id>
+  <author>
+    <name>Wendy Liu</name>
+    <email>ilostwaldo@gmail.com</email>
+  </author>
+
+  {% for post in site.posts %}
+  <entry>
+    <id>http://dellsystem.me{{ post.id }}</id>
+    <link type="text/html" rel="alternate" href="http://dellsystem.me{{ post.url }}"/>
+    <title>{{ post.title }}</title>
+    <published>{{ post.date | date_to_xmlschema }}</published>
+    <updated>{{ post.date | date_to_xmlschema }}</updated>
+    <author>
+      <name>dellsystem (Wendy Liu)</name>
+      <uri>http://dellsystem.me</uri>
+    </author>
+    <content type="html">{{ post.content | xml_escape }}</content>
+  </entry>
+  {% endfor %}
+ 
+</feed>

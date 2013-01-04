@@ -15,7 +15,7 @@ module Jekyll
 			username = 'dellsystem'
 			state = text[0] == 'open' ? 'open' : 'closed'
 			repo_name = text[1]
-			issues_url = "https://github.com/api/v2/json/issues/list/#{username}/#{repo_name}/" << state
+			issues_url = "https://github.com/api/v3/json/issues/list/#{username}/#{repo_name}/" << state
 			client = HTTPClient.new
 	
 			issues = JSON.parse(client.get_content(issues_url))['issues']

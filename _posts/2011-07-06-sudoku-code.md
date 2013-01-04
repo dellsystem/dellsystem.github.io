@@ -222,7 +222,7 @@ Once solved, it looked like this (as sudoku puzzles always have a unique solutio
 	</tr>
 </table>
 
-Obviously, each solved grid can be represented by a sequence of 81 numbers. Furthermore, due to the uniqueness of the solution, the initial grid and the solved grid are equivalent in the sense that from the initial grid one can determine the solved grid. So we represent the initial grid as follows (with 0s standing for spaces):
+Clearly, each solved grid can be represented by a sequence of 81 numbers. Furthermore, due to the uniqueness of the solution, the initial grid and the solved grid are equivalent in the sense that from the initial grid one can determine the solved grid. So we represent the initial grid as follows (with 0s standing for spaces):
 
 `500170080319050400000300015200080000400705009000090004650002000002060548040037002`
 
@@ -609,7 +609,7 @@ Now we split it up into chunks of 32 digits each:
 	
 (This one was badly spaced, because I didn't plan it out well ... the characters should be more or less evenly spaced.)
 
-And there you go. not indecipherable but certainly very misleading. To decipher, first separate the numerals from the alphabetic characters, then write out the first 81 characters within a 9x9 grid. Then fill another 9x9 grid with the first 81 numerals (one digit per box), omitting the zeros, and solve the resulting sudoku puzzle. Take the remaining (non-zero) digits and highlight the positions in the grid corresponding to those digits. The characters corresponding to the non-highlighted positions can be discarded. Now it only remains to reverse the substitution cipher and insert spaces where necessary.
+And there you go. Not indecipherable but certainly very misleading. To decipher, first separate the numerals from the alphabetic characters, then write out the first 81 characters within a 9x9 grid. Then fill another 9x9 grid with the first 81 numerals (one digit per box), omitting the zeros, and solve the resulting sudoku puzzle. Take the remaining (non-zero) digits and highlight the positions in the grid corresponding to those digits. The characters corresponding to the non-highlighted positions can be discarded. Now it only remains to reverse the substitution cipher and insert spaces where necessary.
 
 Challenge:
 

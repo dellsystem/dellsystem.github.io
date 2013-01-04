@@ -1,28 +1,15 @@
 ---
 title: projects
-layout: default
+layout: projects
+projects:
+- [['phpBB', 'phpbb'], "phpBB is a popular open source bulletin board system written, shockingly, in PHP. I've been a moderator since October 2007 and a website team member since July 2011, and am currently working on several MODifications, the details of which can be found [here](phpbb)."]
+- [['wikinotes', 'http://www.wikinotes.ca'], "A free, unofficial wiki-based resource for the courses at McGill University. As one of the admins, I'm working on improving the quality of the content, redesigning the site and moving from MediaWiki to Django (a beta is available at [beta.wikinotes.ca](http://beta.wikinotes.ca), with the source [on github](https://www.github.com/dellsystem/wikinotes)). The site can be found at [www.wikinotes.ca](http://www.wikinotes.ca)."]
+- [['ssuns', 'https://www.github.com/juliusrain'], "As the 2011 USG-IT for this high school model UN conference at McGill, I redesigned the site and built a custom-tailored content management and registration system around phpBB. The source of the site is [available on github](https://www.github.com/dellsystem/ssuns-2011), and I'm planning on releasing the code for certain reusable features as independent MODs. The site is currently being managed by [juliusrain](https://www.github.com/juliusrain \"juliusrain is the best rain\")."]
+- [['diva', 'http://ddmal.music.mcgill.ca/diva'], "An open source document viewer for high-resolution scanned documents, particularly music. Written as a jQuery plugin, with the source [available on github](https://www.github.com/DDMAL/diva.js). Spring of 2011 to present, for McGill's Department of Music Technology. [Find out more here.](http://ddmal.music.mcgill.ca/diva)"]
+- [['mcmun', 'http://www.mcmun.org'], "As the current USG-IT for this university-level model UN conference at McGill, I again redesigned the site and built a custom content management system, this time with Django. The source of the site is [available on github](https://www.github.com/dellsystem/mcmun-2013)."]
+- [['ctf', 'http://taskforce.sus.mcgill.ca'], "As the current webmaster for the student-run Computer Taskforce at McGill, I created a static website for the student group using Jekyll and the Twitter bootstrap. As usual, the source is [available on github](https://www.github.com/dellsystem/ctf-website \"I kind of like github a lot. Not sure if you can tell.\")."]
+- [['networkdynamics', 'http://networkdynamics.org/'], "As a student researcher in the [Network Dynamics Lab](http://networkdynamics.org/) (part of McGill University's School of Computer Science), I write code, run experiments, and analyse data, mostly in the field of demographic inference with regard to Twitter. Most recently, I created the interface for [a visualisation of Christmas wishes on Twitter](http://xmas2012.networkdynamics.org); before that, I designed the interface for [an interactive visualisation of the 2012 US presidential election, in tweets](http://election.networkdynamics.org/)."]
+- [['agora', 'http://dellsystem.me/posts/socis-2012-with-octave/'], "I'm working on completing [Agora Octave](http://agora.octave.org/), a code submission and collaboration website for [Octave](http://octave.org)-related projects, as part of the European Space Agency's [Summer of Code in Space 2012](http://sophia.estec.esa.int/socis2012/). Find out more [here](http://dellsystem.me/posts/socis-2012-with-octave/)."]
 ---
 
 Interested in hiring me for something, or getting involved in any of my projects? [Contact me](/about#contact_info).
-
-<a href="phpbb"><img src="images/projects/phpbb.png" alt="phpBB" class="leftfloat" /></a>
-
-phpBB is a popular open source bulletin board system written, shockingly, in PHP. I've been a moderator since October 2007 and a website team member since July 2011, and am currently working on several MODifications, the details of which can be found [here](phpbb).
-
-<br clear="all" />
-
-<a href="http://ddmal.music.mcgill.ca/diva"><img src="images/projects/diva.png" alt="diva.js" class="leftfloat" /></a>
-
-An open source document viewer for high-resolution scanned documents, particularly music. Written as a jQuery plugin, with the source [available on github](https://www.github.com/DDMAL/diva.js). Spring of 2011 to present, for McGill's Department of Music Technology. <a href="http://ddmal.music.mcgill.ca/diva">Find out more here.</a>
-
-<br clear="all" />
-
-<a href="http://www.wikinotes.ca"><img src="images/projects/wikinotes.png" alt="wikinotes" class="leftfloat" /></a>
-
-An unofficial open source wiki-based resource for the courses at McGill University. As one of the admins, I'm working on improving the quality of the content, redesigning the site and moving from MediaWiki to Django (work in progress - the source is [available on github](https://www.github.com/dellsystem/wikinotes)). The site can be found at [www.wikinotes.ca](http://www.wikinotes.ca).
-
-<br clear="all" />
-
-<a href="http://www.ssuns.org"><img src="images/projects/ssuns.png" alt="SSUNS" class="leftfloat" /></a>
-
-As the USG-IT for this Model UN conference at McGill, I redesigned the site and built a content management system around phpBB. The source of the site is [available on github](https://www.github.com/dellsystem/ssuns-2011); pull requests are welcomed.

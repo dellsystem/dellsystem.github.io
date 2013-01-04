@@ -1,19 +1,19 @@
-{% for post in site.posts %}
+{% for post in site.posts limit:5 %}
 
 [{{ post.title }}]({{ post.url }})
 ----------------
 
 <div class="post">
 
-<a href="{{ post.url }}"><img class="leftfloat" src="/images{{ post.url }}.png" /></a>
+<a href="{{ post.url }}"><img class="leftfloat" src="/img{% if post.image %}/posts/{{ post.image }}{% else %}{{ post.url }}{% endif %}.png" /></a>
 
 <p>{{ post.date | date_to_string }}</p>
 
-<p>{{ post.content | strip_html | truncate, 400 }}</p>
-
-<p>Categories: <strong>{{ post.categories | array_to_sentence_string }}</strong></p>
+<p>{{ post.content | strip_html | truncate, 250 }}</p>
 
 <p class="rightfloat"><a href="{{ post.url }}">Read more &raquo;</a></p>
+
+<p>Categories: {% for category in post.categories %}<strong><a href="/archives#{{ category|replace:' ','-' }}">{{ category }}</a></strong>{% if forloop.last %}{% else %}, {% endif %}{% endfor %}</p>
 
 </div>
 

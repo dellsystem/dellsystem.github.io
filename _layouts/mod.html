@@ -3,87 +3,84 @@ layout: default
 ---
 
 <a href="/phpbb">&laquo; Back to phpBB page</a>
+<br /><br />
+<img src="/img/phpbb/{{ page.short-name }}.png" class="leftfloat" />
 
-<h3>Description and features</h3>
+<div id="mod-nav">
+<ul>
+	<li><a href="#description">Description</a></li>
+	<li><a href="#features">Features</a></li>
+	<li><a href="#download">Download ({{ page.status }})</a></li>
+	<li><a href="#screenshots">Screenshots/demo</a></li>
+	<li><a href="#installation">Installation</a></li>
+	<li><a href="#development">Development/support</a></li>
+</ul>
+</div>
+
+<a name="description"></a>
 
 {{ content }}
 
+<br />
+
 <p>{% if page.requests-open %}<strong>Open to feature requests!</strong> Post in the <a href="{{ page.topic-url }}">development topic</a> or add an issue to the <a href="https://www.github.com/dellsystem/{{ page.repo-name }}/issues">issue tracker</a>.{% else %}No longer accepting feature requests, sorry!{% endif %}</p>
 
-<h3>Screenshots and demo</h3>
-
-{% if page.screenshots %}
-{% for screenshot in page.screenshots %}
-<a href="{{ screenshot }}"><img src="{{ screenshot }}" class="thumb" /></a>
-{% endfor %}
-{% endif %}
-<div id="demo-link" class="rounded-corners blue">
-	<p><a href="{{ page.demo-url }}">Test it on out on the demo board &raquo;</a><br />Username: <strong>ash</strong>, password: <strong>ketchum</strong></p>
-</div>
-
-<h3>Installation</h3>
-
-<p>To install this MOD, download the package (see below), extract it, and launch the MODX file using your web browser. Follow the instructions in the MODX file. See the <a href="http://www.phpbb.com/kb/article/how-to-install-a-modx-modification/">Knowledge Base article on how to install a MODX modification</a> for more.</p>
-
-<h3>Download and status</h3>
-
-<!-- possible statuses: DEV, ALPHA, BETA, RC, MODDB and ABD -->
-<!-- figure out the status using the versions - if there are no versions available, it's dev -->
-<!-- first assign latest-version in case there are no versions available -->
-{% assign latest-version = 'none' %}
-{% if page.versions %}
-	{% for version in page.versions %}
-		<!-- a bit redundant to loop through them all but the other way isn't working -->
-		{% assign status = version.status %}
-		{% assign latest-version = version.number %}
-	{% endfor %}
-{% else %}
-	{% assign status = 'DEV' %}
-{% endif %}
+<h2 id="download">Download</h2>
 
 <!-- don't think there's any way around doing this because liquid is non-evaling or whatever ... its only downside -->
-{% case status %}
+{% case page.status %}
 {% when 'DEV' %}
-	{% assign colour = 'red' %}
 	{% assign status-description = 'Development has started on this MOD, but there may not be a working version available yet.' %}
 {% when 'ALPHA' %}
-	{% assign colour = 'orange' %}
 	{% assign status-description = 'This MOD is near the beginning of its development cycle and thus may be unstable and/or incomplete.' %}
 {% when 'BETA' %}
-	{% assign colour = 'yellow' %}
-	{% assign status-description = 'This MOD is almost ready for submission to the MOD database, with perhaps a few bugs to fix or features to complete. Not yet stable, but nearly there.' %}
+	{% assign status-description = 'This MOD is almost ready for submission to the MOD database, with perhaps a few unfixed bugs or missing features. Not yet stable, but nearly there.' %}
 {% when 'RC' %}
-	{% assign colour = 'green' %}
 	{% assign status-description = 'This MOD is in release candidate stage, and is ready to be submitted to the MOD database at phpBB.com. At this point, it should be fairly stable.' %}
 {% when 'MODDB' %}
-	{% assign colour = 'blue' %}
 	{% assign status-description = 'This MOD has been approved by the phpBB MODification team and is in the MOD database at phpBB.com.' %}
+{% when 'ABD' %}
+	{% assign status-description = "Uhoh - this MOD has been abandoned! That means you can still download it, but I won't be developing it any further or providing support for it." %} 
 {% endcase %}
 
-<!-- abandoned status is set using abandoned: true in the yaml -->
-{% if page.abandoned %}
-	{% assign colour = 'grey' %}
-	{% assign status-description = "Uhoh - this MOD has been abandoned! That means you can still download it, but I won't be developing it any further or providing support for it." %} 
-{% endif %}
+<a href="https://www.github.com/dellsystem/{{ page.repo-name }}/zipball/master"><img src="/img/zip.png" alt="zip" title="Download the MOD in zip format" class="download-image" /></a><a href="https://www.github.com/dellsystem/{{ page.repo-name }}/tarball/master"><img src="/img/tar.png" alt="png" title="Download the MOD in tarball format" class="download-image" /></a>
 
-<div id="mod-status" class="{{ colour }}-gradient rounded-corners">
-	<a href="https://github.com/dellsystem/{{ page.repo-name}}"><h3>status: {% if page.abandoned %}ABD{% else %}{{ status }}{% endif %}</h3></a>
-	<div class="serif">Latest version: {{ latest-version }}</div>
-	<p>{{ status-description }}{% if status == 'MODDB' %} You can download it directly using the links on the right, or <a href="{{ moddb-url }}">through the MODDB</a>.{% else %} {% if status == 'DEV' %}If you want to check out the progress, download the latest snapshot using the links on the right or below.{% else %}Download it using the links to the right or below.{% endif %} <strong>Do not use on a live board!</strong>{% endif %}</p>
-</div><a href="https://www.github.com/dellsystem/{{ page.repo-name }}/zipball/master"><img src="/images/zip.png" alt="zip" title="Download the MOD in zip format" class="download-image" /></a><a href="https://www.github.com/dellsystem/{{ page.repo-name }}/tarball/master"><img src="/images/tar.png" alt="png" title="Download the MOD in tarball format" class="download-image" /></a>
+<div id="mod-status" class="{{ page.status }}">
+	<a href="https://github.com/dellsystem/{{ page.repo-name}}">status: {{ page.status }}</a>
+	<p>{{ status-description }}{% if page.status == 'MODDB' %} You can download it directly using the links on the right, or <a href="{{ moddb-url }}">through the MODDB</a>.{% else %} {% if page.status == 'DEV' %}If you want to check out the progress, download the latest snapshot using the links on the right or below.{% else %}Download it using the links to the right or below.{% endif %} <strong>Do not use on a live board!</strong>{% endif %}</p>
+</div>
 
 {% if page.versions %}
 <br />
 <ul>
 	{% for version in page.versions reversed %}
-	<!-- uses the URL if there is one, else, assumes there's a github tag -->
-	<li><a href="{% if version.url %}{{ version.url }}{% else %}https://www.github.com/dellsystem/{{ page.repo-name }}/zipball/v{{ version.number }}{% endif %}">Version {{ version.number}} [{{ version.status }}]</a> - {{ version.notes }} ({% if version.status == 'MODDB' %}<strong>stable</strong>{% else %}unstable{% endif %})</li>
+	<li><a href="{% if version.url %}{{ version.url }}{% else %}https://www.github.com/dellsystem/{{ page.repo-name }}/zipball/v{{ version.number }}{% endif %}">Version {{ version.number}} [{{ version.status }}]</a> {{ version.notes }} ({% if version.status == 'MODDB' %}stable{% else %}<strong>unstable</strong>{% endif %}){% if page.release-notes %} - <a href="https://www.github.com/dellsystem/{{ page.repo-name }}/wiki/{{ version.number }}">Release notes</a>{% endif %}</li>
 	{% endfor %}
 </ul>
 {% endif %}
-<!-- oh my god liquid is so beautiful -->
 
-<h3>Development and support</h3>
+<h2 id="screenshots">Screenshots and demo</h2>
+
+<div id="demo-link" class="rounded-corners blue">
+	<p><a href="http://phpbb.dellsystem.me/{{ page.short-name }}">Test it on out on the demo board &raquo;</a><br />Username: <strong>ash</strong>, password: <strong>ketchum</strong></p>
+</div>
+
+{% if page.screenshots %}
+{% for screenshot in page.screenshots %}
+<a href="{{ screenshot }}"><img src="{{ screenshot }}" class="thumb" /></a>
+{% endfor %}
+{% else %}
+<p>Screenshots are not yet available.</p>
+{% endif %}
+
+<h2 id="installation">Installation</h2>
+
+<p>To install this MOD, download the package (see below), extract it, and launch the MODX file using your web browser. Follow the instructions in the MODX file. See the <a href="http://www.phpbb.com/kb/article/how-to-install-a-modx-modification/">Knowledge Base article on how to install a MODX modification</a> for more.</p>
+
+{% if page.install-url %}
+<p>Alternatively, you can find a more detailed installation guide on the repository's wiki here: <a href="{{ page.install-url }}">View installation guide</a></p>
+{% endif %}
+<h2 id="development">Development and support</h2>
 
 <p>The development topic for this MOD is found at <a href="{{ page.topic-url }}">{{ page.topic-url }}</a>. Please direct any support enquiries related to this MOD to that topic.</p>
 <p>You can follow the development of this MOD on github, at <a href="https://github.com/dellsystem/{{ page.repo-name}}">dellsystem/{{ page.repo-name }}</a>. You can report bugs using the issue tracker. If you see anything that needs fixing, feel free to fork the repo and fix it - pull requests are greatly appreciated :)</p>

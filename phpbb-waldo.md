@@ -3,14 +3,15 @@ title: phpBB Where's Waldo MOD
 layout: mod
 topic-url: http://www.phpbb.com/community/viewtopic.php?f=70&t=2092309
 repo-name: phpBB-waldo
-demo-url: http://phpbb.dellsystem.me/waldo/
+short-name: waldo
 versions:
 - {number: 0.0.1, status: ALPHA, notes: First release}
 - {number: 0.0.2, status: ALPHA, notes: "Fixing up code to better adhere to standards, some new config settings"}
 - {number: 0.0.3, status: ALPHA, notes: "Some small bug fixes (maintenance release)"}
 - {number: 0.0.4, status: ALPHA, notes: "More bugfixes from last release, fixed UTF problem in mouseover text"}
 - {number: 0.0.5, status: ALPHA, notes: "Another maintenance release - removed reference to unnecessary variable"}
-abandoned: false
+- {number: 0.1.0, status: BETA, notes: "Added some features and better points MOD integration"}
+status: BETA
 screenshots:
 - https://github.com/dellsystem/phpBB-waldo/raw/master/contrib/screenshot-index.png
 - https://github.com/dellsystem/phpBB-waldo/raw/master/contrib/screenshot-profile.png
@@ -20,15 +21,17 @@ requests-open: true
 
 A small image of Waldo \[US\] / Wally \[UK\] may appear somewhere on every page as you browse the board. Inspired by Xore's 2.x MOD CamelMOD.
 
-**Features:**
+## Features
 
-*   The probability of finding Waldo on any page is adjustable through the ACP
-*   If you have the Ultimate Points MOD installed, you can set the number of points that will be awarded to a user that finds Waldo
-*   You can set it so that clicking on the image of Waldo will lead you to another page (either within your domain or off-site)
-*	Mouseover text and the URL to the image of Waldo are both adjustable through the ACP
-*	Waldo can appear anywhere in the visible part of the window
-{% features closed phpBB-waldo %}
+* The probability of appearance, mouseover text, hyperlink and the URL to the image are all adjustable through the ACP
+* Integration with the [Ultimate Points MOD](http://www.phpbb.com/customise/db/mod/ultimate_points), so that finding Waldo results in points
 
-**Planned features:**
+**Planned**:
 
-{% features open phpBB-waldo %}
+* ACP permissions (issue #1)
+* Ability to upload image via ACP (issue #2)
+* Ability to cap amount of points earned in a time period (issue #3)
+* Ability to enable/disable feature for guests/groups (issue #4)
+* Ability to exclude or set pages on which Waldo can appear (issue #5)
+* Ability to configure when points should be awarded (issue #6)
+* AutoMOD support (issue #7)
