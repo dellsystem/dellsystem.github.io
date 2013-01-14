@@ -14,7 +14,7 @@ def up():
     local('jekyll --server --auto')
 
 def archive():
-	local('rm _site/design.svg _site/fabfile* _site/css/*.less')
+	local('rm -r _site/design _site/fabfile* _site/css/*.less')
 	local('tar czf site.tar.gz _site')
 
 def transfer():
