@@ -12,4 +12,4 @@ projects:
 - [['agora', 'http://dellsystem.me/posts/socis-2012-with-octave/'], "I'm working on completing [Agora Octave](http://agora.octave.org/), a code submission and collaboration website for [Octave](http://octave.org)-related projects, as part of the European Space Agency's [Summer of Code in Space 2012](http://sophia.estec.esa.int/socis2012/). Find out more [here](http://dellsystem.me/posts/socis-2012-with-octave/)."]
 ---
 
-Interested in hiring me for something, or getting involved in any of my projects? [Contact me](/about#contact_info).
+Interested in hiring me for something, or getting involved in any of my projects? [Contact me](/about#contact).
