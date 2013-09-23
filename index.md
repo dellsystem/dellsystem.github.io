@@ -1,5 +1,6 @@
 ---
 layout: default
+title: home
 ---
 
 I'm Wendy, and I'm an undergraduate Math and Computer Science student at
