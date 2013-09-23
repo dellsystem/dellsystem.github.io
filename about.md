@@ -57,5 +57,6 @@ other stuff
 *	[github profile](https://www.github.com/dellsystem)
 *	[last.fm][last.fm]
 *	[mcgill socs page](http://cs.mcgill.ca/~wliu65 "nothing here lol")
+*	[speaker deck](https://speakerdeck.com/dellsystem)
 
 [last.fm]: http://www.last.fm/user/dellsystem
