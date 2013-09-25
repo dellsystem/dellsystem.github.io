@@ -100,8 +100,10 @@ contained in there." Because, well, that's the right way to do it.
 
 In Python, the right way to do it would look something like this:
 
-{% highlight python %} if input_email in valid_emails_set:
-send_email(input_email, another_param, etc) {% endhighlight %}
+{% highlight python %}
+if input_email in valid_emails_set:
+    send_email(input_email, another_param, etc)
+{% endhighlight %}
 
 ## This is your brain on drugs
 
@@ -111,18 +113,23 @@ to keep coming to work. This is what your drug-addled brain might come up with:
 
 _Warning: NSFWUYWOH (Not Safe For Work Unless You Work On Hot4Learning)_
 
-{% highlight html %} <script>
+{% highlight html %}
+<script>
 // [some other code here]
-var userNamesStr =
-'a.fakelastname@mail.mcgill.ca|****|another.fakelastname@mail.mcgill.ca
-|****|(pretend there are 70,000 more emails
-here)|****|zamboni.man@mail.mcgill.ca'; var temp = new Array(); temp =
-userNamesStr.split('|****|'); var validUserName = '0';
+var userNamesStr = 'a.fakelastname@mail.mcgill.ca|****|another.fakelastname@mail.mcgill.ca |****|
+(pretend there are 70,000 more emails here)|****|zamboni.man@mail.mcgill.ca';
+var temp = new Array();
+temp = userNamesStr.split('|****|');
+var validUserName = '0';
 // [more code here]
-for( i =0; i< temp.length; i++){ if( curForwardUserName == temp[i].toLowerCase()
-) { validUserName = '1'; break; }
+for( i =0; i< temp.length; i++){
+if( curForwardUserName == temp[i].toLowerCase()) {
+validUserName = '1';
+break;
+}
 // [some last bits of wisdom before we go]
-</script> {% endhighlight %}
+</script>
+{% endhighlight %}
 
 _UPDATE: Yes, the above code does involve sending all 70,000+ McGill email
 addresses to the client upon each page load. The source code of the page was
