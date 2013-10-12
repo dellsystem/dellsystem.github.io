@@ -9,7 +9,7 @@
 
 <p>{{ post.date | date_to_string }}</p>
 
-<p>{{ post.content | strip_html | truncate, 250 }}</p>
+<p>{{ post.content | strip_html | truncate:300 }}</p>
 
 <p class="rightfloat"><a href="{{ post.url }}">Read more &raquo;</a></p>
 
