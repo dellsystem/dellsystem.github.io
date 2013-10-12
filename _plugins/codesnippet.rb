@@ -7,9 +7,7 @@ module Jekyll
 
 		def render(context)
             file = File.join(context.registers[:site].source, 'code', @filename)
-            puts file
             contents = File.read(file)
-            puts contents
             return contents
 		end
 	end
