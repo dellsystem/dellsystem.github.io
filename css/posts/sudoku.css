@@ -1,0 +1,32 @@
+.sudoku {
+    margin: 10px auto;
+    margin-bottom: 15px;
+    width: 368px;
+    height: 368px;
+    border-spacing: 0;
+    border: 2px solid #000;
+}
+
+.sudoku td {
+    width: 40px;
+    height: 40px;
+    border-left: 1px solid #ccc;
+    text-align: center;
+    border-top: 1px solid #ccc;
+}
+
+.sudoku td:first-child {
+    border-left-width: 0;
+}
+
+.sudoku tr:first-child td {
+    border-top-width: 0;
+}
+
+.sudoku td:nth-child(3n) {
+    border-right: 1px solid #000;
+}
+
+.sudoku tr:nth-child(3n) td {
+    border-bottom: 1px solid #000;
+}
