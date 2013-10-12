@@ -12,17 +12,17 @@ Another useless encryption scheme devised by yours truly. While my last one ([pi
 code](/posts/pi-code/)) was primarily a substitution cipher, this one transcends
 all standard classifications; it's almost like a transposition cipher, but not
 _really_. The main idea here is the use of certain numbers in a particular
-sudoku grid. The strength (if any) in this method lies in its unexpected nature;
+Sudoku grid. The strength (if any) in this method lies in its unexpected nature;
 it certainly takes quite a leap of the imagination to correctly deduce the
 method from the ciphertext. Of course, once the method has been discovered,
-deciphering merely involves solving a sudoku grid and then figuring out the
+deciphering merely involves solving a Sudoku grid and then figuring out the
 substitution cipher used, meaning that the key is easy to determine and so this
 method kind of just looks at Kerckhoffs's Principle and then keeps walking. But
 that's okay, that's why this is filed under **useless**.
 
 ### The setup ###
 
-The first step is to find a sudoku puzzle. I happened to have a sudoku game
+The first step is to find a Sudoku puzzle. I happened to have a Sudoku game
 installed, so I just ran that and started a random puzzle, which looked like
 this:
 
@@ -364,10 +364,10 @@ the numerals above, with the resulting string separated into chunks of 32
 characters (with extra alphabetic characters appended as necessary, since only
 81 are needed) so as to superficially resemble MD5 (because that's just fun).
 
-Optimally, the solutions to the possible sudoku grids being used should be
+Optimally, the solutions to the possible Sudoku grids being used should be
 stored in a dictionary somewhere, so that each grid only has to be solved once.
 The point of this encryption scheme is to be diabolically tricky but solvable,
-although perhaps only if you figure out the sudoku aspect and know a crib or
+although perhaps only if you figure out the Sudoku aspect and know a crib or
 two.
 
 ### Encoding and decoding a sequence ###
@@ -628,24 +628,33 @@ We could even put in extra characters at the end, since only the first 81 charac
 
 `z50w0ena1r7o008tiq0zo3bz1ae9nsf0z5t0r4n0mlgl0g0le0e0as3rhh00tr0rag1h5lm2ol00ccn0l8mzr0v`  
 `0ho0z0400lp7mpwp0a500eh9v0r0t0sbd090gg0046f500ze02000q0020n6054c80400a3f70gg02a1e59f26x`
-	
-(This one was badly spaced, because I didn't plan it out well ... the characters
-should be more or less evenly spaced.)
+
+Here's how it would look if we split it up into 32-character chunks:
+
+`z50w0ena1r7o008tiq0zo3bz1ae9nsf0`
+`z5t0r4n0mlgl0g0le0e0as3rhh00tr0r`
+`ag1h5lm2ol00ccn0l8mzr0v0ho0z0400`
+`lp7mpwp0a500eh9v0r0t0sbd090gg004`
+`6f500ze02000q0020n6054c80400a3f7`
+`0gsssg02ea1e5dllg9famezelr2ezz6x`
 
 And there you go. Not indecipherable but certainly very misleading. To decipher,
 first separate the numerals from the alphabetic characters, then write out the
 first 81 characters within a 9x9 grid. Then fill another 9x9 grid with the first
 81 numerals (one digit per box), omitting the zeros, and solve the resulting
-sudoku puzzle. Take the remaining (non-zero) digits and highlight the positions
+Sudoku puzzle. Take the remaining (non-zero) digits and highlight the positions
 in the grid corresponding to those digits. The characters corresponding to the
 non-highlighted positions can be discarded. Now it only remains to reverse the
 substitution cipher and insert spaces where necessary.
 
 Challenge:
 
-`dszb5c0ygo01ize7c0u0n80s31rwq9m05f0400ll0r00mw30atdx00r15gzs2000800jq0z0n400bz`
-`7j05obo00rtbt90u0vf0u0oo9r0v00pmfvzoxxmg4650f00g200mnz000o20rgo605ub48ubzxxo04`
-`0a037002k3t425`
+`dszb5c0ygo01ize7c0u0n80s31rwq9m0`
+`5f0400ll0r00mw30atdx00r15gzs2000`
+`800jq0z0n400bz7j05obo00rtbt90u0v`
+`f0u0oo9r0v00pmfvzoxxmg4650f00g20`
+`0mnz000o20rgo605ub48ubzxxo040a03`
+`70kteo02osz3dfle4eraosme2tn5sddq`
 
 ### Implementation in Python ###
 
@@ -674,7 +683,7 @@ All the relevant code is available in the repository for this website, under
 
 Instead of encrypting the Sudoku puzzle itself, use a standard one. for example,
 if you and your imaginary recipient both have access to the New York Times,
-which we will pretend has a daily sudoku puzzle if it doesn't actually, then
+which we will pretend has a daily Sudoku puzzle if it doesn't actually, then
 just use that. Then, the only numbers you'd have to send along with the
 plaintext (and the extra characters) are the hole digits. This means that the
 key itself (or at least the prelude to the key) does not have to be distributed
