@@ -19,6 +19,7 @@ h1,h2,h3,h4,h5,h6{font-family:'Crimson Text',Georgia,serif;font-weight:normal;co
 h1{font-size:2.8em;}
 h2{font-size:2.3em;}
 h3{font-size:1.5em;}
+h4{font-size:1.3em;}
 hr{padding:3px 0px;background-color:#dddddd;background-image:-moz-linear-gradient(top, #d1d1d1, #f0f0f0);background-image:-ms-linear-gradient(top, #d1d1d1, #f0f0f0);background-image:-webkit-gradient(linear, 0 0, 0 100%, from(#d1d1d1), to(#f0f0f0));background-image:-webkit-linear-gradient(top, #d1d1d1, #f0f0f0);background-image:-o-linear-gradient(top, #d1d1d1, #f0f0f0);background-image:linear-gradient(top, #d1d1d1, #f0f0f0);background-repeat:repeat-x;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#d1d1d1', endColorstr='#f0f0f0', GradientType=0);margin:5px 0px;border:0;border-top:1px solid #BBB;}
 #footer{height:70px;line-height:70px;clear:both;text-align:center;}#footer a{color:#bb0000;text-decoration:none;}#footer a:hover{color:#dd1111;border-bottom:solid 1px #dd1111;}
 .leftfloat{float:left;margin-right:15px;}
