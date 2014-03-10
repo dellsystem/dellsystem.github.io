@@ -15,7 +15,7 @@ MODifications
 
 ### [Multilingual Forums](/phpbb-multilingual-forums)
 
-<a href="/phpbb-multilingual-forums"><img src="/img/phpbb/multilingual.png" class="leftfloat" /></a>
+<a href="/phpbb-multilingual-forums"><img src="/img/phpbb/multiling.png" class="leftfloat" /></a>
 
 Enables multi-language support for forum names. Created as a result of [this MOD
 request](https://www.phpbb.com/community/viewtopic.php?f=72&t=2215701).
