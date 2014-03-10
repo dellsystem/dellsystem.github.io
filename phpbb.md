@@ -4,11 +4,11 @@ layout: default
 ---
 
 If you have phpBB-related support enquiries, please post them to the relevant
-forum at <phpBB.com>; although I do on occasion offer private support, I prefer
-to provide it publicly so others may benefit from it as well. Support requests
-related to my MODs should go in their respective topics (see below). If you
-wish to contact me for anything else phpBB-related, feel free to drop me a
-[private message][pm] on the forums or [send me an email][contact].
+forum at [phpBB.com]; although I do on occasion offer private support, I
+prefer to provide it publicly so others may benefit from it as well. Support
+requests related to my MODs should go in their respective topics (see below).
+If you wish to contact me for anything else phpBB-related, feel free to drop me
+a [private message][pm] on the forums or [send me an email][contact].
 
 MODifications
 -------------
@@ -42,3 +42,4 @@ A small image of Waldo (US) / Wally (UK) may appear somewhere on every page as y
 
 [pm]: http://www.phpbb.com/community/ucp.php?i=pm&mode=compose&u=178433
 [contact]: /about#contact
+[phpBB.com]: http://www.phpbb.com
