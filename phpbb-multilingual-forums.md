@@ -12,8 +12,8 @@ versions:
 status: ALPHA
 screenshots:
 - https://github.com/dellsystem/phpBB-multilingual-forums/raw/master/contrib/screenshot-acp.png
-- https://github.com/dellsystem/phpBB-multilingual-forums/raw/master/contrib/screenshot-forum.png
 - https://github.com/dellsystem/phpBB-multilingual-forums/raw/master/contrib/screenshot-category.png
+- https://github.com/dellsystem/phpBB-multilingual-forums/raw/master/contrib/screenshot-forum.png
 - https://github.com/dellsystem/phpBB-multilingual-forums/raw/master/contrib/screenshot-french.png
 - https://github.com/dellsystem/phpBB-multilingual-forums/raw/master/contrib/screenshot-index.png
 - https://github.com/dellsystem/phpBB-multilingual-forums/raw/master/contrib/screenshot-language.png
