@@ -21,6 +21,10 @@ McGill University. You may know me as:
 * Former student researcher in the [Network Dynamics lab] (2011–2014)
 * That person with the weird username who may or may not be sponsored by
   Dell (I wish)
+* Someone who tried for a really long commit streak but who fell off at [170
+  days][github]
+* Owner of various incredibly frivolous domains, including [airdoge.com],
+  [out-of-ten.com], and [interrobangwithfriends.com]
 
 Below you can find some things I've recently written (you can find the rest
 under [archives](/archives)). You can also learn more [about me](/about) or
@@ -31,8 +35,9 @@ Twitter [@dellsystem](https://twitter.com/dellsystem), or check out my [about
 page](/about#contact) for other contact options. You could also take the
 opportunity to tell me how awesome I am, but don't worry, I already know.
 
-_(I'm not actually this egotistic in person, I swear)_
+_(I'm not actually this egotistical in person, I swear)_
 
+[github]: https://github.com/dellsystem
 [confoo_talk]: https://github.com/dellsystem/slides/tree/master/confoo-2014/optimising-your-javascript
 [hack101_talks]: https://github.com/dellsystem/slides/tree/master/hackmcgill
 [pyladies_talk]: https://github.com/dellsystem/slides/tree/master/pyladies-montreal/git-and-github
@@ -48,6 +53,9 @@ _(I'm not actually this egotistic in person, I swear)_
 [DDMAL]: http://ddmal.music.mcgill.ca
 [Agora Octave]: http://agora.octave.org
 [Network Dynamics lab]: http://networkdynamics.org
+[airdoge.com]: http://airdoge.com
+[out-of-ten.com]: http://pretty-pointless.out-of-ten.com
+[interrobangwithfriends.com]: http://interrobangwithfriends.com
 
 <br />
 <hr />
