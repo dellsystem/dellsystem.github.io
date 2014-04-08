@@ -3,18 +3,26 @@ title: phpBB MODs and support
 layout: default
 ---
 
-If you have phpBB-related support enquiries, please post them to the relevant forum at [phpBB.com](http://www.phpbb.com); although I do on occasion offer private support, I prefer to provide it publicly so others may benefit from it as well. Support requests related to my MODs should go in their respective topics (see below). If you wish to contact me for anything else phpBB-related, feel free to drop me a [private message](http://www.phpbb.com/community/ucp.php?i=pm&mode=compose&u=178433) on the forums or email dellsystem@phpbb.com.
+If you have phpBB-related support enquiries, please post them to the relevant
+forum at [phpBB.com]; although I do on occasion offer private support, I
+prefer to provide it publicly so others may benefit from it as well. Support
+requests related to my MODs should go in their respective topics (see below).
+If you wish to contact me for anything else phpBB-related, feel free to drop me
+a [private message][pm] on the forums or [send me an email][contact].
 
 MODifications
 -------------
 
-### [Custom Pages](/phpbb-custom-pages)
+### [Multilingual Forums](/phpbb-multilingual-forums)
 
-<a href="/phpbb-custom-pages"><img src="/img/phpbb/cp.png" class="leftfloat" /></a>
+<a href="/phpbb-multilingual-forums"><img src="/img/phpbb/multiling.png" class="leftfloat" /></a>
 
-A sort of CMS-like MOD for phpBB. Still in the works. An example is running at [www.ssuns.org](http://www.ssuns.org).
+Enables multi-language support for forum names. Created as a result of [this MOD
+request](https://www.phpbb.com/community/viewtopic.php?f=72&t=2215701).
 
-[View development topic](http://www.phpbb.com "Not available yet") :: [Demo board](http://phpbb.dellsystem.me/cp/)
+[View development
+topic](https://www.phpbb.com/community/viewtopic.php?f=70&t=2231436) :: [Demo
+board](http://phpbb.dellsystem.me/multiling/)
 
 ### [Dynamic Avatar](/phpbb-dynamic-avatar)
 
@@ -32,3 +40,6 @@ A small image of Waldo (US) / Wally (UK) may appear somewhere on every page as y
 
 [View development topic](http://www.phpbb.com/community/viewtopic.php?f=70&t=2092309) :: [Demo board](http://phpbb.dellsystem.me/waldo/)
 
+[pm]: http://www.phpbb.com/community/ucp.php?i=pm&mode=compose&u=178433
+[contact]: /about#contact
+[phpBB.com]: http://www.phpbb.com
