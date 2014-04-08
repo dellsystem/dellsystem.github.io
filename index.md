@@ -24,7 +24,8 @@ McGill University. You may know me as:
 * Someone who tried for a really long commit streak but who fell off at [170
   days][github]
 * Owner of various incredibly frivolous domains, including [airdoge.com],
-  [out-of-ten.com], [interrobangwithfriends.com], and [howdoi.land]
+  [out-of-ten.com], [interrobangwithfriends.com], [icondrivendevelopment.com]
+  and [howdoi.land]
 
 Below you can find some things I've recently written (you can find the rest
 under [archives](/archives)). You can also learn more [about me](/about) or
@@ -57,6 +58,7 @@ _(I'm not actually this egotistical in person, I swear)_
 [out-of-ten.com]: http://pretty-pointless.out-of-ten.com
 [interrobangwithfriends.com]: http://interrobangwithfriends.com
 [howdoi.land]: http://howdoi.land
+[icondrivendevelopment.com]: http://icondrivendevelopment.com
 
 <br />
 <hr />
