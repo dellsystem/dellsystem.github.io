@@ -41,3 +41,4 @@ hr{padding:3px 0px;background-color:#dddddd;background-image:-moz-linear-gradien
 #mod-nav ul a{font-family:'Crimson Text',Georgia,serif;font-weight:normal;text-shadow:#ffffff 1px 1px 0;padding-left:20px;display:block;height:35px;line-height:35px;width:230px;color:#777777;}#mod-nav ul a:hover{text-shadow:rgba(0, 0, 0, 0.5) 1px 1px 0;padding-left:20px;color:#ffffff;border:0;background:#bb0000;-webkit-box-shadow:0 1px 3px rgba(0, 0, 0, 0.25);-moz-box-shadow:0 1px 3px rgba(0, 0, 0, 0.25);box-shadow:0 1px 3px rgba(0, 0, 0, 0.25);}#mod-nav ul a:hover:after{content:" \00BB \0020";}
 blockquote{padding-top:5px;padding-bottom:5px;padding-left:10px;border-left:5px solid #dddddd;font-style:italic;margin-bottom:10px;}blockquote p{padding-bottom:0 !important;}
 .white{color:#ffffff;}
+p img{display:block;margin:0 auto;}
