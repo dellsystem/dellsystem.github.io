@@ -43,7 +43,7 @@ git diff | grep ^+
 This gets you all the additions. To see all the deletions:
 
 {% highlight bash %}
-git diff | grep ^+
+git diff | grep ^-
 {% endhighlight %}
 
 Note that the output of the first command will also give you something like
