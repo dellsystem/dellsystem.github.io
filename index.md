@@ -6,7 +6,8 @@ title: home
 I'm Wendy, and I'm an undergraduate Math and Computer Science student at
 McGill University. You may know me as:
 
-* Lead developer for and prolific contributor to [Wikinotes] (since 2010)
+* Lead developer for and prolific contributor to [Wikinotes], a free and open
+  source note-sharing website for McGill University (since 2010)
 * Logistics coordinator for the inaugural [McHacks], McGill's student run
   hackathon, in February 2014 (don't ask me about power strips)
 * Someone who occasionally gives tech talks for events or organisations like
