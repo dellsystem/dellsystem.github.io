@@ -34,6 +34,7 @@ hr{padding:3px 0px;background-color:#dddddd;background-image:-moz-linear-gradien
 #mod-status p{font-size:1.0em;line-height:1.2em;}
 .download-image{width:100px;height:100px;float:right;}
 .thumb{height:70px;}
+.large-thumb{width:300px;}
 #demo-link{display:inline-block;width:250px;vertical-align:top;float:right;height:50px;padding:10px;color:#FFF;background:#017AB6;-webkit-border-radius:10px;-moz-border-radius:10px;border-radius:10px;}
 #demo-link a{font-weight:bold;color:#FFF !important;}
 #demo-link a:hover{border-bottom:#FFF solid 1px !important;}
