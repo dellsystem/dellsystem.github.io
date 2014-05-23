@@ -5,14 +5,16 @@ layout: default
 
 I like art - painting, sketching, and digital (i.e., drawing simple designs in
 Inkscape). I'm not very good at improvising, though, so most of my works are
-based on a photograph. I've tried to credit the original source where possible,
-but some of the sources for my work are lost in the browser bookmarks of
-laptops past. If you know the source for anything credited, please [let me
-know!](/about#contact)
+based on a photograph (CC-licensed or public domain where possible, but it
+should fall under fair dealing in any case). I've tried to credit the original
+source where possible, but some of the sources for my work are lost in the
+browser bookmarks of laptops past. If you know the source for anything credited,
+please [let me know!](/about#contact)
 
 To see a higher-quality version of each thumbnail, just click on the photo (or
-view the [imgur album][album]). For the most part, the quality of the photos is
-pretty bad. Unfortunately, I can't get any better-quality photos for most of
+view the [imgur album][album], which also contains a couple more paintings which
+didn't make the cut for this page). For the most part, the quality of the photos
+is pretty bad. Unfortunately, I can't get any better-quality photos for most of
 them &ndash; I no longer own the vast majority of my paintings, as I usually
 give them away as gifts. In fact, for some of my paintings, I don't even have
 photos of them at all.
