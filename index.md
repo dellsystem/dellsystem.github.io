@@ -50,9 +50,9 @@ _(I'm not actually this egotistical in person, I swear)_
 [slides]: https://github.com/dellsystem/slides
 [Wikinotes]: http://www.wikinotes.ca
 [ctf]: http://taskforce.sus.mcgill.ca
-[SSUNS 2011]: https://github.com/dellsystem/ssuns-2011
-[McMUN 2013]: https://github.com/dellsystem/mcmun-2013
-[McMUN 2014]: https://github.com/dellsystem/mcmun-2014
+[SSUNS in 2011]: https://github.com/dellsystem/ssuns-2011
+[McMUN in 2013]: https://github.com/dellsystem/mcmun-2013
+[McMUN again in 2014]: https://github.com/dellsystem/mcmun-2014
 [phpBB.com]: https://phpbb.com
 [diva.js]: http://ddmal.music.mcgill.ca/diva
 [DDMAL]: http://ddmal.music.mcgill.ca
