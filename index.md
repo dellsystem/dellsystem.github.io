@@ -38,7 +38,7 @@ under [archives](/archives)). You can also learn more [about me](/about) or
 Want to ask me about any of my projects or just say hi? Send me a message on
 Twitter [@dellsystem](https://twitter.com/dellsystem), or check out my [about
 page](/about#contact) for other contact options. You could also take the
-opportunity to tell me how awesome I am, but don't worry, I already know.
+opportunity to tell me how awesome I am, but don't worry, I already know. &lt;3
 
 _(I'm not actually this egotistical in person, I swear)_
 
