@@ -38,7 +38,7 @@ under [archives](/archives)). You can also learn more [about me](/about) or
 Want to ask me about any of my projects or just say hi? Send me a message on
 Twitter [@dellsystem](https://twitter.com/dellsystem), or check out my [about
 page](/about#contact) for other contact options. You could also take the
-opportunity to tell me how awesome I am, but don't worry, I already know.
+opportunity to tell me how awesome I am, but don't worry, I already know. &lt;3
 
 _(I'm not actually this egotistical in person, I swear)_
 
@@ -50,9 +50,9 @@ _(I'm not actually this egotistical in person, I swear)_
 [slides]: https://github.com/dellsystem/slides
 [Wikinotes]: http://www.wikinotes.ca
 [ctf]: http://taskforce.sus.mcgill.ca
-[SSUNS 2011]: https://github.com/dellsystem/ssuns-2011
-[McMUN 2013]: https://github.com/dellsystem/mcmun-2013
-[McMUN 2014]: https://github.com/dellsystem/mcmun-2014
+[SSUNS in 2011]: https://github.com/dellsystem/ssuns-2011
+[McMUN in 2013]: https://github.com/dellsystem/mcmun-2013
+[McMUN again in 2014]: https://github.com/dellsystem/mcmun-2014
 [phpBB.com]: https://phpbb.com
 [diva.js]: http://ddmal.music.mcgill.ca/diva
 [DDMAL]: http://ddmal.music.mcgill.ca
