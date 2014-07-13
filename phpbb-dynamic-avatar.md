@@ -35,6 +35,7 @@ Additionally, although some sample images are provided for you to test out the M
 * Everything is controlled from the ACP
 * MOD includes sample images, items and layers for you to play with to get the hang of things
 * Integration with [Ultimate Points MOD](http://www.phpbb.com/customise/db/mod/ultimate_points/), so that items can be purchasable
+* Installable with AutoMOD
 
 ### Planned
 
