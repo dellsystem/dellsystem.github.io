@@ -5,10 +5,10 @@ topic-url: https://www.phpbb.com/community/viewtopic.php?f=70&t=2231436
 repo-name: phpBB-multilingual-forums
 short-name: multiling
 versions:
-- {number: 0.1.0, status: ALPHA, notes: "Added support for forum descriptions"}
-- {number: 0.0.3, status: ALPHA, notes: "Fix ACP logging message"}
-- {number: 0.0.2, status: ALPHA, notes: "Fix bug in includes/functions_display.php"}
 - {number: 0.0.1, status: ALPHA, notes: First ALPHA release}
+- {number: 0.0.2, status: ALPHA, notes: "Fix bug in includes/functions_display.php"}
+- {number: 0.0.3, status: ALPHA, notes: "Fix ACP logging message"}
+- {number: 0.1.0, status: ALPHA, notes: "Added support for forum descriptions"}
 status: ALPHA
 screenshots:
 - https://github.com/dellsystem/phpBB-multilingual-forums/raw/master/contrib/screenshot-acp.png
