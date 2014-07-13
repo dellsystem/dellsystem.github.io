@@ -11,6 +11,9 @@ versions:
 - {number: 0.0.2, status: ALPHA, notes: "Patch release"}
 - {number: 0.1.0, status: ALPHA, notes: "Core-feature-adding spree and bugfix release"}
 - {number: 0.9.0, status: BETA, notes: "Ultimate Points MOD integration and bug-fixes"}
+- {number: 0.9.1, status: BETA, notes: "Unicode input handling for item/layer fields"}
+- {number: 0.9.2, status: BETA, notes: "Improved caching prevention"}
+- {number: 0.9.3, status: BETA, notes: "Improved AutoMOD compatibility and fixed jQuery link"}
 screenshots:
 - https://github.com/dellsystem/phpBB-dynamic-avatar/raw/master/contrib/acp-edit-layer.png
 - https://github.com/dellsystem/phpBB-dynamic-avatar/raw/master/contrib/acp-items.png
