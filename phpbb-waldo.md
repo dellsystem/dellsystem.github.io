@@ -11,8 +11,8 @@ versions:
 - {number: 0.0.4, status: ALPHA, notes: "More bugfixes from last release, fixed UTF problem in mouseover text"}
 - {number: 0.0.5, status: ALPHA, notes: "Another maintenance release - removed reference to unnecessary variable"}
 - {number: 0.1.0, status: BETA, notes: "Added some features and better points MOD integration"}
-- {number: 0.1.1, status: BETA, notes: "Hide wait time setting in ACP if UPS
-  isn't installed"}
+- {number: 0.1.1, status: BETA, notes: "Hide wait time setting in ACP if UPS isn't installed"}
+- {number: 0.1.2, status: BETA, notes: "Fixed relative path issues for image source"}
 status: BETA
 screenshots:
 - https://github.com/dellsystem/phpBB-waldo/raw/master/contrib/screenshot-index.png
