@@ -3,8 +3,8 @@ layout: default
 title: home
 ---
 
-I'm Wendy, and I'm an undergraduate Math and Computer Science student at
-McGill University. You may know me as:
+Hi! I'm Wendy, and I currently work at [Macromeasures], a data science startup
+incubated at McGill University. You may know me as:
 
 * Lead developer for and prolific contributor to [Wikinotes], a free and open
   source note-sharing website for McGill University (since 2010)
@@ -24,9 +24,10 @@ McGill University. You may know me as:
   Code in Space" (2012)
 * That person with the weird username who may or may not be sponsored by
   Dell (I wish)
-* Someone who tried for a really long commit streak but who fell off at [170
-  days][github]
-* Owner of various incredibly [frivolous.domains] (including that one)
+* Someone who tried for a really long Github commit streak but who fell off at
+  [170 days][github]
+* Past owner of various incredibly [frivolous.domains] (including that one),
+  at least until I let them all expire
 
 I also interned at Google's San Francisco office in the summer of 2013, working
 as a developer on an internal data visualisation tool using Python and d3.js.
@@ -60,6 +61,7 @@ _(I'm not actually this egotistical in person, I swear)_
 [Network Dynamics lab]: http://networkdynamics.org
 [McHacks]: http://mchacks.io
 [frivolous.domains]: http://frivolous.domains
+[Macromeasures]: http;//macromeasures.com
 
 <br />
 <hr />
