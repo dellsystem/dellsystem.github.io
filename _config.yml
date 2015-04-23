@@ -1,4 +1,4 @@
-safe:       false
-pygments:   true
-permalink:  /posts/:title
-markdown: 	rdiscount
+safe:        false
+highlighter: pygments
+permalink:   /posts/:title
+markdown: 	 rdiscount
