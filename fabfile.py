@@ -1,13 +1,14 @@
 from fabric.api import local, run, env
 
-env.hosts = ['waldo@dellsystem.me']
+env.hosts = ['nimbus']
+env.use_ssh_config = True
 
 def less():
     local('lessc css/styles.less -x > css/styles.css')
 
 def prepare():
     less()
-    local('jekyll')
+    local('jekyll build')
 
 def up():
     less()
