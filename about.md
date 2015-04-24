@@ -57,7 +57,7 @@ miscellaneous
 * **other buzzwords I may know something about**: HTML, CSS, LaTeX, SQL, jQuery,
   AngularJS, D3.js, supervisor
 * **origin of my username**: the world will never know
-* **favourite musical artist**: [stars][http://youarestars.com]
+* **favourite musical artist**: [stars](http://youarestars.com)
 
 other stuff
 -----------

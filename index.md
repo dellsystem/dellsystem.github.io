@@ -61,7 +61,7 @@ _(I'm not actually this egotistical in person, I swear)_
 [Network Dynamics lab]: http://networkdynamics.org
 [McHacks]: http://mchacks.io
 [frivolous.domains]: http://frivolous.domains
-[Macromeasures]: http;//macromeasures.com
+[Macromeasures]: http://macromeasures.com
 
 <br />
 <hr />
