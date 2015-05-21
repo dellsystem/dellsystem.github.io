@@ -23,6 +23,36 @@ photos of them at all.
 
 ## Paintings
 
+## Train
+
+<a href="http://imgur.com/jtNAWr3?1">
+<img src="http://i.imgur.com/jtNAWr3.jpg?1" class="large-thumb" />
+</a>
+
+[Source: Jody Walmsley on Flickr][train] (a loose adaptation). Acrylic on a 11"
+x 14" canvas from Deserres. Completed on December 10, 2014 as an early
+Christmas gift.
+
+## Descending glider
+
+<a href="http://imgur.com/kxl8mj9?1">
+<img src="http://i.imgur.com/kxl8mj9.jpg?1" class="large-thumb" />
+</a>
+
+[Source: JonTait2002 on Flickr][descending-glider] (an even looser adaptation).
+Acrylic on a 11" x 14" canvas from Deserres. Completed on December 10, 2014 as
+an early Christmas gift.
+
+### Desert
+
+<a href="http://imgur.com/lYeDJY2">
+<img src="http://i.imgur.com/lYeDJY2.jpg" class="large-thumb" />
+</a>
+
+[Source: Tim de Groot on Unsplash][desert] (public domain). Acrylic on a 11" x
+14" canvas from Deserres. Completed on December 7, 2014 as an early Christmas
+gift.
+
 ### Spiderweb
 
 <a href="http://imgur.com/1nGUPI2">
@@ -205,6 +235,9 @@ detailed! (Prioritising is hard)
 Coming one day, maybe.
 
 [album]: http://imgur.com/a/KE9sW/all
+[train]: https://www.flickr.com/photos/superjody/6910978239
+[descending-glider]: https://www.flickr.com/photos/jontait2002/526810393/in/photostream/
+[desert]: https://unsplash.com/timdegroot
 [spiderweb]: http://www.flickr.com/photos/42875184@N08/7991125444
 [cape town]: http://www.flickr.com/photos/panorama_paul/2786195532/
 [snowflake]: http://wallpaperswide.com/snowflake-wallpapers.html
