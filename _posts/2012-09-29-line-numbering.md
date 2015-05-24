@@ -15,19 +15,19 @@ One of the required features for Agora Octave (which I've been working on for th
 
 Here's an example of what it should look like:
 
-![Yay line numbers](http://cs.mcgill.ca/~wliu65/media/agora/line-numbering.png)
+![Yay line numbers](line-numbering.png)
 
 My first attempt towards this noble goal was a fairly lackluster one that resulted in a horizontal scrollbar whenever there was one line that was too wide for the box:
 
-![Horizontal scrollbar](http://cs.mcgill.ca/~wliu65/media/agora/line-number-alignment-1.png)
+![Horizontal scrollbar](/img/posts/line-numbering/line-number-alignment-1.png)
 
 It was pointed out in the mailing list that enabling line-wrapping by default might be better, which I was able to accomplish by simply setting the `white-space` CSS attribute to [`pre-wrap`](http://www.quirksmode.org/css/whitespace.html). Unfortunately, when you add line numbers to the mix, this is what happens:
 
-![Uhoh, line numbers](http://cs.mcgill.ca/~wliu65/media/agora/line-number-alignment-3.png)
+![Uhoh, line numbers](/img/posts/line-numbering/line-number-alignment-3.png)
 
 One way to fix that is to output the line number within the same element as the contents of the line. Using a table, this involves showing each line within a `<tr>`, with one `<td>` for the line number and one `<td>` for the contents of the line. This is the result:
 
-![Everything is perfect! Or so I thought](http://cs.mcgill.ca/~wliu65/media/agora/line-number-alignment-4.png)
+![Everything is perfect! Or so I thought](/img/posts/line-numbering/line-number-alignment-4.png)
 
 Which, as I [posted about several weeks ago](http://dellsystem.me/posts/agora-octave-update-5-1/), seemed to resolve the problem.
 
@@ -35,7 +35,7 @@ Which, as I [posted about several weeks ago](http://dellsystem.me/posts/agora-oc
 
 The day after I [pushed the line-number alignment fix](http://inversethought.com/hg/agora-dellsystem/rev/7d753658dc0e), I was informed via IRC that what I thought to be a bulletproof solution actually broke a very important feature: the ability to highlight a code snippet and then copy and paste it elsewhere. See, the fact that the line numbers were now integrated with the code itself meant that when you try to highlight a piece of code, you end up getting the line numbers as well:
 
-![This is not what was meant by syntax highlighting](http://cs.mcgill.ca/~wliu65/media/agora/line-number-highlighting.png "Seeing this made me nauseous")
+![This is not what was meant by syntax highlighting](/img/posts/line-numbering/line-number-highlighting.png "Seeing this made me nauseous")
 
 At first, I panicked, thinking that all my efforts were for nought and that I would never get to live in a world in which Agora had a decent way of displaying code.
 
@@ -56,7 +56,7 @@ Two minutes later, I had [pushed a fix](http://inversethought.com/hg/agora-dells
 
 Here's what it looked like after the fix had been applied:
 
-![Proudest moment of my life](http://cs.mcgill.ca/~wliu65/media/agora/line-number-user-select.png "My greatest accomplishment")
+![Proudest moment of my life](/img/posts/line-numbering/line-number-user-select.png "My greatest accomplishment")
 
 If that were the end of it, I would probably have forgotten about the topic entirely and would certainly never have written a blog post about it. By which I mean, that was not the end of it.
 
