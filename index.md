@@ -6,22 +6,13 @@ title: home
 Hi! I'm Wendy, and I currently work at [Macromeasures], a data science startup
 incubated at McGill University. You may know me as:
 
-* Lead developer for and prolific contributor to [Wikinotes], a free and open
-  source note-sharing website for McGill University (since 2010)
-* Logistics coordinator for the inaugural [McHacks], McGill's student run
-  hackathon, in February 2014 (don't ask me about power strips)
+* That person who wrote a really snarky blog post about some questionable code
+  in Desire2Learn, which hit #1 on Hacker News back in September 2013 (my 15
+  minutes of fame ... nothing I've done since then has been noteworthy)
 * Someone who occasionally gives tech talks for events or organisations like
   [ConFoo 2014][confoo_talk], [HackMcGill's Hack 101s][hack101_talks], and
   [PyLadies meetups][pyladies_talk] (you can find my slides on [speakerdeck],
   and their source on [GitHub][slides])
-* Former student researcher in the [Network Dynamics lab] (2011–2014)
-* Former website and moderator team member at [phpBB.com] \(2007–2014\)
-* USG-IT for both of McGill's Model UN conferences: [SSUNS in 2011], [McMUN in
-  2013], and [McMUN again in 2014]
-* Former webmaster for [McGill's Computer Taskforce][ctf] (2011–2012)
-* Past developer of [diva.js] while working at [DDMAL] (2011–2012)
-* Past developer of [Agora Octave] for the European Space Agency's "Summer of
-  Code in Space" (2012)
 * That person with the weird username who may or may not be sponsored by
   Dell (I wish)
 * Someone who tried for a really long Github commit streak but who fell off at
