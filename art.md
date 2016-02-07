@@ -23,6 +23,15 @@ photos of them at all.
 
 ## Paintings
 
+### Glider
+
+<a href="http://imgur.com/8UIZRWp">
+<img src="http://i.imgur.com/8UIZRWpl.jpg" class="large-thumb" />
+</a>
+
+[Source: Rahul on Flickr][glider]. Acrylic on a 11" x 14" canvas from Deserres.
+Completed on May 24, 2015 as a birthday gift.
+
 ### Train
 
 <a href="http://imgur.com/jtNAWr3?1">
@@ -235,6 +244,7 @@ detailed! (Prioritising is hard)
 Coming one day, maybe.
 
 [album]: http://imgur.com/a/KE9sW/all
+[glider]: https://www.flickr.com/photos/khandurahul/6264995789/
 [train]: https://www.flickr.com/photos/superjody/6910978239
 [descending-glider]: https://www.flickr.com/photos/jontait2002/526810393/in/photostream/
 [desert]: https://unsplash.com/timdegroot
