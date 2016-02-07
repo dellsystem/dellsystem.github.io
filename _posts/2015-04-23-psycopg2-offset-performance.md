@@ -15,7 +15,7 @@ unless you have this problem *right now* and don't mind wading through
 excessively flowery language and unnecessary metaphors to find the solution.
 Don't say I didn't warn you._
 
-If you've ever tried to go through the rows of table sequentially using a
+If you've ever tried to go through the rows of a table sequentially using a
 combination of OFFSET, LIMIT, and a loop structure of some sort, you may have
 discovered that while everything was all fine and dandy for the first few
 thousand rows, it all starts to go downhill at some point. Or downtable, as it
