@@ -23,6 +23,20 @@ photos of them at all.
 
 ## Paintings
 
+### Swan
+
+<a href="http://imgur.com/Q2BmrCj">
+<img src="http://i.imgur.com/Q2BmrCj.jpg?2" class="large-thumb" />
+</a>
+
+[Source: Wallpapers Wide][swan]. Acrylic on a 12" x 16" canvas from Deserres.
+Completed on January 16, 2016 as a late Christmas gift.
+
+This was the first time I tried drawing a grid and pencil-sketching the main
+features within the grid before painting over it. It definitely helped with
+getting the shape of the swan right. Kind of makes me feel dumb for not trying
+this before.
+
 ### Glider
 
 <a href="http://imgur.com/8UIZRWp">
@@ -69,8 +83,9 @@ gift.
 </a>
 
 [Source: 55Laney69 on Flickr][spiderweb] (released under CC-BY 2.0). Acrylic on
-a 11" x 14" canvas from DeSerres. Completed on May 11, 2014 as a mother's day
-gift.
+a 11" x 14" canvas from DeSerres. Completed on May 11, 2014 as a gift. You
+don't truly understand tedium until you've had to create hundreds of detailed
+dewdrops by hand.
 
 ### Cape Town Blue Hour
 
@@ -244,6 +259,7 @@ detailed! (Prioritising is hard)
 Coming one day, maybe.
 
 [album]: http://imgur.com/a/KE9sW/all
+[swan]: http://wallpaperswide.com/beautiful_swan_2-wallpapers.html
 [glider]: https://www.flickr.com/photos/khandurahul/6264995789/
 [train]: https://www.flickr.com/photos/superjody/6910978239
 [descending-glider]: https://www.flickr.com/photos/jontait2002/526810393/in/photostream/
