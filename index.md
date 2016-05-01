@@ -3,36 +3,39 @@ layout: default
 title: home
 ---
 
-Hi! I'm Wendy, and I currently work at [Macromeasures], a data science startup
-incubated at McGill University. You may know me as:
+I'm Wendy Liu, and I am, among other things, a software developer based in
+Montreal.
 
-* That person who wrote a really snarky blog post about some questionable code
-  in Desire2Learn, which hit #1 on Hacker News back in September 2013 (my 15
-  minutes of fame ... nothing I've done since then has been noteworthy)
-* Someone who occasionally gives tech talks for events or organisations like
+Here's some more context on who I am and what I've done:
+
+* In September 2013, I got my 15 minutes of fame when I wrote a really snarky
+  (and regretfully so) [blog post][d2l] about some questionable code that I
+  found in my university's learning management system, Desire2Learn. The blog
+  post found its way to #1 on Hacker News while I was asleep, an incident that
+  affirmed the merits of using a static site generator to build this website.
+  Nothing I've done since then has been remotely noteworthy.
+* In the past, I've given tech talks for events and organisations like
   [ConFoo 2014][confoo_talk], [HackMcGill's Hack 101s][hack101_talks], and
-  [PyLadies meetups][pyladies_talk] (you can find my slides on [speakerdeck],
-  and their source on [GitHub][slides])
-* That person with the weird username who may or may not be sponsored by
-  Dell (I wish)
-* Someone who tried for a really long Github commit streak but who fell off at
-  [170 days][github]
-* Past owner of various incredibly [frivolous.domains] (including that one),
-  at least until I let them all expire
+  [PyLadies meetups][pyladies_talk]. You can find my slides on [speakerdeck],
+  and their source on [GitHub][slides].
+* I have no affiliation with Dell Inc. The username "dellsystem" was an
+  unfortunate consequence of a decision I made when I was 12, when I signed up
+  for an account on phpbb.com so I could get support for my phpBB installation.
+  Since I was using a Dell computer at the time, "dellsystem" seemed like a
+  reasonable choice for what I thought would be a throwaway account. I was
+  wrong about the throwaway part, as the phpBB community turned out to be a
+  gateway drug for open source software and programming in general. I have
+  since come to terms with the username "dellsystem" and will even answer to
+  "dell".
+* I interned at Google's San Francisco in the summer of 2013, working on an
+  internal data visualisation tool using Python and d3.js.
+* After graduating from McGill in 2014, I co-founded a data science startup
+  called [Macromeasures] and have been slaving away at it ever since.
 
-I also interned at Google's San Francisco office in the summer of 2013, working
-as a developer on an internal data visualisation tool using Python and d3.js.
-
-Below you can find some things I've recently written (you can find the rest
-under [archives](/archives)). You can also learn more [about me](/about) or
-[about my projects](/projects).
-
-Want to ask me about any of my projects or just say hi? Send me a message on
-Twitter [@dellsystem](https://twitter.com/dellsystem), or check out my [about
-page](/about#contact) for other contact options. You could also take the
-opportunity to tell me how awesome I am, but don't worry, I already know. &lt;3
-
-_(I'm not actually this egotistical in person, I swear)_
+Below, you'll find excepts of my blog posts (you can view them as a list on the
+[writing](/writing) page). If you want to get in touch, find me on Twitter
+[@dellsystem](https://twitter.com/dellsystem), or check out my [about
+page](/about#contact) for other contact options.
 
 [github]: https://github.com/dellsystem
 [confoo_talk]: https://github.com/dellsystem/slides/tree/master/confoo-2014/optimising-your-javascript
@@ -53,6 +56,7 @@ _(I'm not actually this egotistical in person, I swear)_
 [McHacks]: http://mchacks.io
 [frivolous.domains]: http://frivolous.domains
 [Macromeasures]: http://macromeasures.com
+[d2l]: /posts/dont-do-drugs-kids
 
 <br />
 <hr />

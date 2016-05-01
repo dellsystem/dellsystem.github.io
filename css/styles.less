@@ -2,140 +2,148 @@
 @import "variables";
 
 * {
-	margin: 0;
-	padding: 0;
+    margin: 0;
+    padding: 0;
 }
 
 body {
-	.sans-serif;
-	font-size: 13px;
+    .serif;
+    font-size: 17px;
+    line-height: 1.7em;
 }
 
 .normal-links {
-	a {
-		color: @linkColor;
-		text-decoration: none;
-		&:hover {
-			color: @linkHoverColor;
-			border-bottom: solid 1px @linkHoverColor;
-		}
-	}
+    a {
+        color: @linkColor;
+        text-decoration: none;
+        &:hover {
+            color: @linkHoverColor;
+            border-bottom: solid 1px @linkHoverColor;
+        }
+    }
 }
 
 .wrap {
-	max-width: 1000px;
-	margin: 0 auto;
+    max-width: 1000px;
+    margin: 0 auto;
 }
 
 #header {
-	text-shadow: @white -1px 1px 0;
-	color: @menuColor;
-	height: 140px;
-	width: 100%;
-	background: url('../img/noise.png') repeat-x @headerColor;
+    color: @menuColor;
+    height: 180px;
+    width: 100%;
+    background: url('../img/background.jpg');
+    background-size: cover;
 }
 
 #ribbon {
-	position: absolute;
-	top: 0px;
-	right: 0px;
+    position: absolute;
+    top: 0px;
+    right: 0px;
 }
 
 #title {
-	position: relative;
-	top: 18px;
-	.serif;
-	color: @titleColor;
-	font-size: 3.7em;
-	line-height: 100px;
-	text-decoration: none;
+    .sans-serif;
+    color: @titleColor;
+    font-size: 3em;
+    line-height: 180px;
+    text-decoration: none;
 
-	&:hover {
-		color: @menuHoverColor;
-	}
+    &:hover {
+        color: #000;
+    }
 
-	img {
-		position: relative;
-		vertical-align: top;
-	}
+    img {
+        position: relative;
+        vertical-align: top;
+    }
 }
 
 #menu {
-	list-style: none;
-	float: right;
-	text-transform: lowercase;
-	font-size: 1.4em;
-	position: relative;
-	top: 60px;
+    .sans-serif;
+    list-style: none;
+    float: right;
+    text-transform: lowercase;
+    font-size: 1.2em;
+    line-height: 180px;
 
-	li {
-		float: left;
-		padding-left: 15px;
-		a {
-			color: @menuColor;
-			text-decoration: none;
+    li + li {
+        padding-left: 15px;
+    }
 
-			&:hover {
-				color: @menuHoverColor;
-			}
-		}
-	}
+    li {
+        display: inline-block;
+        padding-left: 0;
+
+        a {
+            color: @menuColor;
+            text-decoration: none;
+
+            &:hover {
+                color: @menuHoverColor;
+            }
+        }
+    }
 }
 
 #content {
-	.normal-links;
-	.wrap;
-	padding: 30px 20px;
+    .normal-links;
+    .wrap;
+    padding: 50px 0;
     color: @textColor;
 
-	ul {
-		margin-left: 10px;
-		list-style: none;
-		li:before {
-			padding-right: 10px;
-			content: "\00BB \0020";
-		}
-	}
-	p  {
-		padding-bottom: 10px;
-	}
-	
-	ul + p {
-		padding-top: 10px;
-	}
+    ul {
+        margin-left: 10px;
+        list-style: none;
+        li {
+            padding: 2px 0;
+            &:before {
+                padding-right: 10px;
+                content: "\00BB \0020";
+            }
+        }
+    }
 
-	/* For code in general, syntax-highlighted code done in syntax.css */
-	code {
-		font-family: 'Consolas', 'Monaco', 'Monospace', monospace;
-	}
+    p  {
+        padding-bottom: 20px;
+    }
 
-	/* below: no highlighting, but on its own line */
-	p > code, li > code {
-		color: #222222;
-		font-weight: bold;
-		background-color: #F0F0F0;
-		padding: 1px;
-		.border-radius(5px);
-	}
+    ul + p {
+        padding-top: 20px;
+    }
+
+    /* For code in general, syntax-highlighted code done in syntax.css */
+    code {
+        font-family: 'Consolas', 'Monaco', 'Monospace', monospace;
+    }
+
+    /* below: no highlighting, but on its own line */
+    p > code, li > code {
+        color: #222222;
+        font-weight: bold;
+        background-color: #F0F0F0;
+        padding: 1px;
+        .border-radius(5px);
+    }
 }
 
 h1, h2, h3, h4, h5, h6 {
-	.serif;
-	color: @headingColor;
-	padding: 8px 0;
-	clear: both;
+    .sans-serif;
+    color: @headingColor;
+    padding: 0.5em 0;
+    clear: both;
 }
 
 h1 {
-	font-size: 2.8em;
+    font-size: 2.2em;
 }
 
 h2 {
-	font-size: 2.3em;
+    font-size: 1.9em;
 }
 
 h3 {
-	font-size: 1.5em;
+    font-size: 1.5em;
 }
 
 h4 {
@@ -143,162 +151,163 @@ h4 {
 }
 
 hr {
-	padding: 3px 0px;
-	.gradient(#D1D1D1, #F0F0F0);
-	margin: 5px 0px;
-	border: 0;
-	border-top: 1px solid #BBB;
+    padding: 2px 0px;
+    background: @lightGrey;
+    margin: 5px 0px;
+    border: 0;
+    border-top: 1px solid #BBB;
 }
 
 #footer {
-	height: 70px;
-	line-height: 70px;
-	clear: both;
-	text-align: center;
-	.normal-links;
+    height: 70px;
+    line-height: 70px;
+    clear: both;
+    text-align: center;
+    .normal-links;
+    color: @textColor;
 }
 
 .leftfloat {
-	float: left;
-	margin-right: 15px;
+    float: left;
+    margin-right: 15px;
 }
 
 .rightfloat {
-	float: right;
+    float: right;
 }
 
 #mod-status {
-	.border-radius(10px);
-	width: 740px;
-	height: 90px;
-	padding: 5px 10px;
-	&.ABD {
-		.gradient(#666, #AAA);
-	}
-	&.DEV {
-		.gradient(#FF3636, #FF6868);
-	}
-	&.ALPHA {
-		.gradient(#FF9853, #FFB37F);
-	}
-	&.BETA {
-		.gradient(#ECBB49, #ECEA96);
-	}
-	&.RC {
-		.gradient(#83C955, #A9C994);
-	}
-	&.MODDB {
-		.gradient(#2679F5, #77ACF5);
-	}
-	
-	a {
-		color: @white;
-		.serif;
-		font-size: 2.7em;
-		&:hover {
-			color: @white;
-			border: 0;
-			&:after {
-				content: " \00BB \0020";
-			}
-		}
-	}
-	p {
-		font-size: 1.0em;
-		line-height: 1.2em;
-	}
+    .border-radius(10px);
+    width: 740px;
+    height: 90px;
+    padding: 5px 10px;
+    &.ABD {
+        .gradient(#666, #AAA);
+    }
+    &.DEV {
+        .gradient(#FF3636, #FF6868);
+    }
+    &.ALPHA {
+        .gradient(#FF9853, #FFB37F);
+    }
+    &.BETA {
+        .gradient(#ECBB49, #ECEA96);
+    }
+    &.RC {
+        .gradient(#83C955, #A9C994);
+    }
+    &.MODDB {
+        .gradient(#2679F5, #77ACF5);
+    }
+
+    a {
+        color: @white;
+        .sans-serif;
+        font-size: 2.7em;
+        &:hover {
+            color: @white;
+            border: 0;
+            &:after {
+                content: " \00BB \0020";
+            }
+        }
+    }
+    p {
+        font-size: 1.0em;
+        line-height: 1.2em;
+    }
 }
 
 .download-image {
-	width: 100px;
-	height: 100px;
-	float: right;
+    width: 100px;
+    height: 100px;
+    float: right;
 }
 
 .thumb {
-	height: 70px;
+    height: 70px;
 }
 
 .large-thumb {
-	width: 300px;
+    width: 300px;
 }
 
 #demo-link {
-	display: inline-block;
-	width: 250px;
-	vertical-align: top;
-	float: right;
-	height: 50px;
-	padding: 10px;
-	color: #FFF;
-	background: #017AB6;
-	.border-radius(10px);
+    display: inline-block;
+    width: 250px;
+    vertical-align: top;
+    float: right;
+    height: 50px;
+    padding: 10px;
+    color: #FFF;
+    background: #017AB6;
+    .border-radius(10px);
 }
 
 #demo-link a {
-	font-weight: bold;
-	color: #FFF !important;
+    font-weight: bold;
+    color: #FFF !important;
 }
 
 #demo-link a:hover {
-	border-bottom: #FFF solid 1px !important;
+    border-bottom: #FFF solid 1px !important;
 }
 
 #mod-nav {
-	float: right;
-	width: 250px;
-	background: @headerColor;
-	margin-left: 20px;
-	ul {
-		margin: 0;
-		border-right: solid 3px #AAA;
-		font-size: 1.3em;
-		//list-style-type: none;
-		li:before {
-			content: "";
-			padding: 0;
-		}
-		a {
-			.serif;
-			text-shadow: @white 1px 1px 0;
-			padding-left: 20px;
-			display: block;
-			height: 35px;
-			line-height: 35px;
-			width: 230px;
-			color: @menuColor;
-			//border-bottom: solid 2px @headerColor;
-			&:hover {
-				text-shadow: rgba(0, 0, 0, 0.5) 1px 1px 0;
-				padding-left: 20px;
-				color: @white;
-				border: 0;
-				background: @linkColor; //#FCFCFC;
-				//border-bottom: solid 2px @white;
-				&:after {
-					content: " \00BB \0020";
-				}
-				.box-shadow;
-			}
-		}
-	}
+    float: right;
+    width: 250px;
+    background: @headerColor;
+    margin-left: 20px;
+    ul {
+        margin: 0;
+        border-right: solid 3px #AAA;
+        font-size: 1.3em;
+        //list-style-type: none;
+        li:before {
+            content: "";
+            padding: 0;
+        }
+        a {
+            .serif;
+            text-shadow: @white 1px 1px 0;
+            padding-left: 20px;
+            display: block;
+            height: 35px;
+            line-height: 35px;
+            width: 230px;
+            color: @menuColor;
+            //border-bottom: solid 2px @headerColor;
+            &:hover {
+                text-shadow: rgba(0, 0, 0, 0.5) 1px 1px 0;
+                padding-left: 20px;
+                color: @white;
+                border: 0;
+                background: @linkColor; //#FCFCFC;
+                //border-bottom: solid 2px @white;
+                &:after {
+                    content: " \00BB \0020";
+                }
+                .box-shadow;
+            }
+        }
+    }
 }
 
 blockquote {
-	padding-top: 5px;
-	padding-bottom: 5px;
-	padding-left: 10px;
-	border-left: 5px solid @lightGrey;
-	font-style: italic;
-	margin-bottom: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    border-left: 5px solid @lightGrey;
+    font-style: italic;
+    margin-bottom: 10px;
 
-	p {
-		padding-bottom: 0 !important;
-	}
+    p {
+        padding-bottom: 0 !important;
+    }
 }
 
 .white {
-	color: @white;
+    color: @white;
 }
 
 p img {
@@ -311,28 +320,43 @@ pre {
     white-space: pre-wrap;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 1000px) {
+    #title {
+        padding-left: 20px;
+    }
+
+    #menu {
+        padding-right: 20px;
+    }
+
+    #content {
+        padding: 0 20px;
+    }
+}
+
+@media (max-width: 750px) {
     #header {
-        height: 100px;
+        height: 150px;
+        background-size: cover;
     }
 
     #title {
+        padding-left: 0;
+        line-height: 100px;
         text-align: center;
         display: block;
     }
 
     #menu {
+        font-size: 0.9em;
+        line-height: 0.9em;
+        text-align: center;
+        padding-right: 0;
         float: none;
-        position: static;
-        top: 0;
-    }
 
-    #menu li {
-        -moz-box-sizing: border-box;
-        box-sizing: border-box;
-        padding: 20px;
-        width: 100%;
-        background: url('../img/noise.png') repeat-x #f0f0f0;
+        li a {
+            color: @titleColor;
+        }
     }
 
     #ribbon {
@@ -345,4 +369,8 @@ pre {
         padding-bottom: 10px;
         float: none;
     }
+}
+
+.post {
+    word-break: break-all;
 }

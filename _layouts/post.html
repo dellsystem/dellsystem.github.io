@@ -2,9 +2,15 @@
 layout: default
 ---
 <div class="post">
-<img src="/img{% if page.image %}/posts/{{ page.image }}{% else %}{{ page.url }}{% endif %}.png" alt="{{ page.title }}" class="leftfloat" />
-
-<p><a href="/archives">&laquo; Back to archives</a> :: <em>{{ page.date | date_to_string }}</em> :: Categories: {% for category in page.categories %}<strong><a href="/archives#{{ category|replace:' ','-' }}">{{ category }}</a></strong>{% if forloop.last %}{% else %}, {% endif %}{% endfor %}</p>
+    <p>
+        <a href="/writing">&laquo; Back to writing</a>
+        ::
+        <em>{{ page.date | date: "%B %-d, %Y" }}</em>
+        ::
+        Categories:
+        {% for category in page.categories %}<strong><a href="/writing#{{ category|replace:' ','-' }}">{{ category }}</a></strong>{% if forloop.last %}{% else %}, {% endif %}{% endfor %}
+    </p>
+    <img src="/img{% if page.image %}/posts/{{ page.image }}{% else %}{{ page.url }}{% endif %}.png" alt="{{ page.title }}" class="leftfloat" />
 
 {{ content }}
 
@@ -13,6 +19,9 @@ layout: default
 
 <ul>
 {% for post in site.related_posts limit:5 %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }})</li>
+    <li>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+        ({{ post.date | date: "%B %-d, %Y"}})
+    </li>
  	{% endfor %}
 </ul>
