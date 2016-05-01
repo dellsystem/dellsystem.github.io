@@ -23,20 +23,43 @@ photos of them at all.
 
 ## Paintings
 
-## Train
+### Swan
+
+<a href="http://imgur.com/Q2BmrCj">
+<img src="http://i.imgur.com/Q2BmrCj.jpg?2" class="large-thumb" />
+</a>
+
+[Source: Wallpapers Wide][swan]. Acrylic on a 12" x 16" canvas from Deserres.
+Completed on January 16, 2016 as a late Christmas gift.
+
+This was the first time I tried drawing a grid and pencil-sketching the main
+features within the grid before painting over it. It definitely helped with
+getting the shape of the swan right. Kind of makes me feel dumb for not trying
+this before.
+
+### Glider
+
+<a href="http://imgur.com/8UIZRWp">
+<img src="http://i.imgur.com/8UIZRWpl.jpg" class="large-thumb" />
+</a>
+
+[Source: Rahul on Flickr][glider]. Acrylic on a 11" x 14" canvas from Deserres.
+Completed on May 24, 2015 as a birthday gift.
+
+### Train
 
 <a href="http://imgur.com/jtNAWr3?1">
-<img src="http://i.imgur.com/jtNAWr3.jpg?1" class="large-thumb" />
+<img src="http://i.imgur.com/jtNAWr3l.jpg?1" class="large-thumb" />
 </a>
 
 [Source: Jody Walmsley on Flickr][train] (a loose adaptation). Acrylic on a 11"
 x 14" canvas from Deserres. Completed on December 10, 2014 as an early
 Christmas gift.
 
-## Descending glider
+### Descending glider
 
 <a href="http://imgur.com/kxl8mj9?1">
-<img src="http://i.imgur.com/kxl8mj9.jpg?1" class="large-thumb" />
+<img src="http://i.imgur.com/kxl8mj9l.jpg?1" class="large-thumb" />
 </a>
 
 [Source: JonTait2002 on Flickr][descending-glider] (an even looser adaptation).
@@ -46,7 +69,7 @@ an early Christmas gift.
 ### Desert
 
 <a href="http://imgur.com/lYeDJY2">
-<img src="http://i.imgur.com/lYeDJY2.jpg" class="large-thumb" />
+<img src="http://i.imgur.com/lYeDJY2l.jpg" class="large-thumb" />
 </a>
 
 [Source: Tim de Groot on Unsplash][desert] (public domain). Acrylic on a 11" x
@@ -60,8 +83,9 @@ gift.
 </a>
 
 [Source: 55Laney69 on Flickr][spiderweb] (released under CC-BY 2.0). Acrylic on
-a 11" x 14" canvas from DeSerres. Completed on May 11, 2014 as a mother's day
-gift.
+a 11" x 14" canvas from DeSerres. Completed on May 11, 2014 as a gift. You
+don't truly understand tedium until you've had to create hundreds of detailed
+dewdrops by hand.
 
 ### Cape Town Blue Hour
 
@@ -232,9 +256,106 @@ detailed! (Prioritising is hard)
 
 ## Digital
 
-Coming one day, maybe.
+When I was in my senior year of high school, my friend and I created an
+embarrassingly cheesy series of webcomics that could be described as
+"xkcd-inspired, but with a focus on melodramatic teenage problems and
+littered with inside jokes that will certainly seem dated in a few years' time"
+(The New York Times).
+
+(That's a joke. It was never featured in The New York Times.)
+
+I had a lot of fun with it, going so far as to do all the graphics in Inkscape
+and build a PHP-based website that was visited by a few dozen people throughout
+its lifespan, all of whom were my friends and most of whom could relate to the
+banal teenage problems featured. The website has since been deleted, for
+reasons that can probably be surmised, but I still have the graphics, so I
+figured I'd put the least embarrassing ones on here.
+
+### Tales From Mathematics
+
+<img src="http://i.imgur.com/wOTGhZ6.png" />
+
+This one was supposed to be part of a series featuring various abuses of
+mathematics, but I only ever made one. You can tell I was salty about something
+here.
+
+### Ash and Pikachu
+
+<img src="http://i.imgur.com/kgtXqbU.png" />
+
+This one's actually one of my favourites &ndash; I really enjoyed making those vector
+renditions of Pikachu and Waldo. Inspired by a true story, albeit one that does
+not involve Pikachu, but does involve a healthy dose of salt.
+
+### A Tale of Too Much Alcohol
+
+<img src="http://i.imgur.com/GTCI71S.png" />
+
+Also inspired by a true story, or, more accurately, many true stories.
+
+### Explorer
+
+<img src="http://i.imgur.com/QkLUAzw.png" />
+
+A fun and unusually salt-free little drawing.
+
+### Tales From Regular Physics
+
+<img src="http://i.imgur.com/enBqA5c.png" />
+
+There was supposed to be another series called "Tales From Astrophysics" but I
+never ended up making it. There are only so many ways you can misappropriate
+scientific concepts.
+
+### Maybe It's Better
+
+<img src="http://i.imgur.com/MFXyD96.png" />
+
+Presented without comment.
+
+### Bad Ideas
+
+<img src="http://i.imgur.com/WLpgjcZ.png" />
+
+The watermelon bowling thing happened to me while on a trip to a particularly
+rural part of China. We managed to procure a whole watermelon but didn't have
+anything to cut it open with, so we decided to forgo eating it and just use it
+as a bowling ball instead (there was also not much to do in the area).
+Evidently, the watermelon had other plans, so we were able to enjoy a nice
+snack of watermelon after a brief attempt at bowling.
+
+### Themed Names
+
+<img src="http://i.imgur.com/H0NBRwY.png" />
+
+Making this one taught me a lot about: precious gems, Switzerland, nuts, and the
+depths of human cruelty.
+
+### Paper Cranes
+
+<img src="http://i.imgur.com/CzMKcfF.png" />
+
+The weird story about this one (which is one of the only ones not inspired
+by a true story &ndash; the idea just came to me one day when I was making
+paper cranes) is that about two years after I posted it, I found an
+[everything2 writeup][cranes] with an eerily similar theme.
+
+### Plenty of Fish
+
+<img src="http://i.imgur.com/jSYAZyR.png" />
+
+I had to bury that fish in the garden myself. It was a sad day.
+
+### Another Fish
+
+<img src="http://i.imgur.com/A13VpvK.png" />
+
+True story. There were a lot of fish turnover issues that year. My CEO approval
+rating on Glassbowl went way down.
 
 [album]: http://imgur.com/a/KE9sW/all
+[swan]: http://wallpaperswide.com/beautiful_swan_2-wallpapers.html
+[glider]: https://www.flickr.com/photos/khandurahul/6264995789/
 [train]: https://www.flickr.com/photos/superjody/6910978239
 [descending-glider]: https://www.flickr.com/photos/jontait2002/526810393/in/photostream/
 [desert]: https://unsplash.com/timdegroot
@@ -247,3 +368,4 @@ Coming one day, maybe.
 [moon]: https://www.flickr.com/photos/luchilu/677786684/
 [princess]: http://www.theperfumebaseline.com/wp-content/uploads/2013/03/vera-wang-perfume-ad.jpg
 [flower]: http://wallpaperswide.com/frangipani-wallpapers.html
+[cranes]: http://everything2.com/user/Auspice/writeups/Fold+a+thousand+paper+cranes

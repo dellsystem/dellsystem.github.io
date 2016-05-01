@@ -3,7 +3,7 @@
 [{{ post.title }}]({{ post.url }})
 ----------------
 
-<div class="post">
+<div class="post excerpt">
 
 <a href="{{ post.url }}"><img class="leftfloat" src="/img{% if post.image %}/posts/{{ post.image }}{% else %}{{ post.url }}{% endif %}.png" /></a>
 
