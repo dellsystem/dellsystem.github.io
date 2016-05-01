@@ -1,5 +1,5 @@
 ---
-title: archives
+title: writing
 layout: posts
 jquery: true
 ---

@@ -26,9 +26,7 @@ projects:
   unfortunately slowed to a crawl since I and some other contributors left
   McGill, but I'm told that the existing material is still helpful for students
   during exam period. [Check it out for yourself](http://wikinotes.ca) if you
-  like. Forgive my use of Twitter Bootstrap v1.4.4, which I know is
-  pre-historic by web development standards, almost akin to using Geocities or
-  Dreamweaver."]
+  like."]
 - [['ctf', 'http://taskforce.sus.mcgill.ca'], "2011–2013: As a volunteer for
   Computer Taskforce – a student-run group that manages substantial printing
   and computing resources for science students at McGill – I fixed a lot of
@@ -71,7 +69,7 @@ projects:
   collaboration website for [Octave](http://octave.org)-related projects, as
   part of the European Space Agency's [Summer of Code in Space
   2012](http://sophia.estec.esa.int/socis2012/). I wrote some [blog
-  posts](http://dellsystem.me/archives#agora) about my work."]
+  posts](http://dellsystem.me/writing#agora) about my work."]
 - [['mcmun2014', 'https://github.com/dellsystem/mcmun-2014'], "2013–2014:
   Reprising my role as the Undersecretary–General, IT for McMUN 2014, I
   improved the system I had built for McMUN 2013 and overhauled the website

@@ -8,7 +8,7 @@
 	<title>dellsystem.me :: {{ page.title }}</title>
     <link rel="alternate" type="application/rss+xml" title="dellsystem.me" href="http://dellsystem.me/rss.xml" />
     <link rel="alternate" type="application/atom+xml" title="dellsystem.me" href="http://dellsystem.me/atom.xml" />
-    <link href="http://fonts.googleapis.com/css?family=Crimson+Text" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro|PT+Serif" rel="stylesheet" type="text/css">
 	<link rel="stylesheet" type="text/css" href="/css/styles.css" />
 	{% if page.math %}<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>{% endif %}
 	{% if page.jquery %}<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>{% endif %}
@@ -30,15 +30,14 @@
 <body>
 	<div id="header">
 		<div class="wrap">
-			<a href="http://www.dellsystem.me" id="title">dellsystem.me</a>
+			<a href="/" id="title">dellsystem.me</a>
 			<ul id="menu">
 				<li><a href="/index">Home</a></li>
 				<li><a href="/about">About</a></li>
-				<li><a href="/art">Art &amp; design</a></li>
+				<li><a href="/art">Artwork</a></li>
 				<li><a href="/projects">Projects</a></li>
-				<li><a href="/archives">Archives</a></li>
+				<li><a href="/writing">Writing</a></li>
 			</ul>
-			<a href="https://www.github.com/dellsystem"><img src="/img/forkme.png" title="Fork me on Github" alt="Github ribbon" id="ribbon" /></a>
 		</div>
 	</div>
 	<div id="content">
@@ -46,7 +45,8 @@
 		{{ content }}
 	</div>
 	<div id="footer">
-			powered by jekyll. website source available on <a href="https://www.github.com/dellsystem/dellsystem.me" title="hasn't been updated in a while though sorry">github</a>
+        powered by jekyll. source on <a
+        href="https://www.github.com/dellsystem/dellsystem.me">github</a>.
 	</div>
 </body>
 </html>
