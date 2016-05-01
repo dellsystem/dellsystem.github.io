@@ -7,7 +7,7 @@
 }
 
 body {
-    .serif;
+    font-family: 'PT Serif', 'Georgia', serif;
     font-size: 17px;
     line-height: 1.7em;
 }
@@ -43,7 +43,6 @@ body {
 }
 
 #title {
-    .sans-serif;
     color: @titleColor;
     font-size: 3em;
     line-height: 180px;
@@ -60,7 +59,6 @@ body {
 }
 
 #menu {
-    .sans-serif;
     list-style: none;
     float: right;
     text-transform: lowercase;
@@ -128,10 +126,10 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    .sans-serif;
     color: @headingColor;
     padding: 0.5em 0;
     clear: both;
+    font-weight: normal;
 }
 
 h1 {
@@ -202,7 +200,6 @@ hr {
 
     a {
         color: @white;
-        .sans-serif;
         font-size: 2.7em;
         &:hover {
             color: @white;
@@ -268,7 +265,6 @@ hr {
             padding: 0;
         }
         a {
-            .serif;
             text-shadow: @white 1px 1px 0;
             padding-left: 20px;
             display: block;
