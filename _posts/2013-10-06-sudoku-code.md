@@ -691,4 +691,4 @@ along with the message, resulting in a somewhat more secure scheme (for a given
 value of "secure"). This will work as long as you ensure that the Sudoku puzzle
 that you choose always has a unique solution.
 
-[gh]: https://github.com/dellsystem/dellsystem.me/tree/master/_includes/sudokucode
+[gh]: https://github.com/dellsystem/dellsystem.github.io/tree/master/_includes/sudokucode
