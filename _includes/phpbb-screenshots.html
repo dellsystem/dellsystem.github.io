@@ -1,0 +1,5 @@
+{% assign images = include.images|split:"," %}
+{% for image in images %}
+    {% capture image_url %}https://github.com/dellsystem/phpBB-{{ include.repo }}/raw/master/contrib/{{ image }}.png{% endcapture %}
+    <a href="{{ image_url }}"><img src="{{ image_url }}" class="thumb" /></a>
+{% endfor %}

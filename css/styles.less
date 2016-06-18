@@ -174,47 +174,6 @@ hr {
     float: right;
 }
 
-#mod-status {
-    .border-radius(10px);
-    width: 740px;
-    height: 90px;
-    padding: 5px 10px;
-    &.ABD {
-        .gradient(#666, #AAA);
-    }
-    &.DEV {
-        .gradient(#FF3636, #FF6868);
-    }
-    &.ALPHA {
-        .gradient(#FF9853, #FFB37F);
-    }
-    &.BETA {
-        .gradient(#ECBB49, #ECEA96);
-    }
-    &.RC {
-        .gradient(#83C955, #A9C994);
-    }
-    &.MODDB {
-        .gradient(#2679F5, #77ACF5);
-    }
-
-    a {
-        color: @white;
-        font-size: 2.7em;
-        &:hover {
-            color: @white;
-            border: 0;
-            &:after {
-                content: " \00BB \0020";
-            }
-        }
-    }
-    p {
-        font-size: 1.0em;
-        line-height: 1.2em;
-    }
-}
-
 .download-image {
     width: 100px;
     height: 100px;
@@ -222,71 +181,11 @@ hr {
 }
 
 .thumb {
-    height: 70px;
+    height: 120px;
 }
 
 .large-thumb {
     width: 300px;
-}
-
-#demo-link {
-    display: inline-block;
-    width: 250px;
-    vertical-align: top;
-    float: right;
-    height: 50px;
-    padding: 10px;
-    color: #FFF;
-    background: #017AB6;
-    .border-radius(10px);
-}
-
-#demo-link a {
-    font-weight: bold;
-    color: #FFF !important;
-}
-
-#demo-link a:hover {
-    border-bottom: #FFF solid 1px !important;
-}
-
-#mod-nav {
-    float: right;
-    width: 250px;
-    background: @headerColor;
-    margin-left: 20px;
-    ul {
-        margin: 0;
-        border-right: solid 3px #AAA;
-        font-size: 1.3em;
-        //list-style-type: none;
-        li:before {
-            content: "";
-            padding: 0;
-        }
-        a {
-            text-shadow: @white 1px 1px 0;
-            padding-left: 20px;
-            display: block;
-            height: 35px;
-            line-height: 35px;
-            width: 230px;
-            color: @menuColor;
-            //border-bottom: solid 2px @headerColor;
-            &:hover {
-                text-shadow: rgba(0, 0, 0, 0.5) 1px 1px 0;
-                padding-left: 20px;
-                color: @white;
-                border: 0;
-                background: @linkColor; //#FCFCFC;
-                //border-bottom: solid 2px @white;
-                &:after {
-                    content: " \00BB \0020";
-                }
-                .box-shadow;
-            }
-        }
-    }
 }
 
 blockquote {
