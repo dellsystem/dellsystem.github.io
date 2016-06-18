@@ -15,7 +15,7 @@ One of the required features for Agora Octave (which I've been working on for th
 
 Here's an example of what it should look like:
 
-![Yay line numbers](line-numbering.png)
+![Yay line numbers](/img/posts/line-numbering/line-numbering.png)
 
 My first attempt towards this noble goal was a fairly lackluster one that resulted in a horizontal scrollbar whenever there was one line that was too wide for the box:
 
