@@ -23,10 +23,19 @@ photos of them at all.
 
 ## Paintings
 
+### Saxophone
+
+<a href="http://imgur.com/ES60vW3">
+<img src="http://i.imgur.com/ES60vW3l.jpg" class="large-thumb" />
+</a>
+
+[Source: ShutterStock][sax]. Acrylic on a 12" x 16" canvas from Deserres.
+Completed on May 29, 2016 as a birthday gift.
+
 ### Swan
 
 <a href="http://imgur.com/Q2BmrCj">
-<img src="http://i.imgur.com/Q2BmrCj.jpg?2" class="large-thumb" />
+<img src="http://i.imgur.com/Q2BmrCjl.jpg?2" class="large-thumb" />
 </a>
 
 [Source: Wallpapers Wide][swan]. Acrylic on a 12" x 16" canvas from Deserres.
@@ -102,7 +111,7 @@ DeSerres. Completed on January 14, 2014 as a (late) Christmas gift.
 <img src="http://i.imgur.com/iJZgiwKl.jpg" class="large-thumb" />
 </a>
 
-[Source: Jeff Kubina on Flickr][flowers]. Acrylic on a shitty 7" x 11" (or possibly
+[Source: Jeff Kubina on Flickr][flowers]. Acrylic on a 7" x 11" (or possibly
 9" x 12" or something else, I'm not sure) canvas from the dollar store.
 Completed on October 13, 2013 as a birthday present.
 
@@ -369,3 +378,4 @@ rating on Glassbowl went way down.
 [princess]: http://www.theperfumebaseline.com/wp-content/uploads/2013/03/vera-wang-perfume-ad.jpg
 [flower]: http://wallpaperswide.com/frangipani-wallpapers.html
 [cranes]: http://everything2.com/user/Auspice/writeups/Fold+a+thousand+paper+cranes
+[sax]: http://www.shutterstock.com/pic-131882549/stock-photo-classic-music-sax-tenor-saxophone-and-clarinet-in-black-background.html
