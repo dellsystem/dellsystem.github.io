@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Predicting elections without polls
+title: Predicting the U.S. election without polls
 categories: endorsementdb
 ---
 
