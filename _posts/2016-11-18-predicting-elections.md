@@ -138,11 +138,11 @@ Note that all three models predict a comfortable Trump victory.
 ## Lessons learned
 
 If I had done this analysis before the election, I certainly would have been
-less quick to believe that Clinton was a landslide, as many polls predicted.
+less quick to believe that Clinton would have won in a landslide, as many polls predicted.
 
 Of course, I say this with the privilege of hindsight and confirmation bias. If
-Hillary had won, would I have performed the same analysis? If so, would I have
-discarded the results when they indicated a Trump victory? It's possible. At
+she _had_ won, would I still have performed this analysis afterward? Would I have
+discarded the results when they indicated a Trump victory? Maybe; I don't know. At
 the same time, it may be that these endorsements form an important bellwether
 for the election results, meaning that Clinton wouldn't have had a chance
 unless more Republicans in Congress had decided to endorse her over third-party
@@ -206,7 +206,8 @@ really shouldn't be storing in Git given the size of the files) at
 If you find this interesting and want to get involved in any way, please
 reach out by [email](mailto:admin@endorsementdb.com) or [Twitter]! I'd love to
 hear your thoughts or help you with a research question that involves
-endorsement data. I have some more research questions of my own, and I'll be
+endorsement data. I have some more research questions of my own -- like the
+effects of presidential endorsements on Senate and House races -- and I'll be
 writing up a post if I find anything interesting, so stay tuned.
 
 [ddj]: http://datadrivenjournalism.net/news_and_analysis/will_data_driven_election_reporting_ever_be_the_same
