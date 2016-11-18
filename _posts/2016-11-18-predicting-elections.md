@@ -156,7 +156,7 @@ Clinton, with only a handful for Trump. If you focus on the number of local
 newspapers endorsements by state, you'll find that Clinton is projected to win
 every single state except Alaska and Kansas, which is pretty hard to imagine.
 Even if we change the model to award a state to Clinton only if Trump gets _no_
-newspaper enorsements -- which, to be honest, is a pretty contrived rule -- we
+newspaper endorsements -- which, to be honest, is a pretty contrived rule -- we
 still get 20 mispredictions. Clearly, newspaper endorsements were not a great
 predictor of how voters felt during this election. Why that was the case is
 anyone's guess.
