@@ -7,7 +7,7 @@ categories: endorsementdb
 Last week, a few days after the United States presidential election,
 [Data Driven Journalism] featured a great piece about the pitfalls of relying
 on opinion polls to predict elections: ["Will data driven election reporting
-ever be the same?"][ddj] I myself fell into the trap of trusting the polls that
+ever be the same?"][ddj] I myself had fallen into the trap of trusting the polls that
 predicted a landslide Clinton win, so in the aftermath of the unexpected
 election results, I started thinking about alternatives to traditional polls
 for predicting election results. Endorsements, perhaps. Maybe if you looked at
@@ -29,35 +29,54 @@ Hillary"; "The Chicago Tribune endorses Gary Johnson"; "Republicans Endorse,
 Unendorse And Then Re-Endorse Donald Trump".
 
 Although I managed to import several hundred endorsements manually, I soon
-realised that I had severely underestimated the sheer volume of endorsements
--- over 8000 in total -- that had accumulated throughout the campaign season.
-So I changed my strategy: I would add endorsements by parsing the Wikipedia
-pages and importing them programmatically (with some manual supervision). That
-dramatically sped up the process, allowing me to import all the endorsements on
-all the relevant Wikipedia pages. Once those were imported, I programmatically
-tagged what I could based on the context on the Wikipedia pages, and then
-manually added in some other tags that I thought could be relevant (for
-example, all the members of Congress, complete with their party affiliation and
-state).
+realised that I had severely underestimated the sheer volume of endorsements --
+over 8000 in total -- that had accumulated throughout the campaign season.  So
+I changed my strategy: I would add endorsements by parsing the relevant
+Wikipedia pages and importing them programmatically, with manual supervision
+where needed. That dramatically sped up the process, allowing me to import
+all the endorsements on all the relevant Wikipedia pages. Once those were
+imported, I programmatically tagged what I could based on the context on the
+Wikipedia pages, and then manually added in some other tags that I thought
+could be relevant (for example, all the members of Congress, complete with
+their party affiliation and state).
 
 ## Endorsements among members of Congress
 
-Now, going back to the original premise: How do we predict the outcome of the
-election without polls? Well, given that we have a database of the endorsements
-made by all 535 members of Congress, let's start there. We now know the outcome
-of the election in each state, so we can use that as ground truth to assess the
-quality of each model.
+Now, going back to the original premise: How could we have predicted the
+outcome of the election without using polls? Well, given that we have a
+database of the endorsements made by all the members of Congress, we can start
+there and see how these endorsements align with the popular vote in each state.
+
+As a side note: since this analysis is being done after the election is over,
+the goal of this analysis is not to try and dazzle you with my clairvoyance.
+(I didn't do any of this analysis until a few days after Election Day,
+and so the design of these models was indisputably tainted by my knowledge of
+the actual election results, with all the risk of overfitting and confirmation
+bias that entails.) Rather, the aim of this post is to explore the correlation
+between endorsements and election results -- a correlation that I'm sure many
+would suspect, but might find difficult to quantify. To that end, I tried to
+keep the models straightforward and reasonable, with clear explanations of how
+I produced each.
+
+For simplicity, these models all treat Nebraska and Maine as winner-take-all
+states even though they actually use a [district-based
+model](http://www.270towin.com/content/split-electoral-votes-maine-and-nebraska).
 
 ### Party affiliation as a baseline
 
 We start by ignoring endorsements and only looking at party affiliation as a
 baseline model. For each state, we look at the party breakdown of its members
 of Congress, and award that state to Trump if most members are Republican, and
-to Clinton if most are Democrat. This model, which projects a landslide Trump
-victory of 337 to 197 electoral votes, performs decently well: of the 50 states
-and D.C., only 5 predictions are wrong, and they all happen to be the states
-that were won narrowly, with less than 5% spread (Colorado, Maine, Nevada, New
-Hampshire, Virginia).
+to Clinton if most are Democrat. If there is an equal number from each party,
+we treat the prediction as a tie; if the winning party has only a small edge
+percentage-wise, we predict a smaller margin of victory.
+
+The results are shown in the table below. Clinton victories are shown in blue,
+and Trump victories are shown in red, with a white background to indicate a
+small margin of victory (under 5%). The numbers after the first row of the
+"Predicted electoral votes" column indicate the difference between the two
+parties, with the actual number of electoral votes awarded to each state shown
+in the first column.
 
 <img src="/img/posts/predicting-elections/congress-party-model.png" alt="" />
 <p class="caption">
@@ -69,14 +88,19 @@ Hampshire, Virginia).
     endorsementdb.com</a>.
 </p>
 
+This model, which projects a landslide Trump victory of 337 to 197 electoral
+votes, performs decently well: of the 50 states and D.C., only 5 predictions
+are wrong, and they all happen to be the states that were won narrowly, with
+less than 5% spread (Colorado, Maine, Nevada, New Hampshire, Virginia).
 
-Of course, this model is very limited as it implies that control of Congress
-will lead to winning the election, which we know isn't always the case. Plus,
-it assumes that sitting members of Congress - some of whom were elected six
-years ago - are an accurate representation of voting preferences today. What's
-more, people don't always vote along party lines, a fact that is especially
-relevant for this election, as many Republicans decided not to endorse their
-Party's nominee.
+Of course, the problem with looking solely at party affiliation is that it
+produces a very limited model: it implies that control of Congress will lead
+to winning the election, which we know isn't always the case. Plus, it implies
+that sitting members of Congress -- some of whom were elected six years ago --
+are, for whatever reason, an accurate representation of voting preferences
+today. What's more, we know that people don't always vote along party lines, a
+fact that is especially relevant for this election, as many Republicans decided
+not to endorse their Party's nominee.
 
 ### Using endorsements instead
 
@@ -90,10 +114,6 @@ the form ["I would support the Republican ticket if Trump were to withdraw and
 be replaced by Pence"][pence]. (It would be interesting to account for these
 pseudo-endorsements in another analysis, however.)
 
-This time, only three predictions were wrong: Michigan (a tie), Virginia (small
-Trump margin), and Wisconsin (a tie). The result is still a Trump victory --
-even ignoring Wisconsin and Michigan -- but with a smaller margin: 292 to 220.
-
 <img src="/img/posts/predicting-elections/congress-endorsement-model.png" alt="" />
 <p class="caption">
     A table with the outcome of the "Congress - endorsement" model highlighted,
@@ -104,7 +124,11 @@ even ignoring Wisconsin and Michigan -- but with a smaller margin: 292 to 220.
     endorsementdb.com</a>.
 </p>
 
-This model is more reasonable in its assumptions -- namely, that the feelings
+This time, only three predictions were wrong: Michigan (a tie), Virginia (small
+Trump margin), and Wisconsin (a tie). The result is still a Trump victory --
+even ignoring Wisconsin and Michigan -- but with a smaller margin: 292 to 220.
+
+This model is more reasonable in its implications -- namely, that the feelings
 of members of Congress towards the presidential candidates can influence, or
 otherwise reflect, the feelings of their constituents -- and the predictions
 are a definite improvement over the baseline model. However, the presence of
@@ -140,14 +164,14 @@ Note that all three models predict a comfortable Trump victory.
 If I had done this analysis before the election, I certainly would have been
 less quick to believe that Clinton would have won in a landslide, as many polls predicted.
 
-Of course, I say this with the privilege of hindsight and confirmation bias. If
-she _had_ won, would I still have performed this analysis afterward? Would I have
-discarded the results when they indicated a Trump victory? Maybe; I don't know. At
-the same time, it may be that these endorsements form an important bellwether
-for the election results, meaning that Clinton wouldn't have had a chance
-unless more Republicans in Congress had decided to endorse her over third-party
-candidates like [Evan McMullin] and [Gary Johnson] or [a Republican other than
-the nominee][another-republican].
+Of course, I say this with the privilege of hindsight. If she _had_ won, would
+I still have performed this analysis afterward? Would I have discarded the
+results when they indicated a Trump victory? Maybe; I don't know. At the same
+time, it may be that these endorsements form an important bellwether for the
+election results, meaning that Clinton wouldn't have had a chance unless more
+Republicans in Congress had decided to endorse her over third-party candidates
+like [Evan McMullin] and [Gary Johnson] or [a Republican other than the
+nominee][another-republican].
 
 Incidentally, I also learned that newspaper endorsements were not a great
 predictor of the outcome of this election. This is obvious in hindsight to
@@ -173,18 +197,26 @@ anyone's guess.
 ### Caveats
 
 While I believe these methods would be a useful part of a pollster's arsenal
-for future elections, I do acknowledge some caveats. These models are made very
-much in hindsight, and given that we have only one event - the 2016 election -
-to draw from, there is a real risk of overfitting. It's possible these models
-only worked because of the unique circumstances of this election year: Congress
+for future elections, I do acknowledge some caveats. Given that we have only
+one event - the 2016 election - to draw from, there is a real risk of
+overfitting in these results. All I've shown is that for the 2016 election,
+there is a correlation between presidential endorsements by members of Congress
+and the popular vote in each state, which is slightly stronger than that
+between their party affiliation and the popular vote. It's possible that is
+only true because of the unique circumstances of this election year: Congress
 was overwhelmingly under Republican control, and the Republican nominee was a
-uniquely polarising figure who, throughout the course of his campaign, lost of
-the endorsement of many Republican members of Congress. What's more, they
-present a simplified version of the electoral college that ignores Nebraska's
-and Maine's district-based systems, and they make assumptions about members of
-Congress that may not always hold true. I also recognise that some of the
-tiebreaker methods are rather arbitrary, and that presenting a model that just
-happens to fit ground truth data after the fact is, in a way, cheating. 
+uniquely polarising figure who, throughout the course of his campaign, lost the
+endorsement of many Republican members of Congress. It would be interesting to
+apply these models to previous elections to see how they hold up, but
+unfortunately historical data is more challenging to obtain, especially
+pre-2008.
+
+It's also unclear why, exactly, this correlation exists. Do members of Congress
+make their decisions based on who they think their electorate would support?
+Do voters change their mind based on who their representatives support? Is
+there something else -- something geographical, or cultural -- that just
+happens to align these two populations most of the time? Is it some combination
+of all three? On this, I can only speculate.
 
 Still, the fact that even the most basic endorsement-based models did decent
 job of predicting the election speaks to the importance of endorsements.  I
@@ -192,7 +224,7 @@ personally think that such endorsements should be tracked, for accountability
 purposes (especially when it comes to public officials) and because of their
 potential as a barometer for public opinion (partly because these people often
 have influence, and partly because it can indicate the sentiment among their
-audience).  Endorsements are often overlooked in statistical analysis because
+audience). Endorsements are often overlooked in statistical analysis because
 of the difficulty of obtaining the necessary data, which is why I will continue
 to work on [EndorsementDB.com] with the goal of making it a central source of
 endorsement data for this and future elections.
