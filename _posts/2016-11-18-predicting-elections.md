@@ -241,7 +241,11 @@ endorsement data. I have some more research questions of my own -- like the
 effects of presidential endorsements on Senate and House races -- and I'll be
 writing up a post if I find anything interesting, so stay tuned.
 
+_This post was featured on Data Driven Journalism as ["EndorsementDB:
+Predicting the U.S. election without polls"][ddj2]._
+
 [ddj]: http://datadrivenjournalism.net/news_and_analysis/will_data_driven_election_reporting_ever_be_the_same
+[ddj2]: http://datadrivenjournalism.net/featured_projects/endorsementdb_predicting_the_u.s._election_without_polls
 [EndorsementDB.com]: http://endorsementdb.com
 [trump-support]: https://endorsementdb.com/#candidate=trump-support
 [pence]: https://endorsementdb.com/#candidate=pence
