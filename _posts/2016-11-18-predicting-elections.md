@@ -187,7 +187,8 @@ anyone's guess.
 <img src="/img/posts/predicting-elections/newspaper-models.png" alt="" />
 <p class="caption">
     A table with the outcome of both newspaper endorsement models. The data
-    comes from the <a href="https://en.wikipedia.org/wiki/Newspaper_endorsements_in_the_United_States_presidential_election,_2016">Newspaper endorsements in the United States presidential election, 2016" Wikipedia page</a>.
+    comes from the <a
+    href="https://en.wikipedia.org/wiki/Newspaper_endorsements_in_the_United_States_presidential_election,_2016">"Newspaper endorsements in the United States presidential election, 2016" Wikipedia page</a>.
     You can view the full table at <a
     href="http://endorsementdb.com/stats/predictions#category-3">
     endorsementdb.com</a>.
