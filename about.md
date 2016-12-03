@@ -13,19 +13,20 @@ picked up enough web dev knowledge to start answering other people's support
 questions -- not always accurately, but it was a great way to learn.
 
 I no longer run any phpBB boards, but I owe much of my current interest in
-computer science to the that community, which welcomed me aboard as a
-moderator -- and, later, as a member of the website team -- even though I was a
-clueless 15-year-old who had only just found out what Linux was. My early
-programming experiences consisted of modifying phpBB installations, which was
-probably not the best way to learn PHP, but I persevered and eventually
-discovered languages that are not PHP.
+computer science to that community, which welcomed me aboard as a moderator --
+and, later, as a member of the website team -- even though I was a clueless
+15-year-old who had only just found out what Linux was. My early programming
+experiences consisted of modifying phpBB installations, which was probably not
+the best way to learn PHP, but I persevered and eventually discovered languages
+that are not PHP.
 
 In 2014, I graduated from McGill University with a Bachelor of Science in
 Mathematics and Computer Science. I still make cheesy and terrible websites on
-occasion, like when I registered the domain howdoi.land to show a perpetually
-flying martlet using CSS animations (still one of my proudest accomplishments).
-My primary occupation these days, though, is building the core technology for
-[Macromeasures], so I haven't animated any martlets in a while.
+occasion, like when I [registered the domain howdoi.land to show a perpetually
+flying martlet using CSS animations][howdoi.land] (still one of my proudest
+accomplishments). My primary occupation these days, though, is building the
+core technology for [Macromeasures], so I haven't animated any martlets in a
+while.
 
 Feel free to email me at my gmail account or send me a message on Twitter
 [@dellsystem][twitter] if you want to get in touch.
@@ -51,19 +52,21 @@ interests
 * [beautiful math](http://www.mathjax.org/ "♥")
 * designing pretty things
 * CLIs, clean code, and consonance
-* trying to beat my personal record of 13 consecutive pull-ups
+* [reading books][goodreads], especially if they're about politics, inequality,
+  and post-capitalist economics
+* gymnastics
 
 miscellaneous
 -------------
 
-* **currently running**: ubuntu 15.10
+* **currently running**: ubuntu 16.04
 * **favourite pokemon**: mudkip, as you may have heard
 * **favourite text editor**: vim for the command line, gedit otherwise; IDEs
   tend to crash in my presence
 * **favourite free software projects**: [inkscape](http://www.inkscape.org),
   [phpBB](http://www.phpbb.com), [git](http://www.git-scm.com),
   [less.js](http://www.lesscss.org), [django](http://www.djangoproject.com),
-  [jekyll](http://jekyllrb.com/).
+  [jekyll](http://jekyllrb.com/)
 * **favourite web server**: [nginx](http://www.nginx.org)
 * **programming languages**: python, PHP, javascript, java, some C, a bit of
   ruby, a modicum of objective-j, very little bash, more MIPS assembly than
@@ -73,17 +76,19 @@ miscellaneous
   AngularJS, D3.js, supervisor, Riak, Redis, MongoDB, AWS
 * **favourite musical artist**: [stars](http://youarestars.com)
 * **favourite author**: right now, it's a toss-up between Terry Pratchett, Neil
-  Gaiman, and Neal Stephenson (ask for book recs!)
+  Gaiman, and Neal Stephenson (ask for book recs, or see my [goodreads]!)
 
 other stuff
 -----------
 
-*	[goodreads](http://www.goodreads.com/user/show/60292716-wendy-liu)
+*	[goodreads]
 *	[github](https://www.github.com/dellsystem)
 *	[last.fm][last.fm]
 *	[speakerdeck](https://speakerdeck.com/dellsystem)
 
+[goodreads]: http://www.goodreads.com/user/show/60292716-wendy-liu
 [Macromeasures]: http://macromeasures.com
 [last.fm]: http://www.last.fm/user/dellsystem
 [twitter]: http://www.twitter.com/#!/dellsystem
 [phpbb]: https://www.phpbb.com/community/memberlist.php?mode=viewprofile&u=178433
+[howdoi.land]: http://dellsystem.me/howdoi.land/
