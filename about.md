@@ -78,7 +78,7 @@ miscellaneous
 other stuff
 -----------
 
-*	[goodreads](www.goodreads.com/user/show/60292716-wendy-liu)
+*	[goodreads](http://www.goodreads.com/user/show/60292716-wendy-liu)
 *	[github](https://www.github.com/dellsystem)
 *	[last.fm][last.fm]
 *	[speakerdeck](https://speakerdeck.com/dellsystem)
