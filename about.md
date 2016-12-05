@@ -86,7 +86,7 @@ other stuff
 *	[last.fm][last.fm]
 *	[speakerdeck](https://speakerdeck.com/dellsystem)
 
-[goodreads]: http://www.goodreads.com/user/show/60292716-wendy-liu
+[goodreads]: http://goodreads.com/dellsystem
 [Macromeasures]: http://macromeasures.com
 [last.fm]: http://www.last.fm/user/dellsystem
 [twitter]: http://www.twitter.com/#!/dellsystem
