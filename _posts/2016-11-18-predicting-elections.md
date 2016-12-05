@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Predicting the U.S. election without polls
-categories: endorsementdb
+categories:
+- politics
 ---
 
 A few days after the United States presidential election, [Data Driven

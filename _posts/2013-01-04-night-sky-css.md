@@ -2,8 +2,7 @@
 layout: post
 title: "Simulating the night sky with CSS"
 categories:
-- web design
-- not octave
+- web-design
 code: true
 css: stars
 ---

@@ -2,38 +2,60 @@
 layout: default
 ---
 
-<p>Categories: {% for category in site.categories %}<strong><a href="#" id="category-{{ category[0] }}">{{ category[0] }}</a></strong>{% if forloop.last %}{% else %}, {% endif %}{% endfor %} :: <strong><a href="#" id="show-all">show all</a></strong></p>
+<div id="post-categories">
+    Categories:
+    <a href="#" class="clicked" id="category-all">all</a> ({{ site.posts.size }}),
+    {% for category in site.categories %}<a href="#" id="category-{{ category[0] }}">{{ category[0] }}</a> ({{ category[1].size }}){% if forloop.last %}{% else %}, {% endif %}{% endfor %}
+</div>
 
-<ul class="posts">
-    {% for post in site.posts %}
-        <li class="{% for category in post.categories %}category-{{ category|replace:' ','-' }} {% endfor %}"><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }}) :: Categories: {{ post.categories | array_to_sentence_string }}</li>
-    {% endfor %}
-</ul>
+<br />
+<hr />
+<br />
 
-<script>
-var showCategory = function (thisCategory) {
-	// First make sure this one is at full opacity
-	// Use filter because there may be other li elements on the page, such as the menu
-	$('li').filter('[class~=category-' + thisCategory + ']').fadeTo('fast', 1).css('font-weight', 'bold');
-	// Now fade all the other categories
-	$('li').filter('[class^=category-]').not('[class~=category-' + thisCategory + ']').fadeTo('slow', 0.5).css('font-weight', 'normal');
+{% for post in site.posts %}
+{% include excerpt.html %}
+{% endfor %}
+
+<script type="text/javascript">
+var containsCategory = function(postExcerpt, desiredCategory) {
+    var categories = postExcerpt.querySelectorAll('.post-category');
+    for (var i = 0; i < categories.length; i++) {
+        if (categories[i].innerText == desiredCategory) {
+            return true;
+        }
+    };
+
+    return false;
+};
+
+var showCategory = function(desiredCategory) {
+    if (desiredCategory == 'all') {
+        $('.post-excerpt').show();
+    } else {
+        $('.post-excerpt').each(function(index, postExcerpt) {
+            if (containsCategory(postExcerpt, desiredCategory)) {
+                $(postExcerpt).show();
+            } else {
+                $(postExcerpt).hide();
+            }
+        });
+    }
 };
 
 // For simulating category-pages
-$('[id^=category-]').click(function() {
-	var thisCategory = $(this).text().replace(' ', '-');
-	showCategory(thisCategory);
-    return false;
-});
-
-// Make all the others 100% opacity
-$('#show-all').click(function() {
-	$('li').filter('[class^=category-]').fadeTo('fast', 1).css('font-weight', 'normal');
+$('#post-categories a').click(function() {
+	var desiredCategory = $(this).text();
+    showCategory(desiredCategory);
+    $('#post-categories .clicked').removeClass('clicked');
+    $(this).addClass('clicked');
     return false;
 });
 
 // Handle hash parameters
 if (window.location.hash) {
-    showCategory(window.location.hash.substring(1));
+    var desiredCategory = window.location.hash.substring(1);
+    showCategory(desiredCategory);
+    $('#post-categories .clicked').removeClass('clicked');
+    $('#category-' + desiredCategory).addClass('clicked');
 }
 </script>

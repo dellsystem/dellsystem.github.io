@@ -2,9 +2,8 @@
 layout: post
 title: "Line numbering is actually surprisingly hard"
 categories:
-- agora
-- javascript
-- whatamidoingwithmylife
+- octave
+- web-design
 image: line-numbering
 code: true
 ---

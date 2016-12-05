@@ -4,7 +4,6 @@ title: Time-slicing photos with Python and ImageMagick
 categories:
 - python
 - art
-- imagemagick
 code: true
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: SOCIS 2012 with Agora Octave
 categories:
-- agora
+- octave
 - django
 ---
 

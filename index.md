@@ -32,9 +32,9 @@ Here's some more context on who I am and what I've done:
 * After graduating from McGill in 2014, I co-founded a data science startup
   called [Macromeasures] and have been slaving away at it ever since.
 
-Below, you'll find excepts of my blog posts (you can view them as a list on the
-[writing](/writing) page). If you want to get in touch, find me on Twitter
-[@dellsystem](https://twitter.com/dellsystem), or check out my [about
+Below, you'll find excepts of my most recent blog posts (you can view them all
+on the [writing](/writing) page). If you want to get in touch, find me on
+Twitter [@dellsystem](https://twitter.com/dellsystem), or check out my [about
 page](/about#contact) for other contact options.
 
 [github]: https://github.com/dellsystem
@@ -62,4 +62,9 @@ page](/about#contact) for other contact options.
 <hr />
 <br />
 
-{% include excerpts.md %}
+{% for post in site.posts limit:5 %}
+{% include excerpt.html %}
+{% endfor %}
+
+<br />
+<p class="centered"><a href="/writing">More posts</a></p>

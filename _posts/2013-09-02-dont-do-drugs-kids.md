@@ -3,8 +3,7 @@ layout: post
 title: "How not to check the validity of an email address"
 categories:
 - security
-- mcgill
-- desire2learnhow2code
+- javascript
 image: email
 code: true
 ---
@@ -52,6 +51,14 @@ writing an article that would be more interesting to read than "Here's some code
 I found". It is a fairly lazy literary technique, though, and probably not one I
 will be using again anytime soon. (Hey, I never claimed this post was a literary
 masterpiece. I promise it will get better, though.)_
+
+_Post-update update (December 2016): the original list of categories for this
+post, which was written back when the primary purpose of the category system
+was for self-amusement, included "desire2learnhow2code" -- a reference to the
+fact that the vendor in this story is called Desire2Learn. That category has
+been removed, partly because I am now using the category system for its
+intended purpose, and partly because it's really quite a mean thing to say,
+even if I still find it somewhat amusing._
 
 ***
 

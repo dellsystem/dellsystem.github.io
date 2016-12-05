@@ -2,7 +2,7 @@
 layout: post
 title: "Agora Octave: Update #4"
 categories:
-- agora
+- octave
 - django
 image: socis-2012-with-octave
 code: true

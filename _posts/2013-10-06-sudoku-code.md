@@ -2,8 +2,8 @@
 layout: post
 title: "Sudoku code: another encryption scheme"
 categories:
-- useless
 - encryption
+- python
 code: true
 css: sudoku
 ---
@@ -18,7 +18,10 @@ method from the ciphertext. Of course, once the method has been discovered,
 deciphering merely involves solving a Sudoku grid and then figuring out the
 substitution cipher used, meaning that the key is easy to determine and so this
 method kind of just looks at Kerckhoffs's Principle and then keeps walking. But
-that's okay, that's why this is filed under **useless**.
+that's okay, that's why this is filed under **useless**. _(Editor's note: This
+post was indeed originally categorised as "useless", but my category system
+recently staged a rebellion and now I no longer have categories like
+"useless".)_
 
 ### The setup ###
 
@@ -681,7 +684,7 @@ All the relevant code is available in the repository for this website, under
 
 ### Alternatives
 
-Instead of encrypting the Sudoku puzzle itself, use a standard one. for example,
+Instead of encrypting the Sudoku puzzle itself, use a standard one. For example,
 if you and your imaginary recipient both have access to the New York Times,
 which we will pretend has a daily Sudoku puzzle if it doesn't actually, then
 just use that. Then, the only numbers you'd have to send along with the

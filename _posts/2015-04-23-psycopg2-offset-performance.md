@@ -3,7 +3,7 @@ layout: post
 title: psycopg2 OFFSET performance with large tables
 code: true
 categories:
-- databases
+- postgresql
 - python
 ---
 
