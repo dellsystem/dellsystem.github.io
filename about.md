@@ -77,6 +77,16 @@ miscellaneous
 * **favourite musical artist**: [stars](http://youarestars.com)
 * **favourite author**: right now, it's a toss-up between Terry Pratchett, Neil
   Gaiman, and Neal Stephenson (ask for book recs, or see my [goodreads]!)
+* **how I make slides**: I have a complicated setup involving an
+  open source tool called [Inkscape Slide]; it's an exceptionally painful process
+  which I would not recommend to anyone and which may explain why I haven't
+  given a talk in a while (you can see some of my slides on [speakerdeck], with
+  their source on [github][slides])
+* **most popular blog post**: [this (regretfully) snarky one][d2l] about some
+  questionable code that I found in my university's learning management system,
+  Desire2Learn; the blog post found its way to #1 on Hacker News while I was
+  asleep, the fallout of which affirmed the merits of using a static site
+  generator to build this website
 
 other stuff
 -----------
@@ -84,7 +94,7 @@ other stuff
 *	[goodreads]
 *	[github](https://www.github.com/dellsystem)
 *	[last.fm][last.fm]
-*	[speakerdeck](https://speakerdeck.com/dellsystem)
+*	[speakerdeck]
 
 [goodreads]: http://goodreads.com/dellsystem
 [Macromeasures]: http://macromeasures.com
@@ -92,3 +102,7 @@ other stuff
 [twitter]: http://www.twitter.com/#!/dellsystem
 [phpbb]: https://www.phpbb.com/community/memberlist.php?mode=viewprofile&u=178433
 [howdoi.land]: http://dellsystem.me/howdoi.land/
+[slides]: https://github.com/dellsystem/slides
+[speakerdeck]: https://speakerdeck.com/dellsystem
+[d2l]: /posts/dont-do-drugs-kids
+[Inkscape Slide]: https://github.com/abourget/inkscapeslide
