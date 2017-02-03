@@ -155,23 +155,24 @@ the result is often a set of erroneous conclusions. My plan is to write up as
 many of these from-first-principles posts as I can. With any luck, I'll gain a
 better understanding of the topic myself in the process.
 
-* American's immigration system and how it makes impedes would-be immigrants in
+Some other planned topics:
+
+* American's immigration system and how it impedes would-be immigrants in
   myriad ways.
 * How people resolve contradiction and ambiguity when forming their
   worldview. My favourite illustration of this -- and the inspiration for this
-  post -- comes from Neal Stephenson's The Diamond Age, which I have rated 5
+  post -- comes from Neal Stephenson's The Diamond Age, which I have rated five
   stars on Goodreads solely because of the inclusion of this theme.
 * Reviews of various literary works (books, songs), as well as some meta-posts
   about the value of literary criticism as a whole.
 * Certain not-so-flattering takes on the technology industry.
 * Maybe some tech-related posts once in a while, just so that the time I spent
-  deliberating on a syntax highlighting theme doesn't go to waste.
-* Whatever else I can think of that I want to write about.
+  deliberating on a syntax highlighting theme for this blog doesn't go to waste.
 
 Now, I'll acknowledge that my blog isn't exactly a hotbed of activity. You may
 be wondering ("you" being hypothetical here, as it's not clear that anyone will
-ever read this post) why I would bother to write out this post, much less any
-of these other posts described above. I'm not an expert on any of the things I
+ever read this post) why I would bother writing this post, much less any
+of the other posts described above. I'm not an expert on any of the things I
 want to write about. I don't even have much of a platform, as I'm pretty sure
 most of my site's traffic comes from bots.
 
