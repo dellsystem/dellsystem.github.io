@@ -38,7 +38,7 @@ blood of black slavery, in a country that had ended segregation only a
 generation before mine, there he was: a symbol of progress made, and of
 progress to come. Even now, knowing that Obama's immediate legacy will forever
 be associated with the rise of Donald Trump, I still get chills when I watch
-his 2008 inauguration speech. If there's any validity to the idea of American
+his 2008 victory speech. If there's any validity to the idea of American
 exceptionalism, the election of someone like Barack Obama might be its most
 powerful testament.
 
