@@ -21,13 +21,13 @@ I was born in China, and spent most of my childhood in Canada, but I'd always
 wanted to move to the U.S. I'm still not entirely sure why. I do know that the
 U.S. has always felt like the center of the world from where I was, and that I
 had a naive admiration for what I thought of as American ideals. I'll even
-confess to belief in American exceptionalism despite having no real link to the
-U.S. Even after gaining a more nuanced and critical understanding of American
-history with the help of writers like Howard Zinn, even after I moved back to
-China and found myself halfway across the world from U.S. soil, I still
+confess to a belief in American exceptionalism despite having no real link to
+the U.S. Even after gaining a more nuanced and critical understanding of
+American history with the help of writers like Howard Zinn, even after I moved
+back to China and found myself halfway across the world from U.S. soil, I still
 identified more with the U.S. than I did with any other country. I followed
 American politics with such zeal that I was probably more informed than most
-actual Americans.  Culturally, and politically, I was American; the fact that I
+actual Americans. Culturally, and politically, I was American; the fact that I
 wasn't one _de jure_ was just a small obstacle to overcome.
 
 Like many others in my generation, the first election season I remember
@@ -37,8 +37,8 @@ In a country whose legacy was stained -- from the very beginning -- with the
 blood of black slavery, in a country that had ended segregation only a
 generation before mine, there he was: a symbol of progress made, and of
 progress to come. Even now, knowing that Obama's immediate legacy will forever
-be no less than the rise of Donald Trump, I still get chills when I watch his
-2008 inauguration speech. If there's any validity to the idea of American
+be associated with the rise of Donald Trump, I still get chills when I watch
+his 2008 inauguration speech. If there's any validity to the idea of American
 exceptionalism, the election of someone like Barack Obama might be its most
 powerful testament.
 
@@ -48,9 +48,9 @@ unyielding hope". And so when his term limit came around and there was the
 chance that his successor would be a _woman_, one who was admittedly flawed but
 still progressive and certainly better than the alternative, I was thrilled.
 Not just for pragmatic reasons, although she clearly would have done a better
-job of protecting women's rights and making life easier for immigrants. But
-because it fit the narrative of the America I knew and loved, the America that
-was slowly but steadily becoming more equal and just.
+job of protecting women's rights and making life easier for immigrants like me.
+But because it fit the narrative of the America I knew and loved, the America
+that was slowly but steadily becoming more equal and just.
 
 Now I understand that this America only ever existed in my head.
 
@@ -61,7 +61,7 @@ that is my Twitter feed, knowing that each scroll will only bring fresh horrors
 to deepen my misery but still unable to look away. If there's any consolation
 to be found amidst the suffering, it's that it has ignited the capacity for
 resistance in millions. That so many have been able to break through the
-despair and start mobilizing, fighting for the world they want rather than
+despair and start mobilising, fighting for the world they want rather than
 accepting the one they have, gives me hope.
 
 So maybe the America I fell in love with isn't that far off. It might not come
@@ -90,14 +90,14 @@ human being with opinions. Lots of self-deprecating asides. Using irony as a
 shield against the fact that I was not writing about anything worth being
 earnest about.
 
-I never actually meant to go into software development. Throughout high school,
-programming was a hobby I picked up because I liked the idea of having
+I never actually planned to go into software development. Throughout high
+school, programming was a hobby I picked up because I liked the idea of having
 something to work on in my free time. I never really thought of myself as
 particularly good at it, though. Certainly not good enough to pursue it
 full-time. When I applied to colleges -- and boy, do I regret spending so much
 time applying to colleges; I lost an entire winter break answering a
-neverending list of essay prompts -- I did so as a Physics major for every
-school except McGill, which had a Physics and Computer Science major that
+seemingly neverending array of essay prompts -- I did so as a Physics major for
+every school except McGill, which had a Physics and Computer Science major that
 seemed reasonably interesting. The Computer Science part was the product of
 convenience, more of an afterthought than anything else.
 
@@ -107,10 +107,10 @@ the way you could arrange them in _just the right way_ to make the reader see
 the world as you do, if only for a brief, tantalising moment.
 
 But even teenaged me, I-only-know-PHP me, I'm-going-to-major-in-physics me
-saw the way the wind was blowing. Software developers were the future, not
-writers. The hard drives of laptops past are littered with stories, poems,
-essays, plays. Whole worlds that I had created. Abandoned to time and the
-pre-Dropbox digital ether.
+would soon see the way the wind was blowing. Software developers were the
+future, not writers. The hard drives of laptops past are littered with stories,
+poems, essays, plays. Whole worlds that I had created. Abandoned to time and
+the pre-Dropbox digital ether.
 
 Sometimes I miss it, you know?
 
@@ -135,7 +135,7 @@ while using MongoDB seems very small and insignificant in comparison.
 
 So here are some things I plan to write about over the next few months.
 
-* One major theme I want to explore is the idea of understanding complicated
+One major theme I want to explore is the idea of understanding complicated
 concepts by breaking them down and approaching them from first principles.
 You'll almost always end up with a deeper understanding of the original concept
 that way. This is something I learned from physics, but you can apply this to a
@@ -146,12 +146,15 @@ Lockhart wishes math would be taught in [A Mathematician's Lament][lament], and
 a bit like [the "click"][dfw] that David Foster Wallace mentions to describe
 his mathematical epiphanies. You don't _need_ to learn automata theory to be
 able to use regular expressions, for instance, but if you do, you'll have such
-a much more fundamental understanding that can come in handy sometimes. So many
-people walk around with very shallow understandings of important ideas because
-they were taught to memorise their definitions, not to critique or unpack or
-even think about for more than a second. My plan is to write up as many of
-these from-first-principles posts as I can. With any luck, I'll gain a better
-understanding of the topic in the process.
+a much more fundamental understanding that can come in handy sometimes.
+
+So many people walk around with very shallow understandings of important ideas
+because they were taught to memorise their definitions, not to critique or
+unpack or even think about for more than a second. Which is tragic, because
+the result is often a set of erroneous conclusions. My plan is to write up as
+many of these from-first-principles posts as I can. With any luck, I'll gain a
+better understanding of the topic myself in the process.
+
 * American's immigration system and how it makes impedes would-be immigrants in
   myriad ways.
 * How people resolve contradiction and ambiguity when forming their
