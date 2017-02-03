@@ -31,6 +31,8 @@ while.
 Feel free to email me at my gmail account or send me a message on Twitter
 [@dellsystem][twitter] if you want to get in touch.
 
+***
+
 <a name="contact"> </a>
 
 contact info

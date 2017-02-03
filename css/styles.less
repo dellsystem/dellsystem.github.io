@@ -149,11 +149,22 @@ h4 {
 }
 
 hr {
-    padding: 2px 0px;
-    background: @lightGrey;
-    margin: 5px 0px;
-    border: 0;
-    border-top: 1px solid #BBB;
+    padding: 0;
+    border: none;
+    border-top: medium double #777;
+    color: #999;
+    text-align: center;
+    margin: 20px 0 10px 0;
+}
+
+hr:after {
+    content: "§";
+    display: inline-block;
+    position: relative;
+    top: -0.7em;
+    font-size: 1.5em;
+    padding: 0 0.25em;
+    background: white;
 }
 
 #footer {

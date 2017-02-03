@@ -23,9 +23,7 @@ page](/about#contact) for other contact options.
 
 [Macromeasures]: http://macromeasures.com
 
-<br />
 <hr />
-<br />
 
 {% for post in site.posts limit:5 %}
 {% include excerpt.html %}
