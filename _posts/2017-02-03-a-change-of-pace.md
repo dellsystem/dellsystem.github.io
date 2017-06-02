@@ -161,14 +161,17 @@ better understanding of the topic myself in the process.
 
 Some other planned topics:
 
-* American's immigration system and how it impedes would-be immigrants in
-  myriad ways.
+* A guide to attaining a more thorough and critical understanding of capitalism
+  for those who've never really thought about it before. (I was, until
+  recently, one of those people; now, I spend pretty much all my time thinking
+  about it.)
+* What it means to kill your heroes and why you need to do it.
 * How people resolve contradiction and ambiguity when forming their
   worldview. My favourite illustration of this -- and the inspiration for this
   post -- comes from Neal Stephenson's The Diamond Age, which I have rated five
   stars on Goodreads solely because of the inclusion of this theme.
-* Reviews of various literary works (books, songs), as well as some meta-posts
-  about the value of literary criticism as a whole.
+* Reviews of various literary works (books, songs), as well as a meta-post
+  about the value of literature and literary criticism as a whole.
 * Certain not-so-flattering takes on the technology industry.
 * Maybe some tech-related posts once in a while, just so that the time I spent
   deliberating on a syntax highlighting theme for this blog doesn't go to waste.
@@ -181,8 +184,21 @@ want to write about; I don't know if what I have to say is original or
 interesting in any way. I don't even have much of a platform, as I'm pretty sure
 most of my site's traffic comes from bots.
 
-The simple answer is: sometimes you just need to write. And that's all the
-reason I need.
+The simple answer is: sometimes you just need to write. Not even necessarily to
+be read, though of course that would be a nice plus. Sometimes you just need to
+write to save yourself. To _be_ yourself. To _form_ a self worthy of being
+saved.
+
+There's this Don DeLillo quote that comes from a letter he wrote to fellow
+writer Jonathan Franzen in 1997. I've never even read any of DeLillo's books,
+but I think about this quote a lot:
+
+> Writing is a form of personal freedom. It frees us from the mass identity we
+> see in the making all around us. In the end, writers will write not to be
+> outlaw heroes of some underculture but mainly to save themselves, to survive
+> as individuals.
+
+And in the end, that's all the reason I need.
 
 [aynrand]: http://www.newyorker.com/humor/daily-shouts/i-was-ayn-rands-lover
 [lament]: https://www.maa.org/external_archive/devlin/LockhartsLament.pdf
