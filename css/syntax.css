@@ -1,6 +1,7 @@
 /* For syntax-highlighted code in particular */
 
 .highlight {
+    line-height: 1.3em;
     font-size: 0.9em;
     margin-top: 15px;
     margin-bottom: 30px;
