@@ -1,5 +1,5 @@
 ---
-title: art &amp; design
+title: art
 layout: default
 ---
 

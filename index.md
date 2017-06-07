@@ -22,7 +22,7 @@ general. I have since come to terms with the username "dellsystem" and will
 even answer to "dell".
 
 Below, you'll find excepts of my most recent blog posts (you can view them all
-on the [writing](/writing) page). If you want to get in touch, find me on
+on the [words](/words) page). If you want to get in touch, find me on
 Twitter [@dellsystem](https://twitter.com/dellsystem), or check out my [about
 page](/about#contact) for other contact options.
 
@@ -36,4 +36,4 @@ page](/about#contact) for other contact options.
 {% endfor %}
 
 <br />
-<p class="centered"><a href="/writing">More posts</a></p>
+<p class="centered"><a href="/words">More posts</a></p>
