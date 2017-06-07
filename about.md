@@ -10,15 +10,15 @@ enough that I found myself managing a small but vibrant community of users,
 using the open source bulletin board software [phpBB](http://phpbb.com). As a
 result, I spent a lot of time in the phpBB support forums, and eventually
 picked up enough web dev knowledge to start answering other people's support
-questions -- not always accurately, but it was a great way to learn.
+questions---not always accurately, but it was a great way to learn.
 
 I no longer run any phpBB boards, but I owe much of my current interest in
-computer science to that community, which welcomed me aboard as a moderator --
-and, later, as a member of the website team -- even though I was a clueless
-15-year-old who had only just found out what Linux was. My early programming
-experiences consisted of modifying phpBB installations, which was probably not
-the best way to learn PHP, but I persevered and eventually discovered languages
-that are not PHP.
+computer science to that community, which welcomed me aboard as a
+moderator---and, later, as a member of the website team---even though I was a
+clueless 15-year-old who had only just found out what Linux was. My early
+programming experiences consisted of modifying phpBB installations, which was
+probably not the best way to learn PHP, but I persevered and eventually
+discovered languages that are not PHP.
 
 In 2014, I graduated from McGill University with a Bachelor of Science in
 Mathematics and Computer Science. I still make cheesy and terrible websites on
@@ -38,25 +38,23 @@ Feel free to email me at my gmail account or send me a message on Twitter
 contact info
 ------------
 
-*   name: Wendy Liu
 *	gmail: ilostwaldo
 *	twitter: [@dellsystem][twitter]
-*	facebook: [ilostwaldo](http://www.facebook.com/ilostwaldo)
-*	phpBB: [dellsystem][phpbb]
 *   linkedin: [dellsystem](http://www.linkedin.com/in/dellsystem)
+*	facebook: [ilostwaldo](http://www.facebook.com/ilostwaldo)
 
 interests
 ---------
 
 * all things FOSS
 * [listening to music][last.fm]
-* [solving puzzles](http://www.projecteuler.net/)
 * [beautiful math](http://www.mathjax.org/ "♥")
-* designing pretty things
 * CLIs, clean code, and consonance
-* [reading books][goodreads], especially if they're about politics, inequality,
-  and post-capitalist economics
-* gymnastics
+* [reading books][goodreads], especially critiques of capitalism
+  and literary fiction featuring gorgeous prose, à la David Foster Wallace
+  (send me your recommendations!)
+* an unusual physical fitness trinity of powerlifting, contemporary dance, and
+  artistic gymnastics
 
 miscellaneous
 -------------
@@ -76,9 +74,6 @@ miscellaneous
   likely will never encounter again](http://www.smlnj.org "pretty cool though")
 * **other buzzwords I may know something about**: HTML, CSS, LaTeX, SQL, jQuery,
   AngularJS, D3.js, supervisor, Riak, Redis, MongoDB, AWS
-* **favourite musical artist**: [stars](http://youarestars.com)
-* **favourite author**: right now, it's a toss-up between Terry Pratchett, Neil
-  Gaiman, and Neal Stephenson (ask for book recs, or see my [goodreads]!)
 * **how I make slides**: I have a complicated setup involving an
   open source tool called [Inkscape Slide]; it's an exceptionally painful process
   which I would not recommend to anyone and which may explain why I haven't
@@ -90,13 +85,14 @@ miscellaneous
   asleep, the fallout of which affirmed the merits of using a static site
   generator to build this website
 
-other stuff
+other links
 -----------
 
 *	[goodreads]
 *	[github](https://www.github.com/dellsystem)
 *	[last.fm][last.fm]
 *	[speakerdeck]
+*	[phpBB profile][phpbb]
 
 [goodreads]: http://goodreads.com/dellsystem
 [Macromeasures]: http://macromeasures.com
