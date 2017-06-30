@@ -382,6 +382,9 @@ that carry them.
 I wish I had known that I could be one of those people. At least I do now. I
 hope you do, too.
 
+_[Cross-posted to Medium for the commenting functionality. If you have
+thoughts, I'd love to hear them; please leave a response there.][medium]_
+
 [quartz]: https://qz.com/1016900/tracy-chou-leading-silicon-valley-engineer-explains-why-every-tech-worker-needs-a-humanities-education/
 [laughing]: https://harpers.org/wp-content/uploads/HarpersMagazine-1998-07-0059612.pdf
 [Marx]: https://www.goodreads.com/author/show/7084.Karl_Marx
@@ -401,3 +404,4 @@ hope you do, too.
 [David Foster Wallace]: https://www.goodreads.com/author/show/4339.David_Foster_Wallace
 [msc]: http://www.lse.ac.uk/Study-at-LSE/Graduate/Degree-programmes-2017/MSc-Inequalities-and-Social-Science
 [ps]: /posts/a-personal-statement
+[medium]: https://medium.com/@dellsystem/what-i-wish-i-had-known-1cf9714b01cf
