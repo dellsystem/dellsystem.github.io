@@ -379,8 +379,14 @@ want to make the effort to understand the world they live in and find something
 worth fighting for in the process. That they want to go against the currents
 that carry them.
 
-I wish I had known that I could be one of those people. At least I do now. I
-hope you do, too.
+It's going to take a leap of faith, I'll give you that. I can't argue for it
+rationally. I don't have a reasoned argument to convince you that it's worth
+doing. But at the same time, is it any less of a leap of faith than devoting
+yourself to something you don't really care about? Than spending your life
+within the confines of the existing system because that's what you're told you
+should do? Is that not the most absurd thing of all?
+
+I don't know. You tell me.
 
 _[Cross-posted to Medium for the commenting functionality. If you have
 thoughts, I'd love to hear them; please leave a response there.][medium]_
