@@ -272,10 +272,10 @@ should definitely put your trust in me, but of course, that's me talking.)
 And look. Once you have a better understanding of the world-system, once you
 really know what it means for you to get a job and get a mortgage and
 raise a family, once you see how you fit in within the larger system of
-capitalism, you start to see your options. You'll see what you don't have to
-stay on the path that you're on now. That you have the tools to really examine,
-to really _interrogate_ the path you're on and ask yourself why you think it's
-the right one. That you, if you choose to, can make your own path.
+capitalism, you start to see your options. You'll see that you don't necessarily
+have to stay on the path that you're on now. That you have the tools to really
+examine, to really _interrogate_ the path you're on and ask yourself why you
+think it's the right one. That you can, if you so choose, make your own path.
 
 Which is both liberating and terrifying at the same time: on the one hand,
 you're free of your chains; on the other hand, _where the hell are you going to
