@@ -105,8 +105,8 @@ ocean of possibilities. I had no clue what I wanted to do, and so I latched on
 to something that I felt I should do.
 
 College brought with it a whole host of things I didn't expect. Initially a
-physics and CS major, I soon found myself fully immersed myself in programming,
-with rapidly declining interest in physics. I was spending almost all my spare
+physics and CS major, I soon found myself fully immersed in programming, with
+a rapidly declining interest in physics. I was spending almost all my spare
 time building software and very little time doing any metacognition about what
 that signified. Eventually, I realised that I was firmly on a path to becoming
 a full-time software engineer, without ever really choosing that path, or being
@@ -324,7 +324,7 @@ These are some of the toughest questions you can ask of yourself. And it pains
 me that I can't answer them for you. I wish I could. I wish that I was writing
 this post with a list of rules to follow and the sure knowledge that I was
 right. I wish that I had been blessed with wisdom from on high, with the details
-of a miraculous 12-step program and the promise of a Liberated Self or Your
+of a miraculous 12-step program and the promise of A Liberated Self Or Your
 Money Back. I suspect that deep down, we're all desperate to give ourselves over
 to something bigger than us: a cause, a job, a team, a family. Something.
 Anything. A lit path to guide us as we stumble through life, bewildered,
