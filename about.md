@@ -89,12 +89,14 @@ other links
 -----------
 
 *	[goodreads]
+*	[medium]
 *	[github](https://www.github.com/dellsystem)
 *	[last.fm][last.fm]
 *	[speakerdeck]
 *	[phpBB profile][phpbb]
 
 [goodreads]: http://goodreads.com/dellsystem
+[medium]: http://medium.com/@dellsystem
 [Macromeasures]: http://macromeasures.com
 [last.fm]: http://www.last.fm/user/dellsystem
 [twitter]: http://www.twitter.com/#!/dellsystem
