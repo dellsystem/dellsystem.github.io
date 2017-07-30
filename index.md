@@ -1,6 +1,5 @@
 ---
 layout: default
-title: home
 ---
 
 I'm Wendy Liu, and I'm currently the CTO of [Macromeasures], a data science
@@ -21,19 +20,10 @@ turned out to be a gateway drug for open source software and programming in
 general. I have since come to terms with the username "dellsystem" and will
 even answer to "dell".
 
-Below, you'll find excepts of my most recent blog posts (you can view them all
-on the [words](/words) page). If you want to get in touch, find me on
-Twitter [@dellsystem](https://twitter.com/dellsystem), or check out my [about
+This website is primarily a place to showcase my [art](/art), my [code](/code),
+and my [words](/words). If you want to get in touch, find me on Twitter
+[@dellsystem](https://twitter.com/dellsystem), or check out my [about
 page](/about#contact) for other contact options.
 
 [Macromeasures]: http://macromeasures.com
 [personal statement]: /posts/a-personal-statement
-
-<hr />
-
-{% for post in site.posts limit:5 %}
-{% include excerpt.html %}
-{% endfor %}
-
-<br />
-<p class="centered"><a href="/words">More posts</a></p>
