@@ -47,7 +47,6 @@ interests
 ---------
 
 * all things FOSS
-* [listening to music][last.fm]
 * [beautiful math](http://www.mathjax.org/ "♥")
 * CLIs, clean code, and consonance
 * [reading books][goodreads], especially critiques of capitalism
@@ -64,16 +63,15 @@ miscellaneous
 * **favourite text editor**: vim for the command line, gedit otherwise; IDEs
   tend to crash in my presence
 * **favourite free software projects**: [inkscape](http://www.inkscape.org),
-  [phpBB](http://www.phpbb.com), [git](http://www.git-scm.com),
-  [less.js](http://www.lesscss.org), [django](http://www.djangoproject.com),
-  [jekyll](http://jekyllrb.com/)
-* **favourite web server**: [nginx](http://www.nginx.org)
+  [django](http://www.djangoproject.com),
+  [jekyll](http://jekyllrb.com),
+  [semantic UI](https://semantic-ui.com)
 * **programming languages**: python, PHP, javascript, java, some C, a bit of
   ruby, a modicum of objective-j, very little bash, more MIPS assembly than
   I'll ever need, and [a functional language you've probably never heard of and
   likely will never encounter again](http://www.smlnj.org "pretty cool though")
-* **other buzzwords I may know something about**: HTML, CSS, LaTeX, SQL, jQuery,
-  AngularJS, D3.js, supervisor, Riak, Redis, MongoDB, AWS
+* **other technologies I may know something about**: HTML, CSS, LaTeX, SQL, jQuery,
+  AngularJS, D3.js, supervisor, Riak, Redis, MongoDB, AWS, nginx
 * **how I make slides**: I have a complicated setup involving an
   open source tool called [Inkscape Slide]; it's an exceptionally painful process
   which I would not recommend to anyone and which may explain why I haven't
@@ -88,12 +86,13 @@ miscellaneous
 other links
 -----------
 
-*	[goodreads]
-*	[medium]
-*	[github](https://www.github.com/dellsystem)
-*	[last.fm][last.fm]
-*	[speakerdeck]
-*	[phpBB profile][phpbb]
+* [goodreads]
+* [medium]
+* [github](https://www.github.com/dellsystem)
+* [last.fm][last.fm]
+* [speakerdeck]
+* [phpBB][phpbb]
+* [technical resume (PDF)][resume]
 
 [goodreads]: http://goodreads.com/dellsystem
 [medium]: http://medium.com/@dellsystem
@@ -106,3 +105,4 @@ other links
 [speakerdeck]: https://speakerdeck.com/dellsystem
 [d2l]: /posts/dont-do-drugs-kids
 [Inkscape Slide]: https://github.com/abourget/inkscapeslide
+[resume]: /resume.pdf
