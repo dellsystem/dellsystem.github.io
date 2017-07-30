@@ -3,7 +3,7 @@ layout: post
 title: "What I wish I had known"
 categories:
 - tech
-- me
+- my-life
 ---
 
 This post is a very personal one, and a long one at that. It's been in the
