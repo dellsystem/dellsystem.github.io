@@ -281,24 +281,30 @@ pre {
     word-break: break-all;
 }
 
-.painting {
-    width: 480px;
+.column {
     display: inline-block;
     vertical-align: top;
-    text-align: center;
     padding: 10px 5px;
 
     img {
         width: 100%;
     }
-}
-
-#paintings {
-    margin-top: 20px;
 
     p {
         padding-bottom: 10px;
     }
+}
+
+.triple-grid .column {
+    width: 320px;
+}
+
+.double-grid .column {
+    width: 480px;
+}
+
+.double-grid {
+    padding-bottom: 20px;
 }
 
 .caption {
