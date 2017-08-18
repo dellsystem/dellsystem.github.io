@@ -21,6 +21,13 @@ photos of them at all.
 
 <small>i guess they'll just be lost in time, like tears in rain</small>
 
+## Posters
+
+I made these to hang on my wall (12" x 18"); [contact me](/about#contact) if
+you want high-resolution versions for your own.
+
+{% include posters.html %}
+
 ## Paintings and sketches
 
 {% include paintings.html %}
