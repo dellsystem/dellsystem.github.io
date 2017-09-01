@@ -21,9 +21,13 @@ general. I have since come to terms with the username "dellsystem" and will
 even answer to "dell".
 
 This website is primarily a place to showcase my [art](/art), my [code](/code),
-and my [words](/words). If you want to get in touch, find me on Twitter
+and my [words](/words). I also maintain [a list of the complete works of David
+Foster Wallace](/dfw).
+If you want to get in touch, find me on Twitter
 [@dellsystem](https://twitter.com/dellsystem), or check out my [about
-page](/about#contact) for other contact options.
+page](/about#contact) for other contact options. You should also add me on
+[Goodreads]!
 
 [Macromeasures]: http://macromeasures.com
 [personal statement]: /posts/a-personal-statement
+[Goodreads]: http://goodreads.com/dellsystem
