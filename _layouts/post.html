@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 <div class="post">
     <p>
         <a href="/words">&laquo; Back to all posts</a>
@@ -11,17 +12,9 @@ layout: default
         {% for category in page.categories %}<strong><a href="/words#{{ category|replace:' ','-' }}">{{ category }}</a></strong>{% if forloop.last %}{% else %}, {% endif %}{% endfor %}
     </p>
     <img src="/img{% if page.image %}/posts/{{ page.image }}{% else %}{{ page.url }}{% endif %}.png" alt="{{ page.title }}" class="leftfloat" />
-
-{{ content }}
-
+    {{ content }}
 </div>
-<h2>Related posts</h2>
+<br />
+<hr />
 
-<ul>
-{% for post in site.related_posts limit:5 %}
-    <li>
-        <a href="{{ post.url }}">{{ post.title }}</a>
-        ({{ post.date | date: "%B %-d, %Y"}})
-    </li>
- 	{% endfor %}
-</ul>
+{% include blog_navigation.html %}
