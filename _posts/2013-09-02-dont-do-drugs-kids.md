@@ -4,7 +4,6 @@ title: "How not to check the validity of an email address"
 categories:
 - security
 - javascript
-image: email
 code: true
 ---
 

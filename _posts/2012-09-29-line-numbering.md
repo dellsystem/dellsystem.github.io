@@ -4,7 +4,6 @@ title: "Line numbering is actually surprisingly hard"
 categories:
 - octave
 - web-design
-image: line-numbering
 code: true
 ---
 
