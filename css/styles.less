@@ -90,15 +90,18 @@ body {
     padding: 50px 0;
     color: @textColor;
 
-    ul {
+    ul, ol {
         margin-left: 10px;
-        list-style: none;
         li {
             padding: 2px 0;
-            &:before {
-                padding-right: 10px;
-                content: "\00BB \0020";
-            }
+        }
+    }
+
+    ul {
+        list-style: none;
+        li:before {
+            padding-right: 10px;
+            content: "\00BB \0020";
         }
     }
 

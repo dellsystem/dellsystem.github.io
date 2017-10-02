@@ -8,7 +8,92 @@ title: Words
 
 <hr />
 
-<h3>Academic writing</h3>
+<h3>
+    Course notes for the
+    <a href="http://www.lse.ac.uk/study-at-lse/Graduate/Degree-programmes-2018/MSc-Inequalities-and-Social-Science">Inequalities MSc</a>
+    at LSE
+</h3>
+
+<div class="double-grid">
+    <div class="column">
+        <h4>Core modules</h4>
+        <ul>
+            <li>
+                <a href="/SO478">
+                    SO478: Social Scientific Analysis of Inequalities
+                </a>
+            </li>
+        </ul>
+    </div>
+    <div class="column">
+        <h4>Optional modules</h4>
+        <ul>
+            <li>
+                <a href="/MC433">
+                    MC433: Technology and Justice
+                </a>
+            </li>
+            <li>
+                <a href="/GV4D4">
+                    GV4D4: The Politics of Inequality and Redistribution
+                </a>
+            </li>
+        </ul>
+    </div
+</div>
+
+<hr />
+
+<h3>External publications</h3>
+
+<div class="double-grid">
+    <div class="column">
+        <h4>Medium</h4>
+        <ul>
+            <li>
+                <a href="https://code.likeagirl.io/what-i-wish-i-had-known-1cf9714b01cf">
+                    What I wish I had known
+                </a> - June 30, 2017 for
+                <a href="https://code.likeagirl.io">Code Like A Girl</a>
+                (cross-posted on my blog).
+            </li>
+            <li>
+                <a href="https://medium.com/@dellsystem/paul-graham-blocked-me-on-twitter-c28ca647c7f8">
+                    Paul Graham blocked me on Twitter
+                </a> - August 17, 2017 for
+                <a href="https://code.likeagirl.io">Code Like A Girl</a>.
+            </li>
+            <li>
+                <a href="https://medium.com/@dellsystem/i-cant-read-your-slides-737acde6e9dc">
+                    I can’t read your slides
+                </a> - September 8, 2017.
+            </li>
+            <li>
+                <a href="https://medium.com/@dellsystem/dont-put-your-faith-in-uber-727b864756a4">
+                    Don't put your faith in Uber
+                </a> - September 22, 2017.
+            </li>
+        </ul>
+    </div>
+    <div class="column">
+        <h4>Other</h4>
+        <ul>
+            <li>
+                <a href="http://datadrivenjournalism.net/featured_projects/endorsementdb_predicting_the_u.s._election_without_polls">
+                    EndorsementDB: Predicting the U.S. election without polls
+                </a>
+                for
+                <a href="http://datadrivenjournalism.net">Data Driven Journalism</a>
+                - November 11, 2016.
+            </li>
+        </ul>
+    </div>
+</div>
+
+<hr />
+
+
+<h3>Academic papers</h3>
 
 <div class="double-grid">
     <div class="column">
@@ -85,54 +170,6 @@ title: Words
 
 <hr />
 
-<h3>Non-academic writing</h3>
-
-<div class="double-grid">
-    <div class="column">
-        <h4>Medium</h4>
-        <ul>
-            <li>
-                <a href="https://code.likeagirl.io/what-i-wish-i-had-known-1cf9714b01cf">
-                    What I wish I had known
-                </a> - June 30, 2017 for
-                <a href="https://code.likeagirl.io">Code Like A Girl</a>
-                (cross-posted on my blog).
-            </li>
-            <li>
-                <a href="https://medium.com/@dellsystem/paul-graham-blocked-me-on-twitter-c28ca647c7f8">
-                    Paul Graham blocked me on Twitter
-                </a> - August 17, 2017 for
-                <a href="https://code.likeagirl.io">Code Like A Girl</a>.
-            </li>
-            <li>
-                <a href="https://medium.com/@dellsystem/i-cant-read-your-slides-737acde6e9dc">
-                    I can’t read your slides
-                </a> - September 8, 2017.
-            </li>
-            <li>
-                <a href="https://medium.com/@dellsystem/dont-put-your-faith-in-uber-727b864756a4">
-                    Don't put your faith in Uber
-                </a> - September 22, 2017.
-            </li>
-        </ul>
-    </div>
-    <div class="column">
-        <h4>Other</h4>
-        <ul>
-            <li>
-                <a href="http://datadrivenjournalism.net/featured_projects/endorsementdb_predicting_the_u.s._election_without_polls">
-                    EndorsementDB: Predicting the U.S. election without polls
-                </a>
-                for
-                <a href="http://datadrivenjournalism.net">Data Driven Journalism</a>
-                - November 11, 2016.
-            </li>
-        </ul>
-    </div>
-</div>
-
-<hr />
-
 <h3 id="blog">Blog posts</h3>
 
 <p>
@@ -146,13 +183,14 @@ title: Words
 <div id="post-categories">
     Categories:
     <a href="#" class="clicked" id="category-all">all</a> ({{ site.posts.size }}),
-    {% for category in site.categories %}<a href="#" id="category-{{ category[0] }}">{{ category[0] }}</a> ({{ category[1].size }}){% if forloop.last %}{% else %}, {% endif %}{% endfor %}
+    {% for category in site.categories %}<a href="#" name="{{ category[0] }}" id="category-{{ category[0] }}">{{ category[0] }}</a> ({{ category[1].size }}){% if forloop.last %}{% else %}, {% endif %}{% endfor %}
 </div>
 
 <br />
 
 <ul>
 {% for post in site.posts %}
+    {% if post.layout == 'post' %}
     <li class="post-excerpt">
         <strong><a href="{{ post.url }}">{{ post.title }}</a></strong>
         ::
@@ -161,6 +199,7 @@ title: Words
         {% for category in post.categories %}
         <a class="post-category" href="/words#{{ category|replace:' ','-' }}">{{ category }}</a>{% if forloop.last %}{% else %}, {% endif %}{% endfor %}
     </li>
+    {% endif %}
 {% endfor %}
 </ul>
 
