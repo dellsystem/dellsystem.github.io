@@ -24,9 +24,10 @@ In 2014, I graduated from McGill University with a Bachelor of Science in
 Mathematics and Computer Science. I still make cheesy and terrible websites on
 occasion, like when I [registered the domain howdoi.land to show a perpetually
 flying martlet using CSS animations][howdoi.land] (still one of my proudest
-accomplishments). My primary occupation these days, though, is building the
-core technology for [Macromeasures], so I haven't animated any martlets in a
-while.
+accomplishments). These days, though, I don't have much time to write code; the
+code I do write is primarily for [a personal project designed to help me retain
+information from the books I read](http://bookmarker.dellsystem.me), so I
+haven't animated any martlets in a while.
 
 Feel free to email me at my gmail account or send me a message on Twitter
 [@dellsystem][twitter] if you want to get in touch.
@@ -46,14 +47,14 @@ contact info
 interests
 ---------
 
-* all things FOSS
 * [beautiful math](http://www.mathjax.org/ "♥")
-* CLIs, clean code, and consonance
-* [reading books][goodreads], especially critiques of capitalism
-  and literary fiction featuring gorgeous prose, à la David Foster Wallace
-  (send me your recommendations!)
+* command lines, clean code, and consonance
+* [reading books][goodreads], especially critical theory and literary fiction
+  featuring gorgeous prose, à la David Foster Wallace (send me your
+  recommendations!)
 * an unusual physical fitness trinity of powerlifting, contemporary dance, and
   artistic gymnastics
+* extremely left-wing politics
 
 miscellaneous
 -------------
