@@ -4,18 +4,7 @@ layout: default
 
 <a href="/{{ page.course }}">&laquo; Back to {{ page.course }}</a>
 
-<p><em>
-    These are my notes from {{ page.date|date:"%B %d" }} for
-    <a href="/{{ page.course }}">{{ page.course }}</a>
-    at the London School of Economics for the 2017-2018
-    school year. I'm taking this module as part of the
-    one-year Inequalities and Social Science MSc program. Feel free to email me
-    (ilostwaldo, gmail) with any questions or corrections.
-</em></p>
-<p><em>
-    All notes are my personal impressions and do not necessarily
-    reflect the view of the lecturer.
-</em></p>
+{% include lecture_intro.html date=page.date course=page.course %}
 
 <hr />
 

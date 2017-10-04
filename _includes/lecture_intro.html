@@ -1,0 +1,42 @@
+<p><em>
+    These are my notes
+    {% if include.date %}
+    from {{ include.date|date:"%B %d" }}
+    {% endif %}
+    for
+    <a href="{% if include.url %}{{ include.url }}{% else %}/{{ include.course }}{% endif %}">{{ include.course }}</a>
+    at
+    {% if include.course == '4AAVC101' %}
+    King's College London
+    {% else %}
+    the London School of Economics
+    {% endif %}
+    for the 2017-2018 school year.
+    {% if include.course == 'SO477' %}
+    I'm not actually registered for this module, but the lecturer is the author
+    of a wonderful <a
+    href='https://www.goodreads.com/book/show/25734110-in-defense-of-housing'>Verso
+    book on housing</a> on my to-read shelf, so I'm planning to drop in on the
+    lectures when I can.
+    {% elsif include.course == '4AAVC101' %}
+    Now, I'm not actually a student at King's, but their security is a lot less
+    strict than LSE's is, so I've just been surreptitiously auditing the
+    lectures by casually following the other students into the classroom.
+    The lecturer, Nick Srnicek, is the
+    author of two excellent books at the intersection of technology and leftist
+    politics: <a
+    href="https://www.goodreads.com/book/show/25387807-inventing-the-future">Inventing
+    the Future (with Alex Williams)</a>, and <a
+    href="https://www.goodreads.com/book/show/32999998-platform-capitalism">Platform
+    Capitalism</a>.
+    {% else %}
+    I'm taking this module as part of the one-year Inequalities and Social
+    Science MSc program.
+    {% endif %}
+</em></p>
+<p><em>
+    The usual disclaimer: all notes are my personal impressions and do not
+    necessarily reflect the view of the lecturer.
+    Feel free to email me (ilostwaldo, gmail) with any questions or
+    corrections.
+</em></p>

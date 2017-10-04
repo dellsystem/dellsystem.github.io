@@ -2,18 +2,8 @@
 layout: default
 ---
 
-<p><em>
-    These are my notes from
-    <a href="{{ page.course_url }}">{{ page.course_code }}</a>
-    at the London School of Economics for the 2017-2018
-    school year. I'm taking this module as part of the
-    one-year Inequalities and Social Science MSc program. Feel free to email me
-    (ilostwaldo, gmail) with any questions or corrections.
-</em></p>
-<p><em>
-    All notes are my personal impressions and do not necessarily
-    reflect the view of the lecturer.
-</em></p>
+{% include lecture_intro.html url=page.course_url course=page.course_code university=page.university %}
+
 <ol>
 {% assign sorted_posts = site.posts|reverse %}
 {% for post in sorted_posts %}
