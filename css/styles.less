@@ -91,15 +91,23 @@ body {
     color: @textColor;
 
     ul, ol {
-        margin-left: 10px;
+        margin-left: 20px;
         li {
             padding: 2px 0;
         }
     }
 
+    li > ol { // awful hack
+        margin-left: 40px;
+    }
+
+    ol > li:before {
+        padding-right: 10px;
+    }
+
     ul {
         list-style: none;
-        li:before {
+        > li:before {
             padding-right: 10px;
             content: "\00BB \0020";
         }

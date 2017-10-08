@@ -4,6 +4,8 @@ layout: default
 
 {% include lecture_intro.html url=page.course_url course=page.course_code university=page.university %}
 
+{{ content }}
+
 <ol>
 {% assign sorted_posts = site.posts|reverse %}
 {% for post in sorted_posts %}
