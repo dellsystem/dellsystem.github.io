@@ -5,7 +5,7 @@ layout: default
 
 I am no longer actively developing any of my phpBB MODifications, all of which
 were developed for phpBB 3.0x and haven't been ported over to 3.1x. Feel free
-to [send me an email][contact] if you have support questions or are interested
+to [send me an email](/about) if you have support questions or are interested
 in taking over development.
 
 ***
@@ -99,7 +99,6 @@ request](https://www.phpbb.com/community/viewtopic.php?f=72&t=2215701).
 images="forum,category,acp,language,french,english,index" %}
 {:/nomarkdown}
 
-[contact]: /about#contact
 [camelmod]: https://www.phpbb.com/community/viewtopic.php?t=120691
 [camorea]: https://www.phpbb.com/community/viewtopic.php?f=434&t=1019935
 [waldo-github]: https://github.com/dellsystem/phpBB-waldo

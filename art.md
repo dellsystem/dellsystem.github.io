@@ -9,7 +9,7 @@ based on a photograph (CC-licensed or public domain where possible, but it
 should fall under fair dealing in any case). I've tried to credit the original
 source where possible, but some of the sources for my work are lost in the
 browser bookmarks of laptops past. If you know the source for anything credited,
-please [let me know!](/about#contact)
+please [let me know!](/about)
 
 To see a higher-quality version of each thumbnail, just click on the photo (or
 view the [imgur album][album], which also contains a couple more paintings which
@@ -23,7 +23,7 @@ photos of them at all.
 
 ## Posters
 
-I made these to hang on my wall (12" x 18"); [contact me](/about#contact) if
+I made these to hang on my wall (12" x 18"); [contact me](/about) if
 you want high-resolution versions for your own.
 
 {% include posters.html %}

@@ -88,7 +88,7 @@ projects:
   I'll forever be grateful to the community that introduced me to worlds of
   open source and web development. Over the years, I've built [a few phpBB
   MODifications](/phpbb) as well; I'm not actively developing them anymore, but
-  feel free to [contact me](/about#contact) if you have support queries or want
+  feel free to [contact me](/about) if you have support queries or want
   to take over development."]
 ---
 

@@ -3,6 +3,55 @@ title: about
 layout: default
 ---
 
+{% include about.html %}
+
+interests
+---------
+
+* command lines, clean code, and consonance
+* [reading books](http://goodreads.com/dellsystem), especially critical theory
+  and literary fiction featuring gorgeous prose, à la David Foster Wallace
+* an unusual physical fitness trinity of powerlifting, contemporary dance, and
+  artistic gymnastics
+* extremely left-wing politics with an [accelerationist] bent
+
+miscellaneous
+-------------
+
+* **currently running**: ubuntu 16.04
+* **favourite pokemon**: mudkip, as you may have heard
+* **favourite text editor**: vim for the command line, gedit otherwise; IDEs
+  tend to crash in my presence
+* **favourite free software projects**: [inkscape](http://www.inkscape.org),
+  [django](http://www.djangoproject.com),
+  [jekyll](http://jekyllrb.com),
+  [semantic UI](https://semantic-ui.com),
+  [mathjax](http://www.mathjax.org/)
+* **programming languages**: python, PHP, javascript, java, some C, a bit of
+  ruby, a modicum of objective-j, very little bash, more MIPS assembly than
+  I'll ever need, and [a functional language you've probably never heard of and
+  likely will never encounter again](http://www.smlnj.org "pretty cool though")
+* **other technologies I may know something about**: HTML, CSS, LaTeX, SQL, jQuery,
+  AngularJS, D3.js, supervisor, Riak, Redis, MongoDB, AWS, nginx
+* **how I make slides**: I have a complicated setup involving an
+  open source tool called [Inkscape Slide]; it's an exceptionally painful process
+  which I would not recommend to anyone and which may explain why I haven't
+  given a talk in a while (you can see some of my slides on [speakerdeck], with
+  their source on [github][slides])
+* **most popular blog post**: [this (regretfully) snarky one][d2l] about some
+  questionable code that I found in my university's learning management system,
+  Desire2Learn; the blog post found its way to #1 on Hacker News while I was
+  asleep, the fallout of which affirmed the merits of using a static site
+  generator to build this website
+* **the story behind my username**: there's no cool story; it was meant to be a
+  throwaway username that I used for phpBB.com at the age of 12 (I was using a
+  Dell computer at the time). I ended up spending a lot more time in that
+  community that I expected and so the username kind of stuck with me. I have
+  since come to terms with "dellsystem" and will even answer to "dell".
+
+my programming origin story
+---------------------------
+
 I started building websites when I was 12, making heavy use of the popular
 Copy and Paste Code From Other Websites method. My first few websites were
 cheesy and terrible so I'll spare you the details, but one website was popular
@@ -29,81 +78,9 @@ code I do write is primarily for [a personal project designed to help me retain
 information from the books I read](http://bookmarker.dellsystem.me), so I
 haven't animated any martlets in a while.
 
-Feel free to email me at my gmail account or send me a message on Twitter
-[@dellsystem][twitter] if you want to get in touch.
-
-***
-
-<a name="contact"> </a>
-
-contact info
-------------
-
-*	gmail: ilostwaldo
-*	twitter: [@dellsystem][twitter]
-*   linkedin: [dellsystem](http://www.linkedin.com/in/dellsystem)
-*	facebook: [ilostwaldo](http://www.facebook.com/ilostwaldo)
-
-interests
----------
-
-* [beautiful math](http://www.mathjax.org/ "♥")
-* command lines, clean code, and consonance
-* [reading books][goodreads], especially critical theory and literary fiction
-  featuring gorgeous prose, à la David Foster Wallace (send me your
-  recommendations!)
-* an unusual physical fitness trinity of powerlifting, contemporary dance, and
-  artistic gymnastics
-* extremely left-wing politics
-
-miscellaneous
--------------
-
-* **currently running**: ubuntu 16.04
-* **favourite pokemon**: mudkip, as you may have heard
-* **favourite text editor**: vim for the command line, gedit otherwise; IDEs
-  tend to crash in my presence
-* **favourite free software projects**: [inkscape](http://www.inkscape.org),
-  [django](http://www.djangoproject.com),
-  [jekyll](http://jekyllrb.com),
-  [semantic UI](https://semantic-ui.com)
-* **programming languages**: python, PHP, javascript, java, some C, a bit of
-  ruby, a modicum of objective-j, very little bash, more MIPS assembly than
-  I'll ever need, and [a functional language you've probably never heard of and
-  likely will never encounter again](http://www.smlnj.org "pretty cool though")
-* **other technologies I may know something about**: HTML, CSS, LaTeX, SQL, jQuery,
-  AngularJS, D3.js, supervisor, Riak, Redis, MongoDB, AWS, nginx
-* **how I make slides**: I have a complicated setup involving an
-  open source tool called [Inkscape Slide]; it's an exceptionally painful process
-  which I would not recommend to anyone and which may explain why I haven't
-  given a talk in a while (you can see some of my slides on [speakerdeck], with
-  their source on [github][slides])
-* **most popular blog post**: [this (regretfully) snarky one][d2l] about some
-  questionable code that I found in my university's learning management system,
-  Desire2Learn; the blog post found its way to #1 on Hacker News while I was
-  asleep, the fallout of which affirmed the merits of using a static site
-  generator to build this website
-
-other links
------------
-
-* [goodreads]
-* [medium]
-* [github](https://www.github.com/dellsystem)
-* [last.fm][last.fm]
-* [speakerdeck]
-* [phpBB][phpbb]
-* [technical resume (PDF)][resume]
-
-[goodreads]: http://goodreads.com/dellsystem
-[medium]: http://medium.com/@dellsystem
-[Macromeasures]: http://macromeasures.com
-[last.fm]: http://www.last.fm/user/dellsystem
-[twitter]: http://www.twitter.com/#!/dellsystem
-[phpbb]: https://www.phpbb.com/community/memberlist.php?mode=viewprofile&u=178433
+[speakerdeck]: https://speakerdeck.com/dellsystem
+[accelerationist]: http://criticallegalthinking.com/2013/05/14/accelerate-manifesto-for-an-accelerationist-politics/
 [howdoi.land]: http://dellsystem.me/howdoi.land/
 [slides]: https://github.com/dellsystem/slides
-[speakerdeck]: https://speakerdeck.com/dellsystem
 [d2l]: /posts/dont-do-drugs-kids
 [Inkscape Slide]: https://github.com/abourget/inkscapeslide
-[resume]: /resume.pdf
