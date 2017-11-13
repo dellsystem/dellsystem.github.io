@@ -11,9 +11,13 @@ layout: default
 {% for post in sorted_posts %}
     {% if post.course == page.course_code %}
     <li>
+        {% if post.skip %}
+        Reading week ({{ post.date|date:"%B %d" }})
+        {% else %}
         <a href="{{ post.url }}">
             {{ post.topic }} ({{ post.date|date:"%B %d" }})
         </a>
+        {% endif %}
     </li>
     {% endif %}
 {% endfor %}

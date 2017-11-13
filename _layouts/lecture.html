@@ -8,9 +8,19 @@ layout: default
 
 <hr />
 
+{% if page.skip %}
+
+<h2>Reading week</h2>
+
+<p>No lecture this week.</p>
+
+{% else %}
+
 <h2>{{ page.topic }}</h2>
 
 {{ content }}
+
+{% endif %}
 
 <hr />
 
