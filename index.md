@@ -8,7 +8,7 @@ software developer: I interned at Google in 2013 and was all set for a software
 career in the Bay Area, but then I got roped into co-founding a [data science
 startup][Macromeasures] after graduating from McGill University in 2014. It was
 an exhilarating and edifying experience, the primary consequence of which was
-me realising how myopic the technology industry can be. Hence the switch to
+me realising [how myopic the tech industry can be][myopic]. Hence the switch to
 studying economic inequality from a sociological perspective, with a focus on
 the tech industry.  If you want to follow along with my progress, I'm [posting
 all my course notes here](/words#course).
@@ -24,3 +24,4 @@ you'll get to watch me struggle with that in real time.
 [Macromeasures]: http://macromeasures.com
 [personal statement]: /posts/a-personal-statement
 [Goodreads]: http://goodreads.com/dellsystem
+[myopic]: https://medium.com/@dellsystem/what-i-wish-i-had-known-1cf9714b01cf
