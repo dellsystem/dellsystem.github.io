@@ -12,7 +12,7 @@ def prepare():
 
 def up():
     less()
-    local('jekyll serve --watch')
+    local('jekyll serve --watch --future')
 
 def archive():
 	local('rm -rf _site/design _site/fabfile* _site/css/*.less')
