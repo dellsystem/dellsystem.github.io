@@ -381,24 +381,44 @@ pre {
     float: right;
 }
 
-dl {
+dl.horizontal {
     font-size: 0.9em;
     line-height: 1.4em;
+
+    dt {
+        float: left;
+        clear: left;
+        width: 95px;
+        text-align: right;
+        font-weight: bold;
+    }
+
+    dt::after {
+        content: ":";
+    }
+
+    dd {
+        margin-left: 90px;
+        padding-left: 10px;
+    }
 }
 
-dt {
-    float: left;
-    clear: left;
-    width: 95px;
-    text-align: right;
-    font-weight: bold;
+dl.vertical {
+    dt {
+        font-size: 1.3em;
+        padding-top: 15px;
+    }
+    padding-bottom: 15px;
 }
 
-dt::after {
-    content: ":";
-}
-
-dd {
-    margin-left: 90px;
-    padding-left: 10px;
+#content ul.large {
+    padding: 20px 0;
+    list-style-type: none;
+    span {
+        font-size: 1.2em;
+        line-height: 1.7em;
+    }
+    li + li {
+        padding-top: 15px
+    }
 }
