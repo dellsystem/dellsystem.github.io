@@ -2,26 +2,34 @@
 layout: default
 ---
 
-I'm Wendy Liu, and I'm currently completing a [one-year masters program on
-inequality][personal statement] at the London School of Economics. I'm also a
-software developer: I interned at Google in 2013 and was all set for a software
-career in the Bay Area, but then I got roped into co-founding a [data science
-startup][Macromeasures] after graduating from McGill University in 2014. It was
-an exhilarating and edifying experience, the primary consequence of which was
-me realising [how myopic the tech industry can be][myopic]. Hence the switch to
-studying economic inequality from a sociological perspective, with a focus on
-the tech industry.  If you want to follow along with my progress, I'm [posting
-all my course notes here](/words#course).
+I'm Wendy Liu, and I am:
+
+* doing an [MSc on economic inequality at the London School of Economics][lse]
+  (I'm posting [my course notes here](/words#course))
+* one of the economics editors for the [New Socialist][ns] (email
+  economics@newsocialist.org.uk if you have a pitch!)
+* a member of both [Democratic Socialists of America](http://www.dsausa.org/)
+  and [Momentum](http://www.peoplesmomentum.com/) despite being neither
+  American nor British
+* a huge fan of David Foster Wallace (I maintain [a list of his work](/dfw) and
+  also built the website for [the annual conference][dfwconf])
+* in the midst of a 208-book reading challenge for this year (add me on
+  [Goodreads] to watch the struggle in real time)
+
+I was:
+
+* co-founder and CTO of a (now mostly defunct) [data science startup][Macromeasures]
+* a software developer [who thought working at Google was all there was to look
+  forward to in life][story]
 
 This website is primarily a place to showcase my [art](/art), my [code](/code),
-and my [words](/words). I also maintain [a list of the complete works of David
-Foster Wallace](/dfw). If you want to get in touch, find me on Twitter
+and my [words](/words). If you want to get in touch, find me on Twitter
 [@dellsystem](https://twitter.com/dellsystem), or check out my [about
-page](/about) for other contact options. You should also add me on
-[Goodreads]---I'm in the midst of a 208-book reading challenge this year, so
-you'll get to watch me struggle with that in real time.
+page](/about) for other contact options.
 
 [Macromeasures]: http://macromeasures.com
-[personal statement]: /posts/a-personal-statement
+[lse]: /posts/a-personal-statement
 [Goodreads]: http://goodreads.com/dellsystem
-[myopic]: https://medium.com/@dellsystem/what-i-wish-i-had-known-1cf9714b01cf
+[story]: https://medium.com/@dellsystem/what-i-wish-i-had-known-1cf9714b01cf
+[ns]: https://newsocialist.org.uk
+[dfwconf]: http://wallaceconference.com
