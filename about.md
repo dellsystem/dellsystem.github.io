@@ -8,12 +8,10 @@ layout: default
 interests
 ---------
 
-* command lines, clean code, and consonance
-* [reading books](http://goodreads.com/dellsystem), especially critical theory
-  and literary fiction featuring gorgeous prose, à la David Foster Wallace
-* an unusual physical fitness trinity of powerlifting, contemporary dance, and
-  artistic gymnastics
-* extremely left-wing politics with an [accelerationist] bent
+* [reading books](http://goodreads.com/dellsystem)
+* [writing](/words#external), mostly about tech
+* occasionally making [derivative art](/art)
+* extremely left-wing politics with a mildly [accelerationist] bent
 
 miscellaneous
 -------------
