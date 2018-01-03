@@ -2,7 +2,6 @@
 layout: post
 title: A personal statement
 categories:
-- inequality
 - my-life
 ---
 
