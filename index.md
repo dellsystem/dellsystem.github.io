@@ -10,11 +10,11 @@ I'm Wendy Liu, and I am:
   economics@newsocialist.org.uk if you have a pitch!)
 * a member of both [Democratic Socialists of America](http://www.dsausa.org/)
   and [Momentum](http://www.peoplesmomentum.com/) despite being neither
-  American nor British
+  American nor British (solidarity etc)
 * a huge fan of David Foster Wallace (I maintain [a list of his work](/dfw) and
   also built the website for [the annual conference][dfwconf])
-* in the midst of a 208-book reading challenge for this year (add me on
-  [Goodreads] to watch the struggle in real time)
+* still recovering from [my 208-book reading challenge](http://dellsystem.me/posts/a-year-of-200-books) in 2017
+  and thus trying to avoid Goodreads for a while ([add me tho][Goodreads])
 
 I was:
 
