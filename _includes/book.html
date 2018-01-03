@@ -1,0 +1,13 @@
+{% assign book=site.data.books.list[book_slug] %}
+<div class="column">
+    <a href="{{ book.link }}"><img src="{{ book.image_url }}" title="{{ book.title|escape }} by {{ book.authors }} ({{ book.year }})" alt="{{ book.title|escape }}" /></a>
+    <br />
+    {% for i in (1..5) %}
+        {% if i <= book.rating %}
+        ★
+        {% else %}
+        ☆
+        {% endif %}
+    {% endfor %}
+    <a href="http://bookmarker.dellsystem.me/book/{{ book_slug }}" title="Bookmarker page">BM</a>
+</div>

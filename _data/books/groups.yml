@@ -1,0 +1,252 @@
+- name: Top 18 recommendations, in order of reading
+  books:
+    - the-boy-kings
+    - capitalist-realism
+    - the-new-prophets-of-capital
+    - does-capitalism-have-a-future
+    - evicted
+    - lit
+    - lean-out
+    - disassembly-required
+    - grand-hotel-abyss
+    - close-to-the-machine
+    - how-will-capitalism-end
+    - october
+    - left-hemisphere
+    - literary-theory-an-introduction
+    - philosophy-and-social-hope
+    - aesthetics-and-politics
+    - infinite-jest
+    - the-consumer-society
+
+- name: The rabbit hole of David Foster Wallace studies
+  books:
+    - both-flesh-and-not
+    - brief-interviews-with-hideous-men
+    - consider-the-lobster
+    - oblivion
+    - this-is-water
+    - the-pale-king
+    - girl-with-curious-hair
+    - the-broom-of-the-system
+    - infinite-jest
+    - fate-time-and-language
+    - signifying-rappers
+    - the-future-of-fiction
+    - the-david-foster-wallace-reader
+    - sonora-review-dfw-tribute
+    - david-foster-wallace-the-last-interview
+    - conversations-with-david-foster-wallace
+    - quack-this-way
+    - although-of-course-you-end-up-becoming-yourself
+    - every-love-story-is-a-ghost-story
+    - understanding-david-foster-wallace
+    - david-foster-wallace-and-the-long-thing
+    - david-foster-wallace-fiction-and-form
+    - the-unspeakable-failures-of-david-foster-wallace
+    - the-legacy-of-david-foster-wallace
+    - the-gospel-according-to-david-foster-wallace
+    - consider-david-foster-wallace
+    - david-foster-wallaces-balancing-books
+    - existentialist-engagement
+    - david-foster-wallace-presences-of-the-other
+    - bough-down
+    - lit
+    - farther-away
+    - how-fiction-works
+    - changing-my-mind
+
+- name: Other contemporary (fiction, essays, memoirs)
+  books:
+    - private-citizens
+    - the-sellout
+    - the-underground-railroad
+    - ready-player-one
+    - what-is-the-what
+    - zodiac
+    - bit-rot
+    - the-last-days-of-new-paris
+    - tenth-of-december
+    - high-fidelity
+    - how-we-are-hungry
+    - purity
+    - all-the-birds-in-the-sky
+    - the-embassy-of-cambodia
+    - austerlitz
+    - generation-x
+    - between-the-world-and-me
+    - how-to-be-alone
+    - against-everything
+    - the-discomfort-zone
+    - a-man-without-a-country
+    - the-brain-dead-megaphone
+    - the-fun-stuff
+    - the-nearest-thing-to-life
+    - in-praise-of-messy-lives
+    - changing-my-mind
+    - some-remarks
+    - the-faraway-nearby
+    - bit-rot
+    - adventures-in-marxism
+    - hillbilly-elegy
+    - uncle-tungsten
+    - the-german-comedy
+    - lit
+    - farther-away
+    - emergency-sex-and-other-desperate-measures
+    - bottoms-up
+    - a-thousand-hills
+    - the-point-14
+
+- name: Classic literature/essays
+  books:
+    - collected-poems
+    - exile-and-the-kingdom
+    - notes-from-underground
+    - kafka-complete-short-stories
+    - brecht-poems
+    - the-old-man-and-the-sea
+    - every-man-dies-alone
+    - resistance-rebellion-and-death
+    - the-myth-of-sisyphus
+    - against-interpretation
+    - mythologies
+
+- name: Philosophy and social/cultural theory
+  books:
+    - the-routledge-guidebook-to-platos-republic
+    - literary-theory-an-introduction
+    - discourse-on-the-origin-of-inequality
+    - what-is-an-author
+    - what-is-literature
+    - deconstruction
+    - aesthetics-and-politics
+    - philosophy-and-social-hope
+    - the-philosophy-of-marx
+    - grand-hotel-abyss
+    - left-hemisphere
+    - specters-of-marx
+    - the-ecology-of-attention
+    - redistribution-or-recognition
+    - fragments
+    - adventures-in-marxism
+    - the-function-of-criticism
+    - the-meaning-of-life
+    - the-consumer-society
+    - technology-and-social-power
+    - willing-slaves-of-capital
+    - violence
+    - malign-velocities
+
+- name: Technology criticism
+  books:
+    - hatching-twitter
+    - disrupted-my-misadventure-in-the-start-up-bubble
+    - the-boy-kings
+    - weapons-of-math-destruction
+    - chaos-monkeys
+    - no-exit
+    - close-to-the-machine
+    - who-owns-the-future
+    - tech-against-trump
+    - world-without-mind
+    - technology-and-social-power
+    - digital-labour-and-karl-marx
+    - cutting-code-software-and-sociality
+    - software-studies
+    - content
+    - platform-capitalism
+    - to-save-everything-click-here
+    - the-playstation-dreamworld
+    - ours-to-hack-and-to-own
+    - the-black-box-society
+    - a-hacker-manifesto
+    - accelerate-the-accelerationist-reader
+    - the-industries-of-the-future
+
+- name: Accessible leftist critiques
+  books: 
+    - the-death-of-homo-economicus
+    - the-divide
+    - and-the-weak-suffer-what-they-must
+    - the-bonds-of-debt
+    - utopia-or-bust
+    - capitalist-realism
+    - four-futures
+    - the-new-prophets-of-capital
+    - class-war
+    - big-capital
+    - lean-out
+    - the-abcs-of-socialism
+    - uneven-and-combined
+    - earth-wind-fire-jacobin-26
+    - the-first-red-century
+    - rank-and-file
+    - journey-to-the-dark-side
+    - work
+    - kill-all-normies
+    - inventing-the-future
+    - the-bleeding-edge
+    - disassembly-required
+    - why-marx-was-right
+
+- name: Politics, history, race, etc
+  books:
+    - racism-without-racists
+    - austerity-the-history-of-a-dangerous-idea
+    - out-of-the-wreckage
+    - corbyn-and-the-future-of-labour-a-verso-report
+    - against-elections
+    - against-the-double-blackmail
+    - how-to-resist
+    - october
+    - the-establishment
+    - debt-the-first-5000-years
+    - strangers-in-their-own-land
+    - evicted
+    - the-new-jim-crow
+    - a-dreadful-deceit
+    - dragon-ladies
+    - the-communist-manifesto
+    - the-april-theses
+    - between-the-world-and-me
+    - a-thousand-hills
+
+- name: Mainstream(ish) economics
+  books:
+    - chronicles
+    - why-save-the-bankers
+    - the-economics-of-inequality
+    - capital-in-the-twenty-first-century
+    - the-great-divide
+    - inequality-what-can-be-done
+    - social-class-in-the-21st-century
+    - basic-income
+    - gdp
+    - the-wealth-of-humans
+    - the-industries-of-the-future
+    - the-second-machine-age
+
+- name: More academic critiques (of capitalism)
+  books:
+    - catalyst-v1-no2
+    - cognitive-capitalism
+    - accelerate-the-accelerationist-reader
+    - the-forms-of-capital
+    - historical-capitalism-with-capitalist-civilization
+    - profiting-without-producing
+    - trouble-in-paradise
+    - the-trouble-with-capitalism
+    - postcapitalism
+    - 23-things-they-dont-tell-you-about-capitalism
+    - seventeen-contradictions-and-the-end-of-capitalism
+    - buying-time
+    - the-enigma-of-capital
+    - how-will-capitalism-end
+    - does-capitalism-have-a-future
+    - marx-capital-and-the-madness-of-economic-reason
+    - pikettys-capital
+    - the-production-of-money
+    - new-left-review-92
+    - new-left-review-82
+    - new-left-review-91
