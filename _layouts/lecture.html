@@ -6,6 +6,23 @@ layout: default
 
 {% include lecture_intro.html date=page.date course=page.course %}
 
+<div class="double-grid">
+    <div class="column">
+        {% if page.week > 1 %}
+        <a href="/posts/{{ page.course }}-{{ page.week|minus:1 }}">
+            &laquo; Previous week
+        </a>
+        {% endif %}
+    </div>
+    <div class="column" style="float: right">
+        {% if page.week < 11 %}
+        <a href="/posts/{{ page.course }}-{{ page.week|plus:1 }}">
+            Next week &raquo;
+        </a>
+        {% endif %}
+   </div>
+</div>
+
 <hr />
 
 {% if page.skip %}
@@ -24,4 +41,19 @@ layout: default
 
 <hr />
 
-<a href="/{{ page.course }}">&laquo; Back to {{ page.course }}</a>
+<div class="double-grid">
+    <div class="column">
+        {% if page.week > 1 %}
+        <a href="/posts/{{ page.course }}-{{ page.week|minus:1 }}">
+            &laquo; Previous week
+        </a>
+        {% endif %}
+    </div>
+    <div class="column" style="float: right">
+        {% if page.week < 11 %}
+        <a href="/posts/{{ page.course }}-{{ page.week|plus:1 }}">
+            Next week &raquo;
+        </a>
+        {% endif %}
+   </div>
+</div>
