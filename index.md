@@ -16,8 +16,8 @@ I was:
 
 * co-founder and original CTO of a [data science startup][Macromeasures] that
   has since been acquired
-* a software developer [who thought working at Google was all there was to look
-  forward to in life][story]
+* a software developer who discovered the emptiness of working at Google (you
+  can read the whole story [here][story1] and [here][story2])
 
 This website is primarily a place to showcase my [art](/art), my [code](/code),
 and my [writing](/words). If you want to get in touch, find me on Twitter
@@ -27,6 +27,7 @@ page](/about) for other contact options.
 [Macromeasures]: http://macromeasures.com
 [lse]: /posts/a-personal-statement
 [Goodreads]: http://goodreads.com/dellsystem
-[story]: https://medium.com/@dellsystem/what-i-wish-i-had-known-1cf9714b01cf
+[story1]: https://medium.com/@dellsystem/what-i-wish-i-had-known-1cf9714b01cf
+[story2]: http://www.notesfrombelow.org/article/silicon-inquiry
 [ns]: https://newsocialist.org.uk
 [dfwconf]: http://wallaceconference.com
