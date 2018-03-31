@@ -50,7 +50,7 @@ There's a lot here, with resources in a variety of formats (books, articles, pod
 * **[Novara Media](http://novaramedia.com/)**, an independent left media organisation based in London
 	* [Novara FM episode with Nick Srnicek on platform capitalism](http://novaramedia.com/2017/01/20/platform-capitalism/)
 	* [Novara FM episode on exponential technologies](http://novaramedia.com/2017/11/11/exponential-technologies-what-do-they-mean/)
-* **[Government Vs The Robots](https://www.acast.com/governmentvstherobots) on how technology will affect politics
+* **[Government Vs The Robots](https://www.acast.com/governmentvstherobots)** on how technology will affect politics
 	* [Episode with Rachel Coldicutt of Doteveryone on Internet fluency and tech giants](https://www.acast.com/governmentvstherobots/areyougoodattheinternet-)
 
 ## People to follow on Twitter
@@ -61,7 +61,7 @@ There's a lot here, with resources in a variety of formats (books, articles, pod
 * [Pinboard](https://twitter.com/Pinboard)
 * [Dmitri Kleiner](https://twitter.com/dmytri)
 * [Steve Klabnik](https://twitter.com/steveklabnik)
-	* Steve has written this excellent [introduction to anti-capitalism]http://blog.steveklabnik.com/posts/2012-03-31-anti-capitalism-101)
+	* Steve has written this excellent [introduction to anti-capitalism](http://blog.steveklabnik.com/posts/2012-03-31-anti-capitalism-101)
 * [Nick Srnicek](https://twitter.com/n_srnck)
 * [Evgeny Morozov](https://twitter.com/evgenymorozov)
 * [Frank Pasquale](https://twitter.com/FrankPasquale)
