@@ -16,16 +16,20 @@ There's a lot here, with resources in a variety of formats (books, articles, pod
 ## Communities
 
 * [Tech Workers Coalition](https://techworkerscoalition.org/), an excellent group of tech workers focused on building worker power in the tech industry
-* [The San Francisco chapter of the Democratic Socialists of America](https://twitter.com/dsa_sf) (not explicitly tech but they often organise stuff around the tech industry, given the location)
-* [The NYC tech working group of the Democratic Socialists of America](https://twitter.com/NYCDSATechWG)
+* The [Democratic Socialists of America](http://www.dsausa.org/)
+	* [The San Francisco chapter](https://twitter.com/dsa_sf) (not explicitly tech but they often organise stuff around the tech industry, given the location)
+	* [The Silicon Valley chapter](https://twitter.com/SV_DSA) (same)
+	* [The NYC tech working group](https://twitter.com/NYCDSATechWG)
 * [Tech Solidarity](https://techsolidarity.org/): a non-profit organisation connecting tech workers with their local communities
 
 ## Publications
 
 * [Logic Magazine](http://logicmag.io/): an excellent independent print-first magazine covering technology (founded by comrades)
 * [The New Inquiry](https://thenewinquiry.com/): an independent left-wing publication with some great pieces on technology
+* [The Baffler](https://thebaffler.com/): same as above
 * [Real Life Magazine](http://reallifemag.com/): "a magazine about living with technology"
 * [Model View Culture](https://modelviewculture.com/): "a magazine about technology, culture and diversity" (though sadly now defunct)
+* [New Socialist](https://newsocialist.org.uk/): occasionally has pieces on economic or cultural aspects of the tech industry, though usually within the context of UK politics (I'm an editor for the economics section)
 
 ## Podcasts
 
