@@ -16,11 +16,16 @@ There's a lot here, with resources in a variety of formats (books, articles, pod
 ## Communities
 
 * [Tech Workers Coalition](https://techworkerscoalition.org/), an excellent group of tech workers focused on building worker power in the tech industry
+	* an interview with two organisers for Logic Magazine: [A World to Win](https://logicmag.io/tat-a-world-to-win/)
+	* an explanation of what they do, for Notes From Below: [Tech workers, platform workers, and workers’ inquiry](http://www.notesfrombelow.org/article/tech-workers-platform-workers-and-workers-inquiry)
 * The [Democratic Socialists of America](http://www.dsausa.org/)
-	* [The San Francisco chapter](https://twitter.com/dsa_sf) (not explicitly tech but they often organise stuff around the tech industry, given the location)
+	* [The San Francisco chapter](https://twitter.com/dsa_sf) (not explicitly tech but they often organise stuff around the industry, given the location)
 	* [The Silicon Valley chapter](https://twitter.com/SV_DSA) (same)
 	* [The NYC tech working group](https://twitter.com/NYCDSATechWG)
 * [Tech Solidarity](https://techsolidarity.org/): a non-profit organisation connecting tech workers with their local communities
+	* a really insightful interview with founder Maciej Cegłowski (@Pinboard) for Logic Magazine: [Solidarity Forever](https://logicmag.io/tat-solidarity-forever/)
+* [Silicon Valley Rising](https://siliconvalleyrising.org/): they "want to raise wages and standards for all workers so they can live and thrive here"
+	* an interview with their campaign director for Logic Magazine: [Organizing the Valley](https://logicmag.io/tat-organizing-the-valley/)
 
 ## Publications
 
@@ -37,7 +42,7 @@ There's a lot here, with resources in a variety of formats (books, articles, pod
 	* [Episode with Trevor Strunk on Gamergate and Games Developer Conference](https://trashfuturepodcast.podbean.com/e/developers-of-the-world-unite-ft-trevor-strunk/)
 	* [Episode with Taylor Lorenz on the Consumer Electronics Show and Alex Krasodomski on tech monopolies](https://trashfuturepodcast.podbean.com/e/literally-black-mirror-ft-taylor-lorenz-and-alex-krasodomski/)
 	* [Episode with James Vincent on artificial intelligence](https://trashfuturepodcast.podbean.com/e/artificial-intelligunce-wyatt-koch-elon-musk-twitter-nazis-ft-james-vincent/)
-* **[UpVote](http://www.wired.co.uk/topic/upvote)**, WIRED and Ars Technica UK co-production hosted by Rowland Manthorpe. Not always that critical but still decent
+* **[UpVote](http://www.wired.co.uk/topic/upvote)**, WIRED and Ars Technica UK co-production hosted by [Rowland Manthorpe](https://twitter.com/rowlsmanthorpe).
 	* [Episode with Nick Srnicek on platform capitalism](http://www.wired.co.uk/article/upvote-16-tech-politics-podcast-richard-barbrook-jeremy-corbyn-labour-party)
 * **[Upstream](https://www.upstreampodcast.org/)**, an independent podcast on economics, which occasionally features episodes on technology
 	* [Episode with Trebor Scholz on platform cooperativism](https://soundcloud.com/upstreampodcast/trebor-scholz)
@@ -52,6 +57,9 @@ There's a lot here, with resources in a variety of formats (books, articles, pod
 	* [Novara FM episode on exponential technologies](http://novaramedia.com/2017/11/11/exponential-technologies-what-do-they-mean/)
 * **[Government Vs The Robots](https://www.acast.com/governmentvstherobots)** on how technology will affect politics
 	* [Episode with Rachel Coldicutt of Doteveryone on Internet fluency and tech giants](https://www.acast.com/governmentvstherobots/areyougoodattheinternet-)
+* **[General Intellect Unit](http://generalintellectunit.net/)**: "Podcast of the Cybernetic Marxists. Examining the intersection of Technology, (Left) Politics and Philosophy". Just started listening to it and it's so good
+* **[Soonish](https://www.soonishpodcast.org/)**: on technology and culture.
+	* [Episode with Tim O'Reilly about his book _WTF: What’s The Future and Why It’s Up to Us_](https://www.soonishpodcast.org/episodes/2017/10/24/202-mapping-the-future-with-tim-oreilly)
 
 ## People to follow on Twitter
 
@@ -85,6 +93,7 @@ There's a lot here, with resources in a variety of formats (books, articles, pod
 
 * **[Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](https://www.goodreads.com/book/show/25541028-elon-musk) by Ashlee Vance.** A little too bright-eyed. Good counterweight below:
 	* Paris Marx for Jacobin: [Elon Musk is Not the Future](https://jacobinmag.com/2018/02/elon-musk-hyperloop-public-transit-tech)
+	* Hamilton Nolan for Splinter: [Elon Musk Is an Asshole](https://splinternews.com/elon-musk-is-an-asshole-1824204789#_ga=2.204781072.1416667281.1522423508-943536000.1518691760) (short and to the point)
 * **[Hatching Twitter](https://www.goodreads.com/book/show/18656827-hatching-twitter) by Nick Bilton.** Chronicles the early days of Twitter. Really well-written.
 
 ### The economics of the industry
@@ -108,12 +117,14 @@ There's a lot here, with resources in a variety of formats (books, articles, pod
 * **[Who Owns The Future](https://www.goodreads.com/book/show/18144098-who-owns-the-future) by Jaron Lanier**. This is also somewhat critical—he castigates large tech companies for having too much control over for lives. Still, I think his proposed solution (the "micropayments" thing) is highly misguided and betrays a complete misunderstanding (or ignorance) of the labour theory of value, so I'm putting it in this category.
 * **[World Without Mind](https://www.goodreads.com/book/show/34311003-world-without-mind) by Franklin Foer.** A journalist explains the dangers of Facebook and Google having a monopoly over our media sources. I agree with his concerns, but his solutions centre around better regulation, which imo is not enough to address the roots of the problem.
 * **[The Wealth of Humans](https://www.goodreads.com/book/show/25663661-the-wealth-of-humans) by Ryan Avent**. An editor for the_Economist_ laments that technology (esp automation) is changing the relationship between capital and labour by reducing the value of labour. This had potential, but its fundamental outlook is very liberal, and doesn't do enough to question the economic landscape that led to technology being used in the way that is.
+* **[WTF: what's the future and why it's up to us](https://wtfeconomy.com/wtf-whats-the-future-and-why-it-s-up-to-us-c56cbe3cea2b) by Tim O'Reilly.** I haven't actually read this yet, but from the Medium post introducing the book, it sounds like he's saying that powerful corporations essentially need to behave better, rather than questioning the fact that these unaccountable for-profit corporations have been given so much power in the first place.
 
 ### Very uncritical takes
 
 Read them to understand the enemy, esssentially.
 
 * **[Zero to One](https://www.goodreads.com/book/show/18050143-zero-to-one) by Peter Thiel**. On why/how startups should strive to become monopolies
+	* A very thoughtful review by Guy Patrick Cunningham for Los Angeles Review of Books: [Citizen Thiel](https://lareviewofbooks.org/article/citizen-thiel)
 * **[The Lean Startup](https://www.goodreads.com/book/show/10127019-the-lean-startup) by Eric Ries**. A guide to building a "lean" (agile, iterative, responsive, etc) tech startup.
 * **[Hackers and Painters](https://www.goodreads.com/book/show/41793.Hackers_Painters) by Paul Graham.** A bunch of essays that are mostly about how great Paul Graham is. An (unfortunately) semi-seminal work. You can find the essays for free on his website.
 * **[The Cathedral & the Bazaar](https://www.goodreads.com/book/show/134825.The_Cathedral_the_Bazaar) by Eric S. Raymond.** On open source. This actually isn't that bad, though the author has some really weird views these days (mostly when it comes to women).
@@ -136,7 +147,7 @@ Read them to understand the enemy, esssentially.
 * Gideon Lewis-Kraus for Wired: [One Startup's Struggle to Survive Silicon Valley's Gold Rush](https://www.wired.com/2014/04/no-exit/). An insightful look into startup culture (from 2014).
 * Erin Griffith for Wired: [Silicon Valley Techies Still Think They're The Good Guys. They're Not.](https://www.wired.com/story/the-other-tech-bubble/). The title says it all.
 * John Harris for the Guardian https://www.theguardian.com/commentisfree/2017/nov/20/future-digital-children-analogue-betraying-generation-michael-gove?CMP=share_btn_tw
-* W. Patrick McCray for Los Angeles Review of Books: [Silicon Valley’s Bonfire of the Vainglorious](https://lareviewofbooks.org/article/silicon-valleys-bonfire-of-the-vainglorious/)
+* W. Patrick McCray for Los Angeles Review of Books: [Silicon Valley’s Bonfire of the Vainglorious](https://lareviewofbooks.org/article/silicon-valleys-bonfire-of-the-vainglorious/), a review of one book about Silicon Valley's obsession with transhumanism & "curing death", and one book about various characters in Silicon Valley (including Thiel fellows)
 * Evan Osnos for The New Yorker: [Doomsday Prep for the Super-Rich](https://www.newyorker.com/magazine/2017/01/30/doomsday-prep-for-the-super-rich?currentPage=all)
 * Fred Turner, in an interview for Logic Magazine: [Don't Be Evil](https://logicmag.io/03-dont-be-evil/)
 * Odrán Waldron for New Socialist: [Please Solve Life: How Transhumanism Distracts Us from Silicon Valley’s Class Warfare](https://newsocialist.org.uk/please-solve-life-how-transhumanism-distracts-us-from-silicon-valleys-class-warfare/)
@@ -155,6 +166,7 @@ Read them to understand the enemy, esssentially.
     * interviewed for the New Left Review: [Socialize the Data Centres!](https://newleftreview.org/II/91/evgeny-morozov-socialize-the-data-centres)
     * for the Guardian: [Will tech giants move on from the internet, now we’ve all been harvested?](https://www.theguardian.com/technology/2018/jan/28/morozov-artificial-intelligence-data-technology-online)
 	* for The Baffler: [The Taming of Tech Criticism](https://thebaffler.com/salvos/taming-tech-criticism)
+	* another one for The Baffler: [The Meme Hustler](https://thebaffler.com/salvos/the-meme-hustler), a very extensive and critical look at the Tim O'Reilly "brand"
 * Nick Srnicek for the Guardian: [We need to nationalise Google, Facebook and Amazon. Here’s why](https://www.theguardian.com/commentisfree/2017/aug/30/nationalise-google-facebook-amazon-data-monopoly-platform-public-interest)
 * Me on digital strategy and UK politics for New Socialist:
     * [Labour's Digital Strategy Is a Missed Opportunity](https://newsocialist.org.uk/labours-digital-strategy/)
@@ -170,12 +182,12 @@ Read them to understand the enemy, esssentially.
 * Shoshanna Zuboff: [Big Other: Surveillance Capitalism and the Prospects of an Information Civilization
 ](http://www.shoshanazuboff.com/new/recent-publications-and-interviews/big-other-surveillance-capitalism-and-the-prospects-of-an-information-civilization/). Academic paper, and a very important one.
 * Ben Tarnoff for The Guardian: [Big data for the people: it's time to take it back from our tech overlords](https://www.theguardian.com/technology/2018/mar/14/tech-big-data-capitalism-give-wealth-back-to-people)
+* Interview for Logic Magazine: [Safiya Umoja Noble and Sarah T. Roberts on the Problems of Platform Capitalism](https://logicmag.io/03-engine-failure/)
 
 #### The gig economy
 
 * Me for New Socialist: [The Inevitability of the Gig Economy](https://newsocialist.org.uk/the-gig-economy/)
-	* A shorter post I wrote about Uber, back when I didn't have a platform other than Medium: [Don’t put your faith in Uber
-](https://medium.com/@dellsystem/dont-put-your-faith-in-uber-727b864756a4)
+	* A shorter post I wrote about Uber, back when I didn't have a platform other than Medium: [Don’t put your faith in Uber](https://medium.com/@dellsystem/dont-put-your-faith-in-uber-727b864756a4)
 * This n+1 editorial on ridesharing: [Disrupt the Citizen](https://nplusonemag.com/issue-29/the-intellectual-situation/disrupt-the-citizen-2/)
 * cryoshon: [Why the Sharing Economy is Awful](https://cryoshon.co/2016/01/11/why-the-sharing-economy-is-awful/)
 * Paris Marx for The Bold Italic: [How the Gig Economy Profits Off of Desperation](https://thebolditalic.com/how-the-gig-economy-profits-off-desperation-47bc5f04d11b)
@@ -187,6 +199,7 @@ Read them to understand the enemy, esssentially.
 * Aaron Bastani for Vice: [Britain Doesn't Need More Austerity, It Needs Luxury Communism](https://www.vice.com/en_us/article/ppxpdm/luxury-communism-933)
 * Andrew Elrod for Dissent: [Fully Automated Luxury Socialism: The Case for a New Public Sector](https://www.dissentmagazine.org/article/automation-basic-income-government-jobs-case-new-public-sector)
 * Grace Blakeley for Novara Media: [Robots Aren’t Coming for Our Jobs – Capitalists Are](http://novaramedia.com/2018/03/20/robots-arent-coming-for-our-jobs-capitalists-are/)
+* A critique of FALC, for libcom: [Fully automated luxury communism: a utopian critique](https://libcom.org/blog/fully-automated-luxury-communism-utopian-critique-14062015)
 
 ### On worker power within the industry
 
@@ -195,11 +208,13 @@ Read them to understand the enemy, esssentially.
 * Siddharth Patel for Jacobin: [Tech Workers: Friends or Foes?](https://www.jacobinmag.com/2017/08/silicon-valley-gentrification-tech-sharing-economy)
 * [Coverage of the Lanetix firing](https://gist.github.com/bwestergard/a77744dc6f3095fd3fb769dd3d6562ad)
 * Ben Tarnoff for The Guardian: [Tech's push to teach coding isn't about kids' success – it's about cutting wage](https://www.theguardian.com/technology/2017/sep/21/coding-education-teaching-silicon-valley-wages)
+* Jonny Bunning for The  New Inquiry: [Capitalism with a Fluffy Face](https://thenewinquiry.com/capitalism-with-a-fluffy-face/). On tech companies being happy to open up their offices to dogs (to keep workers happy), but not unions.
 
 ### On open source
 
 * Ashe Dryden: [The Ethics of Unpaid Labor and the OSS Community](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
 * Kyle E. Mitchell: [The Mendicant Maintainerati](https://writing.kemitchell.com/2017/02/10/Medicant-Maintainerati.html)
+* Rob Hunter for Jacobin: [Reclaiming the Computing Commons](https://www.jacobinmag.com/2016/02/free-software-movement-richard-stallman-linux-open-source-enclosure/)
 
 ### On accelerationism
 
@@ -217,3 +232,4 @@ Some good critical takes (most of the mainstream media analysis is not very good
 * Branko Marcetic for Jacobin: [They Didn’t Even Need to Hack Facebook](https://www.jacobinmag.com/2018/03/cambridge-analytica-facebook-advertising-surveillance)
 * Paul Mason for Novara Media: [Choice: Break up Facebook – or Take It Into Public Ownership? I Am Not Kidding](http://novaramedia.com/2018/03/19/choice-break-up-facebook-or-take-it-into-public-ownership-i-am-not-kidding/)
 * Will Davies for the London Review of Books: [Short Cuts](https://www.lrb.co.uk/v40/n07/william-davies/short-cuts)
+* Tom Walker for Red Pepper: [Deleting Facebook isn’t enough: The rise of ‘surveillance capitalism’](https://www.redpepper.org.uk/deleting-facebook-isnt-enough-the-rise-of-surveillance-capitalism/)
