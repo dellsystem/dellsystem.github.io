@@ -158,6 +158,10 @@ Read them to understand the enemy, esssentially.
 * Jacob Silverman for The Baffler: [The Techies Who Said Sorry](https://thebaffler.com/latest/techies-who-said-sorry-silverman)
 * Holly Wood on Medium: [Paul Graham is Still Asking to be Eaten](https://medium.com/@girlziplocked/paul-graham-is-still-asking-to-be-eaten-5f021c0c0650). An old favourite, in response to a highly confused essay on economic inequality by startup dinosaur Paul Graham.
 * Corey Pein for The Baffler: [Blame the Computer](https://thebaffler.com/salvos/blame-the-computer-pein). On, among other things, the authoritarian tendencies within the tech industry.
+* Willie Osterweil for The New Inquiry: [Liberalism is Dead](https://thenewinquiry.com/liberalism-is-dead/), on the corporate fascism of Silicon Valley
+* Carmen Petaccio for The New Inquiry:
+	* [Universal Basic Bullshit](https://thenewinquiry.com/universal-basic-bullshit/), on the support for Universal Basic Income within Silicon Valley
+	* [This is Not a Simulation](https://thenewinquiry.com/this-is-not-a-simulation/): "The computer simulation hypothesis reveals how the American liberal elite questions everything except the insufficiency of liberalism itself"
 
 ### The economics of the tech industry
 
@@ -183,6 +187,8 @@ Read them to understand the enemy, esssentially.
 ](http://www.shoshanazuboff.com/new/recent-publications-and-interviews/big-other-surveillance-capitalism-and-the-prospects-of-an-information-civilization/). Academic paper, and a very important one.
 * Ben Tarnoff for The Guardian: [Big data for the people: it's time to take it back from our tech overlords](https://www.theguardian.com/technology/2018/mar/14/tech-big-data-capitalism-give-wealth-back-to-people)
 * Interview for Logic Magazine: [Safiya Umoja Noble and Sarah T. Roberts on the Problems of Platform Capitalism](https://logicmag.io/03-engine-failure/)
+* Sam Lavigne for The New Inquiry: [The Networked Assembly Line](https://thenewinquiry.com/the-networked-assembly-line/), on how fears of automation and AI are really just fears of the worst tendencies of capitalism
+* the program for [an intensive reading group on Platform Capitalism](https://cpgjcam.net/2018/03/17/our-one-month-platform-capitalism-intensive-reading-group/)
 
 #### The gig economy
 
@@ -220,11 +226,13 @@ Read them to understand the enemy, esssentially.
 
 * Malcolm Harris for The New Inquiry: [Turn Down for What?](https://thenewinquiry.com/turn-down-for-what/)
 * Andy Beckett for The Guardian: [Accelerationism: how a fringe philosophy predicted the future we live in](https://www.theguardian.com/world/2017/may/11/accelerationism-how-a-fringe-philosophy-predicted-the-future-we-live-in)
+* The Verso blog: [Beyond Endless Winter: An Interview with Nick Srnicek](https://www.versobooks.com/blogs/3652-beyond-endless-winter-an-interview-with-nick-srnicek): a really interesting and wide-ranging interview about not just accelerationism but also platform capitalism, science fiction, and cryptocurrency.
 
 ### On Cambridge Analytica
 
 Some good critical takes (most of the mainstream media analysis is not very good imo)
 
+* Evgeny Morozov for The Guardian: [After the Facebook scandal it’s time to base the digital economy on public v private ownership of data](https://www.theguardian.com/technology/2018/mar/31/big-data-lie-exposed-simply-blaming-facebook-wont-fix-reclaim-private-information). Really good overview of the wider context of the problem
 * Juan Ortiz Freuler for Open Democracy: [The Cambridge Analytica scandal is a drop of water trickling down the visible top of an iceberg. Focus on decentralizing power](https://www.opendemocracy.net/digitaliberties/juan-ortiz-freuler/battle-for-decentralized-internet-navigating-troubled-waters-to-g)
 * Laurie Laybourn-Langton for Open Democracy: [The oldest sins in the newest ways](https://www.opendemocracy.net/neweconomics/oldest-sins-newest-ways/)
 * [This Twitter thread from the NYC DSA chapter's tech working group](https://twitter.com/NYCDSATechWG/status/976509277241298944)
