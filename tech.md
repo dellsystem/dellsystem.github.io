@@ -178,7 +178,6 @@ Read them to understand the enemy, esssentially.
     * [Social Murder, Productivity Crisis & Irresponsible Technology Policy: The 2017 Budget](https://newsocialist.org.uk/social-murder-productivity-crisis/)
 * Hettie O'Brien for New Socialist: [Monopoly's Fallacy](https://newsocialist.org.uk/monopolys-fallacy/)
 * Malcolm Harris for Medium: [The Singular Pursuit of Comrade Bezos](https://medium.com/s/story/the-singular-pursuit-of-comrade-bezos-3e280baa045c)
-* Jack Chadwick for New Socialist: [Bitcoins and Beanie Babies](https://newsocialist.org.uk/bitcoins-and-beanie-babies/)
 * David Dayen for American Prospect: [Big Tech: The New Predatory Capitalism](http://prospect.org/article/big-tech-new-predatory-capitalism)
 * Ted Chiang for BuzzFeed News: [Silicon Valley Is Turning Into Its Own Worst Fear](https://www.buzzfeed.com/tedchiang/the-real-danger-to-civilization-isnt-ai-its-runaway)
 * Matt Cole for Salvage: [Platform Capitalism and the Value Form](http://salvage.zone/online-exclusive/platform-capitalism-and-value-form/)
@@ -212,9 +211,10 @@ Read them to understand the enemy, esssentially.
 * Chi Onwurah for the Guardian: [All workers need unions – including those in Silicon Valley](https://www.theguardian.com/commentisfree/2018/jan/31/silicon-valley-unions-employee-workers-rights-organise-labour)
 * Moira Weigel for the Guardian: [Coders of the world, unite: can Silicon Valley workers curb the power of Big Tech?](https://www.theguardian.com/news/2017/oct/31/coders-of-the-world-unite-can-silicon-valley-workers-curb-the-power-of-big-tech)
 * Siddharth Patel for Jacobin: [Tech Workers: Friends or Foes?](https://www.jacobinmag.com/2017/08/silicon-valley-gentrification-tech-sharing-economy)
-* [Coverage of the Lanetix firing](https://gist.github.com/bwestergard/a77744dc6f3095fd3fb769dd3d6562ad)
 * Ben Tarnoff for The Guardian: [Tech's push to teach coding isn't about kids' success – it's about cutting wage](https://www.theguardian.com/technology/2017/sep/21/coding-education-teaching-silicon-valley-wages)
 * Jonny Bunning for The  New Inquiry: [Capitalism with a Fluffy Face](https://thenewinquiry.com/capitalism-with-a-fluffy-face/). On tech companies being happy to open up their offices to dogs (to keep workers happy), but not unions.
+* Ben Tarnoff interviewing Björn Westergard for Jacobin: [Coding and Coercion](https://jacobinmag.com/2018/04/lanetix-tech-workers-unionization-campaign-firing) (on the Lanetix firing)
+	* [More coverage](https://gist.github.com/bwestergard/a77744dc6f3095fd3fb769dd3d6562ad)
 
 ### On open source
 
@@ -227,10 +227,17 @@ Read them to understand the enemy, esssentially.
 * Malcolm Harris for The New Inquiry: [Turn Down for What?](https://thenewinquiry.com/turn-down-for-what/)
 * Andy Beckett for The Guardian: [Accelerationism: how a fringe philosophy predicted the future we live in](https://www.theguardian.com/world/2017/may/11/accelerationism-how-a-fringe-philosophy-predicted-the-future-we-live-in)
 * The Verso blog: [Beyond Endless Winter: An Interview with Nick Srnicek](https://www.versobooks.com/blogs/3652-beyond-endless-winter-an-interview-with-nick-srnicek): a really interesting and wide-ranging interview about not just accelerationism but also platform capitalism, science fiction, and cryptocurrency.
+* Leftcom: [Back to the Future: Rebranding Social Democracy](http://www.leftcom.org/en/articles/2018-04-10/back-to-the-future-rebranding-social-democracy), a critique of Srnicek and Williams' _Inventing the Future_
+
+### On cryptocurrency
+
+* Doug Henwood for Jacobin: [What’s Behind Bitcoin Mania?](https://www.jacobinmag.com/2017/12/bitcoin-price-crypto-currency-explainer)
+* Mike Beggs for Jacobin: [The Dumb Money](https://www.jacobinmag.com/2018/04/bitcoin-cryptocurrency-monetary-system)
+* Jack Chadwick for New Socialist: [Bitcoins and Beanie Babies](https://newsocialist.org.uk/bitcoins-and-beanie-babies/)
+* Tom Walker for Red Pepper: [Bitcoin and the bandits: how Wall Street captured the Occupy of money](https://www.redpepper.org.uk/bitcoin-how-wall-street-captured-the-occupy-of-money/)
+* Adrienne Jeffries for The Outline: [Bitcoin is none of the things it was supposed to be](https://theoutline.com/post/2592/bitcoin-is-none-of-the-things-it-was-supposed-to-be?zd=1&zi=swk7keob)
 
 ### On Cambridge Analytica
-
-Some good critical takes (most of the mainstream media analysis is not very good imo)
 
 * Evgeny Morozov for The Guardian: [After the Facebook scandal it’s time to base the digital economy on public v private ownership of data](https://www.theguardian.com/technology/2018/mar/31/big-data-lie-exposed-simply-blaming-facebook-wont-fix-reclaim-private-information). Really good overview of the wider context of the problem
 * Juan Ortiz Freuler for Open Democracy: [The Cambridge Analytica scandal is a drop of water trickling down the visible top of an iceberg. Focus on decentralizing power](https://www.opendemocracy.net/digitaliberties/juan-ortiz-freuler/battle-for-decentralized-internet-navigating-troubled-waters-to-g)
