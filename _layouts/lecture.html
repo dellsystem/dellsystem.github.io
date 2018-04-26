@@ -50,10 +50,10 @@ layout: default
         {% endif %}
     </div>
     <div class="column" style="float: right">
-        {% if page.week < 11 %}
+        {% unless page.last_week %}
         <a href="/posts/{{ page.course }}-{{ page.week|plus:1 }}">
             Next week &raquo;
         </a>
-        {% endif %}
+        {% endunless %}
    </div>
 </div>
