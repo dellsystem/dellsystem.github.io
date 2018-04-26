@@ -3,7 +3,7 @@ layout: default
 title: "Critical perspectives on technology: resources"
 ---
 
-*Last updated: March 31, 2018.*
+*Last updated: April 27, 2018.*
 
 A wide-ranging list of resources for those interested in a more critical understanding of the technology industry, grounded in a recognition of its economic, social and political context.
 
@@ -88,12 +88,16 @@ There's a lot here, with resources in a variety of formats (books, articles, pod
 * **[Disrupted](https://www.goodreads.com/book/show/26030703-disrupted) by Dan Lyons.** About his time at HubSpot. Also pretty obnoxious, sadly.
 * **[The Hard Thing About Hard Things](https://www.goodreads.com/book/show/20657434-the-hard-thing-about-hard-things) by Ben Horowitz**. Ben Horowitz is now a name partner at the venture capital firm Andreessen Horowitz, and I guess this book is meant to justify his present amount of wealth and power by showing us all the "hard things" he went through to get to where he is now.
 	* John Patrick Leary has written a good critique of it for The New Inquiry: [The Poverty of Entrepreneurship: The Silicon Valley Theory of History](https://thenewinquiry.com/the-poverty-of-entrepreneurship-the-silicon-valley-theory-of-history/)
+* **[Live Work Work Work Die](https://www.goodreads.com/book/show/35684687-live-work-work-work-die) by Corey Pein**. Really looking to reading this.
+	* [Excerpt at NYMag](http://nymag.com/selectall/2018/04/corey-pein-live-work-work-work-die-excerpt-on-web-fraud.html)
+	* [Episode of The Discourse podcast featuring Corey Pein as a guest](https://twitter.com/Th3Discourse/status/988539488430428160)
 
 ### Third-person accounts
 
-* **[Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](https://www.goodreads.com/book/show/25541028-elon-musk) by Ashlee Vance.** A little too bright-eyed. Good counterweight below:
+* **[Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](https://www.goodreads.com/book/show/25541028-elon-musk) by Ashlee Vance.** A little too bright-eyed. Good counterweights below:
 	* Paris Marx for Jacobin: [Elon Musk is Not the Future](https://jacobinmag.com/2018/02/elon-musk-hyperloop-public-transit-tech)
 	* Hamilton Nolan for Splinter: [Elon Musk Is an Asshole](https://splinternews.com/elon-musk-is-an-asshole-1824204789#_ga=2.204781072.1416667281.1522423508-943536000.1518691760) (short and to the point)
+	* Jemima Kelly for the Financial Times' Alphaville (of all places!): [The world doesn't need more Elon Musks](https://ftalphaville.ft.com/2018/04/17/1523937600000/The-world-doesn-t-need-more-Elon-Musks/)
 * **[Hatching Twitter](https://www.goodreads.com/book/show/18656827-hatching-twitter) by Nick Bilton.** Chronicles the early days of Twitter. Really well-written.
 
 ### The economics of the industry
@@ -134,6 +138,7 @@ Read them to understand the enemy, esssentially.
 
 ### First-person accounts
 
+* Aakash Japi for Hacker Noon: [Getting Laid Off In Tech](https://hackernoon.com/getting-laid-off-in-tech-4e3efed8649b). A thoughtful first-person description of recent layoffs at Snap, connected to deeper insights about the role of the work ethic and the "meritocracy" fantasy in tech.
 * Aaron Timms for The Baffler: [The Artificial Intelligentsia](https://thebaffler.com/salvos/the-artificial-intelligentsia-timms). An incredibly powerful account of working at an overhyped "artificial intelligence" startup in NY.
 * Anna Wiener for n+1: [Uncanny Valley](https://nplusonemag.com/issue-25/on-the-fringe/uncanny-valley/). A beautiful and mostly fictional (but still quite accurate) account of what it's like to work at a startup in Silicon Valley.
 * Dan Hon on Medium: [No one’s coming. It’s up to us.](https://medium.com/@hondanhon/no-ones-coming-it-s-up-to-us-de8d9442d0d).
@@ -165,6 +170,12 @@ Read them to understand the enemy, esssentially.
 
 ### The economics of the tech industry
 
+* Leif Weatherby for LARB: [Delete Your Account: On the Theory of Platform Capitalism](https://lareviewofbooks.org/article/delete-your-account-on-the-theory-of-platform-capitalism/). A very impressive overview of several relevant books:
+	* Benjamin Bratton's The Stack (I haven't finished this yet; super long)
+	* Machine, Platform, Crowd by Andrew McAfee and Erik Brynjolfsson (haven't read this yet. Sounds like it's broadly accurate in describing trends, but its authors come from a particular normative perspective, as Weatherby writes: "Subtract the ghoulish enthusiasm, and this is one of the most compelling descriptions of the present I have found anywhere." Also: "Brynjolfsson and McAfee imagine a fully automated luxury communism for the very, very few.")
+	* Nick Srnicek's Platform Capitalism (which is good, if incomplete)
+	* Franklin Foer's World Without Mind (some good stuff but I disagree with a lot of his conclusions)
+	* Scott Galloway's The Four (haven't read this yet)
 * David Graeber for The Baffler: [Of Flying Cars and the Declining Rate of Profit](https://thebaffler.com/salvos/of-flying-cars-and-the-declining-rate-of-profit)
 * Evgeny Morozov:
     * interviewed for the New Left Review: [Socialize the Data Centres!](https://newleftreview.org/II/91/evgeny-morozov-socialize-the-data-centres)
@@ -188,6 +199,8 @@ Read them to understand the enemy, esssentially.
 * Interview for Logic Magazine: [Safiya Umoja Noble and Sarah T. Roberts on the Problems of Platform Capitalism](https://logicmag.io/03-engine-failure/)
 * Sam Lavigne for The New Inquiry: [The Networked Assembly Line](https://thenewinquiry.com/the-networked-assembly-line/), on how fears of automation and AI are really just fears of the worst tendencies of capitalism
 * the program for [an intensive reading group on Platform Capitalism](https://cpgjcam.net/2018/03/17/our-one-month-platform-capitalism-intensive-reading-group/)
+* K. Sabeel Rahman for Logic: [The New Octopus](https://logicmag.io/04-the-new-octopus/). On tech monopolies
+* Ben Tarnoff for Jacobin: [A Socialist Silicon Valley](https://www.jacobinmag.com/2018/04/big-tech-techlash-facebook-cambridge-analytica)
 
 #### The gig economy
 
@@ -208,6 +221,7 @@ Read them to understand the enemy, esssentially.
 
 ### On worker power within the industry
 
+* Alex Press for n+1: [Code Red](https://nplusonemag.com/issue-31/politics/code-red/), an absolutely stellar longread on organising the tech sector
 * Chi Onwurah for the Guardian: [All workers need unions – including those in Silicon Valley](https://www.theguardian.com/commentisfree/2018/jan/31/silicon-valley-unions-employee-workers-rights-organise-labour)
 * Moira Weigel for the Guardian: [Coders of the world, unite: can Silicon Valley workers curb the power of Big Tech?](https://www.theguardian.com/news/2017/oct/31/coders-of-the-world-unite-can-silicon-valley-workers-curb-the-power-of-big-tech)
 * Siddharth Patel for Jacobin: [Tech Workers: Friends or Foes?](https://www.jacobinmag.com/2017/08/silicon-valley-gentrification-tech-sharing-economy)
@@ -215,6 +229,8 @@ Read them to understand the enemy, esssentially.
 * Jonny Bunning for The  New Inquiry: [Capitalism with a Fluffy Face](https://thenewinquiry.com/capitalism-with-a-fluffy-face/). On tech companies being happy to open up their offices to dogs (to keep workers happy), but not unions.
 * Ben Tarnoff interviewing Björn Westergard for Jacobin: [Coding and Coercion](https://jacobinmag.com/2018/04/lanetix-tech-workers-unionization-campaign-firing) (on the Lanetix firing)
 	* [More coverage](https://gist.github.com/bwestergard/a77744dc6f3095fd3fb769dd3d6562ad)
+* Rick Morgan for CNBC: [SurveyMonkey defies Silicon Valley labor caste system, offering contract workers full benefits](https://www.cnbc.com/2018/04/19/surveymonkey-breaks-with-silicon-valley-over-contract-worker-benefits.html)
+* Kevin Roose for the New York Times: [Workers of Silicon Valley, It’s Time to Organize](https://www.nytimes.com/2018/04/25/technology/tech-workers-change.html)
 
 ### On open source
 
