@@ -156,7 +156,7 @@ Wendy: That's a good question. So I'm actually in the middle of compiling a list
 
 In terms of big takeaways: I'm biased \[since I'm an editor\], but New Socialist is gonna be putting out some more stuff. Not just by me—Hettie's piece on monopolies was published there, and we are looking to get more stuff on tech as well, addressing technology from a very clearly left-wing perspective and trying to understand what can actually be done with, say, a Labour government that's willing to tackle the big questions of ownership.
 
-_Dan: I would recommend to all our listeners to follow the New Socialist on Twitter \[[@NewSocialistUK](https://twitter.com/NewSocialistUK)\] and to check out their [website](https://newsocialist.org.uk/). It has been publishing some really groundbreaking policy papers, not just by Hettie but also by Tom and I! Tom and I wrote a piece on new media which is out there at the moment \[[Public Ownership of the Public Sphere](https://newsocialist.org.uk/public-ownership-of-the-public-sphere/)\].
+_Dan: I would recommend to all our listeners to follow the New Socialist on Twitter \[[@NewSocialistUK](https://twitter.com/NewSocialistUK)\] and to check out their [website](https://newsocialist.org.uk/). It has been publishing some really groundbreaking policy papers, not just by Hettie but also by Tom and I! Tom and I wrote a piece on new media which is out there at the moment \[[Public Ownership of the Public Sphere](https://newsocialist.org.uk/public-ownership-of-the-public-sphere/)\]._
 
 _So Hettie, where should we be looking and what should we be dreaming of or planning?_
 
