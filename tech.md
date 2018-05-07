@@ -3,13 +3,13 @@ layout: default
 title: "Critical perspectives on technology: resources"
 ---
 
-*Last updated: April 27, 2018.*
+*Last updated: May 7, 2018.*
 
 A wide-ranging list of resources for those interested in a more critical understanding of the technology industry, grounded in a recognition of its economic, social and political context.
 
-This was initially compiled as a companion to the March 2018 issue of [Notes From Below](https://notesfrombelow.org), called [Technology and The Worker](/issue/tech), for which I was co-curator. That issue contains some excellent pieces at the intersection of technology and class composition, and I would highly recommend taking a look.
+This was initially compiled as a companion to the March 2018 issue of [Notes From Below](https://notesfrombelow.org), called [Technology and The Worker](https://notesfrombelow.org/issue/technology-and-the-worker), which I co-curated. That issue contains some excellent pieces at the intersection of technology and class composition, most of which aren't listed here, and I would highly recommend taking a look.
 
-There's a lot here, with resources in a variety of formats (books, articles, podcasts, communities, individuals), and wI suggest you bookmark this page and use it as a reference if you're interested in this topic. If you think something should be added to this list, [get in touch](/about).
+There's a lot here, with resources in a variety of formats (books, articles, podcasts, communities, individuals), and I suggest you bookmark this page and use it as a reference if you're interested in this topic. If you think something should be added to this list, [get in touch](/about).
 
 ***
 
@@ -91,6 +91,9 @@ There's a lot here, with resources in a variety of formats (books, articles, pod
 * **[Live Work Work Work Die](https://www.goodreads.com/book/show/35684687-live-work-work-work-die) by Corey Pein**. Really looking to reading this.
 	* [Excerpt at NYMag](http://nymag.com/selectall/2018/04/corey-pein-live-work-work-work-die-excerpt-on-web-fraud.html)
 	* [Episode of The Discourse podcast featuring Corey Pein as a guest](https://twitter.com/Th3Discourse/status/988539488430428160)
+	* [Review for Salon by Keith Spencer](https://www.salon.com/2018/04/22/live-work-work-work-die-paints-a-portrait-of-silicon-valleys-dark-heart/)
+	* [Review for The New Republic by Shuja Haider](https://newrepublic.com/article/148217/silicon-valleys-rigged-game-life)
+		* "Like The Turk, Silicon Valley is an impressive automaton hiding a con job. Beneath its carefully constructed appearance of meritocracy are the world’s most powerful people, pulling strings, turning gears, and winning every time."
 
 ### Third-person accounts
 
@@ -121,7 +124,7 @@ There's a lot here, with resources in a variety of formats (books, articles, pod
 * **[Who Owns The Future](https://www.goodreads.com/book/show/18144098-who-owns-the-future) by Jaron Lanier**. This is also somewhat critical—he castigates large tech companies for having too much control over for lives. Still, I think his proposed solution (the "micropayments" thing) is highly misguided and betrays a complete misunderstanding (or ignorance) of the labour theory of value, so I'm putting it in this category.
 * **[World Without Mind](https://www.goodreads.com/book/show/34311003-world-without-mind) by Franklin Foer.** A journalist explains the dangers of Facebook and Google having a monopoly over our media sources. I agree with his concerns, but his solutions centre around better regulation, which imo is not enough to address the roots of the problem.
 * **[The Wealth of Humans](https://www.goodreads.com/book/show/25663661-the-wealth-of-humans) by Ryan Avent**. An editor for the_Economist_ laments that technology (esp automation) is changing the relationship between capital and labour by reducing the value of labour. This had potential, but its fundamental outlook is very liberal, and doesn't do enough to question the economic landscape that led to technology being used in the way that is.
-* **[WTF: what's the future and why it's up to us](https://wtfeconomy.com/wtf-whats-the-future-and-why-it-s-up-to-us-c56cbe3cea2b) by Tim O'Reilly.** I haven't actually read this yet, but from the Medium post introducing the book, it sounds like he's saying that powerful corporations essentially need to behave better, rather than questioning the fact that these unaccountable for-profit corporations have been given so much power in the first place.
+* **[WTF: what's the future and why it's up to us](https://wtfeconomy.com/wtf-whats-the-future-and-why-it-s-up-to-us-c56cbe3cea2b) by Tim O'Reilly.** I haven't actually read this yet, but from the [Medium post introducing the book](https://wtfeconomy.com/wtf-whats-the-future-and-why-it-s-up-to-us-c56cbe3cea2b), it sounds like he's saying that powerful corporations essentially need to behave better, rather than questioning the fact that these unaccountable for-profit corporations have been given so much power in the first place.
 
 ### Very uncritical takes
 
@@ -151,7 +154,7 @@ Read them to understand the enemy, esssentially.
 * Richard Barbrook and Andy Cameron: [The Californian Ideology](http://www.metamute.org/editorial/articles/californian-ideology). A analysis of the techno-libertarian ideology of the valley (as promulgated by publications like WIRED) from a media studies perspective.
 * Gideon Lewis-Kraus for Wired: [One Startup's Struggle to Survive Silicon Valley's Gold Rush](https://www.wired.com/2014/04/no-exit/). An insightful look into startup culture (from 2014).
 * Erin Griffith for Wired: [Silicon Valley Techies Still Think They're The Good Guys. They're Not.](https://www.wired.com/story/the-other-tech-bubble/). The title says it all.
-* John Harris for the Guardian https://www.theguardian.com/commentisfree/2017/nov/20/future-digital-children-analogue-betraying-generation-michael-gove?CMP=share_btn_tw
+* John Harris for the Guardian: [Don’t just teach kids to code – teach them to question Facebook and Google](https://www.theguardian.com/commentisfree/2017/nov/20/future-digital-children-analogue-betraying-generation-michael-gove)
 * W. Patrick McCray for Los Angeles Review of Books: [Silicon Valley’s Bonfire of the Vainglorious](https://lareviewofbooks.org/article/silicon-valleys-bonfire-of-the-vainglorious/), a review of one book about Silicon Valley's obsession with transhumanism & "curing death", and one book about various characters in Silicon Valley (including Thiel fellows)
 * Evan Osnos for The New Yorker: [Doomsday Prep for the Super-Rich](https://www.newyorker.com/magazine/2017/01/30/doomsday-prep-for-the-super-rich?currentPage=all)
 * Fred Turner, in an interview for Logic Magazine: [Don't Be Evil](https://logicmag.io/03-dont-be-evil/)
@@ -167,6 +170,10 @@ Read them to understand the enemy, esssentially.
 * Carmen Petaccio for The New Inquiry:
 	* [Universal Basic Bullshit](https://thenewinquiry.com/universal-basic-bullshit/), on the support for Universal Basic Income within Silicon Valley
 	* [This is Not a Simulation](https://thenewinquiry.com/this-is-not-a-simulation/): "The computer simulation hypothesis reveals how the American liberal elite questions everything except the insufficiency of liberalism itself"
+* The always excellent Ben Tarnoff and Moira Weigel for The Guardian: [Why Silicon Valley can’t fix itself](https://www.theguardian.com/news/2018/may/03/why-silicon-valley-cant-fix-itself-tech-humanism)
+	* "But these decisions are only symptoms of a larger issue: the fact that the digital infrastructures that increasingly shape our personal, social and civic lives are owned and controlled by a few billionaires. Because it ignores the question of power, the tech-humanist diagnosis is incomplete – and could even help the industry evade meaningful reform."
+	* "Tech humanism fails to address the root cause of the tech backlash: the fact that a small handful of corporations own our digital lives and strip-mine them for profit. This is a fundamentally political and collective issue. But by framing the problem in terms of health and humanity, and the solution in terms of design, the tech humanists personalise and depoliticise it."
+	* "In other words, “time well spent” means Facebook can monetise more efficiently. It can prioritise the intensity of data extraction over its extensiveness. This is a wise business move, disguised as a concession to critics. Shifting to this model not only sidesteps concerns about tech addiction – it also acknowledges certain basic limits to Facebook’s current growth model. There are only so many hours in the day. Facebook can’t keep prioritising total time spent – it has to extract more value from less time."
 
 ### The economics of the tech industry
 
@@ -216,7 +223,7 @@ Read them to understand the enemy, esssentially.
 * Brian Merchant for The Guardian: [Fully automated luxury communism](https://www.theguardian.com/sustainable-business/2015/mar/18/fully-automated-luxury-communism-robots-employment)
 * Aaron Bastani for Vice: [Britain Doesn't Need More Austerity, It Needs Luxury Communism](https://www.vice.com/en_us/article/ppxpdm/luxury-communism-933)
 * Andrew Elrod for Dissent: [Fully Automated Luxury Socialism: The Case for a New Public Sector](https://www.dissentmagazine.org/article/automation-basic-income-government-jobs-case-new-public-sector)
-* Grace Blakeley for Novara Media: [Robots Aren’t Coming for Our Jobs – Capitalists Are](http://novaramedia.com/2018/03/20/robots-arent-coming-for-our-jobs-capitalists-are/)
+* Grace Blakeley for Novara Media: [Robots Aren’t Coming for Our Jobs – Capitalists Are](http://novaramedia.com/2018/03/20/robots-arent-coming-for-our-jobs-capitalists-are/). A really excellent perspective that considers the ideological drive that led to "globalisation" (a highly suspect nominalisation if there ever was one) being blamed for problems created by capitalism.
 * A critique of FALC, for libcom: [Fully automated luxury communism: a utopian critique](https://libcom.org/blog/fully-automated-luxury-communism-utopian-critique-14062015)
 
 ### On worker power within the industry
