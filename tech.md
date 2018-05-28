@@ -94,6 +94,8 @@ There's a lot here, with resources in a variety of formats (books, articles, pod
 	* [Review for Salon by Keith Spencer](https://www.salon.com/2018/04/22/live-work-work-work-die-paints-a-portrait-of-silicon-valleys-dark-heart/)
 	* [Review for The New Republic by Shuja Haider](https://newrepublic.com/article/148217/silicon-valleys-rigged-game-life)
 		* "Like The Turk, Silicon Valley is an impressive automaton hiding a con job. Beneath its carefully constructed appearance of meritocracy are the world’s most powerful people, pulling strings, turning gears, and winning every time."
+	* [Review for the New York Times by Nikil Saval](https://www.nytimes.com/2018/05/25/books/review/silicon-valley-live-work-work-work-die-corey-pein.html)
+	* [Appearance on a podcast with Doug Henwood](https://lbo-news.com/2018/04/27/fresh-audio-product-129/)
 
 ### Third-person accounts
 
@@ -185,6 +187,7 @@ Read them to understand the enemy, esssentially.
 	* Scott Galloway's The Four (haven't read this yet)
 * David Graeber for The Baffler: [Of Flying Cars and the Declining Rate of Profit](https://thebaffler.com/salvos/of-flying-cars-and-the-declining-rate-of-profit)
 * Evgeny Morozov:
+	* interviewed for Nesta: [In conversation with Evgeny Morozov on big data, identity and the Silicon Valley hegemony](http://www.nesta.org.uk/blog/conversation-evgeny-morozov-big-data-identity-and-silicon-valley-hegemony) (from 2015 but still very good)
     * interviewed for the New Left Review: [Socialize the Data Centres!](https://newleftreview.org/II/91/evgeny-morozov-socialize-the-data-centres)
     * for the Guardian: [Will tech giants move on from the internet, now we’ve all been harvested?](https://www.theguardian.com/technology/2018/jan/28/morozov-artificial-intelligence-data-technology-online)
 	* for The Baffler: [The Taming of Tech Criticism](https://thebaffler.com/salvos/taming-tech-criticism)
@@ -194,6 +197,7 @@ Read them to understand the enemy, esssentially.
     * [Labour's Digital Strategy Is a Missed Opportunity](https://newsocialist.org.uk/labours-digital-strategy/)
     * [Labour's New Economics Conference: Part Two, Digital Session](https://newsocialist.org.uk/labours-new-economics-conference-part-two-digital-session/)
     * [Social Murder, Productivity Crisis & Irresponsible Technology Policy: The 2017 Budget](https://newsocialist.org.uk/social-murder-productivity-crisis/)
+	* [Technological Development For The Many](https://newsocialist.org.uk/technological-development-for-the-many/)
 * Hettie O'Brien for New Socialist: [Monopoly's Fallacy](https://newsocialist.org.uk/monopolys-fallacy/)
 * Malcolm Harris for Medium: [The Singular Pursuit of Comrade Bezos](https://medium.com/s/story/the-singular-pursuit-of-comrade-bezos-3e280baa045c)
 * David Dayen for American Prospect: [Big Tech: The New Predatory Capitalism](http://prospect.org/article/big-tech-new-predatory-capitalism)
@@ -208,6 +212,12 @@ Read them to understand the enemy, esssentially.
 * the program for [an intensive reading group on Platform Capitalism](https://cpgjcam.net/2018/03/17/our-one-month-platform-capitalism-intensive-reading-group/)
 * K. Sabeel Rahman for Logic: [The New Octopus](https://logicmag.io/04-the-new-octopus/). On tech monopolies
 * Ben Tarnoff for Jacobin: [A Socialist Silicon Valley](https://www.jacobinmag.com/2018/04/big-tech-techlash-facebook-cambridge-analytica)
+* Francesca Bria for openDemocracy: [The robot economy may already have arrived](https://www.opendemocracy.net/can-europe-make-it/francesca-bria/robot-economy-full-automation-work-future)
+
+#### On venture capital
+
+* Kim-Mai Cutler for Logic Magazine: [The Unicorn Hunters](https://logicmag.io/04-the-unicorn-hunters/)
+* Eric Paley for TechCrunch: [Toxic VC and the marginal-dollar problem](https://techcrunch.com/2017/10/26/toxic-vc-and-the-marginal-dollar-problem/)
 
 #### The gig economy
 
@@ -228,6 +238,7 @@ Read them to understand the enemy, esssentially.
 
 ### On worker power within the industry
 
+* Joe Corcoran in a presentation at Isle of Ruby 2018, aimed at fellow developers: [What's Good?](https://corcoran.online/2018/05/16/whats-good/)
 * Alex Press for n+1: [Code Red](https://nplusonemag.com/issue-31/politics/code-red/), an absolutely stellar longread on organising the tech sector
 * Chi Onwurah for the Guardian: [All workers need unions – including those in Silicon Valley](https://www.theguardian.com/commentisfree/2018/jan/31/silicon-valley-unions-employee-workers-rights-organise-labour)
 * Moira Weigel for the Guardian: [Coders of the world, unite: can Silicon Valley workers curb the power of Big Tech?](https://www.theguardian.com/news/2017/oct/31/coders-of-the-world-unite-can-silicon-valley-workers-curb-the-power-of-big-tech)
