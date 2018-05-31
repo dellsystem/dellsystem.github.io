@@ -60,6 +60,8 @@ There's a lot here, with resources in a variety of formats (books, articles, pod
 * **[General Intellect Unit](http://generalintellectunit.net/)**: "Podcast of the Cybernetic Marxists. Examining the intersection of Technology, (Left) Politics and Philosophy". Just started listening to it and it's so good
 * **[Soonish](https://www.soonishpodcast.org/)**: on technology and culture.
 	* [Episode with Tim O'Reilly about his book _WTF: What’s The Future and Why It’s Up to Us_](https://www.soonishpodcast.org/episodes/2017/10/24/202-mapping-the-future-with-tim-oreilly)
+* **[Politics Theory Other](https://soundcloud.com/poltheoryother)**: an excellent new left podcast by Alex Doherty
+	* [Episode with me on Silicon Valley](https://soundcloud.com/poltheoryother/9-wendy-liu-on-silicon-valley-and-the-democratisation-of-technology)
 
 ## People to follow on Twitter
 
