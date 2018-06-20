@@ -29,7 +29,7 @@ There's a lot here, with resources in a variety of formats (books, articles, pod
 
 ## Publications
 
-* [Logic Magazine](http://logicmag.io/): an excellent independent print-first magazine covering technology (founded by comrades)
+* [Logic Magazine](http://logicmag.io/): an excellent independent print-first magazine covering technology from an astutely critical perspective
 * [The New Inquiry](https://thenewinquiry.com/): an independent left-wing publication with some great pieces on technology
 * [The Baffler](https://thebaffler.com/): same as above
 * [Real Life Magazine](http://reallifemag.com/): "a magazine about living with technology"
@@ -105,6 +105,7 @@ There's a lot here, with resources in a variety of formats (books, articles, pod
 	* Paris Marx for Jacobin: [Elon Musk is Not the Future](https://jacobinmag.com/2018/02/elon-musk-hyperloop-public-transit-tech)
 	* Hamilton Nolan for Splinter: [Elon Musk Is an Asshole](https://splinternews.com/elon-musk-is-an-asshole-1824204789#_ga=2.204781072.1416667281.1522423508-943536000.1518691760) (short and to the point)
 	* Jemima Kelly for the Financial Times' Alphaville (of all places!): [The world doesn't need more Elon Musks](https://ftalphaville.ft.com/2018/04/17/1523937600000/The-world-doesn-t-need-more-Elon-Musks/)
+	* Jacob Silverman for The Baffler: [The Madness of King Musk](https://thebaffler.com/latest/musk-silverman)
 * **[Hatching Twitter](https://www.goodreads.com/book/show/18656827-hatching-twitter) by Nick Bilton.** Chronicles the early days of Twitter. Really well-written.
 
 ### The economics of the industry
@@ -220,6 +221,15 @@ Read them to understand the enemy, esssentially.
 
 * Kim-Mai Cutler for Logic Magazine: [The Unicorn Hunters](https://logicmag.io/04-the-unicorn-hunters/)
 * Eric Paley for TechCrunch: [Toxic VC and the marginal-dollar problem](https://techcrunch.com/2017/10/26/toxic-vc-and-the-marginal-dollar-problem/)
+* Steve Klabnik: [Is npm worth $2.6MM?](http://words.steveklabnik.com/is-npm-worth-26mm) (from 2014). On VC investing in the open source ecosystem. Some of the predictions turned out to be wrong in light of GitHub's recent acquisition by Microsoft, but it's a still thoughtful and intelligent read.
+* On the rise and fall of Theranos, a blood-testing technology "startup" which was valued at $9 billion at its peak
+	* [Blood Will Out](https://thebaffler.com/latest/shark-tankification-riederer) by Rachel Riederer, a review of John Carreyrou’s 2018 book _Bad Blood_.
+		* I really like this one line, after a litany of examples of how the company was obviously fraudulent: "None of this stopped Holmes from regarding herself as a kind of prophetic figure who was going to change the world."
+		* Also: "The heckler is a good reminder of what Holmes goal was: to put her machines into homes and healthcare settings across the country, _whether they worked or not_."
+		* The last paragraph is just stunning: "As Theranos’s story wraps up [...] my mind turned to the ambitious nineteen-year-old Elizabeth Holmes, and to the basic idea of her company. A portable blood-testing machine that was small enough to install in a local pharmacy or a home. A wide battery of tests from a single finger prick instead of a large draw of venous blood. It is a good and useful idea. And I wonder if Theranos might have fulfilled its promise—in some form. [...] If Holmes had allowed the company to drop some of the sexier and more impossible parts of her plan [...] could it have worked? We don’t know, because Holmes had to be a “unicorn,” something impossibly glamorous whose only flaw is not being real."
+* Some interesting thoughts in this [Bloomberg article](https://www.bloomberg.com/view/articles/2018-06-14/banks-get-distracted-by-the-world-cup) (scroll ahead to the **People are worried about unicorns.** section):
+	* "I have to say, if SoftBank is going to become the entire market for hot private technology startups, then every valuation is going to be marked-to-SoftBank, and the numbers will start to lose their meaning." (On SoftBank valuing WeWork at $35 to 40 billion, less than a year after its last round when it was valued at $20 billion)
+	* the article also features this fascinating [quote](https://avc.com/2018/06/the-valuation-obsession/) from Fred Wilson: "CEOs and their talent organizations frequently tell me that it is easier to recruit people to companies that have raised at eye popping values. This is particularly perverse because the higher the valuation, the less money the employee will make on their equity. But, it seems, the talent market is looking to the investment community to signal to them what companies are worth working for."
 
 #### The gig economy
 
@@ -229,6 +239,7 @@ Read them to understand the enemy, esssentially.
 * cryoshon: [Why the Sharing Economy is Awful](https://cryoshon.co/2016/01/11/why-the-sharing-economy-is-awful/)
 * Paris Marx for The Bold Italic: [How the Gig Economy Profits Off of Desperation](https://thebolditalic.com/how-the-gig-economy-profits-off-desperation-47bc5f04d11b)
 * Facility Waters and Jamie Woodcock for Viewpoint Magazine: [Far From Seamless: a Workers’ Inquiry at Deliveroo](https://www.viewpointmag.com/2017/09/20/far-seamless-workers-inquiry-deliveroo/)
+* Lorenzo Zamponi for Jacobin: [Bargaining With the Algorithm](https://www.jacobinmag.com/2018/06/deliveroo-riders-strike-italy-labor-organizing). A rundown of organising efforts among workers for food delivery startups like Deliveroo & Foodora
 
 ### On why we need fully automated luxury communism
 
@@ -240,6 +251,7 @@ Read them to understand the enemy, esssentially.
 
 ### On worker power within the industry
 
+* Me for Notes From Below: [The case for building worker power at Microsoft](http://www.notesfrombelow.org/article/building-worker-power-at-microsoft)
 * Joe Corcoran in a presentation at Isle of Ruby 2018, aimed at fellow developers: [What's Good?](https://corcoran.online/2018/05/16/whats-good/)
 * Alex Press for n+1: [Code Red](https://nplusonemag.com/issue-31/politics/code-red/), an absolutely stellar longread on organising the tech sector
 * Chi Onwurah for the Guardian: [All workers need unions – including those in Silicon Valley](https://www.theguardian.com/commentisfree/2018/jan/31/silicon-valley-unions-employee-workers-rights-organise-labour)
@@ -251,12 +263,16 @@ Read them to understand the enemy, esssentially.
 	* [More coverage](https://gist.github.com/bwestergard/a77744dc6f3095fd3fb769dd3d6562ad)
 * Rick Morgan for CNBC: [SurveyMonkey defies Silicon Valley labor caste system, offering contract workers full benefits](https://www.cnbc.com/2018/04/19/surveymonkey-breaks-with-silicon-valley-over-contract-worker-benefits.html)
 * Kevin Roose for the New York Times: [Workers of Silicon Valley, It’s Time to Organize](https://www.nytimes.com/2018/04/25/technology/tech-workers-change.html)
+* Ben Tarnoff interviewing an anonymous Google employee about Project Maven, for Jacobin: [Tech Workers Versus the Pentagon](https://www.jacobinmag.com/2018/06/google-project-maven-military-tech-workers)
 
 ### On open source
 
 * Ashe Dryden: [The Ethics of Unpaid Labor and the OSS Community](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
 * Kyle E. Mitchell: [The Mendicant Maintainerati](https://writing.kemitchell.com/2017/02/10/Medicant-Maintainerati.html)
 * Rob Hunter for Jacobin: [Reclaiming the Computing Commons](https://www.jacobinmag.com/2016/02/free-software-movement-richard-stallman-linux-open-source-enclosure/)
+* Gavin Mueller for Jacobin: [Microsoft and the Yeoman Coders](https://www.jacobinmag.com/2018/06/github-microsoft-open-source-code-technology) (on Microsoft acquiring Github for $7.5 billion in June 2018)
+	* "While there’s a lot of hype about gift economies and good vibes, when you’re doing an economic analysis, you have to consider the sector as a whole, not the intentions of a few members. One of the few to do this well, Swedish researcher Johan Söderberg, analyzed free software as part of labor under capitalism. Because so much code is available at no cost, open-source programmers effectively cheapen software by creating a base of code freely available to all — in Marxist language, they’ve cheapened those commodities by reducing the socially necessary labor time required to create them."
+	* "The changing terrain of digital capitalism means the old strategies of coding freedom won’t work. So instead of attempting to decentralize tech, to better preserve an ecosystem of independent businesses that stay small and promise to be good, coders should strive for democracy at work instead."
 
 ### On accelerationism
 
