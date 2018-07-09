@@ -5,14 +5,47 @@ layout: default
 
 **Subscribe to our [Patreon](https://www.patreon.com/newsocialist) to get the actual emails or if you just want to support independent left publishing!**
 
-Just my sections (on tech news), archived for posterity. The other editors' sections are available in the emails.
-
+Just my sections (on tech news), archived for posterity. The other editors' sections are available on Patreon for subscribers only.
 
 ***
 
+## July 8, 2018
+
+_Full newsletter available [on Patreon](https://www.patreon.com/posts/what-our-editors-19945512) for subscribers only._
+
+### [London police chief ‘completely comfortable’ using facial recognition with 98 percent false positive rate](https://www.theverge.com/2018/7/5/17535814/uk-face-recognition-police-london-accuracy-completely-comfortable) - The Verge
+
+The Metropolitan police is trialling the use of facial recognition technology at public events in order to find wanted individuals by their mugshot. As stated in the headline, the false positive rate has so far been 98% (‘meaning that 98 percent of the “matches” it makes are of innocent people’), and there have been no successful arrests. Feels like a standard case of technology fetishism, where the adoption of a particular kind of technology is seen as an innovative step forward no matter what the data actually report. The accuracy may or may not improve over time, but either way, the fact that this technology is being so enthusiastically adopted by a repressive arm of the state feels quite dystopian.
+
+### [The surveillance economy and its discontents](https://socialistworker.org/2018/07/04/the-surveillance-economy-and-its-discontents) - Socialist Worker
+
+On the other side of the Atlantic, facial recognition technology is in the news for slightly different reasons: less for its inaccuracy, and more for who is (or could be) using it. Amazon’s “Rekognition” service, which helps its customers to programmatically identify objects in images, is already being licensed to police departments, and could theoretically be used by even more controversial agencies like Immigrations and Customs Enforcement (ICE). This article goes into some of the recent incidents of resistance among tech workers at companies like Google and Microsoft (mentioned in the previous roundup) and sketches out what could be done by Amazon workers to force a change.
+
+### [Cory Doctorow: Zuck’s Empire of Oily Rags](http://locusmag.com/2018/07/cory-doctorow-zucks-empire-of-oily-rags/) - Locus Online
+
+An interesting, somewhat critical take on Facebook by a sort of techno-utopian left-liberal who’s done a lot of activism around privacy. Last sentence: “Cambridge Analytica didn’t convince decent people to become racists; they convinced racists to become voters.” I’m personally not a fan of the narrative that some people are incorrigibly racist - it’s definitely one that Clinton played up during the campaign, with her “deplorables” comment - but it does put the whole Cambridge Analytica issue into perspective. I also liked this line: “For commercial surveillance to be cost effective, it has to socialize all the risks associated with mass surveillance and privatize all the gains.”
+
+### [Survival of the Richest](https://medium.com/s/futurehuman/survival-of-the-richest-9ef6cddd0cc1) - Douglas Rushkoff for Medium
+
+A really excellent first-person piece that deftly reveals the terror that certain extremely wealthy elites feel about the future. Many of them no longer seem to feel in control of what the future will bring - instead, recognising that the present levels of inequality are unsustainable, they’re making contingency plans for when the pitchforks inevitably start coming out. Rushkoff ends the piece by advising these elites that it would be better to take steps to reduce inequality now, in order to avoid this reckoning, to little avail: “They were not interested in how to avoid a calamity; they’re convinced we are too far gone.”
+
+Worth reading in full, but here are some more great quotes: “They knew armed guards would be required to protect their compounds from the angry mobs. But how would they pay the guards once money was worthless? What would stop the guards from choosing their own leader?” / “For them, the future of technology is really about just one thing: escape.” / “Thus, we get tech billionaires launching electric cars into space — as if this symbolizes something more than one billionaire’s capacity for corporate promotion.”
+
+### [Union defeats Deliveroo in latest round of gig economy rights case](https://www.independent.co.uk/news/business/news/deliveroo-riders-rights-job-employment-union-case-gig-economy-iwgb-a8400336.html) - The Independent
+
+A small victory for IWGB in a complex legal battle over the way Deliveroo has classified its riders as self-employed. (Deliveroo has, weirdly, also claimed this latest ruling as a victory - I’m not entirely sure why.) While it’s great that there are some legal advances, the judicial side is certainly not the whole story, and it’s worth keeping an eye on Deliveroo riders’ autonomous struggles in response to changing conditions. For instance, Deliveroo recently announced changes to its payment system that could lead to falling wages, which has led some riders to decide to strike.
+
+### [Let’s make private data into a public good](https://www.technologyreview.com/s/611489/lets-make-private-data-into-a-public-good/) - Mariana Mazzucato for MIT Technology Review
+
+A good overview of the problems with allowing the private sector to monopolise and monetise our private data, by Mariana Mazzucato who’s usually quite good on these issues. The crux of it is giving the public greater control over technology, as summarised by this quote: “the key issue here is not just sending a portion of the profits from data back to citizens but also allowing them to shape the digital economy in a way that satisfies public needs”.
+
+### [What if people were paid for their data?](https://www.economist.com/the-world-if/2018/07/07/what-if-people-were-paid-for-their-data) - The Economist
+
+A much more questionable take on private data (unsurprising given where it’s published). This sort of reasoning - succinctly described in the headline - is pretty understandable in our woefully neoliberal times, when the natural tendency is to marketise anything that could potentially be a market. As if markets were this magic wand for fixing power imbalances. While this kind of argument is sometimes tempting for the left - if only instrumentally, as a strategy for diminishing the power of the tech giants - I worry that buying into this framing does more harm than good. Yes, privatised data has resulted in the growth of extremely wealthy multinational tech giants like Facebook and Alphabet (Google), but the socialist response to that is not to somehow charge them for the right to access our data. That only reinforces a neoliberal narrative. The proper response would to push for decommodification of data, and transforming the economy such that these companies are no longer able to exist in the first place (in other words: abolishing Silicon Valley).
+
 ## June 24, 2018
 
-_Available [on Patreon](https://www.patreon.com/bePatron?c=1026130&rid=1801078) for subscribers only._
+_Full newsletter available [on Patreon](https://www.patreon.com/bePatron?c=1026130&rid=1801078) for subscribers only._
 
 The last week has been a banner week for worker power within the tech industry, primarily centred around US tech giants’ role in the military-industrial complex. In the previous newsletter, I linked to a [Jacobin article](https://jacobinmag.com/2018/06/google-project-maven-military-tech-workers) on workers at Google who campaigned internally to cancel a contract with the Pentagon (involving drone strikes). Since then, quite a bit has unfolded throughout the rest of the industry, most of it prompted by recent revelations around “forcible separation” of children from their parents by US federal agency Immigrations and Customs Enforcement (ICE). The general trend has been of growing internal discontent around the tech industry’s role in supplying services to agencies like ICE, not just at the level of the executives, but at the rank-and-file level as well. The first four articles below are an attempt to map out the different focal points of employee dissatisfaction, with [Microsoft](https://www.vanityfair.com/news/2018/06/microsoft-employees-azure-ice-partnership) being a key locus for now but unlikely to remain that way for long.
 
