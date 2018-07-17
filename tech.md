@@ -3,7 +3,7 @@ layout: default
 title: "Critical perspectives on technology: resources"
 ---
 
-*Last updated: May 7, 2018.*
+*Last updated: July 17, 2018.*
 
 A wide-ranging list of resources for those interested in a more critical understanding of the technology industry, grounded in a recognition of its economic, social and political context.
 
@@ -42,6 +42,7 @@ There's a lot here, with resources in a variety of formats (books, articles, pod
 	* [Episode with Trevor Strunk on Gamergate and Games Developer Conference](https://trashfuturepodcast.podbean.com/e/developers-of-the-world-unite-ft-trevor-strunk/)
 	* [Episode with Taylor Lorenz on the Consumer Electronics Show and Alex Krasodomski on tech monopolies](https://trashfuturepodcast.podbean.com/e/literally-black-mirror-ft-taylor-lorenz-and-alex-krasodomski/)
 	* [Episode with James Vincent on artificial intelligence](https://trashfuturepodcast.podbean.com/e/artificial-intelligunce-wyatt-koch-elon-musk-twitter-nazis-ft-james-vincent/)
+	* [Episode with myself on worker power in the tech industry + abolishing Silicon Valley](https://trashfuturepodcast.podbean.com/e/abolish-silicon-valley-feat-wendy-liu/)
 * **[UpVote](http://www.wired.co.uk/topic/upvote)**, WIRED and Ars Technica UK co-production hosted by [Rowland Manthorpe](https://twitter.com/rowlsmanthorpe).
 	* [Episode with Nick Srnicek on platform capitalism](http://www.wired.co.uk/article/upvote-16-tech-politics-podcast-richard-barbrook-jeremy-corbyn-labour-party)
 * **[Upstream](https://www.upstreampodcast.org/)**, an independent podcast on economics, which occasionally features episodes on technology
@@ -55,6 +56,7 @@ There's a lot here, with resources in a variety of formats (books, articles, pod
 * **[Novara Media](http://novaramedia.com/)**, an independent left media organisation based in London
 	* [Novara FM episode with Nick Srnicek on platform capitalism](http://novaramedia.com/2017/01/20/platform-capitalism/)
 	* [Novara FM episode on exponential technologies](http://novaramedia.com/2017/11/11/exponential-technologies-what-do-they-mean/)
+	* [TyskySour episode with myself on worker power in the tech industry](http://novaramedia.com/2018/07/02/abolish-silicon-valley/)
 * **[Government Vs The Robots](https://www.acast.com/governmentvstherobots)** on how technology will affect politics
 	* [Episode with Rachel Coldicutt of Doteveryone on Internet fluency and tech giants](https://www.acast.com/governmentvstherobots/areyougoodattheinternet-)
 * **[General Intellect Unit](http://generalintellectunit.net/)**: "Podcast of the Cybernetic Marxists. Examining the intersection of Technology, (Left) Politics and Philosophy". Just started listening to it and it's so good
@@ -130,6 +132,7 @@ There's a lot here, with resources in a variety of formats (books, articles, pod
 * **[World Without Mind](https://www.goodreads.com/book/show/34311003-world-without-mind) by Franklin Foer.** A journalist explains the dangers of Facebook and Google having a monopoly over our media sources. I agree with his concerns, but his solutions centre around better regulation, which imo is not enough to address the roots of the problem.
 * **[The Wealth of Humans](https://www.goodreads.com/book/show/25663661-the-wealth-of-humans) by Ryan Avent**. An editor for the_Economist_ laments that technology (esp automation) is changing the relationship between capital and labour by reducing the value of labour. This had potential, but its fundamental outlook is very liberal, and doesn't do enough to question the economic landscape that led to technology being used in the way that is.
 * **[WTF: what's the future and why it's up to us](https://wtfeconomy.com/wtf-whats-the-future-and-why-it-s-up-to-us-c56cbe3cea2b) by Tim O'Reilly.** I haven't actually read this yet, but from the [Medium post introducing the book](https://wtfeconomy.com/wtf-whats-the-future-and-why-it-s-up-to-us-c56cbe3cea2b), it sounds like he's saying that powerful corporations essentially need to behave better, rather than questioning the fact that these unaccountable for-profit corporations have been given so much power in the first place.
+	* An excellent critique of it by Molly Sauter for The Outline: [Why is anyone listening to Tim O’Reilly?](https://theoutline.com/post/2413/why-is-anyone-listening-to-tim-o-reilly?zd=1&zi=r6bndrna)
 
 ### Very uncritical takes
 
@@ -156,6 +159,7 @@ Read them to understand the enemy, esssentially.
 
 ### On ideology
 
+* The absolutely amazing editorial for Logic Magazine's issue on Failure: [Project Ruway](https://logicmag.io/05-project-runway/)
 * Richard Barbrook and Andy Cameron: [The Californian Ideology](http://www.metamute.org/editorial/articles/californian-ideology). A analysis of the techno-libertarian ideology of the valley (as promulgated by publications like WIRED) from a media studies perspective.
 * Gideon Lewis-Kraus for Wired: [One Startup's Struggle to Survive Silicon Valley's Gold Rush](https://www.wired.com/2014/04/no-exit/). An insightful look into startup culture (from 2014).
 * Erin Griffith for Wired: [Silicon Valley Techies Still Think They're The Good Guys. They're Not.](https://www.wired.com/story/the-other-tech-bubble/). The title says it all.
@@ -251,7 +255,9 @@ Read them to understand the enemy, esssentially.
 
 ### On worker power within the industry
 
+* Alex Press for Vox: [How Silicon Valley workers are revolting against Trump’s immigration policy](https://www.vox.com/the-big-idea/2018/6/25/17500620/family-separation-policy-border-silicon-valley-microsoft-google-amazon)
 * Me for Notes From Below: [The case for building worker power at Microsoft](http://www.notesfrombelow.org/article/building-worker-power-at-microsoft)
+* Me for Novara Media: [Now is the Time for Worker Power in the Tech Industry](http://novaramedia.com/2018/06/27/now-is-the-time-for-worker-power-in-the-tech-industry/)
 * Joe Corcoran in a presentation at Isle of Ruby 2018, aimed at fellow developers: [What's Good?](https://corcoran.online/2018/05/16/whats-good/)
 * Alex Press for n+1: [Code Red](https://nplusonemag.com/issue-31/politics/code-red/), an absolutely stellar longread on organising the tech sector
 * Chi Onwurah for the Guardian: [All workers need unions – including those in Silicon Valley](https://www.theguardian.com/commentisfree/2018/jan/31/silicon-valley-unions-employee-workers-rights-organise-labour)
