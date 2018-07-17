@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "ABOLISH SILICON VALLEY"
+title: "ABOLISH SILICON VALLEY, for Novara Media"
 ---
 
 On July 2, 2018, I went on Novara Media's TyskySour show (which was livestreamed). We talked about stop-and-search, Alexandria Ocasio-Cortez's victory, and what it would mean to "abolish Silicon Valley", a semi-serious idea that I basically made up on Twitter the week before:
