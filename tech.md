@@ -3,7 +3,7 @@ layout: default
 title: "Critical perspectives on technology: resources"
 ---
 
-*Last updated: July 17, 2018.*
+*Last updated: July 21, 2018.*
 
 A wide-ranging list of resources for those interested in a more critical understanding of the technology industry, grounded in a recognition of its economic, social and political context.
 
@@ -18,6 +18,7 @@ There's a lot here, with resources in a variety of formats (books, articles, pod
 * [Tech Workers Coalition](https://techworkerscoalition.org/), an excellent group of tech workers focused on building worker power in the tech industry
 	* an interview with two organisers for Logic Magazine: [A World to Win](https://logicmag.io/tat-a-world-to-win/)
 	* an explanation of what they do, for Notes From Below: [Tech workers, platform workers, and workers’ inquiry](http://www.notesfrombelow.org/article/tech-workers-platform-workers-and-workers-inquiry)
+	* transcript of a panel at Left Forum in June 2018: [Towards an Organized Tech Industry—Part One](http://www.notesfrombelow.org/article/towards-an-organized-tech-industry-part-one)
 * The [Democratic Socialists of America](http://www.dsausa.org/)
 	* [The San Francisco chapter](https://twitter.com/dsa_sf) (not explicitly tech but they often organise stuff around the industry, given the location)
 	* [The Silicon Valley chapter](https://twitter.com/SV_DSA) (same)
@@ -92,7 +93,7 @@ There's a lot here, with resources in a variety of formats (books, articles, pod
 * **[Disrupted](https://www.goodreads.com/book/show/26030703-disrupted) by Dan Lyons.** About his time at HubSpot. Also pretty obnoxious, sadly.
 * **[The Hard Thing About Hard Things](https://www.goodreads.com/book/show/20657434-the-hard-thing-about-hard-things) by Ben Horowitz**. Ben Horowitz is now a name partner at the venture capital firm Andreessen Horowitz, and I guess this book is meant to justify his present amount of wealth and power by showing us all the "hard things" he went through to get to where he is now.
 	* John Patrick Leary has written a good critique of it for The New Inquiry: [The Poverty of Entrepreneurship: The Silicon Valley Theory of History](https://thenewinquiry.com/the-poverty-of-entrepreneurship-the-silicon-valley-theory-of-history/)
-* **[Live Work Work Work Die](https://www.goodreads.com/book/show/35684687-live-work-work-work-die) by Corey Pein**. Really looking to reading this.
+* **[Live Work Work Work Die](https://www.goodreads.com/book/show/35684687-live-work-work-work-die) by Corey Pein**.
 	* [Excerpt at NYMag](http://nymag.com/selectall/2018/04/corey-pein-live-work-work-work-die-excerpt-on-web-fraud.html)
 	* [Episode of The Discourse podcast featuring Corey Pein as a guest](https://twitter.com/Th3Discourse/status/988539488430428160)
 	* [Review for Salon by Keith Spencer](https://www.salon.com/2018/04/22/live-work-work-work-die-paints-a-portrait-of-silicon-valleys-dark-heart/)
