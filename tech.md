@@ -3,7 +3,7 @@ layout: default
 title: "Critical perspectives on technology: resources"
 ---
 
-*Last updated: July 21, 2018.*
+*Last updated: July 22, 2018.*
 
 A wide-ranging list of resources for those interested in a more critical understanding of the technology industry, grounded in a recognition of its economic, social and political context.
 
@@ -65,6 +65,8 @@ There's a lot here, with resources in a variety of formats (books, articles, pod
 	* [Episode with Tim O'Reilly about his book _WTF: What’s The Future and Why It’s Up to Us_](https://www.soonishpodcast.org/episodes/2017/10/24/202-mapping-the-future-with-tim-oreilly)
 * **[Politics Theory Other](https://soundcloud.com/poltheoryother)**: an excellent new left podcast by Alex Doherty
 	* [Episode with me on Silicon Valley](https://soundcloud.com/poltheoryother/9-wendy-liu-on-silicon-valley-and-the-democratisation-of-technology)
+* **[Team Human](https://teamhuman.fm/)**, a podcast on technology hosted by Douglas Rushkoff
+	* [Humane Tech or Capitalism Rebranded? with Moira Weigel and Ben Tarnoff](https://teamhuman.fm/episodes/ep-90-moira-weigel-and-ben-tarnoff-humane-tech-or-capitalism-rebranded/)
 
 ## People to follow on Twitter
 
