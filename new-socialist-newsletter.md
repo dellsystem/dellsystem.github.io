@@ -9,6 +9,72 @@ Just my sections (on tech news), archived for posterity. The other editors' sect
 
 ***
 
+## July 22, 2018
+
+_Full newsletter available [on Patreon](https://www.patreon.com/posts/what-our-editors-20243851) for subscribers only._
+
+### [Interview with Nick Dyer-Witheford, for Historical Materialism](http://www.historicalmaterialism.org/interviews/nick-dyer-witheford-cyber-marx)
+
+A good read on how technology changes the relationship between the worker and their environment. Here’s a quote in response to a question about his 2016 book _Cyber-Proletariat_:
+
+> “Proletariat” continues to be relevant because it names the antagonist against which capital continuously hurls these technological disruptions and so-called revolutions of work and production. [...] This offensive takes a triple direction—the outright elimination of human labour by automation; the cheapening of human labour via the electronic supply chains of globalization; and the evasion of human labour by financialization, transposing capital’s transformation of money into more money into a realm now almost entirely taken over by computerized risk modelling and algorithmic trading.
+
+### [Elon Musk Should Tweet More, for Gizmodo](https://gizmodo.com/elon-musk-should-tweet-more-1827696251)
+
+If you’ve witnessed Elon Musk’s increasingly bizarre Twitter meltdown over the last few weeks, then the title is pretty self-explanatory. The public spectacle may have a silver lining:
+
+> The captains of industry we venerate for their perceived brilliance are often huge dumbasses when it comes to anything other than accumulating a lot of money and turning it into more. Time and time again, ignorance of this key fact has proved disastrous for the American people. Public acts of self-dick-stepping might be the only way to dispel the myth of the benevolent rich genius for good.
+
+### [Project Runway - Editorial for Logic Magazine’s issue on Failure](https://logicmag.io/05-project-runway/)
+
+Logic Magazine is a print publication on technology, and the only tech-focused publication that consistently takes a critical perspective. They’re excellent, and you should consider [subscribing](https://logicmag.io/subscribe/), though it’s a shame that they only print 3 times a year. The editorial for the next issue is especially biting, as it carefully unpacks the idea of “failure” within the tech industry’s psyche and shows how deeply imbricated it is with the Valley’s outward-facing display of being innovative and meritocratic and ultimately _correct_:
+
+> [...] it was all right for a handful of former failures to accumulate vast amounts of money and power, so long as what was good for Silicon Valley was good for humanity. If tech was the future, why would anyone, or any regulation, want to stand in its way?
+>
+> The system may be working exactly as it is supposed to. If so, is the definition of success we have been using wrong? What if the success of Silicon Valley is failing most of us?
+
+The full issue will be released later this summer, and includes a piece by me on the lost political potential of the open source movement! There will also be some really spectacular first-person stories about failing up within Silicon Valley, which I’m personally quite excited to read.
+
+### [The cashless society is a con – and big finance is behind it, by Brett Scott](https://www.theguardian.com/commentisfree/2018/jul/19/cashless-society-con-big-finance-banks-closing-atms)
+
+A good illustration of the way technological innovations - which can affect people’s lives in very visceral ways - are predominantly deployed according to corporate interests, not democratically-determined needs. In this case, the financial industry is trying to move more and more transactions into the digital space, citing “convenience” and “consumer preference” when the true motive is, as always, profit. As consumers, we're helplessly “nudged” along and ultimately unable to offer anything more than token resistance. This, of course, undermines the neoliberal narrative of “consumer choice” - but, as Scott explains in the article, a more fruitful way of looking at the situation would draw on Marxist concepts like Gramsci’s “hegemony” and Althusser’s “interpellation”. The slow transition from cash to card is an attempt to delimit our imaginations by changing the realm of possibility, so that we can no longer imagine a world without the financial industry:
+
+> We must recognise every cash machine that is shut down as another step in financial institutions’ campaign to nudge you into their digital enclosures.
+
+### [Worker Surveillance and Class Power, by Brishen Rogers](https://lpeblog.org/2018/07/11/worker-surveillance-and-class-power/)
+
+Really thoughtful piece by a law professor on how new technologies for surveilling workers are used to disempower workers as a class, with some examples drawn from Uber. The point of monitoring technologies is, of course, to rinse out so-called “inefficiencies”: to “push workers to perform harder, faster, and for less”. Data gathered from constant surveillance builds a map of how workers are using their time, which is then used to “squeeze out nearly all downtime”. This has implications for the traditional view of the nature of the “firm”, drawing from economist Ronald Coase’s work on transaction costs:
+
+> In a Coasean approach, the challenge of monitoring workers outside the firm may be a transaction cost that encourages the firm to bring them inside as employees [...] Yet where firms can develop near-perfect knowledge about workers’ performance, the calculus changes.
+
+What this implies is that ever-improving technology for monitoring and disciplining workers shifts the contract-vs-employee balance, incentivising firms to outsource/offshore work as long as they can still guarantee an acceptable degree of efficiency/productivity. This definitely corresponds to what we’re seeing with the gig economy - not just [the more visible manifestations](https://newsocialist.org.uk/the-gig-economy/) (Uber, Deliveroo), but the [increasingly global](https://www.redpepper.org.uk/how-to-resist-the-exploitation-of-digital-gig-workers/) chain of gig workers whose efforts are mediated and accordingly surveilled by platforms like Amazon Mechanical Turk who, of course, retain most of the power.
+
+Rogers ends by suggesting that countering this trend requires building power from below, rather than merely trying to play regulatory catch-up:
+
+> [...] a strategy of worker empowerment and deliberative governance rather than command-and-control regulation [...] new forms of unionization and collective bargaining could address the everyday invasions of privacy or erosions of autonomy that arise through technological monitoring. [...] Workers could also be woven into state and federal policy-making in a more sustained fashion. They could be guaranteed seats on new administrative boards established to consider responses to technological change, for example, or given a formal role in a more robust industrial policy that aims to create high-skill jobs and to train workers to take them on.
+
+### [How Silicon Valley Fuels an Informal Caste System, by Antonio García Martínez for WIRED](https://www.wired.com/story/how-silicon-valley-fuels-an-informal-caste-system/)
+
+I’m sharing this with reservations, because I’ve read the author’s book _Chaos Monkeys_ and I find him to be a mildly repugnant human being whose criticism of capitalism never goes beyond a bleak and futile dead end (to be snide, it goes something like: “Capitalism is bad! And communism is also bad! That’s all I got!”). Having said that, however, this piece isn’t a bad diagnosis of how Silicon Valley functions today, which he describes as:
+
+> [...] highly stratified, with little social mobility.  It's feudalism with better marketing. Today’s “sharing” economy resembles the “sharecropping” of yesteryear, with the serfs responding to a smartphone prompt rather than an overseer’s command.
+
+There’s a vignette describing an app-mediated grocery delivery which is nicely grounded in an analysis of the political economy of Silicon Valley:
+
+> Often, the order will contain errors, revealing that the buyer didn’t quite know what he was buying (fancy cheeses are particularly risky). You’ll peck at the app and leave a tip to assuage your conscience and avoid thinking about the soaring—and largely unshared—returns to technology and capital.
+
+Where I disagree is with his pessimism around the potential of collective action to transcend the current state of things. He identifies four main classes within modern-day Silicon Valley: "The Inner Party of venture capitalists and successful entrepreneurs"; "The Outer Party of skilled technicians, operations people, and marketers that keep the trains belonging to the Inner Party running on time"; "The Service Class in the “gig economy.”; and "the Untouchable class of the homeless, drug addicted, and/or criminal". He views the Outer Party as having the most potential for “nonviolent political hope”, but doesn’t seem to think their common interests extend much beyond “street cleanliness, crime, schools, and transit.” [Tech Workers Coalition](https://techworkerscoalition.org) would beg to differ - these people are _still workers_ (despite being well-compensated for now), and there is so much potential if they organise _as_ workers, even if it’s initially triggered by [ethical concerns](http://novaramedia.com/2018/06/27/now-is-the-time-for-worker-power-in-the-tech-industry/) rather than the more orthodox avenue of material circumstances.
+
+### [AI Nationalism, by Ian Hogarth](https://www.ianhogarth.com/blog/2018/6/13/ai-nationalism)
+
+> The central prediction I want to make and defend in this post is that continued rapid progress in machine learning will drive the emergence of a new kind of geopolitics; I have been calling it AI Nationalism.
+
+This has been on my radar for a while but it’s quite long so I only just got around to reading it. The author is a startup founder and investor whose views are definitely more aligned with that community than they are with the left (although he does cite Nick Srnicek! But he also cites [Paul Graham](https://code.likeagirl.io/paul-graham-blocked-me-on-twitter-c28ca647c7f8) ...). Still it's worth reading if you want a better understanding of AI, and I do mostly agree with the author's vision for how AI should be governed in the long run (by an international organisation, kind of similar to the open source model).
+
+Where I think we disagree is on the primacy of AI as a thing in itself, rather than just a tool wielded by corporations - partly as a way to distract from bigger questions around economic structure and power and politics, really. Seems to me that the author falls into the same pattern (intentionally or not) that Grace Blakeley describes in [an excellent piece on globalisation and automation](http://novaramedia.com/2018/03/20/robots-arent-coming-for-our-jobs-capitalists-are/): framing AI as if it’s some natural force is a great way to evacuate politics from the discussion in an almost exculpatory way. The (neoliberal) political climate is treated as fairly static, and the possibility of class struggle - the idea that AI and other tech could actually be deployed against the grain of present-day class relationships - doesn’t seem to be a consideration.
+
+He may be right, of course; the only real way to prove that narrative wrong is to build a mass movement intent on shifting power away from the capitalist class, and the jury’s still out on whether that’s happening quickly enough ...
+
 ## July 8, 2018
 
 _Full newsletter available [on Patreon](https://www.patreon.com/posts/what-our-editors-19945512) for subscribers only._
