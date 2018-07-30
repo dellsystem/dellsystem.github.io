@@ -3,7 +3,7 @@ layout: default
 title: "Critical perspectives on technology: resources"
 ---
 
-*Last updated: July 22, 2018.*
+*Last updated: July 30, 2018.*
 
 A wide-ranging list of resources for those interested in a more critical understanding of the technology industry, grounded in a recognition of its economic, social and political context.
 
@@ -162,7 +162,7 @@ Read them to understand the enemy, esssentially.
 
 ### On ideology
 
-* The absolutely amazing editorial for Logic Magazine's issue on Failure: [Project Ruway](https://logicmag.io/05-project-runway/)
+* The absolutely amazing editorial for Logic Magazine's issue on Failure: [Project Runway](https://logicmag.io/05-project-runway/)
 * Richard Barbrook and Andy Cameron: [The Californian Ideology](http://www.metamute.org/editorial/articles/californian-ideology). A analysis of the techno-libertarian ideology of the valley (as promulgated by publications like WIRED) from a media studies perspective.
 * Gideon Lewis-Kraus for Wired: [One Startup's Struggle to Survive Silicon Valley's Gold Rush](https://www.wired.com/2014/04/no-exit/). An insightful look into startup culture (from 2014).
 * Erin Griffith for Wired: [Silicon Valley Techies Still Think They're The Good Guys. They're Not.](https://www.wired.com/story/the-other-tech-bubble/). The title says it all.
@@ -189,6 +189,8 @@ Read them to understand the enemy, esssentially.
 
 ### The economics of the tech industry
 
+* Peter Frase for The New Inquiry: [The Future Bubble](https://thenewinquiry.com/the-future-bubble/)
+	* really excellent piece on the venture capital model of funding companies in Silicon Valley, and how that relates to the rest of the economy
 * Leif Weatherby for LARB: [Delete Your Account: On the Theory of Platform Capitalism](https://lareviewofbooks.org/article/delete-your-account-on-the-theory-of-platform-capitalism/). A very impressive overview of several relevant books:
 	* Benjamin Bratton's The Stack (I haven't finished this yet; super long)
 	* Machine, Platform, Crowd by Andrew McAfee and Erik Brynjolfsson (haven't read this yet. Sounds like it's broadly accurate in describing trends, but its authors come from a particular normative perspective, as Weatherby writes: "Subtract the ghoulish enthusiasm, and this is one of the most compelling descriptions of the present I have found anywhere." Also: "Brynjolfsson and McAfee imagine a fully automated luxury communism for the very, very few.")
