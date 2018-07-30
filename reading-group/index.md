@@ -23,6 +23,13 @@ If you've written articles that you'd like participants to read in order to fram
 
 _Probably unnecessary disclaimer: someone being listed here does not imply that I endorse all of their views, or that they endorse all of my views, or that they endorse the views of past speakers, or anything similarly ridiculous._
 
+### August 3: [David Adler](https://twitter.com/davidrkadler)
+
+On centrism and why it's a threat to democracy.
+
+* [Beware the authoritarian centre](https://www.opendemocracy.net/uk/david-adler/beware-authoritarian-centre)
+* [Centrists Are the Most Hostile to Democracy, Not Extremists](https://www.nytimes.com/interactive/2018/05/23/opinion/international-world/centrists-democracy.html)
+
 ### July 27: [Alyssa Battistoni](https://twitter.com/alybatt)
 
 On climate change and how politics must adapt.
