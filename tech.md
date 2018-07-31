@@ -3,7 +3,7 @@ layout: default
 title: "Critical perspectives on technology: resources"
 ---
 
-*Last updated: July 30, 2018.*
+*Last updated: July 31, 2018.*
 
 A wide-ranging list of resources for those interested in a more critical understanding of the technology industry, grounded in a recognition of its economic, social and political context.
 
@@ -249,6 +249,13 @@ Read them to understand the enemy, esssentially.
 * Paris Marx for The Bold Italic: [How the Gig Economy Profits Off of Desperation](https://thebolditalic.com/how-the-gig-economy-profits-off-desperation-47bc5f04d11b)
 * Facility Waters and Jamie Woodcock for Viewpoint Magazine: [Far From Seamless: a Workers’ Inquiry at Deliveroo](https://www.viewpointmag.com/2017/09/20/far-seamless-workers-inquiry-deliveroo/)
 * Lorenzo Zamponi for Jacobin: [Bargaining With the Algorithm](https://www.jacobinmag.com/2018/06/deliveroo-riders-strike-italy-labor-organizing). A rundown of organising efforts among workers for food delivery startups like Deliveroo & Foodora
+* Brett Scott for How We Get To Next: [Reversing the Lies of the Sharing Economy](https://howwegettonext.com/reversing-the-lies-of-the-sharing-economy-a85501d14be8). So, so good
+	* "we should call out Uber for what it is: a company in control of a platform that originally facilitated peer-to-peer renting, not sharing, and that eventually transformed into the de facto boss of an army of self-employed employees. And even as “self-employed employee” might sound like a contradiction, that’s the dark genius of the Uber enterprise. It took the traditional corporation, with its senior managers responsible for controlling workers and machines, and cut it in two — creating a management structure that need not deal with the political demands of workers."
+	* "A platform corporation really only owns two things. It owns algorithms hosted on servers, and it owns network effects—or people’s dependence. While the old corporation had to get financing, invest in physical assets, hire workers to run those assets, and take on risk in the process, a corporation like Uber outsources its risk to independent workers who must self-finance the purchase of their cars, while also absorbing losses from their cars’ depreciation or the failure of their operations. This not only separates corporate managers from ground-level workers, it places the major burden of financing and risk on the workers."
+	* "This is a venture capitalist’s wet dream. Give a startup minimal capital to hire developers and run media campaigns, and then watch as the network effects ripple over the infrastructure of the internet. If it works, you’re suddenly in control of a corporation built with digital tools, but extracting value from real-world, physical assets like cars and buildings. The entity holds itself together not via employment contracts, but rather by self-employed workers’ dependence on it to access the market they rely on for their survival."
+	* "We have a hard time seeing systems. We find it easier to see what’s tangible and in front of us. We see the app, and we see the driver’s car icon moving along the streets on their way to pick us up. What we can’t see is the deep web of power relations that underpins the system. Instead, we are encouraged to fixate on the flat and friendly interface, the shallow surface layer of immediate experience."
+	* "Of course, if you want to put a positive spin on this kind of work, you can call it flexible, decentralized micro-entrepreneurship. But pan out, and it looks more like feudalism, with thousands of small subsistence farmers paying tribute to a baron that grants them access to land they don’t own."
+	* (parts of this article are eerily similar to my piece for NS, which was published a few months after, but I swear I didn't read this until after I wrote mine)
 
 ### On why we need fully automated luxury communism
 
@@ -261,7 +268,9 @@ Read them to understand the enemy, esssentially.
 ### On worker power within the industry
 
 * Alex Press for Vox: [How Silicon Valley workers are revolting against Trump’s immigration policy](https://www.vox.com/the-big-idea/2018/6/25/17500620/family-separation-policy-border-silicon-valley-microsoft-google-amazon)
-* Me for Notes From Below: [The case for building worker power at Microsoft](http://www.notesfrombelow.org/article/building-worker-power-at-microsoft)
+* Me for Notes From Below:
+	* [The case for building worker power at Microsoft](http://www.notesfrombelow.org/article/building-worker-power-at-microsoft)
+	* [Organising Silicon Valley's Shadow Workforce](http://www.notesfrombelow.org/article/organising-silicon-valleys-shadow-workforce)
 * Me for Novara Media: [Now is the Time for Worker Power in the Tech Industry](http://novaramedia.com/2018/06/27/now-is-the-time-for-worker-power-in-the-tech-industry/)
 * Joe Corcoran in a presentation at Isle of Ruby 2018, aimed at fellow developers: [What's Good?](https://corcoran.online/2018/05/16/whats-good/)
 * Alex Press for n+1: [Code Red](https://nplusonemag.com/issue-31/politics/code-red/), an absolutely stellar longread on organising the tech sector
