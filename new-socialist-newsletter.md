@@ -9,6 +9,57 @@ Just my sections (on tech news), archived for posterity. The other editors' sect
 
 ***
 
+## August 5, 2018
+
+_Full newsletter available [on Patreon](https://www.patreon.com/posts/what-our-editors-20567162) for subscribers only._
+
+### [Apple’s $1 Trillion Milestone Reflects Rise of Powerful Megacompanies](https://www.nytimes.com/2018/08/02/business/apple-trillion.html)
+
+There’s a lot to be critical about in this article, which covers the rise of “megacompanies” like Apple, Amazon, Alphabet, Facebook, etc while only timidly venturing that this might be a massive problem. Still, it does at least attempt to present the facts: corporate profits are at an all-time high, and are increasingly resembling a winner-takes-all distribution wherein most of the gains are accruing to a handful of companies. The tech giants are, of course, at the vanguard of this, on the back of the power they command over more and more of the digital sphere:
+
+> Apple and Google combined now provide the software for 99 percent of all smartphones. Facebook and Google take 59 cents of every dollar spent on online advertising in the United States. Amazon exerts utter dominance over online shopping and is getting bigger, fast, in areas like streaming of music and videos.
+
+A useful way of thinking about these behemoths is as the forefront of what McKenzie Wark calls [the vectoralist class](http://supercommunity.e-flux.com/texts/the-vectoralist-class/), which “thrives by extracting surplus information on a global scale”. Their role in the global economy is similar to finance, in the sense of their wealth being virtual: instead of owning the means of (physical) production, they merely control key gateways to digital infrastructure so as to facilitate their drive to commodify everything they can. This $1 trillion-dollar milestone for Apple might be a fairly arbitrary one, but it does highlight the urgent need for the left to take these tech giants seriously, which means addressing the structural factors leading to their current dominance.
+
+### [The Role of Technology in Political Economy by Yochai Benkler](https://lpeblog.org/2018/07/25/the-role-of-technology-in-political-economy-part-1/)
+
+This is a really excellent meditation on two contrasting perspectives on the role that technology plays in rising inequality. First, we have the mainstream approach, nicely summarised by the concept of skills-biased technological change: assuming “reasonably efficient markets”, technology stratifies workers by technological skill, and allows those who are more productive to reap more of the rewards. The critical approach, on the other hand, sees markets as always “pervaded by power”, and thus skewed in ways that are never neutral; technology is always deployed on uneven terrain, and its effects can only be properly understand by looking at bargaining power and class interests.
+
+This blog post is essentially an exegesis of the first approach, and it’s well worth reading to understand 1) why the mainstream view is so popular; and 2) what that view is missing. Summarised neatly in the last paragraph:
+
+> So, the fundamental problem of the leading mainstream view is that it takes both markets and technology as having a more-or-less natural and necessary shape, and fails to see how institutions shape both markets and technology in ways that can reinforce or moderate patterns of inequality.
+
+### [Life Aboard the Rocket Ship: An Interview with an Anonymous Engineer - Logic Magazine](https://logicmag.io/05-life-aboard-the-rocket-ship/)
+
+Logic recently unpaywalled this interview from their latest issue, [Failure](https://logicmag.io/05-failure/). It’s a rare honest look inside the heart of Silicon Valley, and there are some really insightful takeaways for anyone who’s curious about how the tech startup world actually works, and what “success” actually entails. Lots of this resonated with my own experience in the industry, which I [wrote about](http://notesfrombelow.org/article/silicon-inquiry) for Notes From Below earlier this year.
+
+One of the reasons stories like this so rarely get published is that people who manage to succeed on the tech industry’s terms have a tendency to, well, believe their own bullshit. It’s so easy to believe the whole “meritocracy” spiel if you’re personally benefiting from it, by virtue of having been deemed worthy by the existing system. And people who believe in the system are unlikely to question its core tenets. They might [throw up their hands](https://thebaffler.com/latest/techies-who-said-sorry-silverman) about the addictive power of social media, and may bemoan the lack of diversity in the industry, but most of them fundamentally believe the ([very neoliberal](https://newsocialist.org.uk/technological-development-for-the-many/)) ideas that gave the industry so much wealth and power in the first place. Consequently, you’re not going to find many insider perspectives as critical and as frank as this one, so I highly recommend reading this.
+
+My favourite bit is the ending, where the problems with contemporary Silicon Valley are rightly linked to the economic relations lurking beneath:
+
+> So long as you’re working for a company, what other metric besides profit could there be? That’s a similar question. You can make small surface-level improvements here and there. But you’re not going to tackle the core problem until you tackle the profit motive.
+
+### [Jeff Bezos’s fortune has come at the expense of workers and society not receiving their fair share - Carys Roberts for OpenDemocracy](https://www.opendemocracy.net/neweconomics/jeff-bezoss-fortune-come-expense-workers-society-not-receiving-fair-share/)
+
+As Jeff Bezos’ net worth continues to climb (currently around $150 billion), more and more stories have come out about the horrific treatment faced by Amazon’s actual workers, many of whom are paid crippling wages and forced to endure physically debilitating work while Bezos [ponders](https://twitter.com/davidsirota/status/991408944722591749) “converting \[his\] Amazon winnings into space travel”. That Bezos’ unimaginable wealth is linked to the worsening plight of his employees may be obvious to anyone on the left, but it seems like recognition of that [connection](https://twitter.com/SuzeMarsupial/status/1006234204718366720) is creeping into public consciousness as well. Amazon Prime Day (last month) was met with [consumer boycotts](https://www.vox.com/2018/7/16/17577614/amazon-prime-day-strike-boycotts) while some of its workers in Europe [coordinated direct action](http://classonline.org.uk/blog/item/coordinated-industrial-action-takes-on-amazon).
+
+Given the strategic importance of Amazon’s logistics network to its financial viability, the possibility of worker militancy at key choke points is quite exciting - it could cause huge disruptions in ways that would be difficult to match via consumer-only actions. If you’re interested in that topic, I’d highly recommend a [podcast discussion](https://www.plutobooks.com/blog/podcast-choke-points/) on the power of logistics workers hosted by Pluto Press, centred around their (recently released) book [_Choke Points_](https://www.plutobooks.com/9781786802347/choke-points/).
+
+### [Outbound Facebook Infosec Chief Alex Stamos Wrote a Note to Staff Urging Major Reforms - Gizmodo](https://gizmodo.com/outbound-facebook-infosec-chief-alex-stamos-wrote-a-not-1827850873)
+
+Facebook has had a difficult week - and that’s more than just the title of the memo that former exec Alex Stamos wrote to announce his departure. The memo, which declared Cambridge Analytica as an ethical turning point for the company, was refreshingly critical of the current leadership’s failure to adequately address the issue, and quite frank about the necessity for radical change:
+
+> We need to deprioritize short-term growth and revenue and to explain to Wall Street why that is ok. We need to be willing to pick sides when there are clear moral or humanitarian issues.
+
+While this is heartening to hear, remember that this comes from a _former_ exec. As Tech Workers Coalition [tweeted](https://twitter.com/techworkersco/status/1021896837148499968): “Sounds great! But execs don't make this happen. Only workers do.” A company the size of Facebook requires more than some suddenly-enlightened execs deciding to behave ethically; given that it’s a public company, there’ll have to be some sort of structural ballast to ensure such ethical awakening aren’t quashed by the vagaries of the market. The fact that Facebook lost [$120 billion](https://www.vox.com/business-and-finance/2018/7/28/17625218/facebook-stock-price-twitter-earnings) in market value last week - not due to _ethical_ qualms on the part of investors, but merely because growth is [projected to slow](https://twitter.com/bentarnoff/status/1022291110444650497) - just goes to show the power of shareholder discontent. Combating such a powerful force from above will require, as Siva Vaidhyanathan [writes](https://www.theguardian.com/technology/2018/jul/27/facebook-stock-plunge-panic-absurd-too-big-too-fail) in the Guardian, “a global political movement”. To me, that has to include building power from below - i.e., building worker power in the tech industry, within the belly of the beast itself.
+
+### [Organising Silicon Valley's Shadow Workforce - Me for Notes From Below](https://notesfrombelow.org/article/organising-silicon-valleys-shadow-workforce)
+
+This article connects nicely to the last point just above. How do you build worker power in Silicon Valley? Well, the first step is to recognise that not all tech workers are coddled software engineers with tons of stock options. I wrote this article in response to a [reported piece by Bloomberg](https://www.bloomberg.com/news/articles/2018-07-25/inside-google-s-shadow-workforce) from last week highlighting the ever-growing numbers of contractors working at Google and other tech company campuses, who are often paid less and denied benefits. In the midst of this wave of [rising political consciousness](https://www.wired.com/story/why-tech-worker-dissent-is-going-viral/) in the Valley - primarily as the result of discontent with the ethical implications of the products being built - the separation of full-timers and contractor could present an important point to agitate around.
+
+
+***
+
 ## July 22, 2018
 
 _Full newsletter available [on Patreon](https://www.patreon.com/posts/what-our-editors-20243851) for subscribers only._
