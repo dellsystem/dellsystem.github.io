@@ -23,12 +23,20 @@ If you've written articles that you'd like participants to read in order to fram
 
 _Probably unnecessary disclaimer: someone being listed here does not imply that I endorse all of their views, or that they endorse all of my views, or that they endorse the views of past speakers, or anything similarly ridiculous._
 
+### August 9: [Maya Goodfellow](https://twitter.com/MayaGoodfellow)
+
+On migration, the concept of "open borders", and what progressive migration policy would look like under a Labour government.
+
+* [Labour and Migration: No More Racing to the Bottom](http://novaramedia.com/2017/11/16/labour-and-migration-no-more-racing-to-the-bottom/) for Novara Media
+* [Labour & Immigration](https://newsocialist.org.uk/labour-immigration/) for New Socialist
+* [A New Face Won’t Change the British Government’s Racist Heart](https://www.nytimes.com/2018/05/02/opinion/sajid-javid-home-office-hostile-environment.html) for The New York Times
+
 ### August 3: [David Adler](https://twitter.com/davidrkadler)
 
 On centrism and why it's a threat to democracy.
 
-* [Beware the authoritarian centre](https://www.opendemocracy.net/uk/david-adler/beware-authoritarian-centre)
-* [Centrists Are the Most Hostile to Democracy, Not Extremists](https://www.nytimes.com/interactive/2018/05/23/opinion/international-world/centrists-democracy.html)
+* [Beware the authoritarian centre](https://www.opendemocracy.net/uk/david-adler/beware-authoritarian-centre) for OpenDemocracy
+* [Centrists Are the Most Hostile to Democracy, Not Extremists](https://www.nytimes.com/interactive/2018/05/23/opinion/international-world/centrists-democracy.html) for The New York Times
 
 ### July 27: [Alyssa Battistoni](https://twitter.com/alybatt)
 
