@@ -3,7 +3,7 @@ layout: default
 title: "Critical perspectives on technology: resources"
 ---
 
-*Last updated: July 31, 2018.*
+*Last updated: August 6, 2018.*
 
 A wide-ranging list of resources for those interested in a more critical understanding of the technology industry, grounded in a recognition of its economic, social and political context.
 
@@ -126,7 +126,7 @@ There's a lot here, with resources in a variety of formats (books, articles, pod
 * Not really a book, but Jacobin had an entire issue on technology called **[Ours To Master](https://www.goodreads.com/book/show/25162533-ours-to-master)**, which has some good stuff.
 * **[The Black Box Society](https://www.goodreads.com/book/show/21878126-the-black-box-society) by Frank Pasquale.**
 * **[Weapons of Math Destruction](https://www.goodreads.com/book/show/28186015-weapons-of-math-destruction) by Cathy O'Neil.** Takes a deep dive into how inequality is algorithmically reinforced in various contexts.
-* **[Throwing Rocks at the Google Bus](https://www.goodreads.com/book/show/32904335-throwing-rocks-at-the-google-bus) by Douglas Rushkoff.** Haven't read this yet.
+* **[Throwing Rocks at the Google Bus](https://www.goodreads.com/book/show/32904335-throwing-rocks-at-the-google-bus) by Douglas Rushkoff.** A really good critical take on why the problems with tech are actually problems with the underlying economic structures. My notes are [here](http://bookmarker.dellsystem.me/book/throwing-rocks-at-the-google-bus).
 
 #### Less critical takes
 
@@ -267,6 +267,7 @@ Read them to understand the enemy, esssentially.
 
 ### On worker power within the industry
 
+* Ben Tarnoff for The Guardian: [Can Silicon Valley workers rein in big tech from within?](https://www.theguardian.com/commentisfree/2018/aug/09/silicon-valley-tech-workers-labor-activism)
 * Alex Press for Vox: [How Silicon Valley workers are revolting against Trump’s immigration policy](https://www.vox.com/the-big-idea/2018/6/25/17500620/family-separation-policy-border-silicon-valley-microsoft-google-amazon)
 * Me for Notes From Below:
 	* [The case for building worker power at Microsoft](http://www.notesfrombelow.org/article/building-worker-power-at-microsoft)
