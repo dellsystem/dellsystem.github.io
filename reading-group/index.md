@@ -23,6 +23,17 @@ If you've written articles that you'd like participants to read in order to fram
 
 _Probably unnecessary disclaimer: someone being listed here does not imply that I endorse all of their views, or that they endorse all of my views, or that they endorse the views of past speakers, or anything similarly ridiculous._
 
+### August 16: [Hettie O'Brien](https://twitter.com/hettieveronica)
+
+On municipal socialism.
+
+* [Who Owns the City?](https://newsocialist.org.uk/who-owns-the-city/) for New Socialist
+
+Recommended background reading by others:
+
+* [Barcelona’s Experiment in Radical Democracy](https://www.newyorker.com/news/our-columnists/barcelonas-experiment-in-radical-democracy) by Masha Gessen for The New Yorker
+* [The ‘Preston Model’ and the modern politics of municipal socialism](https://www.opendemocracy.net/neweconomics/preston-model-modern-politics-municipal-socialism/) by Thomas Hanna and Joe Guinan for Open Democracy
+
 ### August 9: [Maya Goodfellow](https://twitter.com/MayaGoodfellow)
 
 On migration, the concept of "open borders", and what progressive migration policy would look like under a Labour government.
