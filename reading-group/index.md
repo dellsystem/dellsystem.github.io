@@ -23,6 +23,23 @@ If you've written articles that you'd like participants to read in order to fram
 
 _Probably unnecessary disclaimer: someone being listed here does not imply that I endorse all of their views, or that they endorse all of my views, or that they endorse the views of past speakers, or anything similarly ridiculous._
 
+### August 30: [Brett Scott](https://twitter.com/Suitpossum)
+
+On currency and fintech.
+
+* [Reversing the Lies of the Sharing Economy](https://howwegettonext.com/reversing-the-lies-of-the-sharing-economy-a85501d14be8)
+* [The War on Cash](https://thelongandshort.org/society/war-on-cash)
+* [You are the Robots](https://thelongandshort.org/machines/automation-and-the-future-of-personal-finance)
+
+### August 23: [Amelia Horgan](https://twitter.com/joan0fsnark)
+
+On work and alienation. The main reading was a chapter from Amelia's dissertation which is unfortunately not yet public.
+
+Recommended background reading by others:
+
+* [Wages against housework](https://caringlabor.files.wordpress.com/2010/11/federici-wages-against-housework.pdf) by Silvia Federici
+* [The Case Against a Basic Income](https://www.jacobinmag.com/2017/12/universal-basic-income-inequality-work) by Daniel Zamora for Jacobin
+
 ### August 16: [Hettie O'Brien](https://twitter.com/hettieveronica)
 
 On municipal socialism.
