@@ -9,6 +9,32 @@ Just my sections (on tech news), archived for posterity. The other editors' sect
 
 ***
 
+## August 19, 2018
+
+_Full newsletter available [on Patreon](https://www.patreon.com/posts/what-our-editors-20858781) for subscribers only._
+
+(I finally finished my dissertation this week! 10,000 words on the political economy of Silicon Valley. I might post an abridged version somewhere at some point. If you’re interested in the full thing, drop me a line - <ilostwaldo@gmail.com>)
+
+### [Freedom Isn't Free](https://logicmag.io/05-freedom-isnt-free/) - me, for Logic Magazine
+
+I’ve shared articles from Logic Magazine (an excellent independent publication on tech from a highly critical perspective) before, but this is the first one written by me! This is on the failures of the open source software movement - specifically, how it never meaningfully connected with broader ideas around radical politics.
+
+I personally fell in love with the free & open source software ethos when I was a teenager, and I completely agreed with the idea that intellectual property was a terrible thing that crippled innovation. Unfortunately, no one ever explained to me that intellectual property was a necessary part of capitalism, and that the only way to really fight back against it involved a larger political struggle to transcend capitalism. So I basically wrote the piece that I wish had existed when I had just started getting into this stuff, because then I would have discovered the left _way_ earlier.
+
+### [A Union at Amazon?](https://www.notesfrombelow.org/article/a-union-at-amazon) - anonymous, for Notes From Below
+
+Notes From Below recently came out with their third issue, The Worker and The Union, and this 4,500 word piece on what it would take to organise a union at Amazon (written by a warehouse worker) is spectacular. Just the right amount of dense & theoretical while also bringing in real-life, up-to-date examples. I personally found it really inspiring, though it does show how monumental of a task it is.
+
+The [rest of the issue](https://www.notesfrombelow.org/issue/the-worker-and-the-union) is worth checking out as well. I’d especially recommend this [inquiry](https://www.notesfrombelow.org/article/the-aid-worker) on the lack of unions in the international aid sector (and how that relates to struggles in the Global South), and [this piece](https://www.notesfrombelow.org/article/breaking-the-chain) by Hettie O’Brien (who has [written](https://newsocialist.org.uk/author/hettie-obrien) for our economics section!) on possibilities for worker resistance under monopoly capitalism.
+
+### [How to Beat Uber](https://jacobinmag.com/2018/08/new-york-taxis-app-cap-uber-lyft) - Chris Brooks for Jacobin
+
+Earlier this week, a court ruling in New York City landed a blow to ridesharing corporation like Uber and Lyft operating within city limits, by placing a cap on vehicle licenses and, as a result, “essentially forcing them to pay their drivers a minimum wage”. Up until now, Uber, Lyft et al have been operating in a kind of regulatory grey zone under the aegis of their [lean platform model](https://newsocialist.org.uk/the-gig-economy/#monopolised-capitalprecarious-labour), which allowed them to evade treating their drivers as employees _even while_ directing their work conditions and pocketing their surplus value. This victory - pushed forward by the New York Taxi Workers Alliance, which united traditional taxicab as well as rideshare-app-using drivers - is quite inspiring, and hopefully it catalyses a wave of similar rulings in other jurisdictions. (In London, things have been stalling on this front: TfL’s Uber ban from last September was [successfully appealed](https://techcrunch.com/2018/06/26/uber-wins-appeal-and-gets-a-provisional-15-month-license-to-operate-in-london/) earlier this summer, and Uber was granted a license to continue operating until late 2019.)
+
+### [Can Silicon Valley workers rein in big tech from within?](https://www.theguardian.com/commentisfree/2018/aug/09/silicon-valley-tech-workers-labor-activism) - Ben Tarnoff for The Guardian
+
+Good overview of the recent surge of interest in building worker power in the tech industry, by someone who’s written a lot of great stuff on the topic.
+
 ## August 5, 2018
 
 _Full newsletter available [on Patreon](https://www.patreon.com/posts/what-our-editors-20567162) for subscribers only._
