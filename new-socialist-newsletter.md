@@ -1,6 +1,6 @@
 ---
 title: Tech news roundup for the New Socialist newsletter
-layout: default
+layout: writing
 ---
 
 **Subscribe to our [Patreon](https://www.patreon.com/newsocialist) to get the actual emails or if you just want to support independent left publishing!**

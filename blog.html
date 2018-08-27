@@ -1,0 +1,28 @@
+---
+layout: writing
+title: Blog posts
+---
+
+<p>
+    Older (pre-2017) posts are primarily technical; newer posts are primarily
+    non-technical. See <a href="/posts/a-change-of-pace">this post</a> for
+    details.
+</p>
+
+<p>
+    I don't update this often anymore. If I do, it's because I've written something that I don't want to submit to a real publication.
+</p>
+
+<hr />
+
+<ul>
+{% for post in site.posts %}
+    {% if post.layout == 'post' %}
+    <li class="post-excerpt">
+        <strong><a href="{{ post.url }}">{{ post.title }}</a></strong>
+        ::
+        {{ post.date|date:"%B %-d, %Y" }}
+    </li>
+    {% endif %}
+{% endfor %}
+</ul>

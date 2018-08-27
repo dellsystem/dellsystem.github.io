@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: speaking
 title: "ABOLISH SILICON VALLEY, for Novara Media"
 ---
 

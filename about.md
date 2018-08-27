@@ -5,32 +5,17 @@ layout: default
 
 {% include about.html %}
 
-interests
----------
+if i had to sum myself up in 3 bullet points
+--------------------------------------------
 
-* [reading books](http://goodreads.com/dellsystem)
-* [writing](/words#external), mostly about tech
-* occasionally making [derivative art](/art)
+* a sucker for [reading challenges](posts/a-year-of-200-books)
+* transitioning from [being in tech](/code) to [writing about tech](/writing)
 * extremely left-wing politics with a mildly [accelerationist] bent
 
-miscellaneous
--------------
+things people rarely ask about
+------------------------------
 
-* **currently running**: ubuntu 16.04
 * **favourite pokemon**: mudkip, as you may have heard
-* **favourite text editor**: vim for the command line, gedit otherwise; IDEs
-  tend to crash in my presence
-* **favourite free software projects**: [inkscape](http://www.inkscape.org),
-  [django](http://www.djangoproject.com),
-  [jekyll](http://jekyllrb.com),
-  [semantic UI](https://semantic-ui.com),
-  [mathjax](http://www.mathjax.org/)
-* **programming languages**: python, PHP, javascript, java, some C, a bit of
-  ruby, a modicum of objective-j, very little bash, more MIPS assembly than
-  I'll ever need, and [a functional language you've probably never heard of and
-  likely will never encounter again](http://www.smlnj.org "pretty cool though")
-* **other technologies I may know something about**: HTML, CSS, LaTeX, SQL, jQuery,
-  AngularJS, D3.js, supervisor, Riak, Redis, MongoDB, AWS, nginx
 * **how I make slides**: I have a complicated setup involving an
   open source tool called [Inkscape Slide]; it's an exceptionally painful process
   which I would not recommend to anyone and which may explain why I haven't
@@ -46,6 +31,23 @@ miscellaneous
   Dell computer at the time). I ended up spending a lot more time in that
   community that I expected and so the username kind of stuck with me. I have
   since come to terms with "dellsystem" and will even answer to "dell".
+
+random technical details
+------------------------
+
+* **currently running**: ubuntu 16.04
+* **favourite text editor**: vim for the command line, gedit otherwise; IDEs
+  tend to crash in my presence
+* **favourite free software projects**: [inkscape](http://www.inkscape.org),
+  [django](http://www.djangoproject.com),
+  [jekyll](http://jekyllrb.com),
+  [semantic UI](https://semantic-ui.com),
+  [mathjax](http://www.mathjax.org/)
+* **programming languages**: primarily python; in the past, I've done PHP, javascript, java, some C, a bit of
+  ruby, a modicum of objective-j, very little bash, and more MIPS assembly than
+  I'll ever need
+* **other technologies I may know something about**: HTML, CSS, LaTeX, SQL, jQuery,
+  AngularJS, D3.js, supervisor, Riak, Redis, MongoDB, AWS, nginx
 
 my programming origin story
 ---------------------------

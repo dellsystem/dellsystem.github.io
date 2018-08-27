@@ -1,11 +1,11 @@
 ---
-layout: default
+layout: speaking
 title: "Abolish Silicon Valley, for TrashFuture"
 ---
 
 On July 7, 2018, I recorded an episode of TrashFuture (a left comedy podcast on tech and politics). This episode, which was released July 16, was also titled "Abolish Silicon Valley", just like the show I did for Novara [last month](/conversations/abolish-silicon-valley). What can I say; I just really like talking about abolishing Silicon Valley.
 
-You can listen to the episode on whatever podcast app you use, or here in your browser: [Abolish Silicon Valley feat. Wendy Liu](https://trashfuturepodcast.podbean.com/e/abolish-silicon-valley-feat-wendy-liu/)
+You can listen to the episode on whatever podcast app you use, or in your browser: [Abolish Silicon Valley feat. Wendy Liu](https://trashfuturepodcast.podbean.com/e/abolish-silicon-valley-feat-wendy-liu/)
 
 A warning for the unwary: this podcast is decidedly a _comedy_ podcast, so if you're listening because you want to hear about the tech industry and not because you love esoteric Twitter jokes about football coming home, you might want to skip ahead a bit. Some rough topic markers:
 
@@ -14,7 +14,7 @@ A warning for the unwary: this podcast is decidedly a _comedy_ podcast, so if yo
 * 13 mins onward: on the prospects of building worker power in the tech industry, and the roadblocks along the way (mostly ideological, stemming from this concept of "meritocracy")
 * got sick of hearing the sound of my own voice so you're on your own from here, sorry
 
-Also, here's a clip of me trying to work out what abolishing Silicon Valley means in the middle of the recording:
+Also, here's a clip of me trying to work out what abolishing Silicon Valley means in real time, near the end:
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">For Monday&#39;s episode of <a href="https://twitter.com/trashfuturepod?ref_src=twsrc%5Etfw">@trashfuturepod</a>, we hear from <a href="https://twitter.com/dellsystem?ref_src=twsrc%5Etfw">@dellsystem</a> about the prospects of organizing tech workers in unions (and sadly out-of-date predictions about whether or not It&#39;s Coming Home) <a href="https://t.co/yCsA5N9gyJ">https://t.co/yCsA5N9gyJ</a> <a href="https://t.co/UJ5GVcPFMV">pic.twitter.com/UJ5GVcPFMV</a></p>&mdash; libertarianism in 5 words:i need a child submarine (@inthesedeserts) <a href="https://twitter.com/inthesedeserts/status/1018698161118904320?ref_src=twsrc%5Etfw">July 16, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

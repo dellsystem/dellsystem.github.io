@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: speaking
 title: "Democratic Start-ups for the Public Good"
 ---
 

@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: writing
 title: "Critical perspectives on technology: resources"
 ---
 
-*Last updated: August 6, 2018.*
+*Last updated: August 27, 2018.*
 
 A wide-ranging list of resources for those interested in a more critical understanding of the technology industry, grounded in a recognition of its economic, social and political context.
 
@@ -18,20 +18,20 @@ There's a lot here, with resources in a variety of formats (books, articles, pod
 * [Tech Workers Coalition](https://techworkerscoalition.org/), an excellent group of tech workers focused on building worker power in the tech industry
 	* an interview with two organisers for Logic Magazine: [A World to Win](https://logicmag.io/tat-a-world-to-win/)
 	* an explanation of what they do, for Notes From Below: [Tech workers, platform workers, and workers’ inquiry](http://www.notesfrombelow.org/article/tech-workers-platform-workers-and-workers-inquiry)
-	* transcript of a panel at Left Forum in June 2018: [Towards an Organized Tech Industry—Part One](http://www.notesfrombelow.org/article/towards-an-organized-tech-industry-part-one)
+	* transcripts of two panels at Left Forum in June 2018: Towards an Organized Tech Industry—[Part One](http://www.notesfrombelow.org/article/towards-an-organized-tech-industry-part-one) and [Part Two](https://newsocialist.org.uk/towards-an-organized-tech-industry-part-two/)
 * The [Democratic Socialists of America](http://www.dsausa.org/)
 	* [The San Francisco chapter](https://twitter.com/dsa_sf) (not explicitly tech but they often organise stuff around the industry, given the location)
 	* [The Silicon Valley chapter](https://twitter.com/SV_DSA) (same)
 	* [The NYC tech working group](https://twitter.com/NYCDSATechWG)
 * [Tech Solidarity](https://techsolidarity.org/): a non-profit organisation connecting tech workers with their local communities
-	* a really insightful interview with founder Maciej Cegłowski (@Pinboard) for Logic Magazine: [Solidarity Forever](https://logicmag.io/tat-solidarity-forever/)
+	* an interview with founder Maciej Cegłowski (@Pinboard) for Logic Magazine: [Solidarity Forever](https://logicmag.io/tat-solidarity-forever/)
 * [Silicon Valley Rising](https://siliconvalleyrising.org/): they "want to raise wages and standards for all workers so they can live and thrive here"
 	* an interview with their campaign director for Logic Magazine: [Organizing the Valley](https://logicmag.io/tat-organizing-the-valley/)
 
 ## Publications
 
-* [Logic Magazine](http://logicmag.io/): an excellent independent print-first magazine covering technology from an astutely critical perspective
-* [The New Inquiry](https://thenewinquiry.com/): an independent left-wing publication with some great pieces on technology
+* [Logic Magazine](http://logicmag.io/): an excellent print-first magazine covering technology from an astutely critical perspective
+* [The New Inquiry](https://thenewinquiry.com/): an independent left publication with some great pieces on technology
 * [The Baffler](https://thebaffler.com/): same as above
 * [Real Life Magazine](http://reallifemag.com/): "a magazine about living with technology"
 * [Model View Culture](https://modelviewculture.com/): "a magazine about technology, culture and diversity" (though sadly now defunct)
@@ -60,9 +60,7 @@ There's a lot here, with resources in a variety of formats (books, articles, pod
 	* [TyskySour episode with myself on worker power in the tech industry](http://novaramedia.com/2018/07/02/abolish-silicon-valley/)
 * **[Government Vs The Robots](https://www.acast.com/governmentvstherobots)** on how technology will affect politics
 	* [Episode with Rachel Coldicutt of Doteveryone on Internet fluency and tech giants](https://www.acast.com/governmentvstherobots/areyougoodattheinternet-)
-* **[General Intellect Unit](http://generalintellectunit.net/)**: "Podcast of the Cybernetic Marxists. Examining the intersection of Technology, (Left) Politics and Philosophy". Just started listening to it and it's so good
-* **[Soonish](https://www.soonishpodcast.org/)**: on technology and culture.
-	* [Episode with Tim O'Reilly about his book _WTF: What’s The Future and Why It’s Up to Us_](https://www.soonishpodcast.org/episodes/2017/10/24/202-mapping-the-future-with-tim-oreilly)
+* **[General Intellect Unit](http://generalintellectunit.net/)**: "Podcast of the Cybernetic Marxists. Examining the intersection of Technology, (Left) Politics and Philosophy". sooo good
 * **[Politics Theory Other](https://soundcloud.com/poltheoryother)**: an excellent new left podcast by Alex Doherty
 	* [Episode with me on Silicon Valley](https://soundcloud.com/poltheoryother/9-wendy-liu-on-silicon-valley-and-the-democratisation-of-technology)
 * **[Team Human](https://teamhuman.fm/)**, a podcast on technology hosted by Douglas Rushkoff
@@ -90,8 +88,8 @@ There's a lot here, with resources in a variety of formats (books, articles, pod
 ### First-person accounts
 
 * **[Close to the Machine](https://www.goodreads.com/book/show/486625.Close_to_the_Machine) by Ellen Ullman.**
-* **[The Boy Kings](https://www.goodreads.com/book/show/13573517-the-boy-kings) by Kate Losse.** She was an early employee at Facebook and writes about her experiences there. Very beautifully written.
-* **[Chaos Monkeys](https://www.goodreads.com/book/show/28259132-chaos-monkeys) by Antonio García Martinez.** A guy who sold a company to Twitter and later worked at Facebook writes a fairly obnoxious tell-all in which excoriates everyone in the valley while bragging about his yacht. Worth reading for the insider account of working in the industry, but I found his criticism to be pretty toothless.
+* **[The Boy Kings](https://www.goodreads.com/book/show/13573517-the-boy-kings) by Kate Losse.** She was an early employee at Facebook and writes about her experiences there. Beautifully written.
+* **[Chaos Monkeys](https://www.goodreads.com/book/show/28259132-chaos-monkeys) by Antonio García Martinez.** A guy who sold a company to Twitter and later worked at Facebook writes a fairly obnoxious tell-all in which he excoriates everyone in the valley while bragging about his yacht. Worth reading for the insider account of working in the industry, but I found his criticism to be pretty toothless.
 * **[Disrupted](https://www.goodreads.com/book/show/26030703-disrupted) by Dan Lyons.** About his time at HubSpot. Also pretty obnoxious, sadly.
 * **[The Hard Thing About Hard Things](https://www.goodreads.com/book/show/20657434-the-hard-thing-about-hard-things) by Ben Horowitz**. Ben Horowitz is now a name partner at the venture capital firm Andreessen Horowitz, and I guess this book is meant to justify his present amount of wealth and power by showing us all the "hard things" he went through to get to where he is now.
 	* John Patrick Leary has written a good critique of it for The New Inquiry: [The Poverty of Entrepreneurship: The Silicon Valley Theory of History](https://thenewinquiry.com/the-poverty-of-entrepreneurship-the-silicon-valley-theory-of-history/)
@@ -225,6 +223,7 @@ Read them to understand the enemy, esssentially.
 * K. Sabeel Rahman for Logic: [The New Octopus](https://logicmag.io/04-the-new-octopus/). On tech monopolies
 * Ben Tarnoff for Jacobin: [A Socialist Silicon Valley](https://www.jacobinmag.com/2018/04/big-tech-techlash-facebook-cambridge-analytica)
 * Francesca Bria for openDemocracy: [The robot economy may already have arrived](https://www.opendemocracy.net/can-europe-make-it/francesca-bria/robot-economy-full-automation-work-future)
+* Grace Blakeley for Novara Media: [Robots Aren’t Coming for Our Jobs – Capitalists Are](http://novaramedia.com/2018/03/20/robots-arent-coming-for-our-jobs-capitalists-are/). A really excellent perspective that considers the ideological drive that led to "globalisation" (a highly suspect nominalisation if there ever was one) being blamed for problems created by capitalism.
 
 #### On venture capital
 
@@ -257,16 +256,18 @@ Read them to understand the enemy, esssentially.
 	* "Of course, if you want to put a positive spin on this kind of work, you can call it flexible, decentralized micro-entrepreneurship. But pan out, and it looks more like feudalism, with thousands of small subsistence farmers paying tribute to a baron that grants them access to land they don’t own."
 	* (parts of this article are eerily similar to my piece for NS, which was published a few months after, but I swear I didn't read this until after I wrote mine)
 
-### On why we need fully automated luxury communism
+### On fully automated luxury communism
 
 * Brian Merchant for The Guardian: [Fully automated luxury communism](https://www.theguardian.com/sustainable-business/2015/mar/18/fully-automated-luxury-communism-robots-employment)
 * Aaron Bastani for Vice: [Britain Doesn't Need More Austerity, It Needs Luxury Communism](https://www.vice.com/en_us/article/ppxpdm/luxury-communism-933)
 * Andrew Elrod for Dissent: [Fully Automated Luxury Socialism: The Case for a New Public Sector](https://www.dissentmagazine.org/article/automation-basic-income-government-jobs-case-new-public-sector)
-* Grace Blakeley for Novara Media: [Robots Aren’t Coming for Our Jobs – Capitalists Are](http://novaramedia.com/2018/03/20/robots-arent-coming-for-our-jobs-capitalists-are/). A really excellent perspective that considers the ideological drive that led to "globalisation" (a highly suspect nominalisation if there ever was one) being blamed for problems created by capitalism.
 * A critique of FALC, for libcom: [Fully automated luxury communism: a utopian critique](https://libcom.org/blog/fully-automated-luxury-communism-utopian-critique-14062015)
 
 ### On worker power within the industry
 
+* In the games industry
+	* Maurice Reclus for Freedom News: [Trade unions and the tech void](https://freedomnews.org.uk/trade-unions-and-the-tech-void/)
+	* Jamie Woodcock for Notes From Below: [Prospects for Organising the Videogames Industry: Interview with Game Workers Unite UK](http://www.notesfrombelow.org/article/prospects-for-organising-the-videogames-industry)
 * Ben Tarnoff for The Guardian: [Can Silicon Valley workers rein in big tech from within?](https://www.theguardian.com/commentisfree/2018/aug/09/silicon-valley-tech-workers-labor-activism)
 * Alex Press for Vox: [How Silicon Valley workers are revolting against Trump’s immigration policy](https://www.vox.com/the-big-idea/2018/6/25/17500620/family-separation-policy-border-silicon-valley-microsoft-google-amazon)
 * Me for Notes From Below:
@@ -275,7 +276,6 @@ Read them to understand the enemy, esssentially.
 * Me for Novara Media: [Now is the Time for Worker Power in the Tech Industry](http://novaramedia.com/2018/06/27/now-is-the-time-for-worker-power-in-the-tech-industry/)
 * Joe Corcoran in a presentation at Isle of Ruby 2018, aimed at fellow developers: [What's Good?](https://corcoran.online/2018/05/16/whats-good/)
 * Alex Press for n+1: [Code Red](https://nplusonemag.com/issue-31/politics/code-red/), an absolutely stellar longread on organising the tech sector
-* Chi Onwurah for the Guardian: [All workers need unions – including those in Silicon Valley](https://www.theguardian.com/commentisfree/2018/jan/31/silicon-valley-unions-employee-workers-rights-organise-labour)
 * Moira Weigel for the Guardian: [Coders of the world, unite: can Silicon Valley workers curb the power of Big Tech?](https://www.theguardian.com/news/2017/oct/31/coders-of-the-world-unite-can-silicon-valley-workers-curb-the-power-of-big-tech)
 * Siddharth Patel for Jacobin: [Tech Workers: Friends or Foes?](https://www.jacobinmag.com/2017/08/silicon-valley-gentrification-tech-sharing-economy)
 * Ben Tarnoff for The Guardian: [Tech's push to teach coding isn't about kids' success – it's about cutting wage](https://www.theguardian.com/technology/2017/sep/21/coding-education-teaching-silicon-valley-wages)
@@ -283,7 +283,6 @@ Read them to understand the enemy, esssentially.
 * Ben Tarnoff interviewing Björn Westergard for Jacobin: [Coding and Coercion](https://jacobinmag.com/2018/04/lanetix-tech-workers-unionization-campaign-firing) (on the Lanetix firing)
 	* [More coverage](https://gist.github.com/bwestergard/a77744dc6f3095fd3fb769dd3d6562ad)
 * Rick Morgan for CNBC: [SurveyMonkey defies Silicon Valley labor caste system, offering contract workers full benefits](https://www.cnbc.com/2018/04/19/surveymonkey-breaks-with-silicon-valley-over-contract-worker-benefits.html)
-* Kevin Roose for the New York Times: [Workers of Silicon Valley, It’s Time to Organize](https://www.nytimes.com/2018/04/25/technology/tech-workers-change.html)
 * Ben Tarnoff interviewing an anonymous Google employee about Project Maven, for Jacobin: [Tech Workers Versus the Pentagon](https://www.jacobinmag.com/2018/06/google-project-maven-military-tech-workers)
 
 ### On open source

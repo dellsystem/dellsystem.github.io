@@ -2,15 +2,12 @@
 title: code
 layout: projects
 projects:
-- [['bookmarker', 'http://bookmarker.dellsystem.me'], "2017-present: A personal
-  project I've been working on to help me retain information from all the books
-  I've been reading. Currently running at
-  [bookmarker.dellsystem.me](http://bookmarker.dellsystem.me) for
-  my own use only but I'd love to expand it into a free tool that anyone can
-  use. [Source code on Github](https://github.com/dellsystem/bookmarker)
-  (MIT license)"]
-- [['macromeasures', 'http://macromeasures.com'], "2014--present: CTO and
-  co-founder. Our stack: Python (Celery, Flask); Redis; Riak; MongoDB; AWS."]
+- [['twt', 'https://theworldtransformed.org'], "2018--present: I helped build the static website for The World Transformed, which is a left political festival in Liverpool from Sept 22-25 that you should definitely check out. Source on [GitHub](https://github.com/dellsystem/the-world-transformed); design by Arby Hisenaj & Jack Thorpe"]
+- [['ns', 'https://newsocialist.org.uk'], "2018--present: I built the new website for this online publication using mostly the same codebase as Notes From Below. Source on [GitHub](https://github.com/dellsystem/new-socialist); design by Tom Munday."]
+- [['nfb', 'https://notesfrombelow.org'], "2018--present: I built the website (using Django) for this online publication in preparation for its initial launch in January. Source on [GitHub](https://github.com/dellsystem/notes-from-below)"]
+- [['dfw', 'http://wallaceconference.com'], "2017--present: I built the website for the 2018 edition of the annual David Foster Wallace Conference. Source on [GitHub](https://github.com/dellsystem/david-foster-wallace-conference)"]
+- [['bookmarker', 'http://bookmarker.dellsystem.me'], "2017--present: A personal project I've been working on to help me retain information from all the books I've been reading. Currently running at [bookmarker.dellsystem.me](http://bookmarker.dellsystem.me) for my own use only but I'd love to expand it into a free tool that anyone can use. [Source code on GitHub](https://github.com/dellsystem/bookmarker) (MIT license)"]
+- [['macromeasures', 'http://macromeasures.com'], "2014--2017: CTO and co-founder of a startup (data science/marketing tech) that was acquired by StatSocial at the end of 2017. I wrote about my 'incredible journey' [here](https://notesfrombelow.org/article/silicon-inquiry#a-way-out). Our stack: Python (Celery, Flask); Redis; Riak; MongoDB; AWS."]
 - [['citelibre', 'http://ctlibre.com'], "2013--2014: As the IT Director for
   [ctlibre.com](http://ctlibre.com), a web-based revival of the Canadian
   publication Cité Libre founded in 1950, I built and managed the Django-based

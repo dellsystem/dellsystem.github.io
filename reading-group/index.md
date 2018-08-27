@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: writing
 title: "Jacobin reading group in London"
 ---
 

@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<p><a href="/lse">&laquo; LSE</a></p
+
 {% include lecture_intro.html url=page.course_url course=page.course_code university=page.university %}
 
 {{ content }}
@@ -22,3 +24,16 @@ layout: default
     {% endif %}
 {% endfor %}
 </ol>
+
+<hr />
+
+{% assign sorted_posts = site.posts|reverse %}
+{% for post in sorted_posts %}
+    {% if post.course == page.course_code %}
+    <h2>{{ post.topic }} - week {{ post.week }}</h2>
+        {% unless post.skip %}
+        {{ post.content }}
+        {% endunless %}
+    <hr />
+    {% endif %}
+{% endfor %}
