@@ -9,6 +9,60 @@ Just my sections (on tech news), archived for posterity. The other editors' sect
 
 ***
 
+## September 2, 2018
+
+_Full newsletter available [on Patreon](https://www.patreon.com/posts/what-our-editors-21162196) for subscribers only._
+
+### Amazon and its warehouse workers
+
+Stories on the [horrible working conditions](https://www.theguardian.com/business/2018/may/31/amazon-accused-of-treating-uk-warehouse-staff-like-robots) at Amazon warehouses - as well as the highly impressive [coordinated direct actions](http://inthesetimes.com/working/entry/21323/amazon_strike_jeff_bezos_germany_spain_poland_workers_labor) taken by workers - continue to mount. Amazon, well aware of the negative PR potential here, has launched a bizarre PR counter-offensive that appears to consist primarily of [paying employees to tweet positive things](https://www.theguardian.com/technology/2018/aug/23/amazon-fc-ambassadors-twitter-working-conditions) about the company (things like: ‘I even get to use a real bathroom when I want”). So it’s not great for them that Bernie Sanders - currently the most popular politician in the US - is [weighing in on this](https://www.vanityfair.com/news/2018/08/bernie-sanders-is-officially-getting-under-jeff-bezos-skin), attacking the injustice of CEO Jeff Bezos being recently named the richest man in the world even as his employees rely on food stamps. Even the right-wing media has picked up on this, with Tucker Carlson on Fox News [echoing Sanders’ critique of Bezos](https://www.newsweek.com/tucker-carlson-bernie-sanders-fox-news-amazon-1098549):
+
+> Jeff Bezos is the richest man in the world. Many of his employees are so poor, you’re paying their welfare benefits. And he’s not the only tech billionaire offloading his payroll costs onto taxpayers. This is an indefensible scam. Why is only Bernie talking about it? - [@TuckerCarlson](https://twitter.com/TuckerCarlson/status/1035334044698009600)
+
+### Calls to nationalise Facebook from the left and the right
+
+Speaking of the trend of conservatives hitting upon left-wing ideas: Steve Bannon was recently [profiled in Vanity Fair](https://www.vanityfair.com/news/2018/08/steve-bannon-big-data-facebook-twitter-google) as calling for something akin to nationalisation:
+
+> “I think you take it away from the companies. All that data they have is put in a public trust,” Bannon explained. “They can use it. And people can opt in and opt out. That trust is run by an independent board of directors. It just can't be that [Big Tech is] the sole proprietors of this data . . . I think this is a public good.”
+
+Whether it’s genuine or opportunistic, Bannon’s criticism of the concentration of power within Silicon Valley is, at least, accurate. The fact that someone like Bannon is making this argument, whereas liberal politicians are more likely to [court Silicon Valley capitalists](https://www.jacobinmag.com/2018/08/california-independent-contractors-court-ruling-silicon-valley) than to hold them accountable, is worrying. Mainstream politicians & pundits [haven’t yet grasped](https://www.cnbc.com/video/2017/07/28/should-google-facebook-be-regulated-like-utilities.html) the dangers of Silicon Valley’s monopolistic tendencies & the resulting power they accrue, and there’s a real risk that Bannon being correct on this front will lead to legitimation of his other (terrible) views in the eyes of people who are dissatisfied with the status quo. The left has been developing this train of thought too - Lewis Bassett’s [article in Jacobin this week](https://jacobinmag.com/2018/08/facebook-social-media-capitalism-regulation-advertising), responding to Corbyn’s speech about democratising the media, is excellent - but alas, lefties aren’t getting profiled on this in Vanity Fair.
+
+Incidentally, some of the conservative backlash against Silicon Valley is cultural/political, rather than economic. Much of it comes out of a perceived hostility to conservative viewpoints, in the form of claims that Facebook et al are censoring right-wing media because of ideological intolerance (and not because it’s dangerous and/or poor-quality), as well as in the form of [dissatisfaction among conservative-leaning employees](https://www.nytimes.com/2018/08/28/technology/inside-facebook-employees-political-bias.html) at these companies, who complain about the cold reception for political views that are not “left-leaning” (read: views that are sexist, racist, homophobic, etc etc). Now, this is hilarious to anyone on the _actual_ left in these companies, whose political views also get a cold reception, especially from leadership. But it’s also quite concerning, and it’s something that attempts to [build worker power](https://techworkerscoalition.org/) within the tech industry will have to deal with.
+
+### Software engineers who were fired for attempting to unionise will be reinstated
+
+Great news for anyone who’s been following the saga of Lanetix. Earlier this year, a group of software engineers at an American software development company unionised and were subsequently fired. Now, the National Labor Review Board [has backed the software engineers](https://www.wired.com/story/labor-board-backs-startup-engineers-fired-unionizing), ordering the company to reinstate the workers with back pay. The gender dynamics of the case (and relation to the rise of coding bootcamps) are especially interesting:
+
+> Employees suspected Lanetix planned to fire lower-level female engineers, many of whom graduated from Hackbright, an all women’s coding boot camp, as did the female engineer fired in November.
+
+> “It became increasingly clear that their strategy was divide and conquer—flatter a handful of us in the hopes that we would go along with their plans, and not put up a fight when they fired half of our co-workers,” Westergard adds.
+
+As Will Luckman (of DSA-NYC’s Tech Action Working Group) says in the article, the incident makes it clear that tech companies - despite their employee-friendly image (free food! kegs in the office! stock options!)  - still “operate like traditional industrialists and will go through old fashioned methods of suppressing workers”. This often involves using the contractor system to [dodge responsibility](https://twitter.com/daveyalba/status/1032707072767479809), as a [recent Bloomberg article](https://www.bloomberg.com/news/articles/2018-08-23/microsoft-bug-testers-unionized-then-they-were-dismissed) on Microsoft contractors who were also fired after unionising demonstrates.
+
+(For more reading on the labour dynamics of coding bootcamps, I’d recommend these pieces in Notes From Below: [Organising Silicon Valley's Shadow Workforce](https://www.notesfrombelow.org/article/organising-silicon-valleys-shadow-workforce#a-preview-of-the-future); [Diversity, Scarcity, and Labour in Tech](https://notesfrombelow.org/article/diversity-scarcity-and-labour-in-tech); and [Prospects for Organizing the Tech Industry](https://www.notesfrombelow.org/article/prospects-for-organizing-the-tech-industry).)
+
+### Skepticism about worker power in the tech industry
+
+David A. Banks recently published [an article in The Baffler](https://thebaffler.com/latest/which-side-are-they-on-banks) that was quite negative on the (progressive) possibilities of building worker power in tech:
+
+> There is no guarantee that a union of affluent software engineers will axiomatically fall on the right side of history. Even autoworkers, that venerated core of twentieth century American organized labor, according to the historian Kenneth T. Jackson, sided with management when they joined the American Road Builders’ Association, a pressure group dedicated to convincing the federal government to build the American highway system and all the other supporting infrastructure for car-oriented, racially segregated suburbia.
+
+I sympathise with most of the points in the article, but don’t really agree with the implied pessimism - the author seems to think that tech worker unions are inherently flawed, akin to police unions or something. There’s a nice rebuttal to this line of reasoning in the latest episode of [General Intellect Unit](http://generalintellectunit.net/e/020-yeoman-coders/), an excellent podcast at the intersection of tech and Marxism, which draws on the perspective of railway workers in the 19th/20th century. These workers also controlled key infrastructure, and were a well-off strata of the working class, but despite their relative privilege, they still managed to be militant and not reactionary.
+
+### The advertising-driven backbone of digital infrastructure
+
+[Google and Mastercard Cut a Secret Ad Deal to Track Retail Sales](https://www.bloomberg.com/news/articles/2018-08-30/google-and-mastercard-cut-a-secret-ad-deal-to-track-retail-sales), from Bloomberg. I spent enough time in the advertising technology world (running a startup) to never be surprised when something like this comes out. One of the things you learn when talking to potential customers/partners/investors in that field is that using data for better-targeted advertising is an extremely lucrative business that is very difficult to effectively regulate, which means it will keep happening, with or without consumers’ consent. The first two paragraphs of the Bloomberg article are indicative:
+
+> For the past year, select Google advertisers have had access to a potent new tool to track whether the ads they ran online led to a sale at a physical store in the U.S. That insight came thanks in part to a stockpile of Mastercard transactions that Google paid for.
+
+> But most of the two billion Mastercard holders aren’t aware of this behind-the-scenes tracking. That’s because the companies never told the public about the arrangement.
+
+This story is only the tip of the iceberg. There’s a lot of super shady stuff going on in this industry, some of which I’ve personally witnessed, some that I’ve heard through the grapevine, and I’m sure lots more that I haven’t heard about. And it’ll keep happening, because the structural incentives to do so (even if some consumers are angry) are so strong. For advertisers and tech companies, it makes financial sense to invest in data-linking to increase the effectiveness of advertising, and because it’s quite easy to do this in the contemporary digital landscape, it would be silly not to. Regulation will only get you so far; to curb privacy violations like this indefinitely, we’d have to excise advertising from the backbone of the Internet, which would necessitate larger economic changes.
+
+### A piece on culture under platform capitalism
+
+Not really news, but I came across [this excellent piece](http://reallifemag.com/two-faced/) in Real Life Mag (I tweeted some screenshots [here](https://twitter.com/dellsystem/status/1034420363906756609)) which fleshes out the cultural phenomena that arise from platforms' peculiar political economy. Highly recommended reading.
+
 ## August 19, 2018
 
 _Full newsletter available [on Patreon](https://www.patreon.com/posts/what-our-editors-20858781) for subscribers only._
