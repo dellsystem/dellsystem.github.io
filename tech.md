@@ -3,7 +3,7 @@ layout: writing
 title: "Critical perspectives on technology: resources"
 ---
 
-*Last updated: August 27, 2018.*
+*Last updated: August 28, 2018.*
 
 A wide-ranging list of resources for those interested in a more critical understanding of the technology industry, grounded in a recognition of its economic, social and political context.
 
@@ -187,6 +187,8 @@ Read them to understand the enemy, esssentially.
 
 ### The economics of the tech industry
 
+* Daniel Joseph for Real Life: [Two-Faced](http://reallifemag.com/two-faced/) (a stellar piece analysing the cultural aspects of platform capitalism, as well as the political economy underneath)
+	* same author, same publication, a year earlier: [Code of Conduct](http://reallifemag.com/code-of-conduct/). "[...] platforms are technologies for the production of distribution itself, and if platform capitalism is about distribution, then it’s primarily about space. Platforms create a space in which specific forms of exchange can occur, and set the terms for those exchanges, all while extracting rents."
 * Peter Frase for The New Inquiry: [The Future Bubble](https://thenewinquiry.com/the-future-bubble/)
 	* really excellent piece on the venture capital model of funding companies in Silicon Valley, and how that relates to the rest of the economy
 * Leif Weatherby for LARB: [Delete Your Account: On the Theory of Platform Capitalism](https://lareviewofbooks.org/article/delete-your-account-on-the-theory-of-platform-capitalism/). A very impressive overview of several relevant books:
@@ -293,6 +295,12 @@ Read them to understand the enemy, esssentially.
 * Gavin Mueller for Jacobin: [Microsoft and the Yeoman Coders](https://www.jacobinmag.com/2018/06/github-microsoft-open-source-code-technology) (on Microsoft acquiring Github for $7.5 billion in June 2018)
 	* "While there’s a lot of hype about gift economies and good vibes, when you’re doing an economic analysis, you have to consider the sector as a whole, not the intentions of a few members. One of the few to do this well, Swedish researcher Johan Söderberg, analyzed free software as part of labor under capitalism. Because so much code is available at no cost, open-source programmers effectively cheapen software by creating a base of code freely available to all — in Marxist language, they’ve cheapened those commodities by reducing the socially necessary labor time required to create them."
 	* "The changing terrain of digital capitalism means the old strategies of coding freedom won’t work. So instead of attempting to decentralize tech, to better preserve an ecosystem of independent businesses that stay small and promise to be good, coders should strive for democracy at work instead."
+	* Also see [episode 20 of General Intellect Unit](http://generalintellectunit.net/e/020-yeoman-coders/), which analyses this article in detail & also links the labour aspects of the article to the "industrial union" concept discussed in [Prospects for organizing the tech industry](http://www.notesfrombelow.org/article/prospects-for-organizing-the-tech-industry)
+* Me for Logic Magazine: [Freedom Isn't Free](https://logicmag.io/05-freedom-isnt-free/)
+* Gavin Mueller for Boundary 2: [Digital Proudhonism](https://www.boundary2.org/2018/07/mueller/)
+	* this is a beautifully-written academic paper that connects Marx's critique of Proudhon to the popular contemporary view that networked technologies will kill middlemen and allow for a flourishing ecosystem of independent producers (a view popularised by Lawrence Lessig, Paul Mason, Cory Doctorow, etc)
+	* it'll be slow reading if you don't have a background in all this, but it's so so good and thought-provoking
+	* the crux is that production is a social process, and that artisanal-type models that would turn us all back into individual producers who exchange goods freely on the market is reactionary and, ultimately, misguided
 
 ### On accelerationism
 
