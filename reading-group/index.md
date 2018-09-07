@@ -23,6 +23,12 @@ If you've written articles that you'd like participants to read in order to fram
 
 _Probably unnecessary disclaimer: someone being listed here does not imply that I endorse all of their views, or that they endorse all of my views, or that they endorse the views of past speakers, or anything similarly ridiculous._
 
+### September 7: [Jo Littler](https://twitter.com/littler_jo)
+
+On meritocracy.
+
+* [Meritocracy: the great delusion that ingrains inequality](https://www.theguardian.com/commentisfree/2017/mar/20/meritocracy-inequality-theresa-may-donald-trump)
+
 ### August 30: [Brett Scott](https://twitter.com/Suitpossum)
 
 On currency and fintech.
