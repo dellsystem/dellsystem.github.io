@@ -48,7 +48,7 @@ Recommended background reading by others:
 
 ### August 16: [Hettie O'Brien](https://twitter.com/hettieveronica)
 
-On municipal socialism.
+On municipal socialism. Chaired by [Kulsoom Jafri](https://twitter.com/kulsoom_jafri).
 
 * [Who Owns the City?](https://newsocialist.org.uk/who-owns-the-city/) for New Socialist
 
@@ -59,7 +59,7 @@ Recommended background reading by others:
 
 ### August 9: [Maya Goodfellow](https://twitter.com/MayaGoodfellow)
 
-On migration, the concept of "open borders", and what progressive migration policy would look like under a Labour government.
+On migration, the concept of "open borders", and what progressive migration policy would look like under a Labour government. Chaired by [Benny Hunter](https://twitter.com/BennnyH).
 
 * [Labour and Migration: No More Racing to the Bottom](http://novaramedia.com/2017/11/16/labour-and-migration-no-more-racing-to-the-bottom/) for Novara Media
 * [Labour & Immigration](https://newsocialist.org.uk/labour-immigration/) for New Socialist
@@ -82,7 +82,7 @@ On climate change and how politics must adapt.
 
 ### July 20: [Clive James Nwonka](https://twitter.com/CJNwonka)
 
-On race & class in British film, as well as the concept of "diversity" and how it got hijacked by corporate/neoliberal agendas.
+On race & class in British film, as well as the concept of "diversity" and how it got hijacked by corporate/neoliberal agendas. Chaired by [Kulsoom Jafri](https://twitter.com/kulsoom_jafri).
 
 * [Empty tank](https://www.redpepper.org.uk/empty-tank/) for Red Pepper, on social realism in British cinema
 * [The Condition of the Working Class: what’s changed?](https://www.redpepper.org.uk/the-condition-of-the-working-class-whats-changed/) for Red Pepper
@@ -182,7 +182,7 @@ On organised worker resistance, especially in the context of gig economy platfor
 
 ### March 22: [David Madden](https://twitter.com/davidjmadden)
 
-This week's session was hosted by Joe Bambridge, who took David Madden's Urban Inequalities module at LSE the previous semester. On housing.
+This week's session was hosted by [Joe Bambridge](https://twitter.com/jb_10001), who took David Madden's Urban Inequalities module at LSE the previous semester. On housing.
 
 * [The Permanent Crisis of Housing](https://www.jacobinmag.com/2016/10/housing-crisis-rent-landlords-homeless-affordability) for Jacobin
 	* an excerpt from his book, _In Defense of Housing_ (co-written with Peter Marcuse)
