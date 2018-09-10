@@ -23,6 +23,10 @@ If you've written articles that you'd like participants to read in order to fram
 
 _Probably unnecessary disclaimer: someone being listed here does not imply that I endorse all of their views, or that they endorse all of my views, or that they endorse the views of past speakers, or anything similarly ridiculous._
 
+### September 14: [Stephen Armstrong](https://twitter.com/sarmstrong1984)
+
+We read a chapter from Stephen Armstrong's 2017 book, _The New Poverty_ (Chapter 3 - Health: The Rise of DIY Dentistry). You can get the book from [Verso](https://www.versobooks.com/books/2594-the-new-poverty) (no excerpt freely available online, sadly). Chaired by [Hettie O'Brien](https://twitter.com/hettieveronica).
+
 ### September 7: [Jo Littler](https://twitter.com/littler_jo)
 
 On meritocracy.
