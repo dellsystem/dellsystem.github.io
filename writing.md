@@ -4,7 +4,7 @@ jquery: true
 title: Writing
 ---
 
-I started writing in earnest in late 2017, mostly about tech (see [Recent writing](#recent)).
+I started writing in earnest in late 2017, mostly on tech from a left perspective (see [Recent writing](#recent)).
 
 Before that, my writing is pretty scattered and is mostly technical (programming-related). It's all listed here for data-hoarding/archival purposes, though I wouldn't recommend actually reading any of it:
 
