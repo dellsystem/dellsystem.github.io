@@ -9,6 +9,48 @@ Just my sections (on tech news), archived for posterity. The other editors' sect
 
 ***
 
+## September 16, 2018
+
+_Full newsletter available [on Patreon](https://www.patreon.com/posts/what-our-editors-21454286) for subscribers only._
+
+### [Tackling the platforms: on IPPR's Digital Commonwealth report](https://newsocialist.org.uk/tackling-the-platforms/ ) - by me, for Autonomy (republished by New Socialist)
+
+I wrote this in response to the IPPR report on tech platforms by Mathew Lawrence and Laurie Laybourn-Langton. The report itself is quite good for what it is, and Lawrence’s piece announcing the report [in the _New Statesman](https://www.newstatesman.com/politics/economy/2018/09/we-need-digital-commonwealth-counter-surveillance-capitalism) is worth reading as well. My response focuses on two key themes that aren’t really touched on in the report: the role of intellectual property (drawing on some insights from the free software movement), and the potential of workers at these companies to challenge the status quo.
+
+### [We need a state-owned platform for the modern internet](https://newsocialist.org.uk/a-state-owned-platform-for-the-modern-internet/) - by Jimi Cullen, for New Socialist
+
+A sorely needed piece elaborating on a simple but under-theorised idea: nationalising the “cloud” (think Amazon Web Services or Microsoft Azure, both of which make their corporate parents a massive amount of money):
+
+> to truly have the freedom to control the way we use the internet, we should look at nationalising the infrastructure that powers much of it. In particular, we should think about a publicly owned and run cloud services provider.
+
+I would love to develop this line of reasoning more - get in touch if you’d like to write something for us! I’m particularly interested in expanding on the education aspect, which is only touched on briefly in this article. Truly democratising technology requires empowering the wider population to effectively use the technology available - not just as “users”, but as creators. I’d also like to further flesh out a strategy for actually “nationalising” these Internet-based services: what governance models are needed, what challenges are to be expected, what a lean/iterative approach could look like. If you have ideas on that front, please, feel free to slide into my DMs.
+
+### [The Win-Win Fallacy](https://www.theatlantic.com/ideas/archive/2018/09/the-win-win-fallacy/569434/) - Anand Giridharadas for The Atlantic
+
+This is an excellent look at the ideology behind entrepreneurship, with a focus on Silicon Valley celebrity Justin Rosenstein (an early engineer at Google and later Facebook, then co-founder of an enterprise software company). This quote from Rosenstein is illuminating:
+
+> There are a significant number of opportunities—Google search being the most massive example of all time—where we simultaneously are doing something lucrative and really good for the world.
+
+As Giridharadas notes in his piece, people like Rosenstein really seem to believe that it is possible to “do good” in the world while also accumulating massive amounts of wealth. This is the ultimate liberal capitalist fantasy, stemming from a failure to recognise that the “good” that needs to be “done” in the world includes tackling the concentration of wealth. It’s a convenient lie that socially-minded entrepreneurs and philanthropists tell themselves so they can sleep better at night, all while avoiding the potentially risky endeavour of interrogating _where their wealth actually comes from_.
+
+There’s a lot more to be said about the function of entrepreneurship under capitalism, and especially its neoliberal variant. In a way, it’s the purest expression of capitalist realism: the  drive for capital accumulation is distilled into a heroic myth of innovation and achievement, one that convinces those who actually want to “do good” that there is no way to do so outside of the market. This is the ideological essence of capitalism in its most concentrated form. 
+
+Incidentally, the relationship between entrepreneurship and technology is something I’d love to further explore for _New Socialist_. If you have thoughts on this - grounded in theory, or in personal experience, or both - pitch me!
+
+### [Workers’ Rights, Silicon Valley-Style](https://www.citylab.com/equity/2018/08/workers-rights-silicon-valley-style/568189/) - Tanvi Misra and Sarah Holder for CityLab
+
+A reported piece that nicely summarises efforts to build worker power in the tech industry and why they’re needed. I really like this quote:
+
+> “The ends are not better conditions for tech workers,” Bracy said. “The ends are a more responsible industry.”
+
+### [If Jeff Bezos wants to help low-income people why not just pay them better?](https://www.theguardian.com/commentisfree/2018/sep/14/jeff-bezos-low-income-people-pay-amazon-workers-better) - Marina Hyde for the Guardian
+
+The headline pretty much says it all. Jeff Bezos - the world’s richest person - recently announced a $2 billion dollar fund targeted at homelessness and schools for low-income communities. This is about ideology more than it is about charity; for Bezos, it’s an opportunity to take the “same set of principles that have driven Amazon” and import them into the education system, by treating [children as customers](https://www.theguardian.com/technology/2018/sep/13/amazon-jeff-bezos-philanthropy-day-one-fund).
+
+This is horrifying on multiple levels. For one, the dark human costs behind “the principles that have driven Amazon” are increasingly clear as more and more stories about its appalling treatment of workers come out. For another, the commodification of education _at the preschool level_ is a terrifying concept.
+
+Taking a step back, though, this saga really demonstrates the moral bankruptcy of philanthropy. Similar to other efforts by [other tech billionaires](https://www.jacobinmag.com/2015/12/facebook-zuckerbergs-charity-gates-philantrophy), this is essentially the use of philanthropy as a moral shield. Money is allocated to broadly the same purposes - at least on paper - but without any form of democratic control (making it unlikely that it will _actually_ address the problem), while also allowing Bezos et al to present themselves as humanity’s saviours. Great deal for these guys, but terrible for everyone else.
+
 ## September 2, 2018
 
 _Full newsletter available [on Patreon](https://www.patreon.com/posts/what-our-editors-21162196) for subscribers only._
