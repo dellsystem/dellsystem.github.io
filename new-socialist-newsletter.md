@@ -15,7 +15,7 @@ _Full newsletter available [on Patreon](https://www.patreon.com/posts/what-our-e
 
 ### [Tackling the platforms: on IPPR's Digital Commonwealth report](https://newsocialist.org.uk/tackling-the-platforms/ ) - by me, for Autonomy (republished by New Socialist)
 
-I wrote this in response to the IPPR report on tech platforms by Mathew Lawrence and Laurie Laybourn-Langton. The report itself is quite good for what it is, and Lawrence’s piece announcing the report [in the _New Statesman](https://www.newstatesman.com/politics/economy/2018/09/we-need-digital-commonwealth-counter-surveillance-capitalism) is worth reading as well. My response focuses on two key themes that aren’t really touched on in the report: the role of intellectual property (drawing on some insights from the free software movement), and the potential of workers at these companies to challenge the status quo.
+I wrote this in response to the IPPR report on tech platforms by Mathew Lawrence and Laurie Laybourn-Langton. The report itself is quite good for what it is, and Lawrence’s piece announcing the report [in the _New Statesman_](https://www.newstatesman.com/politics/economy/2018/09/we-need-digital-commonwealth-counter-surveillance-capitalism) is worth reading as well. My response focuses on two key themes that aren’t really touched on in the report: the role of intellectual property (drawing on some insights from the free software movement), and the potential of workers at these companies to challenge the status quo.
 
 ### [We need a state-owned platform for the modern internet](https://newsocialist.org.uk/a-state-owned-platform-for-the-modern-internet/) - by Jimi Cullen, for New Socialist
 
