@@ -9,6 +9,44 @@ Just my sections (on tech news), archived for posterity. The other editors' sect
 
 ***
 
+## September 30, 2018
+
+_Full newsletter available [on Patreon](https://www.patreon.com/posts/21746617) for subscribers only._
+
+### [Decentralising the Internet](https://newsocialist.org.uk/decentralising-the-internet/) - Jason Prado for New Socialist
+
+A technical account of what it would mean to decentralise the Internet, following up on the [previous NS piece on the same topic](https://newsocialist.org.uk/do-we-really-need-a-statebook/) by James Moulding and Irina Bolychevsky. Highly recommended if you’re curious about the technical details of centralisation vs decentralisation, and why past attempts at decentralisation have failed. As you’d expect from a piece in New Socialist’s Economics section, the piece acknowledges the political and economic context as well. I’m a big fan of the ending:
+
+> While old models of decentralisation have run their course, there are new opportunities for developing decentralised architectures and democratic organisational structures. Such efforts could achieve the twin goals of taking the internet out of the capital accumulation process and giving users meaningful democratic control over their experience.
+
+> Of course, this isn’t an inevitability; [...] reversing the decades-long trend toward centralisation requires reversing the neoliberal paradigm that enabled corporate capture of the internet. This, in turn, requires state action, and a broader shift in the political climate. Questioning the hegemony of today’s tech giants is the start; the next step is proposing concrete alternative structures for a future internet.
+
+### [Time magazine sold to Salesforce CEO Marc Benioff and his wife for $190m](https://www.theguardian.com/media/2018/sep/17/time-magazine-sold-marc-benioff-190m) - The Guardian
+
+The headline says it all. This article isn’t an especially insightful one - it’s just reporting, with no real analysis - but I haven’t actually managed to find a good take on this yet. I’ve written a [tweet thread](https://twitter.com/dellsystem/status/1041590944141852672) on the topic, and was planning on writing it up into a longer article, but there wasn’t enough time before TWT took over my life. If you’ve come across a better take, or are itching to write one of your own, please get in touch!
+
+### [“Slaveroo”: How riders are standing up to Uber, Deliveroo and the gig economy](https://www.newstatesman.com/politics/uk/2018/09/slaveroo-how-riders-are-standing-uber-deliveroo-and-gig-economy) - Anoosh Chakelio for the New Statesman
+
+This is a report from the [Deliveroo and Uber: Striking Beyond Borders](https://theworldtransformed.org/sessions/the-gig-economy) session of The World Transformed, which featured gig economy workers from multiple European countries. My favourite part of this excellent session was when [Callum Cant](https://twitter.com/callumcant1) (editor at Notes From Below) suggested that instead of rallying behind platform co-ops, we instead consider expropriating the platforms. Sadly, this remark was not mentioned in the New Statesman article.
+
+On a related note, there’s going to be a nationwide strike on Thursday, October 4th, featuring couriers for Uber Eats alongside workers at McDonald’s, TGI Fridays and Wetherspoons. The strike has been called #FFS410 (Fast Food Shut Down 4-10) and you can find more details [here](https://waronwant.org/ffs410).
+
+### [Content Moderator Sues Facebook, Says Job Gave Her PTSD](https://motherboard.vice.com/en_us/article/zm5mw5/facebook-content-moderation-lawsuit-ptsd) - Motherboard
+
+> Scola’s lawyers say that she developed post traumatic stress disorder as a result of “constant and unmitigated exposure to highly toxic and extremely disturbing images at the workplace,” and allege that Facebook does not have proper mental health services and monitoring in place for its content moderators.
+
+It’s good that the dark sides of Facebook’s astronomical levels of wealth & power are finally starting to come to light. Let’s hope this is a step towards getting better working conditions (and compensation) for these workers.
+
+### [Amazon's Aggressive Anti-Union Tactics Revealed in Leaked 45-Minute Video](https://gizmodo.com/amazons-aggressive-anti-union-tactics-revealed-in-leake-1829305201) - Gizmodo
+
+By now, it’s pretty obvious to most of us on the left that Amazon’s success in retail is underpinned by its horrific treatment of workers. But it seems like that same point is now being impressed upon Amazon’s managers, too. Here’s a fascinating tidbit from the training video:
+
+> “We do not believe unions are in the best interest of our customers, our shareholders, or most importantly, our associates. Our business model is built upon speed, innovation, and customer obsession—things that are generally not associated with union. When we lose sight of those critical focus areas we jeopardize everyone’s job security: yours, mine, and the associates’.”
+
+There’s a mountain of critical commentary to be written about this, but I’ll just leave you with this piece from a few weeks ago for Real Life, titled [The Constant Consumer: Amazon’s mission is to make customer identity more primary than citizenship](http://reallifemag.com/the-constant-consumer/). That pretty much sums it up.
+
+(For more on the prospects of unionising at Amazon - from a left perspective - see this Notes From Below article: [A Union at Amazon?](https://notesfrombelow.org/article/a-union-at-amazon))
+
 ## September 16, 2018
 
 _Full newsletter available [on Patreon](https://www.patreon.com/posts/what-our-editors-21454286) for subscribers only._
