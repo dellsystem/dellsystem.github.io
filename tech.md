@@ -3,7 +3,7 @@ layout: writing
 title: "Critical perspectives on technology: resources"
 ---
 
-*Last updated: August 28, 2018.*
+*Last updated: October 1, 2018.*
 
 A wide-ranging list of resources for those interested in a more critical understanding of the technology industry, grounded in a recognition of its economic, social and political context.
 
@@ -205,6 +205,7 @@ Read them to understand the enemy, esssentially.
 	* for The Baffler: [The Taming of Tech Criticism](https://thebaffler.com/salvos/taming-tech-criticism)
 	* another one for The Baffler: [The Meme Hustler](https://thebaffler.com/salvos/the-meme-hustler), a very extensive and critical look at the Tim O'Reilly "brand"
 * Nick Srnicek for the Guardian: [We need to nationalise Google, Facebook and Amazon. Here’s why](https://www.theguardian.com/commentisfree/2017/aug/30/nationalise-google-facebook-amazon-data-monopoly-platform-public-interest)
+* Jimi Cullen for New Socialist: [We need a state-owned platform for the modern internet](https://newsocialist.org.uk/a-state-owned-platform-for-the-modern-internet/) (on nationalising cloud computing plaforms)
 * Me on digital strategy and UK politics for New Socialist:
     * [Labour's Digital Strategy Is a Missed Opportunity](https://newsocialist.org.uk/labours-digital-strategy/)
     * [Labour's New Economics Conference: Part Two, Digital Session](https://newsocialist.org.uk/labours-new-economics-conference-part-two-digital-session/)
@@ -226,6 +227,8 @@ Read them to understand the enemy, esssentially.
 * Ben Tarnoff for Jacobin: [A Socialist Silicon Valley](https://www.jacobinmag.com/2018/04/big-tech-techlash-facebook-cambridge-analytica)
 * Francesca Bria for openDemocracy: [The robot economy may already have arrived](https://www.opendemocracy.net/can-europe-make-it/francesca-bria/robot-economy-full-automation-work-future)
 * Grace Blakeley for Novara Media: [Robots Aren’t Coming for Our Jobs – Capitalists Are](http://novaramedia.com/2018/03/20/robots-arent-coming-for-our-jobs-capitalists-are/). A really excellent perspective that considers the ideological drive that led to "globalisation" (a highly suspect nominalisation if there ever was one) being blamed for problems created by capitalism.
+* Stacy Mitchell for The Nation: [Amazon Doesn’t Just Want to Dominate the Market—It Wants to Become the Market](https://www.thenation.com/article/amazon-doesnt-just-want-to-dominate-the-market-it-wants-to-become-the-market/)
+	* I really like this: _"Amazon will undoubtedly respond to any effort to rein it in by making its dominance seem like the inevitable outcome of technological progress. When Bezos was asked several years ago about his company’s effect on publishers and booksellers, he responded: “Amazon is not happening to bookselling; the future is happening to bookselling.” Bezos would like us to believe that we shouldn’t expect to enjoy the benefits of the digital revolution without surrendering our markets to Amazon’s control."_
 
 #### On venture capital
 
@@ -286,6 +289,11 @@ Read them to understand the enemy, esssentially.
 	* [More coverage](https://gist.github.com/bwestergard/a77744dc6f3095fd3fb769dd3d6562ad)
 * Rick Morgan for CNBC: [SurveyMonkey defies Silicon Valley labor caste system, offering contract workers full benefits](https://www.cnbc.com/2018/04/19/surveymonkey-breaks-with-silicon-valley-over-contract-worker-benefits.html)
 * Ben Tarnoff interviewing an anonymous Google employee about Project Maven, for Jacobin: [Tech Workers Versus the Pentagon](https://www.jacobinmag.com/2018/06/google-project-maven-military-tech-workers)
+* Tanvi Misra and Sarah Holder for CityLab: [Workers’ Rights, Silicon Valley-Style](https://www.citylab.com/equity/2018/08/workers-rights-silicon-valley-style/568189/)
+	* I really like this quote: _“The ends are not better conditions for tech workers,” Bracy said. “The ends are a more responsible industry.”_
+* Rick Paulus for The Atlantic: [A New Kind of Labor Movement in Silicon Valley](https://www.theatlantic.com/technology/archive/2018/09/tech-labor-movement/567808/)
+	* I was quoted in this piece, and wrote (a possibly unnecessary) clarification of my comments [here](https://twitter.com/dellsystem/status/1037409975264583681) 
+* LibrarianShipwreck: [Challenging the Tech Companies from Within](https://librarianshipwreck.wordpress.com/2018/06/28/challenging-the-tech-companies-from-within/)
 
 ### On open source
 
@@ -301,6 +309,9 @@ Read them to understand the enemy, esssentially.
 	* this is a beautifully-written academic paper that connects Marx's critique of Proudhon to the popular contemporary view that networked technologies will kill middlemen and allow for a flourishing ecosystem of independent producers (a view popularised by Lawrence Lessig, Paul Mason, Cory Doctorow, etc)
 	* it'll be slow reading if you don't have a background in all this, but it's so so good and thought-provoking
 	* the crux is that production is a social process, and that artisanal-type models that would turn us all back into individual producers who exchange goods freely on the market is reactionary and, ultimately, misguided
+* Jan Corazza: [A short critique of Stallmanism](http://flowing.systems/2016/09/24/a-short-critique-of-stallmanism/)
+	* this is SO GOOD and I wish I had read this before I wrote my piece for Logic
+	* "Free software activists should accept that software freedom is not an isolated issue, with its own, completely independent value set, but is just one aspect of a wider struggle for justice, and that we can never achieve full software justice under capitalism. Once freed from this isolated logic, the next obvious step is integrating it into our advocacy, critiques, and educational material."
 
 ### On accelerationism
 
