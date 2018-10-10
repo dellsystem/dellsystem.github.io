@@ -35,7 +35,7 @@ things people rarely ask about
 random technical details
 ------------------------
 
-* **currently running**: ubuntu 16.04
+* **currently running**: ubuntu 18.04
 * **favourite text editor**: vim for the command line, gedit otherwise; IDEs
   tend to crash in my presence
 * **favourite free software projects**: [inkscape](http://www.inkscape.org),
