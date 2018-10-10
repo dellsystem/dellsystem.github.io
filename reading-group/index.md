@@ -34,7 +34,7 @@ Other background reading:
 * NEF's report on cooperatives: [Co-operatives unleashed](https://neweconomics.org/2018/07/co-operatives-unleased)
 * This Jacobin article on the Meidner plan: [Revisiting the Meidner Plan](https://www.jacobinmag.com/2017/08/sweden-social-democracy-meidner-plan-capital)
 
-### September 27: [Owen Hatherly](https://twitter.com/owenhatherley)
+### September 27: [Owen Hatherley](https://twitter.com/owenhatherley)
 
 Readings selected from Owen's recent book, _Trans-Europe Express_. Main readings: the essays on Bologna & Bergen. Extra readings: introduction + the essays on Skopje & Stockholm. Chaired by [Hettie O'Brien](https://twitter.com/hettieveronica).
 
