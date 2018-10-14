@@ -9,6 +9,68 @@ Just my sections (on tech news), archived for posterity. The other editors' sect
 
 ***
 
+## October 14, 2018
+
+_Full newsletter available [on Patreon](https://www.patreon.com/posts/22060820) for subscribers only._
+
+### [The Automation Charade](https://logicmag.io/05-the-automation-charade/) - Astra Taylor for Logic Magazine
+
+A really lovely piece unpacking the economic and social implications of “automation”, and what the word conceals, from the person who [coined](https://twitter.com/astradisastra/status/876790947140562945) the term “fauxtomation”. In our present economic climate, the main drive behind initiatives to automate services away - in retail, hospitality, fast food, etc - is, of course, cost-cutting, not some starry-eyed love of technological progress or modernity. In practice, this means weakening the power of labour and punishing the workers who dare to demand more than bare minimum wages.
+
+But this form of automation isn’t just about disciplining labour by getting robots to replace them. More subtly, it’s a way of shifting the burden of work _from_ the paid employee _to_ the consumer - even if the total amount of work is reduced. Taylor highlights the case of McDonald’s, which has recently rolled out self-service kiosks in many of their restaurants:
+
+> Work has not disappeared from the restaurant floor, but the person doing the work has changed. Instead of an employee inputting orders dictated by the customer, customers now do it themselves for free, while young, friendly-looking employees hover nearby and deliver meals to tables.
+
+This form of automation is more than just a marketing ploy, as Taylor writes later in the piece:
+
+> It reinforces the perception that work has no value if it is unpaid and acclimates us to the idea that one day we won’t be needed.
+
+Hence all the “robots coming for our jobs” thinkpieces, most of which seem to assume that waged labour is the only form that work can (or should) take. Taylor counters this argument by introducing a socialist feminist perspective, drawing on Silvia Federici’s work on reproductive labour:
+
+> Federici has argued that we must recognize the underappreciated, uncompensated labor that sustains everyday life, providing the foundation that underpins all manner of paid work recognized by the formal economy. Every bridge, every factory, every Silicon Valley app is merely the visible tip of a hidden iceberg of reproductive labor.
+
+Ultimately, automation functions - at least partly - as a sleight of hand, in order to conceal the exploitation that makes a given mode of production possible. Taylor relates an anecdote about Thomas Jefferson’s dumbwaiter:
+
+> Jefferson gilded chains by making them hard to see. Slaves [...] cooked hot food and put it on shelves, making it appear as if the evening’s fare had been conjured by magic. [...] The appearance of seemingly automated abundance Jefferson so doggedly cultivated required substantial additional labor—the labor of making labor seem to disappear.
+
+### [“We must think about a tech workers’ strike”: An interview with the Infoproletários](https://notesfrombelow.org/article/we-must-think-about-a-tech-workers-strike) - Felix Holtwell for Notes From Below
+
+This is a very insightful interview about what it would mean to build worker power in the tech industry, from the perspective of a group of Brazilian tech workers (similar to the more US-centric Tech Workers Coalition). I loved this explanation of their politics:
+
+> We are predominantly Marxists and we analyse the reality around us through this prism. We understand that even with the higher salaries and all the advantages tech presents us, at the end of the day we are still workers like all others. We are also located in a peripheral dependent capitalist country without any project of national development; this is central to the movement and puts us necessarily in an anti-imperialist and anti-capitalist position.
+
+And this on the differences/similarities with TWC:
+
+> The TWC already exists longer than Infoproletários, but the debates about organizing IT workers are old. [...] All these initiatives showed the analysis we were making was correct and reinforced the trust we had in our objectives.
+
+> Although we live in different places with really different socio-historical backgrounds, we are all a response to a worldwide conjuncture that includes a crisis in political representation (which involves the traditional unions) and an economical crisis, this time the result of the exhaustion of neoliberal capitalism.
+
+On whether technology can be emancipatory:
+
+> Technology is never neutral and its content always reflects a class perspective. In general, it is employed according to the interest of the ruling classes. In capitalism the workers are not the ruling class, the bourgeoisie is. In such a context it is not possible that technology is emancipatory; under capitalism, it is designed to strengthen the status quo.
+
+> Most of the products we build every day at work are directed to create new ways of monitoring the work of others. How to better control production, how to see exactly what the employees are doing at work, how to better track the duration of tasks and how to better milk that last drop of production out of everyone.
+
+Also, Felix runs the FALC newsletter, which I would highly recommend [subscribing to](https://tinyletter.com/FullyAutomated) for more left/tech news (you can find the [archives here](https://tinyletter.com/FullyAutomated/archive)). The [latest issue](https://tinyletter.com/FullyAutomated/letters/digital-colonialism-and-technology), “Digital colonialism and technology”, provides some background information on the interview by highlighting an important gap in the discourse around technology on the left:
+
+> What has been missing however is an analysis of how this new wave within capitalism interacts with unequal global structures. This of course doesn't mean that organising Silicon Valley tech workers is unproductive, it is very much. But nevertheless any progressive project analysis of technology under our current phase of capitalism, and counter-proposals from the left, should also be based in an analysis of how technology reproduces colonial patterns.
+
+I’d love to get articles rooted in this perspective for the [economics section](http://newsocialist.org.uk/economics/) - pitch me!
+
+### [Unfree Agents](https://thebaffler.com/downstream/unfree-agents-pelly) - Liz Pelly for The Baffler
+
+A fascinating look at Spotify’s Uber-like business model and the ramifications of that on artists:
+
+> Spotify forces independent musicians to work more like Uber drivers—beholden to the whim of a platform they can’t control, one whose “innovations” have undercut an industry that once provided some semblance of an organic support system. What’s more, at least one Spotify employee has referred to the company’s aspirations with the Uberish term “self-driving music,” language which points to a strategy that would see music creation and discovery become more automated and data-driven, and, as much as possible, human-free.
+
+There’s a lot that’s wrong with the way the music industry works today, but its potential Uberification through platforms like Spotify and Apple Music is hardly any better. At best, these technology-enabled disruptions to the structure of the industry could signal the demise of large record labels, thus giving more power to independent artists who could then deal directly with the platform. In practice, though, this would only be displacing one type of gatekeeper in order to create a new type: that of the technology platform itself, which Pelly describes as having the potential to become a “monstrously huge record label”. Even if Spotify feels like a scrappy (and even benevolent) upstart now, the central position it’s cementing in the industry will give it power over artists in a way that it can’t help but abuse, and always to the detriment of artists themselves:
+
+> Needless to say, signing directly to Spotify is not a preferable solution for many independent artists. It’s more likely that the onrush of contracts would serve Spotify’s bottom line, giving it the leverage to lower the costs they pay for licensing music. This is how platform economy strategies often look: invest in branding to engender a sense of “trust” with industry actors; hire newly enthusiastic if powerless individuals to work independently with increased personal risk; make use of this newfound ubiquity and wage-giving power to ruthlessly minimize costs.
+
+This is just the ideological arm of neoliberalism dressed up with a shiny app. Convince workers that they are not actually workers but are instead entrepreneurs, not really labour but instead capital-in-waiting. This way, they won’t demand concessions qua labour - that is, collectively - but will instead transact as individual micro-entrepreneurs who compete with each other for the ability to make a living, with the promise of financial stability constantly dangled in front of them like a carrot.
+
+On their own, these atomised individuals have little choice but to accept the terms & conditions set by the platforms that mediate their every action, even if it means that most of the value they produce is captured by the digital middlemen skimming off the top of every transaction. Collectively, however, they have the power to really shake things up, not just demanding a bigger share of the proceeds but having actual control in how things are run. The [Uber strike](https://notesfrombelow.org/article/uber-uber-you-cant-hide-we-can-see-your-dirty-side) earlier this week provided a glimpse of what worker resistance to digital platforms could look like. Let’s hope it spreads even further.
+
 ## September 30, 2018
 
 _Full newsletter available [on Patreon](https://www.patreon.com/posts/21746617) for subscribers only._
