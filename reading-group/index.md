@@ -23,6 +23,12 @@ If you've written articles that you'd like participants to read in order to fram
 
 _Probably unnecessary disclaimer: someone being listed here does not imply that I endorse all of their views, or that they endorse all of my views, or that they endorse the views of past speakers, or anything similarly ridiculous._
 
+### October 25: [Lydia Hughes](https://twitter.com/lydiakathleenh)
+
+On grassroots resistance and what it means for precarious workers to organise.
+
+* [Rebellion at the LSE: a cleaning sector inquiry](https://notesfrombelow.org/article/rebellion-lse-cleaning-sector-inquiry)
+
 ### October 12: [Ben Tippet](https://twitter.com/BenTippet)
 
 On [People's Private Equity](https://twitter.com/EquityPeople).
