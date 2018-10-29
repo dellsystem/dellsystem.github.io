@@ -23,6 +23,16 @@ If you've written articles that you'd like participants to read in order to fram
 
 _Probably unnecessary disclaimer: someone being listed here does not imply that I endorse all of their views, or that they endorse all of my views, or that they endorse the views of past speakers, or anything similarly ridiculous._
 
+### November 1: [Mathew Lawrence](https://twitter.com/DantonsHead)
+
+On reinventing ownership.
+
+* [John McDonnell's worker ownership funds could be the left's Right to Buy](https://www.newstatesman.com/politics/economy/2018/09/john-mcdonnells-worker-ownership-funds-could-be-lefts-right-buy) for the New Statesman
+
+Other background reading:
+
+* [Labour's Alternative Models of Ownership report](https://labour.org.uk/wp-content/uploads/2017/10/Alternative-Models-of-Ownership.pdf)
+
 ### October 25: [Lydia Hughes](https://twitter.com/lydiakathleenh)
 
 On grassroots resistance and what it means for precarious workers to organise.
