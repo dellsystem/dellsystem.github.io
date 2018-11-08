@@ -3,7 +3,7 @@ layout: writing
 title: "Jacobin reading group in London"
 ---
 
-In January 2018, I started an informal [Jacobin reading group](https://www.jacobinmag.com/reading-groups), mostly consisting of fellow masters students at LSE. Since then, the group has expanded to include others, though about half of us are either students or associated with LSE in some way. We meet roughly once a week (Thursday or Friday, usually) at one of several venues in central London from 6:30-8pm, and we usually have a guest speaker whose readings I'll have posted ahead of time.
+In January 2018, I started an informal [Jacobin reading group](https://www.jacobinmag.com/reading-groups), mostly consisting of fellow masters students at LSE. Since then, the group has expanded to include others, and I now co-host the group with [Hettie O'Brien](https://twitter.com/hettieveronica). We meet every 1-2 weeks (Thursday or Friday, usually) at one of several venues in central London from 6:30-8pm, and we usually have a guest speaker whose readings we'll have posted ahead of time.
 
 ### If you're interested in joining us
 
@@ -23,9 +23,18 @@ If you've written articles that you'd like participants to read in order to fram
 
 _Probably unnecessary disclaimer: someone being listed here does not imply that I endorse all of their views, or that they endorse all of my views, or that they endorse the views of past speakers, or anything similarly ridiculous._
 
+### November 15: [Will Davies](https://twitter.com/davies_will)
+
+On his recently-released book, [_Nervous States_](https://www.penguin.co.uk/books/111/1114367/nervous-states.html). Chaired by [Hettie O'Brien](https://twitter.com/hettieveronica).
+
+* [Thoughts on the sociology of Brexit](http://www.perc.org.uk/project_posts/thoughts-on-the-sociology-of-brexit/) (a 2016 article that was a precursor to the book)
+* [How feelings took over the world](https://www.theguardian.com/books/2018/sep/08/high-anxiety-how-feelings-took-over-the-world) (an excerpt from the book, published in _The Guardian_)
+
+Recommended podcast: [Will Davies discussing the book with James Butler on NovaraFM](https://novaramedia.com/2018/10/19/nervous-states-reason-feeling-war).
+
 ### November 1: [Mathew Lawrence](https://twitter.com/DantonsHead)
 
-On reinventing ownership.
+On reinventing ownership. Chaired by [Hettie O'Brien](https://twitter.com/hettieveronica).
 
 * [John McDonnell's worker ownership funds could be the left's Right to Buy](https://www.newstatesman.com/politics/economy/2018/09/john-mcdonnells-worker-ownership-funds-could-be-lefts-right-buy) for the New Statesman
 
@@ -109,7 +118,7 @@ On centrism and why it's a threat to democracy.
 
 ### July 27: [Alyssa Battistoni](https://twitter.com/alybatt)
 
-On climate change and how politics must adapt.
+On climate change and how politics must adapt. Held, coincidentally, on an excruciatingly hot day. (The speaker couldn't make it in the end, but it was a good discussion nonetheless.)
 
 * [Living, Not Just Surviving](https://jacobinmag.com/2017/08/living-not-just-surviving/) for Jacobin
 * [States of Emergency: Imagining a politics for an age of accelerated climate change.](https://www.thenation.com/article/political-theory-for-an-age-of-climate-change/) for The Nation
