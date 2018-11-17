@@ -11,7 +11,7 @@ On October 25, 2018, I gave a talk at [Learning On/With The Open Web](https://ww
 
 > The aim of this talk is to foster a critical understanding of the web, going beyond the purely technical details to sketch out the political economy of digital infrastructure. The goal will be to challenge our preconceived notions of what the internet is and could be, in order to suggest a more radical interpretation of the “open web” that we could be fighting for.
 
-Below is a lightly edited transcript of my talk. If you prefer audio, you can find a video of it [here](https://twitter.com/ammienoot/status/1056706720939102208) (the sound quality isn't especially great, unfortunately).
+Below is a lightly edited transcript of my talk. If you prefer audio, you can find a video of it [here](https://www.youtube.com/watch?v=0sGKa2bVeKk).
 
 ***
 
