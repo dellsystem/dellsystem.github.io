@@ -29,6 +29,5 @@ I've been coding for a while now, mostly in the realm of web dev (primarily back
 ## Other
 
 * **Jacobin reading group**: I started an informal reading group on contemporary left politics in London. [Details here](/reading-group).
-* **Labour Party**: I'm on the [London](https://twitter.com/LDNYoungLabour) & [Wandsworth](https://twitter.com/WandsworthYL) Young Labour committees & am VC memberships for [Battersea CLP](https://twitter.com/BatterseaLabour).
 * **David Foster Wallace**: I maintain a [list of his work](/dfw) and also built the website for the [annual conference](http://wallaceconference.com) ([details here](https://theoutline.com/post/5543/david-foster-wallace-conference-profile)).
 * **Art**: This is super old & kind of embarrassing, but you can find a list of paintings/illustrations I've made [here](/art).
