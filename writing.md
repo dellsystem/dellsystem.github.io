@@ -4,7 +4,7 @@ jquery: true
 title: Writing
 ---
 
-I started writing in earnest in late 2017, mostly on tech from a left perspective (see [Recent writing](#recent)).
+I started writing in earnest in late 2017, mostly on tech from a left perspective (see [Recent writing](#recent)), and am currently working on a book for [Repeater](https://repeaterbooks.com) with the provocative title _Abolish Silicon Valley_. Breaking into the whole leftist writing world was pretty difficult and required a lot of perseverance (not to mention luck) - happy to answer questions if you're curious.
 
 Before that, my writing is pretty scattered and is mostly technical (programming-related). It's all listed here for data-hoarding/archival purposes, though I wouldn't recommend actually reading any of it:
 
