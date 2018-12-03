@@ -9,6 +9,58 @@ Just my sections (on tech news), archived for posterity. The other editors' sect
 
 ***
 
+## December 2, 2018
+
+_Full newsletter available [on Patreon](https://www.patreon.com/posts/what-our-editors-23077186) for subscribers only. The newsletter was delayed by a week._
+
+### [Somali Workers in Minnesota Force Amazon to Negotiate](https://www.nytimes.com/2018/11/20/technology/amazon-somali-workers-minnesota.html) - The New York Times (Nov 20)
+
+Possibly the first group of Amazon workers in the US that has been able to force Amazon management to the negotiating table. What’s interesting is that the workers deliberately sidestepped union structures in their attempt to get better working conditions (anti-union legislation is pretty brutal in the US anyway):
+
+> Brishen Rogers, a labor law professor at Temple University in Philadelphia, said union-organizing drives were long and grueling, coming down to a yes-or-no vote. Oftentimes, Professor Rogers said, worker centers like Awood that organize along affinity lines of culture or religion can force change.
+
+Really inspiring stuff, and a rebuttal to the stereotype that migrant workers are not organisable (this was a worker-led effort, with many of the workers being refugees who fled Somalia in the 1990’s).
+
+### [Nationalize Amazon](https://theoutline.com/post/6587/nationalize-amazon-make-bezos-our-bitch) - Sarah Jaffe for the Outline (Nov 15)
+
+A provocative suggestion, made in the wake of the whole Amazon HQ2 saga. Brief summary: Amazon made a spectacle of inviting cities to bid for the chance to host its second headquarters, then recently announced that it would be building two, in the two most predictable places: New York City and DC. So the whole affair was a ridiculous sham, essentially.
+
+I do wonder if we need a better term than “nationalisation” for companies like Amazon/Google/Facebook that are profoundly international in scope. “Internationalisation” doesn’t quite work, as it’s already used in software systems (for [adapting software to different languages/locales](https://en.wikipedia.org/wiki/Internationalization_and_localization)). “Municipalise” is a good alternative, but only relevant on the local level. “Socialisation”? “Expropriation”? Please, write me with suggestions.
+
+Some other recommended reading on Amazon HQ2: [Amazon’s HQ2 Spectacle Isn’t Just Shameful—It Should Be Illegal](https://www.theatlantic.com/ideas/archive/2018/11/amazons-hq2-spectacle-should-be-illegal/575539/); [The Biggest, Richest Cities Won Amazon, and Everything Else. What Now for the Rest?](https://www.nytimes.com/2018/11/19/upshot/the-biggest-richest-cities-won-amazon-and-everything-else-what-now-for-the-rest.html) (with the delightful pun “Bezos ex machina”); and [this tweet thread by Anand Giridharadas](https://twitter.com/AnandWrites/status/1062366109658218496).
+
+### [Dodge, Distance, and Distract](https://slate.com/technology/2018/11/facebook-new-york-times-response-zuckerberg.html) - Will Oremus for Slate (Nov 15)
+
+In case anyone still believed that tech companies like Facebook are somehow “better” than older types of companies, or are politically left-leaning in any substantial way:
+
+> One of the most explosive charges was that Facebook employed a Republican opposition-research firm, Definers Public Affairs, to publish negative propaganda about its rivals and disparage its critics, including by painting George Soros as the driving force behind anti-Facebook activism.
+
+Plus, lest anyone forget, Facebook’s head of global policy (Joel Kaplan) is apparently best buds with Brett Kavanaugh, newly-confirmed Supreme Court Justice (& Republican) despite multiple accusations of sexual misconduct. He even [threw a party for him](https://gizmodo.com/facebook-vp-who-incensed-staff-by-supporting-brett-kava-1829611751) at his house.
+
+More recommended reading: [The Decline and Fall of the Zuckerberg Empire](http://nymag.com/intelligencer/2018/11/the-decline-and-fall-of-the-zuckerberg-empire.html) by Max Read for New York Magazine, and [Where’s the Facebook Walkout?](https://slate.com/technology/2018/11/facebook-workers-should-speak-up-about-their-company-right-now.html) by Will Oremus for Slate.
+
+### [Tech workers against imperialism](https://medium.com/tech-workers-coalition/tech-workers-against-imperialism-2d8024e461a7) - RK Upadhya for the Tech Workers Coalition blog (Nov 22)
+
+Not news, but this is an excellent article by RK Upadhya of the Tech Workers Coalition about the role of tech workers’ resistance in a broader anti-imperialism strategy:
+
+> What is striking is that all of these protests are targeted at different points of the same general system of state violence. Military interventions abroad, the incarceration and mass deportations of migrants, and the surveillance and policing of domestic populations are all different expressions of what we can call the armed wing of US imperialism. Recognizing this fact is key in increasing the coordination and effectiveness of the efforts by all the different groups of workers and activists who are resisting this violent system.
+
+Near the end, the author mentions the Lucas Plan as a useful political imaginary:
+
+> Ultimately, we must spread the idea and practice of actually shutting down the supply chains of imperialism, rather than simply asking for reforms from managers, politicians, and bureaucrats, who will inevitably have their own agendas. True worker power isn’t delegating the task of changing society to elites, but doing it ourselves. This should also be tied to a more ambitious program of imagining and implementing new plans for technological development that actually serves human needs, rather than the needs of warmongers and arms dealers. We ought to study and seek to bring back the Lucas Plan, a mass effort by workers in the 1970s at an English defense company — everybody from secretaries to engineers — to come up with a production and distribution plan that would not be based on arms production, but would still incorporate the skill-sets and interests of workers.
+
+The author has previously written an excellent article for Notes From Below titled [Disrupting Disruption: On Intervening Against Technological Restructuring](https://notesfrombelow.org/article/disrupting-disruption). The author has previously written an excellent article for Notes From Below titled Disrupting Disruption: On Intervening Against Technological Restructuring. For more on how the Lucas Plan could apply to the tech industry, see [Bringing Back The Lucas Plan](https://notesfrombelow.org/article/bringing-back-the-lucas-plan) (again Notes From Below). For a recent summary of the state of organising in the tech sector, see [Tech Workers Need to Keep Organizing](https://jacobinmag.com/2018/11/tech-worker-organizing-google-union-walkout) (Jacobin). I also [recently appeared](http://www.futureleft.org/home/2018/11/26/ep-109-organizing-and-mobilization-in-the-tech-industry-ft-wendy-liu-and-ben-tarnoff) on the Future Left podcast along with Ben Tarnoff to talk about worker power in the tech industry.
+
+(I’m actually still working on a way overdue write-up of [the Lucas Plan session at TWT](https://theworldtransformed.org/sessions/workers-control-in-economic-planning) - should be up sometime in the next week!)
+
+### [Beyond “Taming” the Tech Giants](https://newsocialist.org.uk/beyond-taming-the-tech-giants/) - me for New Socialist (Dec 1)
+
+A transcript of a talk I gave at the [DECODE Symposium](https://decodeproject.eu/events/beyond-surveillance-capitalism-reclaiming-digital-sovereignty) in Barcelona in October: “To truly challenge the power of the tech giants, we need more than better regulation. We need class struggle.” Builds on my “abolish Silicon Valley” concept & explicitly links it to workers’ struggles in the tech industry and beyond.
+
+Other recommended reading on this topic: [Can We Scale Down Big Tech?](https://www.dissentmagazine.org/online_articles/can-we-scale-down-big-tech) by Evan Malmgren for Dissent, which reviews Tim Wu’s book on antitrust law as an antidote to the tech giants’ dominance and concludes that trustbusting is not enough:
+
+> To label antitrust as an incomplete proposal is not to accuse The Curse of Bigness of timidity. A revitalization of aggressive trustbusting is as radical a proposal as could be taken seriously in the short term, and Wu charts a clear path to temporarily forestall the social ills of an oligarchic private tech industry. Long-term solutions, however, will almost certainly require a broader reconfiguration of ownership. To do that, we will need to look to the future for answers, and not merely to a Brandeisian past.
+
 ## November 11, 2018
 
 _Full newsletter available [on Patreon](https://www.patreon.com/posts/editors-reading-22655605) for subscribers only._
