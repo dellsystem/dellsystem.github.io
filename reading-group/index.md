@@ -23,6 +23,26 @@ If you've written articles that you'd like participants to read in order to fram
 
 _Probably unnecessary disclaimer: someone being listed here does not imply that I endorse all of their views, or that they endorse all of my views, or that they endorse the views of past speakers, or anything similarly ridiculous._
 
+### December 7: [Richard Seymour](https://twitter.com/leninology)
+
+Richard Seymour is one of my favourite contemporary Marxist writers. I'm actually kind of obsessed with his writing (his article on the politics of style in the [latest issue of Salvage](https://salvagequarterly.bigcartel.com/product/issue-6) absolutely floored me).
+
+Topic: a fairly wide-ranging discussion on the current political moment in Britain (and elsewhere). The disarray of the ruling classes (esp over Brexit); general precarity and malaise for everybody else; and coming ecological collapse. How did we get here? And where do we go next - is there an opening for the left amidst the rubble?
+
+Readings from Richard's [Patreon](https://www.patreon.com/richardseymourwtf):
+
+* [Tory MP at the foodbank](https://www.patreon.com/posts/tory-mp-at-23091249)
+* [What has happened to Britain's ruling class?](https://www.patreon.com/posts/what-has-to-21641230)
+* [Plenty in an age of scarcity](https://www.patreon.com/posts/plenty-in-age-of-21068944)
+
+### November 30: [Sahil Dutta](https://twitter.com/sahildutta)
+
+On management culture, the RAND think tank, and the institutionalisation of neoliberalism. Sahil is a lecturer in political economy at Goldsmiths University, and an affiliate of the Political Economy Research Centre. Chaired by [Hettie O'Brien](https://twitter.com/hettieveronica).
+
+* Managers, not Markets from the August issue of the IPPR Progressive Review (behind an [academic paywall](https://onlinelibrary.wiley.com/doi/full/10.1111/newe.12102))
+* [Servants of Industry? Getting Financialisation Wrong](https://newsocialist.org.uk/servants-of-industry/) for New Socialist
+* [Barely managing: on what’s missing from left political economy](https://newsocialist.org.uk/barely-managing-on-whats-missing-from-left-political-economy/) for Nww Socialist
+
 ### November 15: [Will Davies](https://twitter.com/davies_will)
 
 On his recently-released book, [_Nervous States_](https://www.penguin.co.uk/books/111/1114367/nervous-states.html). Chaired by [Hettie O'Brien](https://twitter.com/hettieveronica).
