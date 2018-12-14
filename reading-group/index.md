@@ -23,6 +23,14 @@ If you've written articles that you'd like participants to read in order to fram
 
 _Probably unnecessary disclaimer: someone being listed here does not imply that I endorse all of their views, or that they endorse all of my views, or that they endorse the views of past speakers, or anything similarly ridiculous._
 
+### December 14: [Lea Ypi](https://twitter.com/lea_ypi)
+
+Lea Ypi, Professor of Political Theory at the LSE, on Brexit, the meaning of citizenship under capitalism, and whether we need a new international.
+
+* [There is no left-wing case for Brexit: 21st century socialism requires transnational organization](http://blogs.lse.ac.uk/politicsandpolicy/no-left-wing-case-for-brexit/) for the LSE blog
+* [Citizenship in a capitalist state](https://www.redpepper.org.uk/citizenship-in-a-capitalist-state/) for Red Pepper
+* [Capitalism will not give us the will to fight capitalism – what we need is a new International](http://blogs.lse.ac.uk/politicsandpolicy/capitalism-will-not-give-us-the-will-to-fight-capitalism/) for the LSE blog
+
 ### December 7: [Richard Seymour](https://twitter.com/leninology)
 
 Richard Seymour is one of my favourite contemporary Marxist writers. I'm actually kind of obsessed with his writing (his article on the politics of style in the [latest issue of Salvage](https://salvagequarterly.bigcartel.com/product/issue-6) absolutely floored me).
