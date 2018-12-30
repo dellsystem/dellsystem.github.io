@@ -3,7 +3,9 @@ layout: speaking
 title: "Derby Transformed"
 ---
 
-On September 1, 2018, I spoke at [Derby Transformed](https://www.facebook.com/events/544102699319978/) on two panels: one about media bias, and an all-female panel on Corbyn's economic plans. The talks weren't recorded, and I only have very loose and free-form notes, which I've copied+pasted below.
+On September 1, 2018, I spoke at [Derby Transformed](https://www.facebook.com/events/544102699319978/) on two panels: one about media bias, and an all-female panel on Corbyn's economic plans. I only have very loose and free-form notes, which I've copied+pasted below. The talk on Corbynomics was recorded:
+
+<iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/551629221&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
 ## Panel on media reform
 
