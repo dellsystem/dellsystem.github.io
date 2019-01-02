@@ -3,13 +3,13 @@ layout: writing
 title: "Jacobin reading group in London"
 ---
 
-In January 2018, I started an informal [Jacobin reading group](https://www.jacobinmag.com/reading-groups), mostly consisting of fellow masters students at LSE. Since then, the group has expanded to include others, and I now co-host the group with [Hettie O'Brien](https://twitter.com/hettieveronica). We meet every 1-2 weeks (Thursday or Friday, usually) at one of several venues in central London from 6:30-8pm, and we usually have a guest speaker whose readings we'll have posted ahead of time.
+In January 2018, I started an informal [Jacobin reading group](https://www.jacobinmag.com/reading-groups), mostly consisting of fellow masters students at LSE. Since then, the group has expanded to include people from outside LSE, with a variety of different political backgrounds & experiences, though all broadly on the radical left.
 
 ### If you're interested in joining us
 
 The goal of this whole thing is radical political education within a small network, while also building a bit of a community at the same time. Some of us go to the pub after the sessions, but that's obviously not a requirement. I started the group with people I knew who were in the same boat as me (in terms of being new to the left and wanting to catch up), but we've since expanded to include people within a variety of different political traditions within the left.
 
-We're reaching the upper limits of capacity right now, but I'm always keen to get new contributors who would fit in well with the group. Send me a message via [FB/Twitter/email](/about) and I'll get back to you when I can!
+The group is on hiatus at the moment, and will be relaunched sometime in early 2019 with new management. If you'd like to be informed when the group relaunches, feel free to drop me an email.
 
 ### If you've been asked to speak
 
