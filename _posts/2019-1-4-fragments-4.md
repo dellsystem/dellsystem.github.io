@@ -35,7 +35,7 @@ One really interesting feature of this particular article has to do with the eli
 
 > When drone video footage with this type of insight can be delivered quickly to protective services, appropriate action can be taken. Border Patrol will know exactly what situation they’re walking into every single time. The application of this type of cutting-edge technology—which is already in the US government’s portfolio—could be used to protect the country and its people. And it’s a lot cheaper and more efficient than a wall..
 
-Notice how much heavy lifting is done by the phrase "appropriate action can be taken". What sort of actions are appropriate? Well, good news: the tech company who manages the drones doesn't have to decide, or even feel morally burdened! They just have to pass on the details to ICE, and as we all know, ICE is a wonderful exemplar of taking "appropriate" action against the vulnerable. Out of sight, out of mind, etc.
+Notice how much heavy lifting is done by the phrase "appropriate action can be taken". What sort of actions are appropriate? Well, good news: the tech company who manages the drones doesn't have to decide, or even feel morally burdened! They just have to pass on the details to ICE, and as we all know, ICE is a [wonderful exemplar](https://notesfrombelow.org/article/building-worker-power-at-microsoft) of taking "appropriate" action against the vulnerable. Out of sight, out of mind, etc.
 
 There is a word for people who voluntarily and knowingly work on the technology used to inflict inhumane treatment on their fellow human beings. That word is complicit. Don't let that be you.
 
