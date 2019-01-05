@@ -5,6 +5,8 @@
         <strong><a href="{{ post.url }}">{{ post.title }}</a></strong>
         -
         {{ post.date|date:"%b %-d" }} ({{ post.content|number_of_words }} words)
+        <br />
+        {{ post.description }}
     </li>
     {% endif %}
 {% endfor %}
