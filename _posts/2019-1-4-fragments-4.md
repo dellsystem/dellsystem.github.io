@@ -20,12 +20,12 @@ After all, approaches like the one laid out in the article aren't exactly uncomm
 
 So this whole replace-the-border-wall-with-drones fantasy (suggested, in case you'd forgotten, by two people who would literally profit from this idea) is really the purest distillation of the Silicon Valley drive. If an industry is inefficient in any way, then make it more efficient with better technology! Doesn't matter if it's also _inhumane_, and maybe just shouldn't exist in the form that it does - who cares about moral issues when VCs will shower you with money to disrupt the payday loans market using the blockchain?
 
-\[edited a few mins after midnight\]: On that note, check out this tweet from co-author Bradley Tusk, which I found only after the post initially went live, courtesy of my friend [Chandler](https://twitter.com/cba):
+\[edited a few mins after midnight: On that note, check out this tweet from co-author Bradley Tusk, which I found only after the post initially went live, courtesy of my friend [Chandler](https://twitter.com/cba):
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Forget about the morality of building a wall, it doesn’t even make sense from a security or cost perspective. Drones and new technology make a lot more sense. Here’s why: Adam Kaplan and my take in Quartz. <a href="https://twitter.com/Edgybees?ref_src=twsrc%5Etfw">@Edgybees</a> <a href="https://t.co/5ViV4e0930">https://t.co/5ViV4e0930</a></p>&mdash; Bradley Tusk (@BradleyTusk) <a href="https://twitter.com/BradleyTusk/status/1081258527820263429?ref_src=twsrc%5Etfw">January 4, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-It's truly a perfect specimen. I can only marvel. Forget about the morality, indeed; if we're going to do this thing that may or not be moral (but who really cares), it might as well be _efficient_, right? Even if it's a truly horrendous possibility, we might as well just assume that it's going to happen and do the best we can in the circumstances - i.e., profit from it.
+It's truly a perfect specimen. I can only marvel. Forget about the morality, indeed; if we're going to do this thing that may or not be moral (but who really cares), it might as well be _efficient_, right? Even if it's a truly horrendous possibility, we might as well just assume that it's going to happen and do the best we can in the circumstances - i.e., profit from it.\]
 
 ### Violence
 
@@ -36,6 +36,8 @@ One really interesting feature of this particular article has to do with the eli
 > When drone video footage with this type of insight can be delivered quickly to protective services, appropriate action can be taken. Border Patrol will know exactly what situation they’re walking into every single time. The application of this type of cutting-edge technology—which is already in the US government’s portfolio—could be used to protect the country and its people. And it’s a lot cheaper and more efficient than a wall..
 
 Notice how much heavy lifting is done by the phrase "appropriate action can be taken". What sort of actions are appropriate? Well, good news: the tech company who manages the drones doesn't have to decide, or even feel morally burdened! They just have to pass on the details to ICE, and as we all know, ICE is a [wonderful exemplar](https://notesfrombelow.org/article/building-worker-power-at-microsoft) of taking "appropriate" action against the vulnerable. Out of sight, out of mind, etc.
+
+\[edited a few more minutes after midight: And don't even get me started on the linguistic villainy committed by the use of "protect" in the phrase "protect the country and its people". Protecting the country from _what_, exactly? From a backlash against an unstable geopolitical arrangement that the US has helped to construct, and from which it currently benefits? Any "protection" these borders confer is about as legitimate as a protection racket.\]
 
 There is a word for people who voluntarily and knowingly work on the technology used to inflict inhumane treatment on their fellow human beings. That word is complicit. Don't let that be you.
 
