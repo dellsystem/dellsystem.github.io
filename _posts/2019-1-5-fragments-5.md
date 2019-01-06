@@ -8,9 +8,9 @@ Spend any amount of time in San Francisco and you'll be inundated with ads implo
 
 A glance around the city would seem to confirm this fact. Tech companies are buying up urban parks and skyscrapers. Their private shuttles quietly idle next to tired municipal buses at bus stops, looking inestimably glam in comparison. Their well-paid employees - more of them every year, it seems - are buying Teslas and shopping at Whole Foods (or paying someone else to). Upward mobility = tech, and tech = upward mobility.
 
-The learn-to-code ads never tell you what will happen to you if you refuse to buy what they're trying to sell to you. But they don't have to, because the city will tell you that, too. Take a look at the homeless encampments, or talk to anyone who makes a living through any of the "gig economy" platforms - many of which originated here. If you're smart, you'll read that as a cautionary tale about how punishing the system can be to those who don't make the cut. If you're smart, you won't let that be you - you'll follow the path out, follow it upward. If you figure out how to navigate the system, you'll be fine.
+The learn-to-code ads never tell you what will happen to you if you refuse to buy into the vision they're hawking. But they don't have to, because the city will tell you that, too. Take a look at the homeless encampments, or talk to anyone who makes a living through any of the "gig economy" platforms - many of which originated here. If you're smart, you'll read that as a cautionary tale about how punishing the system can be to those who don't make the cut. If you're smart, you won't let that be you - you'll follow the path out, follow it upward. If you figure out how to navigate the system, you'll be fine.
 
-If you don't, well, no one's going to listen to you anyway, because you're obviously unworthy as a human being.
+If you don't, well, no one's going to listen to you anyway, because you're obviously just not good enough, and your jealousy of your betters is showing.
 
 ***
 
