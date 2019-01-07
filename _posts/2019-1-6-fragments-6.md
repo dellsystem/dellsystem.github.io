@@ -4,8 +4,6 @@ layout: fragment
 description: "A compendium of bad jokes about politics, philosophy, and other things, featuring myself and @tlornewr."
 ---
 
-a collection of terrible and extremely undialectical jokes featuring @tlornewr, mostly about the late capitalist rubble in which we live
-
 [Toby](https://twitter.com/tlornewr) and I moved to London together in the summer of 2017. That physical shift eastward coincidentally occurred in the middle of a _political_ shift leftward. Before we moved, neither of us really knew anyone on the left, and the only vaguely left-wing event we went to was a mildly off-putting trip to Left Forum right before we moved.
 
 Soon after arriving in London, though, we really plunged into it, in an eerily seamless transition that seemed shot through with bolts of serendipity. Our bookshelf started filling up, with hauls from Verso's perennial sales, Housman's bargain basement and various different book fairs and conferences. New vocabulary emerged in our daily conversations as we were introduced to increasingly radical concepts: neoliberalism, dialectical materialism, vanishing mediators. The world was getting brighter, and more colourful. There were whole new realms of things we could talk about, angles of analysis we had previously somehow overlooked.
