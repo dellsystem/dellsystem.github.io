@@ -62,7 +62,7 @@ _October 14, 2017_
 me: amazon is having a black friday sale ... do we want an echo dot?  
 toby: oh yes, i want an echo dot   
 toby: i will fill our home with echo dots until there is no room for me  
-toby: I will lie on them and have them sing me to sleep as I enjoy the sweet release of death under capitalism
+toby: I will lie under them and have them sing me to sleep as I enjoy the sweet release of death under capitalism
 
 _Nov 18, 2017_
 
