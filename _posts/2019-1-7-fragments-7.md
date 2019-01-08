@@ -1,12 +1,12 @@
 ---
 title: "Startup idea: Airbnb for towed cars"
 layout: fragment
-description: "A truly diabolical startup idea that I hope never materialises"
+description: "A truly diabolical startup idea that I really hope never actually materialises."
 ---
 
 Over the holidays, I had the extremely unpleasant experience of having a car towed because it was "ilegally" parked [according to some byzantine and fairly unclear regulations]. The experience of having to take a Lyft to a sketchy towing lot and paying $200 to get the car back was pretty shitty, but it got me thinking. Most Americans can't easily come up with $400 in an emergency; paying $200 to get your car back would probably be out of the question for a number of people. (That number can be [higher](https://personalfinance.costhelper.com/towed-vehicle.html), too, if your car weighs a lot, or if you didn't pick it up within the first 24 hours, or you're in an area with especially lax legislation.)
 
-Which means that if you don't have a lot of spare cash, and your car gets towed for whatever reason, there is a very real possibility that your life gets a lot worse. Maybe you have to turn to a payday lender to be able to get your car back, which means you'll owe immediately start to owe extortionate interest - possibly accruing indefinitely. Maybe you'll have to sell something important to you. Or maybe you just don't have access to a car for a while, which means it takes you longer to get to work because public transit is underfunded, which means you have less time to care for your family or just like live your life. And in the meantime, your car sits in a lot gathering dust, amassing "storage fees" and counting down the days until it gets sold at an auction.
+Which means that if you don't have a lot of spare cash, and your car gets towed for whatever reason, there is a very real possibility that your life gets a lot worse. Maybe you have to turn to a payday lender to be able to get your car back, which means that you'll immediately start to owe extortionate interest - possibly accruing indefinitely. Maybe you'll have to sell something important to you. Or maybe you just don't have access to a car for a while, which means it takes you longer to get to work because public transit is underfunded, which means you have less time to care for your family or just like live your life (or maybe you lose your job). And in the meantime, your car sits in a lot gathering dust, amassing "storage fees" and counting down the days until it gets sold at an auction.
 
 Now, any person with empathy would look at a situation like that in horror and think, how unfair. They might conclude that the fees shouldn't be so high, or the terms shouldn't be so punishing, or maybe public transit should be vastly improved so that people are less likely to _need_ private vehicles in the first place.
 
@@ -16,7 +16,7 @@ A startup founder, on the other hand, would look at that situation and see it as
 
 Enter Tow.io: Airbnb for towed cars.
 
-\[To be clear, I am not saying this is a good idea. Only a startup founder with absolutely no moral scruples would ever consider this.\]
+\[To be clear, I am not saying this is a good idea. Only a startup founder with absolutely no moral scruples would ever consider this. That is to say, quite a few of them.\]
 
 The car-towing industry operates with a massive inefficiency. Because of the existence of "poor people" (our target market), there are all these cars sitting in a lot, totally unused, and possibly never to be reunited with their previous owners. These "poor people" would probably like their car back one day, ideally without having to pay the full fee, and would probably be willing to do cooperate to a high degree to make that happen. The towing companies, on the other hand, probably wouldn't mind a bit of extra revenue, especially if they don't have to do any extra work for it.
 
@@ -44,6 +44,12 @@ That analogy got away from me a little bit. My point is that this sort of thinki
 
 In the case of our hypothetical Tow.io, the ostensible goal might be "helping" people whose cars have been towed, but that's clearly just a means to an end. The business model _requires_ people whose cars have been towed and who cannot afford to pay the fees immediately. You can imagine a startup like this eventually lobbying local politicians to increase maximum fees for towing and increasing the number of no-parking zones (similar to real-life tax prep software companies [lobbying against tax reform](https://www.propublica.org/article/filing-taxes-could-be-free-simple-hr-block-intuit-lobbying-against-it)).
 
-Tow.io doesn't actually have to be a startup, by the way. However, if it is pitched like a startup, with a dumb zeitgeisty name and a sexy-looking app, it'll be so much easier to raise a lot of money right away, which would allow it to quickly capture the car-towers market and immediately because the dominant player in the field.
+Tow.io doesn't actually have to be a startup, by the way. However, if it is pitched like a startup, with a dumb zeitgeisty name and a sexy-looking app, it'll be so much easier to raise a lot of money right away, which would allow it to quickly capture the car-towers market and immediately because the dominant player in the field. If Tow.io found a way to incorporate the blockchain, even better.
 
-I made it a startup because the business plan feels indicative of a particular way of thinking: one that's simultaneously clever on a small scale (in spotting inefficiencies) and extremely terrible on a larger scale. It's an illustration of the worst of startup culture, which is sadly imbricated with a horrific neoliberal rationality that values a few startup assholes getting rich way more than it values everybody else having _actual_ freedom over their lives. Please don't start this startup.
+***
+
+So why did I write 1,500 words about this silly and obviously hypothetical startup idea? Because I think it's indicative of a particular way of thinking: one that's simultaneously clever on a small scale (in spotting inefficiencies) and extremely terrible on a larger scale. It's an illustration of the worst of startup culture, which is sadly imbricated with a horrific neoliberal rationality that values a few startup assholes getting rich way more than it values everybody else having _actual_ freedom over their lives.
+
+Please don't start this startup, or any startup like this. You would not actually be "helping" people; you would instead be using "helping people" as both excuse and stepping-stone to being able to profit from their helplessness, which will eventually incentivise you to _keep people helpless_. If you actually want to help people, find the root of their problems and tackle that instead.
+
+(The problem is probably capitalism. Maybe try disrupting that.)
