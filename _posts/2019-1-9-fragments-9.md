@@ -36,14 +36,14 @@ Competition is a great way to maintain the strength of any unjust system: get th
 
 ***
 
-In a way, this is the evolutionary apotheosis for any such system. To remain in power, it must develop an effective strategy for containing potential opposition, and brewing up a competition to ascend the ranks is just _perfect_. Get the discontent to tear at each other to compete for scraps. Once they've managed to affirm their own superiority by climbing over their peers, they'll buy into the system. (I wrote about this phenomenon in the context of [Silicon Valley](https://dellsystem.me/posts/fragments-5) in a previous fragment.)
+In a way, this is the evolutionary apotheosis for any such system. To remain in power, it must develop an effective strategy for containing potential opposition, and brewing up a competition to ascend the ranks is just _perfect_. Get the discontents to tear at each other to compete for scraps. Once they've managed to affirm their own superiority by climbing over the corpses of their peers, they'll buy into the system. (I wrote about this phenomenon in the context of [Silicon Valley](https://dellsystem.me/posts/fragments-5) in a previous fragment.)
 
 You _need_ some sort of palliative, you see. If you don't have some way of subduing those who are not benefiting from the system, they will overthrow it. Simple as that. This isn't even a conspiracy theory - even the framers of the US constitution acknowledged this possibility (the ["tyranny of the majority"](https://en.wikipedia.org/wiki/Tyranny_of_the_majority).)
 
 But the central premise of The Hunger Games is that no such palliative can last forever. Eventually, the unnatural system will fall. It might take an unwilling hero(ine), and a whole host of other factors, but it's inevitable.
 
-The combination of violence and spectacle needed to enforce the class system in The Hunger Games is pretty effective, but it's not perfect. There are always cracks in the edifice. The ruling class needs the participation of the others in the system - the class that produces all the resources needed for their rule. Realising that is the key to reclaiming agency, and to overthrowing the system.
+The combination of violence and spectacle needed to enforce the class system in The Hunger Games is pretty effective, but it's not perfect. There are always cracks in the edifice. The ruling class needs the participation of the other class in the system - the class that produces all the resources needed for their rule. Realising that is key for the other class to reclaim agency, in order to eventually overthrow the system.
 
-Seeing that system for what it is - that's the first step. Understand how the system works, and identifying the lines of forces that keep it running, is the key to overcoming it.
+Seeing the system for what it is - that's the first step. Understanding how the system works, and identifying the lines of forces that keep it running, is the key to overcoming it.
 
 Remember who the enemy is. Don't let them deceive you.
