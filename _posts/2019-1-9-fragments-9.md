@@ -34,9 +34,9 @@ There are so many ways in which this is a perfect metaphor for actually existing
 
 Competition is a great way to maintain the strength of any unjust system: get the people on the bottom to fight each other, instead of collectively turning their attention to the top. Get them to buy into the individual possibility of rising to the top (if they work hard enough) rather than questioning why they should have to do so at all, when the other class doesn't.
 
-In a way, this is what happens to any such system. To remain in power, it must develop an effective strategy for containing potential opposition, and brewing up a competition to ascend the ranks is just _perfect_. Get the discontent to tear at each other to compete for scraps. Once they've managed to affirm their own superiority by climbing over their peers, they'll buy into the system. (I wrote about this phenomenon in the context of [Silicon Valley](https://dellsystem.me/posts/fragments-5) in a previous fragment.)
-
 ***
+
+In a way, this is the evolutionary apotheosis for any such system. To remain in power, it must develop an effective strategy for containing potential opposition, and brewing up a competition to ascend the ranks is just _perfect_. Get the discontent to tear at each other to compete for scraps. Once they've managed to affirm their own superiority by climbing over their peers, they'll buy into the system. (I wrote about this phenomenon in the context of [Silicon Valley](https://dellsystem.me/posts/fragments-5) in a previous fragment.)
 
 You _need_ some sort of palliative, you see. If you don't have some way of subduing those who are not benefiting from the system, they will overthrow it. Simple as that. This isn't even a conspiracy theory - even the framers of the US constitution acknowledged this possibility (the ["tyranny of the majority"](https://en.wikipedia.org/wiki/Tyranny_of_the_majority).)
 
