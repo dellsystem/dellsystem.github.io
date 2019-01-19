@@ -32,6 +32,10 @@
     <meta name="description" content="{{ page.description }}">
     <meta name="twitter:description" content="{{ page.description }}">
     {% endif %}
+    {% if page.image %}
+    <meta property="og:image" content="{{ page.image }}">
+    <meta name="twitter:card" content="summary_large_image" />
+    {% endif %}
 </head>
 
 <body>
