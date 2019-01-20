@@ -34,7 +34,11 @@
     {% endif %}
     {% if page.image %}
     <meta property="og:image" content="{{ page.image }}">
+    {% if page.use_small_image %}
+    <meta name="twitter:card" content="summary" />
+    {% else %}
     <meta name="twitter:card" content="summary_large_image" />
+    {% endif %}
     {% endif %}
 </head>
 
