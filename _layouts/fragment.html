@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+{% assign number = page.url | remove_first: '/posts/fragments-' %}
 
 <div class="post">
     <p>
@@ -9,7 +10,7 @@ layout: default
         {{ page.description }}
     </p>
     <p>
-        <em>This blog post is part of a personal challenge to write something every day in 2019. <a href="/fragments">See the other fragments.</a></em>
+        <em>This blog post is from day {{ number }} of a personal challenge to write something every day in 2019. <a href="/fragments">See the other fragments.</a></em>
     </p>
     <hr />
     {{ content }}
