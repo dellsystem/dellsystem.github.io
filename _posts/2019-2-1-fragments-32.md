@@ -2,6 +2,10 @@
 title: The Viewer In The High Castle
 layout: fragment
 description: "Thoughts on the TV adaptation of The Man In The High Castle. Plus: a previously unpublished essay on why this sort of dystopian science fiction is important."
+tags:
+- the-man-in-the-high-castle
+- david-foster-wallace
+- cultural-criticism
 ---
 
 Toda's blog post is a bit light on original content, mostly because I've been catching up on various life things and haven't had really time to write. Instead, the bulk of this post will consist of a previously unpublished essay about _The Man In The High Castle_, which is a TV show based on a book by Philip K. Dick. The show - which triggered some [controversy](https://www.theguardian.com/us-news/2015/nov/25/nazi-inspired-ads-for-the-man-in-the-high-castle-pulled-from-new-york-subway) over its immersive advertising campaign in NYC subway cars - is set in an alternative timeline where the Axis Powers had won WWII. In that world, 1960s America has been carved up by the Nazis on the East Coast and the Japanese Empire on the West Coast.

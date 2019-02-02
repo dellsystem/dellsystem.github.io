@@ -1,0 +1,21 @@
+---
+layout: default
+title: "Fragments :: Tags"
+---
+
+<p>The blog posts in my self-imposed writing-every-day challenge for 2019, categorised by tag.</p>
+<p><a href="/fragments">Back to main fragments page</a></p>
+
+{% assign sorted_tags = site.tags|sort %}
+{% for tag in sorted_tags %}
+    <h3 id="{{ tag[0] }}">{{ tag[0] }}</h3>
+    <ul>
+        {% for post in tag[1] %}
+        <li class="post-excerpt">
+            <strong><a href="{{ post.url }}">{{ post.title }}</a></strong>
+            - {{ post.date|date:"%b %-d" }}.
+            {{ post.description }}
+        </li>
+        {% endfor %}
+    </ul>
+{% endfor %}

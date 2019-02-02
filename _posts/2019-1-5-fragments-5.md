@@ -2,6 +2,10 @@
 title: "Upward mobility and the tech industry"
 layout: fragment
 description: "Musings on the concept of upward mobility, and how it's used to excuse inequality, no matter how stark or unjustifiable."
+tags:
+- inequality
+- ideology
+- gig-economy
 ---
 
 Spend any amount of time in San Francisco and you'll be inundated with ads imploring you to learn to code. Billboards, subway ads, promoted tweets and YouTube pre-roll. Whether it's enrolling in a coding bootcamp or signing up for an online program, the implication is clear, and it's compelling: learn to code, and your life will get better. Unhappy with your crappy job without health insurance and living in a shoebox with 3 roommates? Don't worry, there's a way out; you just have to be smart and work hard.

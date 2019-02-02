@@ -2,6 +2,9 @@
 title: "Startup idea: Airbnb for towed cars"
 layout: fragment
 description: "A truly diabolical startup idea that I really hope never actually materialises."
+tags:
+- inequality
+- startups
 ---
 
 Over the holidays, I had the extremely unpleasant experience of having a car towed because it was "ilegally" parked [according to some byzantine and fairly unclear regulations]. The experience of having to take a Lyft to a sketchy towing lot and paying $200 to get the car back was pretty shitty, but it got me thinking. Most Americans can't easily come up with $400 in an emergency; paying $200 to get your car back would probably be out of the question for a number of people. (That number can be [higher](https://personalfinance.costhelper.com/towed-vehicle.html), too, if your car weighs a lot, or if you didn't pick it up within the first 24 hours, or you're in an area with especially lax legislation.)

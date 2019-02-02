@@ -2,6 +2,10 @@
 title: "Why I'm doing this"
 layout: fragment
 description: "Why I'm making myself write a blog post every day in 2019."
+tags:
+- personal
+- mark-fisher
+- writing
 ---
 
 For 2019, my New Year's resolution is to write a blog post every single day, on a different topic. Any length, any topic, as long as it's something I actually want to write about, and the post is published before midnight in whatever timezone I'm in (currently, GMT-8).

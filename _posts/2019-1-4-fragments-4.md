@@ -2,6 +2,9 @@
 title: "But what if we used drones?"
 layout: fragment
 description: "The US needs neither a border wall nor drones. Plus: a previously unpublished piece on 'illegal' immigration."
+tags:
+- immigration
+- startups
 ---
 
 I came across this Quartz article today: [**Drones would boost border security better than a wall ever could**](https://qz.com/1515482/the-us-government-shutdown-could-be-ended-by-drones/), by Adam Kaplan (apparently "the CEO of a drone software visualization company") & Bradley Tusk ("venture capitalist who protects startups from political risk").

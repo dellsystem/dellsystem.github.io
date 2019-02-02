@@ -8,6 +8,8 @@ layout: default
         <strong>{{ page.date | date: "%B %-d, %Y" }} ({{ page.content|number_of_words }} words)</strong>
         ::
         {{ page.description }}
+	<br />
+	<strong>Tags:</strong>  {% for tag in page.tags %}<strong><a href="/fragments/tags#{{ tag }}">{{ tag }}</a></strong>{% if forloop.last %}{% else %}, {% endif %}{% endfor %}
     </p>
     <p>
         <em>This blog post is from day {{ number }} of a personal challenge to write something every day in 2019. <a href="/fragments">See the other fragments.</a></em>

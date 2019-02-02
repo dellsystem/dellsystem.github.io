@@ -2,6 +2,12 @@
 title: Remember who the enemy is
 layout: fragment
 description: "On Mark Fisher's 2013 blog post about The Hunger Games & why it's still relevant today."
+tags:
+- mark-fisher
+- the-hunger-games
+- ideology
+- class-struggle
+- cultural-criticism
 ---
 
 If you've read the [introductory post](/posts/fragments-1) to this series, you know that I'm a big fan of [k-punk](https://repeaterbooks.com/product/k-punk-the-collected-and-unpublished-writings-of-mark-fisher-2004-2016/), the posthumous anthology of Mark Fisher's work that was published last November by Repeater Books. The book is chock-full of really amazing analysis and gorgeous prose, on a whole host of topics & cultural artefacts, but if you were to ask me what my favourite piece was, the answer is easy.

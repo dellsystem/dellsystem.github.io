@@ -2,6 +2,9 @@
 title: "Dialectical banter"
 layout: fragment
 description: "A compendium of bad jokes about politics, philosophy, and other things, featuring myself and @tlornewr."
+tags:
+- personal
+- the-left
 ---
 
 [Toby](https://twitter.com/tlornewr) and I moved to London together in the summer of 2017. That physical shift eastward coincidentally occurred in the middle of a _political_ shift leftward. Before we moved, neither of us really knew anyone on the left, and the only vaguely left-wing event we had gone to consisted of a mildly off-putting trip to Left Forum right before we moved (we were pretty much just confused all the time).

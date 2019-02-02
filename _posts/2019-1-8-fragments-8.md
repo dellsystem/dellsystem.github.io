@@ -2,6 +2,11 @@
 title: "Revenge of the nerds"
 layout: fragment
 description: "Reflections on Paul Graham's 2003 blog post about nerds, and what it illuminates about the tech industry today."
+tags:
+- startups
+- ideology
+- personal
+- underdogs
 ---
 
 In today's piece, I'd like to talk about a 2003 blog post by Paul Graham called "[Why nerds are unpopular](http://www.paulgraham.com/nerds.html)".

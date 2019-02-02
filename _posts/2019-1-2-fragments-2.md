@@ -2,6 +2,10 @@
 title: "2018 in retrospective"
 layout: fragment
 description: "A highly curated summary of things that happened to me in 2018."
+tags:
+- personal
+- immigration
+- writing
 ---
 
 2018 has been quite an eventful year for me.
