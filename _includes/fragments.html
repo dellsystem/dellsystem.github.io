@@ -8,6 +8,7 @@
         {{ post.date|date:"%b %-d" }} ({{ post.content|number_of_words }} words)
         <br />
         {{ post.description }}
+        Tags: {% for tag in post.tags %}<strong><a href="/fragments/tags#{{ tag }}">{{ tag }}</a></strong>{% if forloop.last %}{% else %}, {% endif %}{% endfor %}
     </li>
     {% endif %}
 {% endfor %}
