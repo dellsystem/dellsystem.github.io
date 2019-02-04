@@ -54,3 +54,5 @@ There's something kind of unbearably tragic about the Super Bowl being little mo
 But maybe we can change the future, by embarking on a movement to [abolish the present state of things](https://libcom.org/library/real-movement-red-black-notes) ...
 
 _This post is even later than yesterday's. Oops. I'm going to try and write my blog posts earlier in the day, in the future, just so I stop subjecting myself to a last-minute scramble to come up with a blog post topic at like 10:30pm every night._
+
+_Also, in case you were wondering: the egg turned to be a Hulu ad to [raise awareness for mental health](https://techcrunch.com/2019/02/03/hulu-instagram-egg-mental-health/). Corporate social responsibility in action._
