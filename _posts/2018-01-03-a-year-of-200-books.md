@@ -1,11 +1,9 @@
 ---
 layout: post
 title: A year of 200 books
-categories:
-- my-life
 ---
 
-Somehow, in the midst of the political and ecological hellscape that was 2017, I managed to read over 200 books. (The exact number is debateable, for ontological reasons that will be eludicated shortly.) This achievement was mediated by the unyielding technological sadism of a [Goodreads reading challenge](https://www.goodreads.com/user/year_in_books/2017), with its brutally effective reminders of far behind I was at any given moment:
+Somehow, in the midst of the political and ecological hellscape that was 2017, I managed to read over 200 books. (The exact number is debateable, for ontological reasons that will be eludicated shortly.) This achievement was mediated by the unyielding technological sadism of a [Goodreads reading challenge](https://www.goodreads.com/user/year_in_books/2017), with its brutally effective reminders of how far behind I was at any given moment:
 
 ![an extremely stressful progress indicator](https://pbs.twimg.com/media/DRmp-22XcAEC_Mp.jpg "this is fascism")
 
