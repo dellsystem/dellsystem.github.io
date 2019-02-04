@@ -7,9 +7,6 @@ layout: default
         <a href="/blog">&laquo; Back to blog</a>
         ::
         <em>{{ page.date | date: "%B %-d, %Y" }}</em>
-        ::
-        Categories:
-        {% for category in page.categories %}<strong><a href="/words#{{ category|replace:' ','-' }}">{{ category }}</a></strong>{% if forloop.last %}{% else %}, {% endif %}{% endfor %}
     </p>
     <img src="/img{% if page.image %}/posts/{{ page.image }}{% else %}{{ page.url }}{% endif %}.png" alt="{{ page.title }}" class="leftfloat" />
     {{ content }}
