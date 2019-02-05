@@ -1,14 +1,14 @@
 ---
 title: "Selling shovels"
 layout: fragment
-description: "On Silicon Valley and the new Gold Rush."
+description: "On Silicon Valley and the new California Gold Rush."
 tags:
 - startups
 - class-struggle
 - personal
 ---
 
-It's become trite to compare between today's tech boom to the California Gold Rush in the 1850's. It's not even a remotely critical comparison to make - various proselytisers of tech and/or startups have accepted it, and have come up with riffs on that theme. The most common one I've heard is: if there's a gold rush going on, don't be the sucker mining for gold. Instead, take advantage of the newfound market for shovels. You can make a lot of money selling shovels during a gold rush.
+It's become trite to compare today's tech boom to the California Gold Rush in the 1850's. It's not even a remotely critical comparison to make - various proselytisers of the tech industry have accepted it, and have come up with riffs on that theme. The most common one I've heard is: if there's a gold rush going on, don't be one of the suckers who dig for gold. Instead, take advantage of the newfound market for shovels. You can make a lot of money selling shovels during a gold rush.
 
 On a microscopic level, there is definitely a nugget of wisdom in that. There is entrepeneurial value in this advice. "The big money isn’t in the business, it is in the tools", suggests one [Medium post](https://medium.com/startup-grind/dont-mine-for-gold-when-you-can-sell-shovels-7ad6bc145542) hosted by Startup Grind. Identify a miniature Gold Rush and position yourself as a shovel-seller whose wares are must-haves for any entreprising miner. Time it right, and you can walk away with a ton of money, without having to take on any of the risks. It's a profitable business, and also one that feels ethically clean - they are providing a useful service to the miners, after all.
 
