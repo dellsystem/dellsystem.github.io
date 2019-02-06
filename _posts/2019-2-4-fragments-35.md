@@ -6,9 +6,10 @@ tags:
 - startups
 - class-struggle
 - personal
+- advertising
 ---
 
-It's become trite to compare today's tech boom to the California Gold Rush in the 1850's. It's not even a remotely critical comparison to make - various proselytisers of the tech industry have accepted it, and have come up with riffs on that theme. The most common one I've heard is: if there's a gold rush going on, don't be one of the suckers who dig for gold. Instead, take advantage of the newfound market for shovels. You can make a lot of money selling shovels during a gold rush.
+It's become trite to compare today's tech boom to the California Gold Rush in the 1850's. It's not even a remotely critical comparison to make - various proselytisers of the tech industry have accepted it, and have come up with riffs on that theme. The most common one I've heard is: if there's a gold rush going on, don't be one of the suckers who dig for gold. Instead, take advantage of the newfound market for shovels. You can make a lot of money [selling shovels during a gold rush](https://www.linkedin.com/pulse/why-its-better-selling-shovels-than-digging-gold-sam-kothari/).
 
 On a microscopic level, there is definitely a nugget of entrepreneurial wisdom in this advice. "The big money isn’t in the business, it is in the tools", suggests one [Medium post](https://medium.com/startup-grind/dont-mine-for-gold-when-you-can-sell-shovels-7ad6bc145542) hosted by Startup Grind. Identify a miniature Gold Rush and position yourself as a shovel-seller whose wares are must-haves for any entreprising miner. Time it right, and you can walk away with a ton of money, without having to take on any of the risks. It's a profitable business, and also one that feels ethically clean - you are providing a useful service to the miners, after all.
 
@@ -28,7 +29,7 @@ It wasn't because we really cared about the "miners" - in this case, brands and 
 
 I guess it was one of those things where it seemed so established that it _had_ to be legitimate. The industry was already so massive, and there was so much infrastructure, and so many people devoting their lives to it, and sooo much money sloshing around. There was no need to question its fundamental precepts when we could just focus on trying to get a piece of the pie.
 
-It was probably the same during the original gold rush, too. You had this whole industry - this whole miniature economy - set up for the express purpose of getting some minerals out of the ground. Hell, an entire banking system bloomed as a result (Wells Fargo got its start trading and assaying gold during the California Gold Rush). There was an air of legitimacy to it. Why would you question it, when you could get in on it simply by grabbing a shovel (or, better yet, selling them).
+It was probably the same during the original gold rush, too. You had this whole industry - this whole miniature economy - set up for the express purpose of getting some minerals out of the ground. Hell, an entire banking system bloomed as a result ([Wells Fargo](https://www.huffingtonpost.com/entry/why-does-wells-fargo-still-exist_us_5b80148ee4b0729515126185) got its start trading and assaying gold during the California Gold Rush). There was an air of legitimacy to it. Why would you question it, when you could get in on it simply by grabbing a shovel (or, better yet, selling them).
 
 But there must have been people at the time who did question it. There must have been people who thought the whole industry was a scam, who looked at the toxic environmental consequences and concluded that it wasn't worth it. There must have been people who bemoaned the inanity of all these people giving up their days and even their lives to dig up some Au, most of which would just end up in a vault somewhere. Some of the gold might have gone on to be useful for actual innovative purposes, but its primary value was exchange-value, not use-value: currency, not machines.
 
