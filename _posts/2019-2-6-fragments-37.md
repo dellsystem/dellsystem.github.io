@@ -2,6 +2,7 @@
 title: "Gaming frequent flyer programs"
 layout: fragment
 description: "As airlines' products have gotten more and more consumer-unfriendly - made possible through consolidation and shareholder pressures - their loyalty programs have become more like games."
+image: https://i.imgur.com/NUYNqG6.png
 tags:
 - financialisation
 - personal
