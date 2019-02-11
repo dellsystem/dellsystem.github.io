@@ -7,6 +7,7 @@ tags:
 - financialisation
 - personal
 - travel
+- games
 ---
 
 A few years back, when I was your typical upwardly mobile subject under neoliberalism, I got really into travel rewards programs. I'm talking frequent flyer programs, hotel loyalty programs, credit card churning. It started when I opened a bank account with Citibank (I needed a US bank account in order to get paid during my internship) and the Citibank employee suggested I also apply for a credit card, with a rewards program.
