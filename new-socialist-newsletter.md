@@ -7,6 +7,8 @@ layout: writing
 
 Just my sections (on tech news), archived for posterity. The other editors' sections are available on Patreon for subscribers only.
 
+I wrote these every 2-3 weeks from June to December of 2018, but stopped in 2019 because of my new [blog-post-every-day](/fragments) routine.
+
 ***
 
 ## December 23, 2018
