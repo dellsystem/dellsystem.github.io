@@ -17,12 +17,14 @@ tags:
 6. Oh, I see what you're saying. Yes, technically, we could force customers to tip at least a certain amount, or we could add a delivery fee, to make sure workers get paid enough to live on. But look, we offer competitive pay rates.
 7. Oh, our workers are definitely happy with the new pay system. Look at the results of our internal survey in which we asked workers to tell us honestly, on a scale of 1-5, how happy they felt about it! Plus, you know, if they really didn't like it, why haven't they just left? They're free to work for any of our competitors, or get a job at Walmart or McDonalds or Starbucks - whatever jobs these people are qualified for, I don't really know.
 8. No, I haven't had to work a full-time service job in the last 10 years, why do you ask?
-9. If these people really wanted a better job, then they should just learn to code. It's really not that hard. Anyone can make it out here in Silicon Valley - they just need to be the best version of themselves. It's a meritocracy.
-10. Yeah I went to Stanford, why?
+9. If these people really want a better job, then they should just learn to code. It's really not that hard. Anyone can make it out here in Silicon Valley - they just need to be the best version of themselves. It's a meritocracy.
+10. Yes, I went to Stanford, why?
 11. Look, we're getting off-topic here. This policy isn't even that financially beneficial for us. People don't even tip that much! The point of using a per-delivery pay system, as opposed to an hourly rate, is because we don't the workers to get lazy. To maintain high order volume, we need them to deliver as quickly as possible, and the best way to do that is to pay them per delivery, but also not pay them too _much_ or they might not need to work as much.
 12. You know, we're just keeping them hungry.
 13. Not like literally hungry, although they are delivering food, ha ha. No, seriously, we just want them delivering faster. It's good for us, and it's good for them, too! Adversity makes you stronger.
 14. No, I cannot think of a single reason why our workers would be angry with us. They are very happy with the employment opportunities we provide, and they appreciate the flexibility we offer, so they can fit in working for us in between their 3 other jobs.
 15. I don't know why you have so much sympathy for these people. It's not like they're sewing Gap clothes in Bangladeshi factories or forced to mine diamonds in the Congo, for goodness' sake.
-16. No, obviously, we're not doing anything to help workers in Bangladesh or the Congo. Although, I mean, if we expanded to those markets, we would provide employment opportunities there, which would obviously help those workers by providing them with more choices.
+16. No, obviously, we're not doing anything to help workers in Bangladesh or the Congo. Although, I mean, if we expanded to those markets, we _would_ be helping those workers by providing them with employment opportunities.
 17. We would offer competitive pay rates.
+
+[Previously](/posts/fragments-43).
