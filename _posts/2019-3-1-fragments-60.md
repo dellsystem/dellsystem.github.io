@@ -5,6 +5,7 @@ description: "An imaginary conversation with a representative of an unnamed gig 
 tags:
 - gig-economy
 - david-foster-wallace
+image: https://i.imgur.com/MWhxUfA.png
 ---
 
 (In the style of David Foster Wallace's _Brief Interviews With Hideous Men_.)
@@ -27,4 +28,6 @@ tags:
 16. No, obviously, we're not doing anything to help workers in Bangladesh or the Congo. Although, I mean, if we expanded to those markets, we _would_ be helping those workers by providing them with employment opportunities.
 17. We would offer competitive pay rates.
 
-[Previously](/posts/fragments-43).
+***
+
+([Previously](/posts/fragments-43). The preview image for this blog post, as seen on social media, comes from a [flyer](https://twitter.com/jasonpjason/status/1101166422502207488) I made for a Tech Workers Coalition [outreach event](http://www.sfexaminer.com/sf-official-calls-investigation-doordash-taking-tips-delivery-workers/).)
