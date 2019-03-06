@@ -30,7 +30,7 @@ All this to say that in the context of our economic system, there is no singular
 
 Whether this elision is due to ignorance, or political cowardice, or malevolence, it almost doesn't matter. The effective outcome is still apologism, where the system's intrinsic divisions are papered over under the pretense that the system concerns everyone equally.
 
-It's becoming increasingly clear that what is good for Jeff Bezos is not necessarily [good for America](https://www.jacobinmag.com/2018/12/general-motors-united-auto-workers-closure), or for the world at large. Of course, there will always be efforts to pretend otherwise, simply because it's a useful way to maintain ideological buy-in for the status quo. But take one look at the [wealth inequality](https://www.jacobinmag.com/2017/10/wealth-inequality-united-states-federal-reserve) figures and you'll find a hell of a lot of empirical evidence that the system is not working for most people.
+It's becoming increasingly clear that what is good for Jeff Bezos is not necessarily [good for America](https://www.jacobinmag.com/2018/12/general-motors-united-auto-workers-closures), or for the world at large. Of course, there will always be efforts to pretend otherwise, simply because it's a useful way to maintain ideological buy-in for the status quo. But take one look at the [wealth inequality](https://www.jacobinmag.com/2017/10/wealth-inequality-united-states-federal-reserve) figures and you'll find a hell of a lot of empirical evidence that the system is not working for most people.
 
 ***
 
