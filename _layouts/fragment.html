@@ -12,7 +12,7 @@ layout: default
 	<strong>Tags:</strong>  {% for tag in page.tags %}<strong><a href="/fragments/tags#{{ tag }}">{{ tag }}</a></strong>{% if forloop.last %}{% else %}, {% endif %}{% endfor %}
     </p>
     <p>
-        <em>This blog post is from day {{ number }} of a personal challenge to write something every day in 2019. <a href="/fragments">See the other fragments.</a></em>
+        <em>This post is day {{ number }} of a personal challenge to write every day in 2019. See the <a href="/fragments">other fragments</a>, or sign up for my <a href="https://dellsystem.substack.com">weekly newsletter</a>.</em>
     </p>
     <hr />
     {{ content }}
