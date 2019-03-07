@@ -7,7 +7,7 @@ tags:
 - class-struggle
 ---
 
-I was listening to an old [_Jacobin Radio_ episode](https://www.blubrry.com/jacobin/36574441/behind-the-news-free-market-isnt-free/) featuring Rob Larson, author of _Capitalism vs Freedom: The Toll Road to Serfdom_. I haven't read the book yet, but the episode is a good one that responds to a point often made by capitalism's proponents: that capitalism promotes freedom. Whereas socialism, according to its detractors, implies giving up freedom, or even [slavery](https://townhall.com/columnists/johnhawkins/2016/02/16/capitalism-is-freedom-socialism-is-slavery-n2119968).
+Today, I was listening to an old [_Jacobin Radio_ episode](https://www.blubrry.com/jacobin/36574441/behind-the-news-free-market-isnt-free/) featuring Rob Larson, author of _Capitalism vs Freedom: The Toll Road to Serfdom_. I haven't read the book yet, but the episode is a good one that responds to a point often made by capitalism's proponents: that capitalism promotes freedom, while socialism implies giving up freedom to an all-powerful government (see [this piece](https://townhall.com/columnists/johnhawkins/2016/02/16/capitalism-is-freedom-socialism-is-slavery-n2119968) for an example).
 
 How should the left respond to this perspective? After all, freedom is a good thing, and we can't just let the right own that terrain. Instead, we should find a way to refute capitalism's unique claim to freedom. Freedom is multifarious; there is no universal "freedom" - it is always constrained to a particular domain, and granted to a particular subject.
 
@@ -15,11 +15,9 @@ The question then becomes: what sorts of freedom does capitalism permit, and for
 
 ***
 
-In the episode, Larson mentions Isaiah Berlin's distinction between freedom _to_, or positive freedom, and freedom _from_, or negative freedom. For Larson, free market thinkers like Milton Friedman and Friedrich Hayek were overly concerned with ensuring negative freedom, in the sense of being free from government intervention, to be achieved via the market. This belief, of course, is widespread in the fabric of neoliberal world order today.
-
 What freedoms are provided by the market? The most obvious kind is freedom in the realm of consumption: we have greater choice in terms of the commodities we are able to purchase.
 
-Now, there is some merit to this sort of freedom, even if its utility is overblown (for certain types of commodities, I'd argue we have _too much_ choice, to the point where it provides negative social value). Ultimately, though, this sort of freedom isn't "free". This freedom comes at a cost: a severe limitation of freedom in the realm of _production_. We are theoretically free to consume things, but in order to actually activate that freedom, we need money. And for most of us, that cost is wholesale surrender of our freedom to an employer for 8 hours a day.
+Now, there is some merit to this sort of freedom, even if its utility is overblown (for certain types of commodities, I'd argue we have _too much_ choice, to the point where it provides negative social value). Ultimately, though, this sort of freedom isn't "free". This freedom comes at a cost: a severe limitation of freedom in the realm of _production_. We are theoretically free to consume things, but in order to actually activate that freedom, we need money. And for most of us, that cost is a wholesale surrender of our freedom to an employer for 8 hours a day.
 
 Of course, just the recognition that this freedom comes at a cost isn't necessarily an indictment of capitalism itself. This could still be an acceptable arrangement if the costs and benefits were equally distributed. But they're not: not everyone gets to own an iPhone, stay at a Ritz-Carlton, or drive a Tesla. Some people have to [assemble the iPhones](https://www.businessinsider.com/iphone-sales-decline-foxconn-factory-workers-falling-wages-lose-perks-2019-3), [clean the rooms](https://www.vox.com/policy-and-politics/2018/12/4/18125505/marriott-workers-end-strike-wage-raise) at the Ritz-Carltons, and [put together the Teslas](https://www.theguardian.com/technology/2018/jun/13/tesla-workers-pay-price-elon-musk-failed-promises) - all under punishing conditions, for low wages that render them mostly unable to experience the benefits of their work from the other side.
 
