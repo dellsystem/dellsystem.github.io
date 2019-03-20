@@ -78,6 +78,31 @@ code I do write is primarily for [a personal project designed to help me retain
 information from the books I read](http://bookmarker.dellsystem.me), so I
 haven't animated any martlets in a while.
 
+email newsletters i subscribe to
+--------------------------------
+
+I subscribe to a ton of email newsletters covering a mix of tech, econ, culture, and politics, on substack and other platforms. It gets a little overwhelming at times - keeping up with all this content is almost a full-time job - but it's a good way to stay up-to-date with what's going on in the world.
+
+* [Amazon Chronicles](https://amazonchronicles.substack.com/): a terrific in-depth newsletter focused on what's going on at Amazon, by writer Tim Carmody.
+* [Benedict's newsletter](https://www.ben-evans.com/newsletter): a weekly newsletter on the tech industry from Benedict Evans, a partner at Silicon Valley venture capital firm Andreesen Horowitz. As you can expect, it's not the most critical perspective, but it's chock-full of interesting tidbits about what's going on in the industry.
+* [Brave New World of Work](https://tinyletter.com/mdbergfeld): a weekly link round-up on "worker organizing, the wider labour movement and the world of work" from researcher Mark Bergfeld.
+* [Exponential View](https://exponentialview.substack.com/): a weekly (and extremely packed) newsletter run by Azeem Azhar, Senior Advisor on AI to the CTIO of Accenture. Covers tech and econ news in a pretty straightforward way, though it's sympathetic to critical views of the tech industry.
+* [David Beer Newsletter](https://davidbeer.substack.com/): technology, media and culture from a UK-based sociology prof.
+* [Griefbacon](https://griefbacon.substack.com/): miscellaneous writing by Helena Fitzgerald, an extremely talented contemporary writer who specialises in personal essays. I came across her work through [her essay on The National](https://nylon.com/articles/national-sleep-well-beast-everything-is-embarrassing) in _NYLON_, which I've re-read maybe a dozen times since it first came out and which still gives me chills even now.
+* [Hack The Union](http://www.hacktheunion.org): a weekly link round-up on "the future of worker organising" by Kati Sipp, who has been involved with various US unions including SEIU.
+* [Internal exile](https://tinyletter.com/robhorning): a weekly column by Rob Horning, editor for _Real Life_ and _The New Inquiry_. Thoughtful musings on "social media, consumerism, and how these affect sociality, identity, subjectivity", with a bit of an academic slant.
+* [Money Stuff](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine): "a daily roundup on all things Wall Street and finance from Bloomberg Viewʼs Matt Levine". It's definitely oriented to a business audience, not a left one, but it's surprisingly critical and accessible all the same. Expect several thousands words in your inbox Monday-Friday. [Here's a fun piece on high-frequency trading](https://www.bloomberg.com/opinion/articles/2019-03-11/you-need-a-big-tower-to-trade-stocks), which also includes the lovely line, "the problem here is capitalism, not Wells Fargo".
+* [Off Leash](https://liaruss.substack.com/): SF-focused newsletter by Lia Russ, freelance writer & activist with DSA SF who also writes about labor for SF weekly.
+* [Oversharing](https://oversharing.substack.com): an extremely in-depth and well-researched weekly newsletter about the sharing economy, run by _Quartz_ reporter Ali Griswold.
+* [Radical Urbanist](https://www.getrevue.co/profile/radicalurbanist): a weekly round-up of urban tech and liveable cities with a global (and socialist) perspective, written by Paris Marx.
+* [Richard Seymour's patreon](https://www.patreon.com/richardseymourwtf): original writing (usually sent out multiple times a week) from a UK-based writer on politics and culture. Worth the $3+ a month.
+* [Tech Workers Coalition newsletter](https://techworkerscoalition.us11.list-manage.com/subscribe): an extremely good weekly round-up of links relevant to labour organising in the tech industry. Does not mince words. Also lists upcoming TWC-related events happening around the world (US-centric).
+* [Tricontinental newsletter](https://www.thetricontinental.org/): Indian historian and Marxist theorist Vijay Prashad runs the weekly newsletter for "Tricontinental: Institute for Social Research", which takes a wonderfully internationalist perspective on economic matters. Passionate and polemical without sacrificing intellectual rigour.
+* [TheLitCritGuy's Patreon](https://www.patreon.com/TheLitCritGuy): original writing on literary theory and contemporary culture, starting from $1 a month.
+* [The Baffler newsletter](https://thebaffler.com/about/newsletter): a link round-up of recent articles from _The Baffler_, an online and print magazine which bills itself as "America’s leading voice of interesting and unexpected left-wing political criticism, cultural analysis, short stories, poems and art".
+* [the collected ahp](https://annehelen.substack.com): miscellaneous writing by Anne Helen Peterson, the BuzzFeed reporter who wrote the canonical piece on [millennial burnout](https://www.buzzfeednews.com/article/annehelenpetersen/millennials-burnout-generation-debt-work).
+* [The Margins](https://themargins.substack.com): a group blog by Can Duruk and Ranjan Roy, covering the business of tech and the tech of business. Very thoughtful analysis getting into the weeds of business models of tech companies.
+
 [speakerdeck]: https://speakerdeck.com/dellsystem
 [accelerationist]: http://criticallegalthinking.com/2013/05/14/accelerate-manifesto-for-an-accelerationist-politics/
 [howdoi.land]: http://dellsystem.me/howdoi.land/
