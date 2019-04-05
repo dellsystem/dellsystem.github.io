@@ -13,10 +13,10 @@ tags:
 
 * Several years' experience at another company, ideally in the tech industry, but Wall Street or management consulting is fine too because what's the difference anyway at this point?
 * A Bachelor's degree from a good university. We prefer Stanford or one of the better Ivy Leagues, but we're okay with any university that rich people would pay to get their kids into.
-* Culture fit, as demonstrated through an informal test we use when hiring: will the other executives want to hang out with you at an airport bar, or at Burning Man, or a strip club?
+* Culture fit, as demonstrated through an informal test we use when hiring: will the other executives want to hang out with you at an airport bar, or at Burning Man, or at a strip club?
 * Demonstrated thought leadership on Twitter and/or LinkedIn.
 
-_Note: any of the above can be waived if you were in the same fraternity as anyone on our founding team, if you're related to any of our investors._
+_Note: any of the above can be waived if you were in the same fraternity as anyone on our founding team, or if you're related to any of our investors._
 
 **Benefits**
 
