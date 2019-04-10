@@ -18,7 +18,9 @@ On Thiel and his friend David O. Sacks' crusade against diversity efforts at Sta
 
 > "[...] it appeared to Thiel and his comrades, multiculturalism had the single, overarching purpose of coddling the weak" \[p. 140\]
 
-I guess this makes sense if you define "weakness" as "having been deliberately excluded from positions of power in institutionalised systems of oppression". One person's "coddling" is another's emancipation. Cohen follows with some quotes from _The Diversity Myth_ (a book co-authored by Thiel and Sacks on this topic):
+I guess this makes sense if you define "weakness" as "having been deliberately excluded from positions of power in institutionalised systems of oppression". One person's "coddling" is another's emancipation.
+
+Cohen follows with some quotes from _The Diversity Myth_ (a book co-authored by Thiel and Sacks on this topic):
 
 > "[...] multiculturalists conveniently overlook the fact that without productive people paying taxes, there could be no welfare for the poor." \[p. 141\]
 
@@ -34,7 +36,7 @@ Finally, there's some really interesting stuff about PayPal's rivalry with eBay 
 
 > [...] when eBay executives decided to drop the hammer and try to chase away PayPal by exploiting its obvious advantages with its own customers—say, by adding extra hurdles for users of PayPal—the libertarian-leaning company didn’t hesitate to threaten to enlist U.S. regulators to restrain what they argued was eBay’s anti-competitive behavior. \[p.150\]
 ​
-I want to analyse this a little book, because the book makes it sound like a simple case of hypocrisy on Thiel's part. Presumably, the reasoning goes like this: in his book _Zero to One_, Thiel extols the virtues of monopolies and denigrates the excessive powers of government regulation, but in his professional life, he relies on those same regulators to curb monopoly power??
+I want to analyse this more deeply, because the book makes it sound like a simple case of hypocrisy on Thiel's part. Presumably, the reasoning goes like this: in his book _Zero to One_, Thiel extols the virtues of monopolies and denigrates the excessive powers of government regulation, but in his professional life, he relies on those same regulators to curb monopoly power??
 
 I don't think it's that simple. I don't think he's being hypocritical at all - I think PayPal's actions are the perfect expression of Thiel's political beliefs. I think the confusion stems from a core axiom that (imo) undergirds Thiel's poltiical philosophy, but which is never explicitly stated in his writing. When Thiel says monopolies are good, he's not saying _all_ monopolies are inevitably good simply because they're monopolies - he's saying monopolies _run by people who think like me_ are good. The book _Zero to One_ is less a coherent statement about economic principles and more a (perhaps unintended) declaration of Thiel's personal worldview. A worldview that, somewhat understandably, places himself at the very centre.
 
