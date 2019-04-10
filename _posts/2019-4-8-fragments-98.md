@@ -1,6 +1,6 @@
 ---
 title: "Eero's fire sale"
-description: "The seemingly singular story of a distressed startup's acquisition which inadvertently reveals the con embedded within capitaism."
+description: "The seemingly singular story of a distressed startup's acquisition which inadvertently reveals the con embedded within capitalism."
 layout: fragment
 tags:
 - startups
