@@ -4,6 +4,7 @@ description: "Thoughts on Peter Thiel's political belief system and the unstated
 layout: fragment
 tags:
 - startups
+- ideology
 ---
 
 I just finished Noam Cohen's book _The Know-It-Alls_, a mildly interesting book that looks into the personal/professional histories of various Silicon Valley luminaries. I wouldn't really recommend it unless you're dying to hear more about the childhood & founder stories of people like Bill Gates, Mark Zuckerberg, etc, because a lot of it is rehashing what's been covered in multiple news outlets over the years, and there isn't much analysis to stitch these individual threads together.
