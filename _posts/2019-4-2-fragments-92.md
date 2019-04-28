@@ -4,6 +4,7 @@ description: "It's time to make money, which means: cost-cutting, layoffs, and a
 layout: fragment
 tags:
 - startups
+- working-in-tech
 ---
 
 There rarely a clear moment when it happens - it's more of a gradual slide from "things are fine" to "things are not so fine, but I'm not sure why". It's like milk: you try it one day, and it's fine; the next day, you're not sure; the day after, it's definitely sour, but you can't point to a specific moment when it happened. The sourness announces itself in a cloud of uncertainty. There's always the possibility that you imagined the bad taste and maybe everything's actually fine, until all of a sudden there isn't.

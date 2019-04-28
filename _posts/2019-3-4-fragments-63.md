@@ -3,7 +3,7 @@ title: "Free software, free ethics"
 layout: fragment
 description: "Did the free software movement sell out? Or was its vision of a software commons a doomed proposition from the outset?"
 tags:
-- open-source
+- intellectual-property
 - ideology
 ---
 

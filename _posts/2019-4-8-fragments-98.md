@@ -4,6 +4,7 @@ description: "The seemingly singular story of a distressed startup's acquisition
 layout: fragment
 tags:
 - startups
+- working-in-tech
 ---
 
 In last night's newsletter, I linked to a [_Mashable_ article](https://mashable.com/article/amazon-eero-wifi-router-sale/#13qwgZNCDPqG) investigating Amazon's $97 million acquisition of hardware startup Eero:

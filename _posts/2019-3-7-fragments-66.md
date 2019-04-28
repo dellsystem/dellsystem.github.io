@@ -5,7 +5,6 @@ description: "The great delusion of startup culture is that basically every prob
 tags:
 - startups
 - housing
-- inequality
 ---
 
 Yesterday, FastCompany published an article in their "world-changing ideas" section about a mobile app that purports to help homeless people: [This app tells you the stories of your homeless neighbors](https://www.fastcompany.com/90313822/this-app-tells-you-the-stories-of-your-homeless-neighbors). The gist of it is that this Seattle-based startup, Samaritan, will hand out Bluetooth-enabled beacons to homeless people, and passersby who have the app on their phone will get a push notification, allowing them to read this person's story (as opposed to just talking to them?) and donate to them (but not in cash - in credit that can be redeemed at a very limited selection of "approved" stores).

@@ -4,7 +4,7 @@ layout: fragment
 description: "Some inchoate thoughts on organising Silicon Valley's shadow workforce and why it matters."
 tags:
 - class-struggle
-- big-tech
+- working-in-tech
 - ideology
 ---
 

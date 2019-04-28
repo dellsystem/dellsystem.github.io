@@ -3,8 +3,7 @@ title: "Brief interviews with HR"
 layout: fragment
 description: "A series of imaginary conversations with HR at various unnamed tech companies."
 tags:
-- big-tech
-- startups
+- working-in-tech
 - david-foster-wallace
 ---
 

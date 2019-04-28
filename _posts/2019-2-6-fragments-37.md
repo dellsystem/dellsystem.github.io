@@ -6,7 +6,6 @@ image: https://i.imgur.com/NUYNqG6.png
 tags:
 - financialisation
 - personal
-- travel
 - games
 ---
 

@@ -4,6 +4,7 @@ description: "Some amount of gatekeeping in tech is valid, because not everyone 
 layout: fragment
 tags:
 - ideology
+- working-in-tech
 ---
 
 I've [written before](/posts/fragments-50) about gatekeeping in the tech industry, and why it's generally a bad thing:

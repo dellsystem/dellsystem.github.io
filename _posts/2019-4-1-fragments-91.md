@@ -3,8 +3,7 @@ title: "If tech job postings were honest"
 description: "For execs: money, more money, and protection from getting #MeToo'd. For contractors: tepid pay and working conditions, but if you complain you get fired."
 layout: fragment
 tags:
-- startups
-- big-tech
+- working-in-tech
 ---
 
 ## Executive position at a unicorn

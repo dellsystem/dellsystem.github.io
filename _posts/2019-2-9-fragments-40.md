@@ -4,6 +4,7 @@ layout: fragment
 description: "More on Erik Olin Wright, and how his theory of 'contradictory class location' could be relevant to tech worker organising."
 tags:
 - class-struggle
+- working-in-tech
 ---
 
 I'm still sick today, and I wasn't feeling lucid enough to do anything other than read Twitter and play Dynasty Warriors. So today's post is again a short one based around Erik Olin Wright, but this time I'll be making a connection to organising in the tech industry.
