@@ -4,7 +4,7 @@ layout: fragment
 description: "Musings on the concept of upward mobility, and how it's used to excuse inequality, no matter how stark or unjustifiable."
 tags:
 - inequality
-- ideology
+- meritocracy
 - gig-economy
 ---
 

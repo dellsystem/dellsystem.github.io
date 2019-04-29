@@ -5,7 +5,7 @@ description: "Some inchoate thoughts on organising Silicon Valley's shadow workf
 tags:
 - class-struggle
 - working-in-tech
-- ideology
+- meritocracy
 ---
 
 1. The upper echelons of the tech industry are drenched with the idea that tech is unlike other industries. Investors, executives, and well-paid workers love to characterise the tech industry as somehow morally better than the old world: it's about efficiency, and modernity, and progress; it's about _actually making the world a better place_. The tech industry is a place where you can become massively wealthy while also feeling smug about the moral justification of that wealth.
