@@ -33,7 +33,7 @@ Thiel on the early PayPal team (nearly all young men, mostly white) getting alon
 
 > "We all loved science fiction: 'Cryptonomicon' \[by Neal Stephenson\] was required reading [...]" \[p.148, quoting p.122 in _Zero to One_\]
 
-Oh boy. I loved Cryptonimicon when I was a teenager - I would read it over and over and over - and I genuinely thought it was the height of modern literature. I've only recently realised how deeply the booked is steeped in capitalist realism, and how it imparts some pretty reactionary ideas (especially when it comes to gender). I still love the book, if I'm being honest, but at least now I'm able to see the problems with its political subtext. A topic for another day, I think.
+Oh boy. I loved Cryptonomicon when I was a teenager - I would read it over and over and over - and I genuinely thought it was the height of modern literature. I've only recently realised how deeply the booked is steeped in capitalist realism, and how it imparts some pretty reactionary ideas (especially when it comes to gender). I still love the book, if I'm being honest, but at least now I'm able to see the problems with its political subtext. A topic for another day, I think.
 
 Finally, there's some really interesting stuff about PayPal's rivalry with eBay back in the early days (PayPal's "growth hacking" was achieved through spamming eBay sellers to sign up for PayPal, which may sound sketchy, but it worked out because eBay later bought PayPal):
 
