@@ -5,6 +5,7 @@ description: "A brief tale illustrating the tragic consequences of misunderstand
 tags:
 - startups
 image: https://i.imgur.com/IqHmXAE.png
+- jason-calacanis
 ---
 
 ![Tweet from Jason Calacanis about socialists missing entrepreneurs when they're gone](https://i.imgur.com/IqHmXAE.png)
