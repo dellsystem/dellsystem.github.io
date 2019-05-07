@@ -4,8 +4,8 @@ layout: fragment
 description: "A brief tale illustrating the tragic consequences of misunderstanding who creates value in a society, told through a series of tweets."
 tags:
 - startups
-image: https://i.imgur.com/IqHmXAE.png
 - jason-calacanis
+image: https://i.imgur.com/IqHmXAE.png
 ---
 
 ![Tweet from Jason Calacanis about socialists missing entrepreneurs when they're gone](https://i.imgur.com/IqHmXAE.png)
