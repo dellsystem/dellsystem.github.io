@@ -5,6 +5,7 @@ description: "An imaginary conversation with a representative of an unnamed gig 
 tags:
 - gig-economy
 - david-foster-wallace
+- fiction
 image: https://i.imgur.com/MWhxUfA.png
 ---
 

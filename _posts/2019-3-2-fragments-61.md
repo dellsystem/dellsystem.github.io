@@ -5,6 +5,7 @@ description: "A series of imaginary conversations with HR at various unnamed tec
 tags:
 - working-in-tech
 - david-foster-wallace
+- fiction
 ---
 
 (Continuing the theme from [yesterday's post](/posts/fragments-60): imaginary conversations with HR in the style of David Foster Wallace's _Brief Interviews with Hideous Men_.)
