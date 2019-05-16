@@ -29,7 +29,7 @@ things people rarely ask about
 * **the story behind my username**: there's no cool story; it was meant to be a
   throwaway username that I used for phpBB.com at the age of 12 (I was using a
   Dell computer at the time). I ended up spending a lot more time in that
-  community that I expected and so the username kind of stuck with me. I have
+  community than I expected and so the username kind of stuck with me. I have
   since come to terms with "dellsystem" and will even answer to "dell".
 
 random technical details
