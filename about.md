@@ -3,51 +3,10 @@ title: about
 layout: default
 ---
 
-{% include about.html %}
-
-if i had to sum myself up in 3 bullet points
---------------------------------------------
-
-* a sucker for [reading challenges](posts/a-year-of-200-books)
-* transitioning from [being in tech](/code) to [writing about tech](/writing)
-* extremely left-wing politics with a mildly [accelerationist] bent
-
-things people rarely ask about
-------------------------------
-
-* **favourite pokemon**: mudkip, as you may have heard
-* **how I make slides**: I have a complicated setup involving an
-  open source tool called [Inkscape Slide]; it's an exceptionally painful process
-  which I would not recommend to anyone and which may explain why I haven't
-  given a talk in a while (you can see some of my slides on [speakerdeck], with
-  their source on [github][slides])
-* **most popular blog post**: [this (regretfully) snarky one][d2l] about some
-  questionable code that I found in my university's learning management system,
-  Desire2Learn; the blog post found its way to #1 on Hacker News while I was
-  asleep, the fallout of which affirmed the merits of using a static site
-  generator to build this website
-* **the story behind my username**: there's no cool story; it was meant to be a
-  throwaway username that I used for phpBB.com at the age of 12 (I was using a
-  Dell computer at the time). I ended up spending a lot more time in that
-  community than I expected and so the username kind of stuck with me. I have
-  since come to terms with "dellsystem" and will even answer to "dell".
-
-random technical details
-------------------------
-
-* **currently running**: ubuntu 18.04
-* **favourite text editor**: vim for the command line, gedit otherwise; IDEs
-  tend to crash in my presence
-* **favourite free software projects**: [inkscape](http://www.inkscape.org),
-  [django](http://www.djangoproject.com),
-  [jekyll](http://jekyllrb.com),
-  [semantic UI](https://semantic-ui.com),
-  [mathjax](http://www.mathjax.org/)
-* **programming languages**: primarily python; in the past, I've done PHP, javascript, java, some C, a bit of
-  ruby, a modicum of objective-j, very little bash, and more MIPS assembly than
-  I'll ever need
-* **other technologies I may know something about**: HTML, CSS, LaTeX, SQL, jQuery,
-  AngularJS, D3.js, supervisor, Riak, Redis, MongoDB, AWS, nginx
+I recently made a career switch from software engineer to writer, a move that
+was sparked by reading lots of [books] at a time when my startup was tanking.
+Now I mostly write about the horrors of Silicon Valley and why tech workers
+need to organise. You can find an index of my writing [here](/writing).
 
 my programming origin story
 ---------------------------
@@ -75,8 +34,47 @@ occasion, like when I [registered the domain howdoi.land to show a perpetually
 flying martlet using CSS animations][howdoi.land] (still one of my proudest
 accomplishments). These days, though, I don't have much time to write code; the
 code I do write is primarily for [a personal project designed to help me retain
-information from the books I read](http://bookmarker.dellsystem.me), so I
-haven't animated any martlets in a while.
+information from the books I read][bm], so I haven't animated any martlets in a
+while.
+
+things people occasionally ask
+------------------------------
+
+* **favourite pokemon**: mudkip, as you may have heard
+* **how I make slides**: I have a complicated setup involving an
+  open source tool called [Inkscape Slide]; it's an exceptionally painful process
+  which I would not recommend to anyone and which may explain why I haven't
+  given a talk in a while (you can see some of my slides on [speakerdeck], with
+  their source on [github][slides])
+* **most popular blog post**: [this (regretfully) snarky one][d2l] about some
+  questionable code that I found in my university's learning management system,
+  Desire2Learn; the blog post found its way to #1 on Hacker News while I was
+  asleep, the fallout of which affirmed the merits of using a static site
+  generator to build this website
+* **the story behind my username**: there's no cool story; it was meant to be a
+  throwaway username that I used for phpBB.com at the age of 12 (I was using a
+  Dell computer at the time). I ended up spending a lot more time in that
+  community than I expected and so the username kind of stuck with me. I have
+  since come to terms with "dellsystem" and will even answer to "dell". You can
+  find me with this username on a variety of platforms, including [goodreads],
+  [github], [medium], and [last.fm].
+
+random technical details
+------------------------
+
+* **currently running**: ubuntu 19.10
+* **favourite text editor**: vim for the command line, gedit otherwise; IDEs
+  tend to crash in my presence
+* **favourite free software projects**: [inkscape](http://www.inkscape.org),
+  [django](http://www.djangoproject.com),
+  [jekyll](http://jekyllrb.com),
+  [semantic UI](https://semantic-ui.com),
+  [mathjax](http://www.mathjax.org/)
+* **programming languages**: primarily python; in the past, I've done PHP, javascript, java, some C, a bit of
+  ruby, a modicum of objective-j, very little bash, and more MIPS assembly than
+  I'll ever need
+* **other technologies I may know something about**: HTML, CSS, LaTeX, SQL, jQuery,
+  AngularJS, D3.js, supervisor, Riak, Redis, MongoDB, AWS, nginx
 
 email newsletters i subscribe to
 --------------------------------
@@ -104,9 +102,27 @@ I subscribe to a ton of email newsletters covering a mix of tech, econ, culture,
 * [the collected ahp](https://annehelen.substack.com): miscellaneous writing by Anne Helen Peterson, the BuzzFeed reporter who wrote the canonical piece on [millennial burnout](https://www.buzzfeednews.com/article/annehelenpetersen/millennials-burnout-generation-debt-work).
 * [The Margins](https://themargins.substack.com): a group blog by Can Duruk and Ranjan Roy, covering the business of tech and the tech of business. Very thoughtful analysis getting into the weeds of business models of tech companies.
 
+website archives
+----------------
+
+(Sections of this website that have been relegated to the archives.)
+
+* Details of the <a href="/reading-group">Jacobin reading group</a> I started while I was living in London in 2018
+* A comprehensive list of the works of <a href="/dfw">David Foster Wallace</a>
+* A list of <a href="/code">past projects</a> I've worked on in a technical capacity
+* Collected <a href="/art">artwork</a> (mostly really bad) from the last ~12 years
+* [Academic papers](/papers) resulting from my undergraduate research work
+* [Medium posts](/medium) from back when no one was willing to publish me (though I still like this [spicy piece on Paul Graham](https://medium.com/@dellsystem/paul-graham-blocked-me-on-twitter-c28ca647c7f8))
+* Posts on my [personal blog](/blog) (mostly technical) stretching back the full 7 years of this website
+
 [speakerdeck]: https://speakerdeck.com/dellsystem
-[accelerationist]: http://criticallegalthinking.com/2013/05/14/accelerate-manifesto-for-an-accelerationist-politics/
 [howdoi.land]: http://dellsystem.me/howdoi.land/
 [slides]: https://github.com/dellsystem/slides
 [d2l]: /posts/dont-do-drugs-kids
+[books]: /posts/a-year-of-200-books
 [Inkscape Slide]: https://github.com/abourget/inkscapeslide
+[goodreads]: http://goodreads.com/dellsystem
+[github]: http://github.com/dellsystem
+[medium]: http://medium.com/dellsystem
+[last.fm]: http://last.fm/user/dellsystem
+[bm]: http://bookmarker.dellsystem.me
