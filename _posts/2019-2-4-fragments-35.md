@@ -59,7 +59,7 @@ Silicon Valley is only able to dominate the way it does through the sustained be
 
 Imagine if some miners decided they could share a small number of shovels between all of them, and committed to splitting the proceeds among them if any of them struck gold. Imagine if shovels were provided free of charge as a local, municipal-level public service. Even better, imagine if they all collectively decided that they had better things to do than waste their lives in the foolish pursuit of gold.
 
-You can't stop a gold rush by yourself. But [together](/posts/fragments-10), you can ensure that it's left it in the ground where it belongs.
+You can't stop a gold rush by yourself. But [together](/posts/fragments-10), you can ensure that the gold is left in the ground where it belongs.
 
 ***
 
