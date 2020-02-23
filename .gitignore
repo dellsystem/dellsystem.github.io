@@ -6,3 +6,4 @@ _site/*
 *.class
 design/*
 env
+.jekyll-cache
