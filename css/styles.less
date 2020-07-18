@@ -41,9 +41,10 @@ body {
 
 #title {
     color: @titleColor;
-    font-size: 3em;
+    font-size: 2em;
     line-height: 150px;
     text-decoration: none;
+    text-transform: lowercase;
 
     &:hover {
         color: #000;
@@ -165,6 +166,10 @@ h4 {
     font-size: 1.3em;
 }
 
+h4 + p {
+    padding-top: 20px;
+}
+
 hr {
     padding: 0;
     border: none;
@@ -214,6 +219,10 @@ hr + h3 {
 
 .thumb {
     height: 120px;
+}
+
+.medium-thumb {
+    width: 250px !important;
 }
 
 .large-thumb {
@@ -338,12 +347,21 @@ pre {
     max-width: 320px;
 }
 
+.triple-grid .column.doubled {
+    max-width: 640px;
+}
+
 .double-grid .column {
     max-width: 480px;
 }
 
 .double-grid {
     padding-bottom: 20px;
+}
+
+.right.column {
+    width: 100%;
+    text-align: right;
 }
 
 .caption {
