@@ -123,6 +123,6 @@ website archives
 [Inkscape Slide]: https://github.com/abourget/inkscapeslide
 [goodreads]: http://goodreads.com/dellsystem
 [github]: http://github.com/dellsystem
-[medium]: http://medium.com/dellsystem
+[medium]: http://medium.com/@dellsystem
 [last.fm]: http://last.fm/user/dellsystem
 [bm]: http://bookmarker.dellsystem.me
