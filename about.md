@@ -62,7 +62,7 @@ things people occasionally ask
 random technical details
 ------------------------
 
-* **currently running**: ubuntu 19.10
+* **currently running**: ubuntu 22.04
 * **favourite text editor**: vim for the command line, gedit otherwise; IDEs
   tend to crash in my presence
 * **favourite free software projects**: [inkscape](http://www.inkscape.org),
@@ -74,12 +74,12 @@ random technical details
   ruby, a modicum of objective-j, very little bash, and more MIPS assembly than
   I'll ever need
 * **other technologies I may know something about**: HTML, CSS, LaTeX, SQL, jQuery,
-  AngularJS, D3.js, supervisor, Riak, Redis, MongoDB, AWS, nginx
+  AngularJS, D3.js, supervisor, Riak, Redis, MongoDB, AWS, nginx, the nightmare-inducing Salesforce developer ecosystem
 
 email newsletters i subscribe to
 --------------------------------
 
-I subscribe to a ton of email newsletters covering a mix of tech, econ, culture, and politics, on substack and other platforms. It gets a little overwhelming at times - keeping up with all this content is almost a full-time job - but it's a good way to stay up-to-date with what's going on in the world.
+I subscribe to a ton of email newsletters covering a mix of tech, econ, culture, and politics, on substack and other platforms. It gets a little overwhelming at times - keeping up with all this content is almost a full-time job - but it's a good way to stay up-to-date with what's going on in the world. (last updated sometime in 2020; I've since horrifically fallen behind on email)
 
 * [Amazon Chronicles](https://amazonchronicles.substack.com/): a terrific in-depth newsletter focused on what's going on at Amazon, by writer Tim Carmody.
 * [Benedict's newsletter](https://www.ben-evans.com/newsletter): a weekly newsletter on the tech industry from Benedict Evans, a partner at Silicon Valley venture capital firm Andreesen Horowitz. As you can expect, it's not the most critical perspective, but it's chock-full of interesting tidbits about what's going on in the industry.
