@@ -152,6 +152,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
     font-size: 2.2em;
+    line-height: 1.2em;
 }
 
 h2 {
@@ -267,6 +268,11 @@ pre {
 
     #content {
         padding: 20px;
+    }
+    
+    /* this is ugly but i want it to break after the image on mobile */
+    .book img {
+        float: none !important;
     }
 }
 
@@ -393,11 +399,6 @@ pre {
     }
 
     clear: both;
-
-    li {
-        display: inline;
-    }
-
     padding-top: 20px;
 }
 
