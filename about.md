@@ -3,8 +3,6 @@ title: about
 layout: default
 ---
 
-{% include about_photos.html %}
-
 Hi! I'm Wendy. I recently made a career switch from software engineer to writer, a move that was sparked by reading lots of [books] at a time when my startup was tanking. Now I mostly write about the horrors of Silicon Valley and why tech workers need to organise. You can find an index of my writing [here](/writing).
 
 my programming origin story
