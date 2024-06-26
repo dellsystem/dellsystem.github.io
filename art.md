@@ -23,8 +23,8 @@ photos of them at all.
 
 ## Posters
 
-I made these to hang on my wall (12" x 18"); [contact me](/about) if
-you want high-resolution versions for your own.
+I made these to hang on my wall (12" x 18"). Don't take them too seriously.
+They're shitposts.
 
 {% include posters.html %}
 
